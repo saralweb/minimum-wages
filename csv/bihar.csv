@@ -1,1 +1,12 @@
-["Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate","","Bihar","","","","Unskilled","","4/0/121","292","","12","","304","7592","","312","","7904","","Bihar","","","","Semi Skilled","","4/0/121","304","","12","","316","7904","","312","","8216","","Bihar","","","","Skilled","","4/0/121","370","","15","","385","9620","","390","","10010","","Bihar","","","","Highly Skilled","","4/0/121","451","","18","","470","11726","","470","","12196","","Bihar","","","","Clerical","","4/0/121","321.65","","13.07","","334.72","8363","","340","","8703","","Bihar","","","Agriculture","Unskilled","","4/0/120","266","","9","","275","","","","","0","","Bihar","","","Agriculture","","Driver","4/0/120","","","","","","9557","","326","","9883","","Bihar","","","Agriculture","","Security guard","4/0/120","285.961538461538","","","","","7435","","254","","7689"]
+"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
+"","Bihar","","","","Unskilled","","4/0/121",292,"",12,"",304,6162,"",312,""
+"","Bihar","","","","Semi Skilled","","4/0/121",304,"",12,"",316,6422,"",312,""
+"","Bihar","","","","Skilled","","4/0/121",370,"",15,"",385,7826,"",390,""
+"","Bihar","","","","Highly Skilled","","4/0/121",451,"",19,"",470,9542,"",494,""
+"","Bihar","","","","Supervisory","","4/0/121",321.653846153846,"",13.0769230769231,"",334.730769230769,8363,"",340,""
+"","Bihar","","","","Clerical","","4/0/121",321.653846153846,"",13.0769230769231,"",334.730769230769,8363,"",340,""
+"","Bihar","","","Agriculture","Unskilled","","4/0/120",266,"",9,""
+"","Bihar","","","Agriculture","","Tractor Driver","4/0/120",367.576923076923,"",12.5384615384615,"",380.115384615385,9557,"",326,""
+"","Bihar","","","Agriculture","","Pump Operator","4/0/120",367.576923076923,"",12.5384615384615,"",380.115384615385,9557,"",326,""
+"","Bihar","","","Agriculture","Unskilled","Watchman","4/0/120",285.961538461538,"",9.76923076923077,"",295.730769230769,7435,"",254,""
+"","Bihar","","","Agriculture","Unskilled","Security guard","4/0/120",285.961538461538,"",9.76923076923077,"",295.730769230769,7435,"",254,""
