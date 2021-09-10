@@ -1,20 +1,224 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Gujarat","Zone I","","","Unskilled","","4/0/121",276,"",72.2,"",348.2,7176,"",1877.2,""
-"","Gujarat","Zone I","","","Semi Skilled","","4/0/121",284,"",72.2,"",356.2,7384,"",1877.2,""
-"","Gujarat","Zone I","","","Skilled","","4/0/121",293,"",72.2,"",365.2,7618,"",1877.2,""
-"","Gujarat","Zone II","","","Unskilled","","4/0/121",268,"",72.2,"",340.2,6968,"",1877.2,""
-"","Gujarat","Zone II","","","Semi Skilled","","4/0/121",276,"",72.2,"",348.2,7176,"",1877.2,""
-"","Gujarat","Zone II","","","Skilled","","4/0/121",284,"",72.2,"",356.2,7384,"",1877.2,""
-"","Gujarat","","","Agriculture","Unskilled","","01.01.2021","","","","",268,"","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Accountant","4/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Supervisor","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Mistry","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Fireman","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Clerk","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Watchman","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Peon","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Laborer","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Driver","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","Class 1","Brick Moulder","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","Class 2","Brick Moulder","1/0/121","","","",""
-"","Gujarat","","","Bricks or Roof Tiles","","Raw Brick Carrier","1/0/121","","","",""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Gujarat","Zone I","","Zardosi Work","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Zardosi Work","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Zardosi Work","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Zardosi Work","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Zardosi Work","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Zardosi Work","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","","","Agriculture","Unskilled","","01.04.2021",26,"","","","","",268,"","","","","","6968.00"
+"Gujarat","","","Bricks or Roof Tiles","","Accountant","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Supervisor","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Mistry","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Fireman","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Clerk","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Watchman","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Peon","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Laborer","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","","Driver","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","Class 1","Brick Moulder","01.04.2021",26,"","","","","",293,"","","","","","7618.00"
+"Gujarat","","","Bricks or Roof Tiles","Class 2","Brick Moulder","01.04.2021",26,"","","","","",284,"","","","","","7384.00"
+"Gujarat","","","Bricks or Roof Tiles","","Raw Brick Carrier","01.04.2021",26,"","","","","",276,"","","","","","7176.00"
+"Gujarat","Zone I","","Readymade Garments Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Readymade Garments Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Readymade Garments Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Readymade Garments Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Readymade Garments Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Readymade Garments Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Tobacco Bidi making","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Tobacco Bidi making","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Tobacco Bidi making","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Tobacco Bidi making","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Tobacco Bidi making","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Tobacco Bidi making","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Automobile Workshops","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Automobile Workshops","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Automobile Workshops","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Automobile Workshops","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Automobile Workshops","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Automobile Workshops","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Bakeries","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Bakeries","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Bakeries","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Bakeries","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Bakeries","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Bakeries","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cement and Cement Based Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Cement and Cement Based Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cement and Cement Based Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Cement and Cement Based Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Cement and Cement Based Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Cement and Cement Based Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Electronic Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Electronic Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Electronic Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Electronic Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Electronic Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Electronic Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cinema Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Cinema Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cinema Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Cinema Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Cinema Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Cinema Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Fisheries And Sea Food Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Fisheries And Sea Food Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Fisheries And Sea Food Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Fisheries And Sea Food Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Fisheries And Sea Food Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Fisheries And Sea Food Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Hosiery","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Hosiery","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Hosiery","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Hosiery","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Hosiery","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Hosiery","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Engineering Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Engineering Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Engineering Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Engineering Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Engineering Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Engineering Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Khandsari Manufacturer","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Khandsari Manufacturer","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Khandsari Manufacturer","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Khandsari Manufacturer","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Khandsari Manufacturer","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Khandsari Manufacturer","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Local Authority Industry (Other than Village Panchayat)","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Local Authority Industry (Other than Village Panchayat)","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Oil Mills","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Oil Mills","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Oil Mills","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Oil Mills","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Oil Mills","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Oil Mills","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Petrol Pump","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Petrol Pump","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Petrol Pump","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Petrol Pump","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Petrol Pump","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Petrol Pump","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Pharmaceutical Manufacturers","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Pharmaceutical Manufacturers","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Pharmaceutical Manufacturers","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Pharmaceutical Manufacturers","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Pharmaceutical Manufacturers","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Pharmaceutical Manufacturers","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Plastic Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Plastic Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Plastic Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Plastic Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Plastic Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Plastic Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Pottery Industries","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Pottery Industries","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Pottery Industries","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Pottery Industries","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Pottery Industries","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Pottery Industries","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Power Loom Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Power Loom Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Power Loom Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Power Loom Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Power Loom Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Power Loom Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Printing Press","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Printing Press","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Printing Press","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Printing Press","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Printing Press","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Printing Press","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Public Motor Transport","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Printing Press","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Printing Press","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Printing Press","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Printing Press","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Printing Press","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Paper and Paper Board Manufactury","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Paper and Paper Board Manufactury","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Paper and Paper Board Manufactury","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Paper and Paper Board Manufactury","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Paper and Paper Board Manufactury","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Paper and Paper Board Manufactury","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Hotels and Restaurants","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Hotels and Restaurants","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Hotels and Restaurants","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Hotels and Restaurants","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Rubber Industry","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Rubber Industry","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Rubber Industry","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Rubber Industry","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Rubber Industry","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Rubber Industry","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Soaps & Cosmetics","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Soaps & Cosmetics","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Soaps & Cosmetics","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Soaps & Cosmetics","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Soaps & Cosmetics","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Soaps & Cosmetics","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Stone Breaking and Crushing","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Stone Breaking and Crushing","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Stone Breaking and Crushing","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Stone Breaking and Crushing","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Stone Breaking and Crushing","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Stone Breaking and Crushing","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Tanneries and Leather Manufactory","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Tanneries and Leather Manufactory","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Tanneries and Leather Manufactory","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Tanneries and Leather Manufactory","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Tanneries and Leather Manufactory","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Tanneries and Leather Manufactory","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Wool Shawl and Carpet Maker","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Wool Shawl and Carpet Maker","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Wool Shawl and Carpet Maker","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Wool Shawl and Carpet Maker","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Wool Shawl and Carpet Maker","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Wool Shawl and Carpet Maker","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Security Services","Unskilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone I","","Security Services","Semi Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0
+"Gujarat","Zone I","","Security Services","Skilled","","01.04.2021",26,293,"",72.2,"","",365.2,7618,"",1877.2,"","",0
+"Gujarat","Zone II","","Security Services","Unskilled","","01.04.2021",26,268,"",72.2,"","",340.2,6968,"",1877.2,"","",0
+"Gujarat","Zone II","","Security Services","Semi Skilled","","01.04.2021",26,276,"",72.2,"","",348.2,7176,"",1877.2,"","",0
+"Gujarat","Zone II","","Security Services","Skilled","","01.04.2021",26,284,"",72.2,"","",356.2,7384,"",1877.2,"","",0

@@ -1,4 +1,148 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Uttar Pradesh","","","","Unskilled","","4/0/121",221.153846153846,"",128,"",349,5750,"",3328,""
-"","Uttar Pradesh","","","","Semi Skilled","","4/0/121",243.269230769231,"",140.769230769231,"",384,6325,"",3660,""
-"","Uttar Pradesh","","","","Skilled","","4/0/121",272.5,"",157.692307692308,"",430,7085,"",4100,""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Uttar Pradesh","","","Rubber Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Rubber Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Rubber Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Hotels and Restaurants","Unskilled","","01.04.2021",26,"244.23","","104.23","","","348.46",6350,"",2710.04,"","",0
+"Uttar Pradesh","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,"269.23","","114.90","","","384.13",7000,"",2987.44,"","",0
+"Uttar Pradesh","","","Hotels and Restaurants","Skilled","","01.04.2021",26,"301.54","","128.69","","","430.23",7840,"",3345.94,"","",0
+"Uttar Pradesh","","","Star Hotels","Unskilled","","01.04.2021",26,"290.00","","123.77","","","413.77",7540,"",3217.9,"","",0
+"Uttar Pradesh","","","Star Hotels","Semi Skilled","","01.04.2021",26,"345.38","","147.40","","","492.79",8980,"",3832.46,"","",0
+"Uttar Pradesh","","","Star Hotels","Skilled","","01.04.2021",26,"409.23","","174.65","","","583.88",10640,"",4540.92,"","",0
+"Uttar Pradesh","","","Star Hotels","Highly Skilled","","01.04.2021",26,"483.27","","206.25","","","689.52",12565,"",5362.46,"","",0
+"Uttar Pradesh","","","Tobacco Bidi making","Unskilled","","01.04.2021",26,"175.00","","96.04","","","271.04",4550,"",2497.04,"","",0
+"Uttar Pradesh","","","Tobacco Bidi making","Semi Skilled","","01.04.2021",26,"200.00","","109.76","","","309.76",5200,"",2853.76,"","",0
+"Uttar Pradesh","","","Tobacco Bidi making","Skilled","","01.04.2021",26,"238.46","","130.87","","","369.33",6200,"",3402.56,"","",0
+"Uttar Pradesh","","","Glass Bangle Industry","Unskilled","","01.10.2020",26,"165.38","","135.23","","","300.62",4300,"",3516,"","",0
+"Uttar Pradesh","","","Glass Bangle Industry","Semi Skilled","","01.10.2020",26,"188.46","","154.12","","","342.58",4900,"",4007,"","",0
+"Uttar Pradesh","","","Glass Bangle Industry","Skilled","","01.10.2020",26,"209.62","","171.38","","","381.00",5450,"",4456,"","",0
+"Uttar Pradesh","","","Glass Bangle Industry","","Wireman","01.10.2020",26,"428.85","","350.65","","","779.50",11150,"",9117,"","",0
+"Uttar Pradesh","","","Glass Bangle Industry","","Roller","01.10.2020",26,"300.00","","245.31","","","545.31",7800,"",6378,"","",0
+"Uttar Pradesh","","","Glass Bangle Industry","","Supervisor","01.10.2020",26,"290.38","","237.42","","","527.81",7550,"",6173,"","",0
+"Uttar Pradesh","","","Carpet Industry","Unskilled","","01.04.2021",26,"173.08","","152.98","","","326.06",4500,"",3977.55,"","",0
+"Uttar Pradesh","","","Carpet Industry","Semi Skilled","","01.04.2021",26,"192.31","","169.98","","","362.29",5000,"",4419.5,"","",0
+"Uttar Pradesh","","","Carpet Industry","Skilled A","","01.04.2021",26,"207.69","","183.58","","","391.27",5400,"",4773.06,"","",0
+"Uttar Pradesh","","","Carpet Industry","Skilled B","","01.04.2021",26,"203.85","","180.18","","","384.03",5300,"",4684.67,"","",0
+"Uttar Pradesh","","","Carpet Industry","Skilled C","","01.04.2021",26,"200.00","","176.78","","","376.78",5200,"",4596.28,"","",0
+"Uttar Pradesh","","","Carpet Industry","Highly Skilled","","01.04.2021",26,"211.54","","186.98","","","398.52",5500,"",4861.45,"","",0
+"Uttar Pradesh","","","Carpet Industry","Clerical 1","","01.04.2021",26,"207.69","","183.58","","","391.27",5400,"",4773.06,"","",0
+"Uttar Pradesh","","","Carpet Industry","Clerical 2","","01.04.2021",26,"196.15","","173.38","","","369.53",5100,"",4507.89,"","",0
+"Uttar Pradesh","","","Plastic Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Plastic Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Plastic Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Food – Sweets and Snacks Manufacturers","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Food – Sweets and Snacks Manufacturers","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Food – Sweets and Snacks Manufacturers","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Plywood Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Plywood Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Plywood Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Petrol Pump","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Petrol Pump","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Petrol Pump","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Dairy","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Dairy","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Dairy","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Readymade Garments Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Readymade Garments Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Readymade Garments Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Construction - Dams and Multi Purpose Projects","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Construction - Dams and Multi Purpose Projects","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Construction - Dams and Multi Purpose Projects","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Metal Industries","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Metal Industries","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Metal Industries","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Tanneries and Leather Manufactory","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Tanneries and Leather Manufactory","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Tanneries and Leather Manufactory","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Hosiery","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Hosiery","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Hosiery","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Wooden Furniture","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Wooden Furniture","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Wooden Furniture","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Tobacco Manufacturing","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Tobacco Manufacturing","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Tobacco Manufacturing","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Oil Mills","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Oil Mills","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Oil Mills","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Public Motor Transport","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Public Motor Transport","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Public Motor Transport","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Automobile Workshops","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Automobile Workshops","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Automobile Workshops","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Stone Breaking and Crushing","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Stone Breaking and Crushing","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Matchbox Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Matchbox Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Matchbox Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Bakeries","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Bakeries","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Bakeries","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Biscuit Manufacturer","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Biscuit Manufacturer","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Biscuit Manufacturer","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Cement and Cement Based Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Cement and Cement Based Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Cement and Cement Based Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Cold Storage Employments","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Cold Storage Employments","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Cold Storage Employments","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Cinema Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Cinema Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Cinema Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Cloth Dyeing & Printing","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Cloth Dyeing & Printing","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Cloth Dyeing & Printing","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Tailoring Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Tailoring Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Tailoring Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Allopathic Pharmacy Employment","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Allopathic Pharmacy Employment","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Allopathic Pharmacy Employment","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Ayurvedic and Unani Pharmacy Employment","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Handloom","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Handloom","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Handloom","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Soaps & Cosmetics","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Soaps & Cosmetics","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Soaps & Cosmetics","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Wool Shawl and Carpet Maker","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Wool Shawl and Carpet Maker","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Wool Shawl and Carpet Maker","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Power Loom Industry","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Power Loom Industry","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Power Loom Industry","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Khandsari Manufacturer","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Khandsari Manufacturer","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Khandsari Manufacturer","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Paper and Paper Board Manufactury","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Paper and Paper Board Manufactury","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Paper and Paper Board Manufactury","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Bricks or Roof Tiles","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Bricks or Roof Tiles","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Bricks or Roof Tiles","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Security Services","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Security Services","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Security Services","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Miniature Bulb Manufacturers","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Miniature Bulb Manufacturers","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Miniature Bulb Manufacturers","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185
+"Uttar Pradesh","","","Hair Cutting Saloons","Unskilled","","01.04.2021",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078
+"Uttar Pradesh","","","Hair Cutting Saloons","Semi Skilled","","01.04.2021",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985
+"Uttar Pradesh","","","Hair Cutting Saloons","Skilled","","01.04.2021",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185

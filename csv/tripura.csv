@@ -1,71 +1,71 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Tripura","","","Petrol Pump","Unskilled","","01.04.2021",148.076923076923,"",88.8915384615385,"",236.968461538462,3850,"",2311.18,""
-"","Tripura","","","Petrol Pump","Semi Skilled","","01.04.2021",140.384615384615,"",84.2692307692308,"",224.653846153846,3650,"",2191,""
-"","Tripura","","","Petrol Pump","Skilled","","01.04.2021",132.692307692308,"",79.6396153846154,"",212.331923076923,3450,"",2070.63,""
-"","Tripura","","","Sweeping and Cleaning","Unskilled","Sweeper","01.04.2021",204,"",31.22,""
-"","Tripura","","","Mechanical Workshop","Unskilled","","01.04.2021",188.153846153846,"",86.1946153846154,"",274.348461538462,4892,"",2241.06,""
-"","Tripura","","","Mechanical Workshop","Semi Skilled","","01.04.2021",193.807692307692,"",89.1707692307692,"",282.978461538462,5039,"",2318.44,""
-"","Tripura","","","Mechanical Workshop","Skilled","","01.04.2021",231.307692307692,"",106.432692307692,"",337.740384615385,6014,"",2767.25,""
-"","Tripura","","","Mechanical Workshop","Highly Skilled","","01.04.2021",482.615384615385,"",222.070384615385,"",704.685769230769,12548,"",5773.83,""
-"","Tripura","","","Security Services","Unskilled","","01.04.2021",291.730769230769,"",44.6342307692308,"",336.365,7585,"",1160.49,""
-"","Tripura","","","Security Services","Semi Skilled","","01.04.2021",311.769230769231,"",47.7007692307692,"",359.47,8106,"",1240.22,""
-"","Tripura","","","Security Services","Skilled","","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Security Services","Unskilled","Security guard","01.04.2021",291.730769230769,"",44.6342307692308,"",336.365,7585,"",1160.49,""
-"","Tripura","","","Security Services","Unskilled","Watchman","01.04.2021",291.730769230769,"",44.6342307692308,"",336.365,7585,"",1160.49,""
-"","Tripura","","","Security Services","Unskilled","Gatekeeper","01.04.2021",291.730769230769,"",44.6342307692308,"",336.365,7585,"",1160.49,""
-"","Tripura","","","Security Services","Semi Skilled","Head Guard - Security Services","01.04.2021",311.769230769231,"",47.7007692307692,"",359.47,8106,"",1240.22,""
-"","Tripura","","","Security Services","Semi Skilled","Security Supervisor","01.04.2021",311.769230769231,"",47.7007692307692,"",359.47,8106,"",1240.22,""
-"","Tripura","","","Security Services","Skilled","Security Guard With Weapon","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Security Services","Skilled","Clerk","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Security Services","Skilled","Cashier","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Security Services","Skilled","Accountant","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Security Services","Skilled","Marketing Personnel","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Security Services","Skilled","Field Supervisor","01.04.2021",343.038461538462,"",52.4842307692308,"",395.522692307692,8919,"",1364.59,""
-"","Tripura","","","Palatana Power Project","Unskilled","","01.04.2021",305,"",66.66,"",371.66,7930,"",1733.16,""
-"","Tripura","","","Palatana Power Project","Semi Skilled","","01.04.2021",325,"",71.03,"",396.03,8450,"",1846.78,""
-"","Tripura","","","Palatana Power Project","Skilled","","01.04.2021",374,"",81.73,"",455.73,9724,"",2124.98,""
-"","Tripura","","","Palatana Power Project","Highly Skilled","","01.04.2021",436,"",95.29,"",531.29,11336,"",2477.54,""
-"","Tripura","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",207.115384615385,"",31.6792307692308,"",238.794615384615,5385,"",823.66,""
-"","Tripura","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",227.230769230769,"",34.7634615384615,"",261.994230769231,5908,"",903.85,""
-"","Tripura","","","Shops & Commercial Establishments","Skilled","","01.04.2021",254.115384615385,"",38.8842307692308,"",292.999615384615,6607,"",1010.99,""
-"","Tripura","","","Tea Garden","","Adult Worker (Male and Female)","04.01.2018","","","",""
-"","Tripura","","","Tea Garden","","Non Adult Worker (Male and Female)","04.01.2018","","","",""
-"","Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",150,"",84.96,"",234.96,3900,"",2208.96,""
-"","Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",173,"",97.96,"",270.96,4498,"",2546.96,""
-"","Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",201.25,"",113.98,"",315.23,5232.5,"",2963.48,""
-"","Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",230,"",130.29,"",360.29,5980,"",3387.54,""
-"","Tripura","","","Hotels and Restaurants","Semi Skilled","Waiter","01.04.2021",269.230769230769,"",41.1923076923077,"",310.423076923077,7000,"",1071,""
-"","Tripura","","","Hotels and Restaurants","Semi Skilled","Service Man","01.04.2021",269.230769230769,"",41.1923076923077,"",310.423076923077,7000,"",1071,""
-"","Tripura","","","Hotels and Restaurants","Semi Skilled","Server","01.04.2021",269.230769230769,"",41.1923076923077,"",310.423076923077,7000,"",1071,""
-"","Tripura","","","Hotels and Restaurants","Semi Skilled","Cleaner","01.04.2021",269.230769230769,"",41.1923076923077,"",310.423076923077,7000,"",1071,""
-"","Tripura","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",269.230769230769,"",41.1923076923077,"",310.423076923077,7000,"",1071,""
-"","Tripura","","","Hotels and Restaurants","Skilled","Assistant Cook","01.04.2021",326.923076923077,"",50.0192307692308,"",376.942307692308,8500,"",1300.5,""
-"","Tripura","","","Hotels and Restaurants","Skilled","Cook Helper","01.04.2021",326.923076923077,"",50.0192307692308,"",376.942307692308,8500,"",1300.5,""
-"","Tripura","","","Hotels and Restaurants","Skilled","","01.04.2021",326.923076923077,"",50.0192307692308,"",376.942307692308,8500,"",1300.5,""
-"","Tripura","","","Hotels and Restaurants","Highly Skilled","Head Cook","01.04.2021",365.384615384615,"",55.9034615384615,"",421.288076923077,9500,"",1453.49,""
-"","Tripura","","","Hotels and Restaurants","Highly Skilled","Clerk","01.04.2021",365.384615384615,"",55.9034615384615,"",421.288076923077,9500,"",1453.49,""
-"","Tripura","","","Hotels and Restaurants","Highly Skilled","Cashier","01.04.2021",365.384615384615,"",55.9034615384615,"",421.288076923077,9500,"",1453.49,""
-"","Tripura","","","Hotels and Restaurants","Highly Skilled","Accountant","01.04.2021",365.384615384615,"",55.9034615384615,"",421.288076923077,9500,"",1453.49,""
-"","Tripura","","","Hotels and Restaurants","Highly Skilled","Receptionist","01.04.2021",365.384615384615,"",55.9034615384615,"",421.288076923077,9500,"",1453.49,""
-"","Tripura","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",365.384615384615,"",55.9034615384615,"",421.288076923077,9500,"",1453.49,""
-"","Tripura","","","Rice Mills, Flour Mills or Dal Mills","","Hullerman","01.04.2021",288.461538461538,"",80.4138461538462,"",368.875384615385,7500,"",2090.76,""
-"","Tripura","","","Rice Mills, Flour Mills or Dal Mills","","Machine man","01.04.2021",288.461538461538,"",80.4138461538462,"",368.875384615385,7500,"",2090.76,""
-"","Tripura","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","",125,"",37.98,""
-"","Tripura","","","Public Motor Transport","","Driver Dumper","",335.076923076923,"",194.871923076923,"",529.948846153846,8712,"",5066.67,""
-"","Tripura","","","Public Motor Transport","","Driver (Heavy Vehicle)","",122.346153846154,"",71.1680769230769,"",193.514230769231,3181,"",1850.37,""
-"","Tripura","","","Public Motor Transport","","Driver Medium Vehicle","",87.9230769230769,"",51.1342307692308,"",139.057307692308,2286,"",1329.49,""
-"","Tripura","","","Public Motor Transport","","Driver (Light Vehicle)","",80.0769230769231,"",46.5769230769231,"",126.653846153846,2082,"",1211,""
-"","Tripura","","","Public Motor Transport","","Assistant Handyman (Heavy Vehicle)","",45.9615384615385,"",26.7142307692308,"",72.6757692307692,1195,"",694.57,""
-"","Tripura","","","Public Motor Transport","","Cleaner (Heavy Vehicle)","",45.9615384615385,"",26.7142307692308,"",72.6757692307692,1195,"",694.57,""
-"","Tripura","","","Public Motor Transport","","Assistant Handyman (Light Vehicle)","",41.6153846153846,"",24.2080769230769,"",65.8234615384616,1082,"",629.41,""
-"","Tripura","","","Public Motor Transport","","Cleaner (Light Vehicle)","",41.6153846153846,"",24.2080769230769,"",65.8234615384616,1082,"",629.41,""
-"","Tripura","","","Public Motor Transport","","Conductor","",49.7692307692308,"",28.9773076923077,"",78.7465384615385,1294,"",753.41,""
-"","Tripura","","","Public Motor Transport","","Head Clerk","",84.8076923076923,"",49.3173076923077,59.5384615384615,193.663461538462,2205,"",1282.25,1548
-"","Tripura","","","Public Motor Transport","","Accountant","",84.8076923076923,"",49.3173076923077,59.5384615384615,193.663461538462,2205,"",1282.25,1548
-"","Tripura","","","Public Motor Transport","","Booking Clerk","",72.3846153846154,"",42.105,59,173.489615384615,1882,"",1094.73,1534
-"","Tripura","","","Public Motor Transport","","Time Keeper","",57.3076923076923,"",33.3084615384615,54.3846153846154,145.000769230769,1490,"",866.02,1414
-"","Tripura","","","Public Motor Transport","","Inspector","",76.5,"",44.4830769230769,58.1923076923077,179.175384615385,1989,"",1156.56,1513
-"","Tripura","","","Public Motor Transport","","Ticket Checker","",76.5,"",44.4830769230769,58.1923076923077,179.175384615385,1989,"",1156.56,1513
-"","Tripura","","","Public Motor Transport","","Mail Runner","",64.9615384615385,"",37.7703846153846,72.2692307692308,175.001153846154,1689,"",982.03,1879
-"","Tripura","","","Public Motor Transport","","Peon","",45.9615384615385,"",26.7142307692308,62.8461538461538,135.521923076923,1195,"",694.57,1634
-"","Tripura","","","Public Motor Transport","Class 4","Workers","",45.9615384615385,"",26.7142307692308,62.8461538461538,135.521923076923,1195,"",694.57,1634
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Tripura","","","Petrol Pump","Unskilled","","01.04.2021",26,"148.08","","88.89","","","236.96",3850,"",2311.18,"","",6161
+"Tripura","","","Petrol Pump","Semi Skilled","","01.04.2021",26,"140.38","","84.27","","","224.65",3650,"",2191,"","",5841
+"Tripura","","","Petrol Pump","Skilled","","01.04.2021",26,"132.69","","79.64","","","212.35",3450,"",2070.63,"","",5521
+"Tripura","","","Sweeping and Cleaning","Unskilled","Sweeper","01.04.2021",26,204,"",31.22,"","",235,"5304.00","","811.72","","","6110.00"
+"Tripura","","","Mechanical Workshop","Unskilled","","01.04.2021",26,"188.15","","86.19","","","274.35",4892,"",2241.06,"","",7133
+"Tripura","","","Mechanical Workshop","Semi Skilled","","01.04.2021",26,"193.81","","89.17","","","282.96",5039,"",2318.44,"","",7357
+"Tripura","","","Mechanical Workshop","Skilled","","01.04.2021",26,"231.31","","106.43","","","337.73",6014,"",2767.25,"","",8781
+"Tripura","","","Mechanical Workshop","Highly Skilled","","01.04.2021",26,"482.62","","222.07","","","704.69",12548,"",5773.83,"","",18322
+"Tripura","","","Security Services","Unskilled","","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
+"Tripura","","","Security Services","Semi Skilled","","01.04.2021",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346
+"Tripura","","","Security Services","Skilled","","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Security Services","Unskilled","Security guard","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
+"Tripura","","","Security Services","Unskilled","Watchman","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
+"Tripura","","","Security Services","Unskilled","Gatekeeper","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
+"Tripura","","","Security Services","Semi Skilled","Head Guard - Security Services","01.04.2021",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346
+"Tripura","","","Security Services","Semi Skilled","Security Supervisor","01.04.2021",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346
+"Tripura","","","Security Services","Skilled","Security Guard With Weapon","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Security Services","Skilled","Clerk","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Security Services","Skilled","Cashier","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Security Services","Skilled","Accountant","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Security Services","Skilled","Marketing Personnel","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Security Services","Skilled","Field Supervisor","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
+"Tripura","","","Palatana Power Project","Unskilled","","01.04.2021",26,305,"",66.66,"","",371.66,"7930.00","","1733.16","","",9663
+"Tripura","","","Palatana Power Project","Semi Skilled","","01.04.2021",26,325,"",71.03,"","",396.03,"8450.00","","1846.78","","",10297
+"Tripura","","","Palatana Power Project","Skilled","","01.04.2021",26,374,"",81.73,"","",455.73,"9724.00","","2124.98","","",11849
+"Tripura","","","Palatana Power Project","Highly Skilled","","01.04.2021",26,436,"",95.29,"","",531.29,"11336.00","","2477.54","","",13814
+"Tripura","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,"207.12","","31.68","","","238.81",5385,"",823.66,"","",6209
+"Tripura","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,"227.23","","34.76","","","262.00",5908,"",903.85,"","",6812
+"Tripura","","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,"254.12","","38.88","","","293.00",6607,"",1010.99,"","",7618
+"Tripura","","","Tea Garden","","Adult Worker (Male and Female)","04.01.2018",26,"","","","","",176,"","","","","","4576.00"
+"Tripura","","","Tea Garden","","Non Adult Worker (Male and Female)","04.01.2018",26,"","","","","",88,"","","","","","2288.00"
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,150,"",84.96,"","",0,"3900.00","","2208.96","","","6108.96"
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,173,"",97.96,"","",0,"4498.00","","2546.96","","","7044.96"
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,201.25,"",113.98,"","",0,"5232.50","","2963.48","","","8195.98"
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",26,230,"",130.29,"","",0,"5980.00","","3387.54","","","9367.54"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Waiter","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",0
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Service Man","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",0
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Server","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",0
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Cleaner","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",0
+"Tripura","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",0
+"Tripura","","","Hotels and Restaurants","Skilled","Assistant Cook","01.04.2021",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",0
+"Tripura","","","Hotels and Restaurants","Skilled","Cook Helper","01.04.2021",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",0
+"Tripura","","","Hotels and Restaurants","Skilled","","01.04.2021",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Head Cook","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Clerk","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Cashier","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Accountant","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Receptionist","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",0
+"Tripura","","","Rice Mills, Flour Mills or Dal Mills","","Hullerman","01.04.2021",26,"288.46","","80.41","","","368.88",7500,"",2090.76,"","",0
+"Tripura","","","Rice Mills, Flour Mills or Dal Mills","","Machine man","01.04.2021",26,"288.46","","80.41","","","368.88",7500,"",2090.76,"","",0
+"Tripura","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","01.04.2021",26,125,"",37.98,"","",0,"3250.00","","987.48","","","4237.48"
+"Tripura","","","Public Motor Transport","","Driver Dumper","01.04.2021",26,"335.08","","194.87","","","529.95",8712,"",5066.67,"","",0
+"Tripura","","","Public Motor Transport","","Driver (Heavy Vehicle)","01.04.2021",26,"122.35","","71.17","","","193.51",3181,"",1850.37,"","",0
+"Tripura","","","Public Motor Transport","","Driver Medium Vehicle","01.04.2021",26,"87.92","","51.13","","","139.06",2286,"",1329.49,"","",0
+"Tripura","","","Public Motor Transport","","Driver (Light Vehicle)","01.04.2021",26,"80.08","","46.58","","","126.65",2082,"",1211,"","",0
+"Tripura","","","Public Motor Transport","","Assistant Handyman (Heavy Vehicle)","01.04.2021",26,"45.96","","26.71","","","72.68",1195,"",694.57,"","",0
+"Tripura","","","Public Motor Transport","","Cleaner (Heavy Vehicle)","01.04.2021",26,"45.96","","26.71","","","72.68",1195,"",694.57,"","",0
+"Tripura","","","Public Motor Transport","","Assistant Handyman (Light Vehicle)","01.04.2021",26,"41.62","","24.21","","","65.82",1082,"",629.41,"","",0
+"Tripura","","","Public Motor Transport","","Cleaner (Light Vehicle)","01.04.2021",26,"41.62","","24.21","","","65.82",1082,"",629.41,"","",0
+"Tripura","","","Public Motor Transport","","Conductor","01.04.2021",26,"49.77","","28.98","","","78.75",1294,"",753.41,"","",0
+"Tripura","","","Public Motor Transport","","Head Clerk","01.04.2021",26,"84.81","","49.32","","59.54","193.66",2205,"",1282.25,"",1548,0
+"Tripura","","","Public Motor Transport","","Accountant","01.04.2021",26,"84.81","","49.32","","59.54","193.66",2205,"",1282.25,"",1548,0
+"Tripura","","","Public Motor Transport","","Booking Clerk","01.04.2021",26,"72.38","","42.11","","59.00","173.49",1882,"",1094.73,"",1534,0
+"Tripura","","","Public Motor Transport","","Time Keeper","01.04.2021",26,"57.31","","33.31","","54.38","145.00",1490,"",866.02,"",1414,0
+"Tripura","","","Public Motor Transport","","Inspector","01.04.2021",26,"76.50","","44.48","","58.19","179.18",1989,"",1156.56,"",1513,0
+"Tripura","","","Public Motor Transport","","Ticket Checker","01.04.2021",26,"76.50","","44.48","","58.19","179.18",1989,"",1156.56,"",1513,0
+"Tripura","","","Public Motor Transport","","Mail Runner","01.04.2021",26,"64.96","","37.77","","72.27","175.00",1689,"",982.03,"",1879,0
+"Tripura","","","Public Motor Transport","","Peon","01.04.2021",26,"45.96","","26.71","","62.85","135.52",1195,"",694.57,"",1634,0
+"Tripura","","","Public Motor Transport","Class 4","Workers","01.04.2021",26,"45.96","","26.71","","62.85","135.52",1195,"",694.57,"",1634,0

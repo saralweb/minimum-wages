@@ -1,27 +1,200 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Madhya Pradesh","","","","Unskilled","","4/0/121",250,"",84.61,"",335,6500,"",2200,""
-"","Madhya Pradesh","","","","Semi Skilled","","4/0/121",271.42,"",96.15,"",368,7057,"",2500,""
-"","Madhya Pradesh","","","","Skilled","","4/0/121",324.42,"",96.15,"",421,8435,"",2500,""
-"","Madhya Pradesh","","","","Highly Skilled","","4/0/121",374.42,"",96.15,"",471,9735,"",2500,""
-"","Madhya Pradesh","","","Slate Pencil Manufacturing","Unskilled","General workers","4/0/121",250,"",84.61,"",335,6500,"",2200,""
-"","Madhya Pradesh","","","Slate Pencil Manufacturing","Semi Skilled","Packer","4/0/121",257.88,"",96.15,"",354,6705,"",2500,""
-"","Madhya Pradesh","","","Slate Pencil Manufacturing","Skilled","Clerk","4/0/121",324.42,"",96.15,"",421,8435,"",2500,""
-"","Madhya Pradesh","","","Slate Pencil Manufacturing","Skilled","Repairman","4/0/121",366.23,"",96.15,"",462,9522,"",2500,""
-"","Madhya Pradesh","","","Slate Pencil Manufacturing","Highly Skilled","","4/0/121",374.42,"",96.15,"",471,9735,"",2500,""
-"","Madhya Pradesh","","","Slate Pencil Manufacturing","","Cutter","4/0/121",390.57,"",96.15,"",487,10155,"",2500,""
-"","Madhya Pradesh","","","Agriculture","Unskilled","","4/0/121",178.33,"",54.6,"",233,5350,"",1638,""
-"","Madhya Pradesh","","","Tobacco Bidi making","Unskilled","Rolling (Per 1000 Beedi)","4/0/121",74,"",23.49,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Driver (Light Vehicle)","4/0/121",195,"",98.07,"",293,5075,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Typist","4/0/121",195,"",98.07,"",293,5075,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Clerk","4/0/121",195,"",98.07,"",293,5075,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Bill Man","4/0/121",195,"",98.07,"",293,5075,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Loading/Unloading","4/0/121",190,"",98.07,"",288,4945,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Helper","4/0/121",190,"",98.07,"",288,4945,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Security guard","4/0/121",190,"",98.07,"",288,4945,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Driver (Heavy Vehicle)","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Accountant","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Scribe","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Cashier","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Head Clerk","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Store Keeper","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
-"","Madhya Pradesh","","","Tobacco Bidi making","","Godown in-charge","4/0/121",200.96,"",98.07,"",299,5225,"",2550,""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Madhya Pradesh","","","Cotton Ginning and Pressing Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Cotton Ginning and Pressing Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Cotton Ginning and Pressing Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Unskilled","General workers","01.04.2021",26,250,"",84.61,"","",335,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Semi Skilled","Packer","01.04.2021",26,257.88,"",96.15,"","",354,6705,"",2500,"","",9205
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Skilled","Clerk","01.04.2021",26,324.42,"",96.15,"","",421,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Skilled","Repairman","01.04.2021",26,366.23,"",96.15,"","",462,9522,"",2500,"","",12022
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",471,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Slate Pencil Manufacturing","","Cutter","01.04.2021",26,390.57,"",96.15,"","",487,10155,"",2500,"","",12655
+"Madhya Pradesh","","","Agriculture","Unskilled","","01.04.2021",30,178.33,"",54.6,"","",232.93,5350,"",1638,"","",6988
+"Madhya Pradesh","","","Tobacco Bidi making","Unskilled","Rolling (Per 1000 Beedi)","01.04.2021",26,74,"",23.49,"","",97.49,"1924.00","","610.74","","","2534.74"
+"Madhya Pradesh","","","Tobacco Bidi making","","Driver (Light Vehicle)","01.04.2021",26,195,"",98.07,"","",293.26,5075,"",2550,"","",7625
+"Madhya Pradesh","","","Tobacco Bidi making","","Typist","01.04.2021",26,195,"",98.07,"","",293.26,5075,"",2550,"","",7625
+"Madhya Pradesh","","","Tobacco Bidi making","","Clerk","01.04.2021",26,195,"",98.07,"","",293.26,5075,"",2550,"","",7625
+"Madhya Pradesh","","","Tobacco Bidi making","","Bill Man","01.04.2021",26,195,"",98.07,"","",293.26,5075,"",2550,"","",7625
+"Madhya Pradesh","","","Tobacco Bidi making","","Loading/Unloading","01.04.2021",26,190,"",98.07,"","",288.26,4945,"",2550,"","",7495
+"Madhya Pradesh","","","Tobacco Bidi making","","Helper","01.04.2021",26,190,"",98.07,"","",288.26,4945,"",2550,"","",7495
+"Madhya Pradesh","","","Tobacco Bidi making","","Peon","01.04.2021",26,190,"",98.07,"","",288.26,4945,"",2550,"","",7495
+"Madhya Pradesh","","","Tobacco Bidi making","","Security guard","01.04.2021",26,190,"",98.07,"","",288.26,4945,"",2550,"","",7495
+"Madhya Pradesh","","","Tobacco Bidi making","","Driver (Heavy Vehicle)","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",7775
+"Madhya Pradesh","","","Tobacco Bidi making","","Accountant","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",0
+"Madhya Pradesh","","","Tobacco Bidi making","","Scribe","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",0
+"Madhya Pradesh","","","Tobacco Bidi making","","Cashier","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",0
+"Madhya Pradesh","","","Tobacco Bidi making","","Head Clerk","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",0
+"Madhya Pradesh","","","Tobacco Bidi making","","Store Keeper","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",0
+"Madhya Pradesh","","","Tobacco Bidi making","","Godown in-charge","01.04.2021",26,200.96,"",98.07,"","",299.03,5225,"",2550,"","",0
+"Madhya Pradesh","","","Agarbathy Manufactory","","Peon","01.04.2021",26,228.42,"",96.15,"","",324.57,5939,"",2500,"","",8439
+"Madhya Pradesh","","","Agarbathy Manufactory","","Watchman","01.04.2021",26,228.42,"",96.15,"","",324.57,5939,"",2500,"","",8439
+"Madhya Pradesh","","","Agarbathy Manufactory","","Typist","01.04.2021",26,271.42,"",96.15,"","",367.57,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Agarbathy Manufactory","","Clerk","01.04.2021",26,271.42,"",96.15,"","",367.57,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Agarbathy Manufactory","","Filler","01.04.2021",26,271.42,"",96.15,"","",367.57,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Agarbathy Manufactory","","Weighman","01.04.2021",26,271.42,"",96.15,"","",367.57,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Agarbathy Manufactory","","Accountant","01.04.2021",26,324.42,"",96.15,"","",420.57,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Agarbathy Manufactory","","Cashier","01.04.2021",26,324.42,"",96.15,"","",420.57,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Agarbathy Manufactory","","Godown Keeper","01.04.2021",26,324.42,"",96.15,"","",420.57,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Agarbathy Manufactory","","Mistry","01.04.2021",26,324.42,"",96.15,"","",420.57,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Agarbathy Manufactory","","Driver","01.04.2021",26,324.42,"",96.15,"","",420.57,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Agarbathy Manufactory","","Box Making","01.04.2021",26,324.42,"",96.15,"","",420.57,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Public Motor Transport","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Public Motor Transport","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Public Motor Transport","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Public Motor Transport","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Engineering Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Engineering Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Engineering Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Engineering Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Employment – Dam construction and irrigation works","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Employment – Dam construction and irrigation works","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Employment – Dam construction and irrigation works","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Employment – Dam construction and irrigation works","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Chemical Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Chemical Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Chemical Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Chemical Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Pharmaceutical Manufacturers","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Pharmaceutical Manufacturers","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Saw Mills","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Saw Mills","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Saw Mills","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Saw Mills","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Oil Mills","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Oil Mills","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Oil Mills","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Oil Mills","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Poha / Kurmura","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Poha / Kurmura","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Poha / Kurmura","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Poha / Kurmura","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Biscuit Manufacturer","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Biscuit Manufacturer","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Biscuit Manufacturer","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Biscuit Manufacturer","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Food – Ice-cream Manufacturer","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Food – Ice-cream Manufacturer","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Food – Ice-cream Manufacturer","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Food – Ice-cream Manufacturer","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Stone Breaking and Crushing","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Stone Breaking and Crushing","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Shops & Commercial Establishments","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Hotels and Restaurants","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Hotels and Restaurants","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Cement and Cement Based Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Cement and Cement Based Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Cement and Cement Based Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Cement and Cement Based Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Limestone Kilns","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Limestone Kilns","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Limestone Kilns","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Limestone Kilns","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Bricks or Roof Tiles","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Bricks or Roof Tiles","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Bricks or Roof Tiles","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Bricks or Roof Tiles","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Power Loom Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Power Loom Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Power Loom Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Power Loom Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Khandsari Manufacturer","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Khandsari Manufacturer","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Khandsari Manufacturer","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Khandsari Manufacturer","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Woolen Blanket Manufacturer","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Woolen Blanket Manufacturer","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Woolen Blanket Manufacturer","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Woolen Blanket Manufacturer","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Slate Pencil Manufacturing","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Catechu Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Catechu Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Catechu Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Catechu Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Handloom","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Handloom","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Handloom","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Handloom","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","BONE MEAL INDUSTRY","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","BONE MEAL INDUSTRY","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","BONE MEAL INDUSTRY","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","BONE MEAL INDUSTRY","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Private Educational Institutes","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Private Educational Institutes","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Private Educational Institutes","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Private Educational Institutes","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Readymade Garments Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Readymade Garments Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Readymade Garments Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Readymade Garments Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Automobile Workshops","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Automobile Workshops","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Automobile Workshops","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Automobile Workshops","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Bakeries","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Bakeries","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Bakeries","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Bakeries","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Cold Storage Employments","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Cold Storage Employments","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Cold Storage Employments","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Cold Storage Employments","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Chemical Fertilizers","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Chemical Fertilizers","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Chemical Fertilizers","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Chemical Fertilizers","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Electronic Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Electronic Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Electronic Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Electronic Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Petrol Pump","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Petrol Pump","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Petrol Pump","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Petrol Pump","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Jewellery Manufacturing Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Jewellery Manufacturing Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Jewellery Manufacturing Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Jewellery Manufacturing Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Hosiery","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Hosiery","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Hosiery","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Hosiery","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Detergent Industry","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Detergent Industry","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Detergent Industry","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Detergent Industry","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Soaps & Cosmetics","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Soaps & Cosmetics","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Soaps & Cosmetics","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Soaps & Cosmetics","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Security Services","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Security Services","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Security Services","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Security Services","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235
+"Madhya Pradesh","","","Food – Pickles and Masala Powder Manufacturer","Unskilled","","01.04.2021",26,250,"",84.61,"","",0,6500,"",2200,"","",8700
+"Madhya Pradesh","","","Food – Pickles and Masala Powder Manufacturer","Semi Skilled","","01.04.2021",26,271.42,"",96.15,"","",0,7057,"",2500,"","",9557
+"Madhya Pradesh","","","Food – Pickles and Masala Powder Manufacturer","Skilled","","01.04.2021",26,324.42,"",96.15,"","",0,8435,"",2500,"","",10935
+"Madhya Pradesh","","","Food – Pickles and Masala Powder Manufacturer","Highly Skilled","","01.04.2021",26,374.42,"",96.15,"","",0,9735,"",2500,"","",12235

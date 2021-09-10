@@ -1,17 +1,201 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Assam","","","","Unskilled","","6/0/120",240,"",47.73,"",287.73,7200,"",1431.9,""
-"","Assam","","","","Semi Skilled","","6/0/120",280,"",55.6933333333333,"",335.69,8400,"",1670.8,""
-"","Assam","","","","Skilled","","6/0/120",350,"",69.63,"",419.63,10500,"",2088.9,""
-"","Assam","","","","Highly Skilled","","6/0/120",450,"",89.5,"",539.5,13500,"",2685,""
-"","Assam","Brahmaputra Valley","","Agriculture","Unskilled","Plantation Worker","22/02/2021","","","",""
-"","Assam","Barak Valley","","Agriculture","Unskilled","Plantation Worker","22/02/2021","","","",""
-"","Assam","","","Security Services","","Assistant Security Officer","7/0/120",623.33,"",89.1703333333333,"",712.500333333333,18700,"",2675.11,""
-"","Assam","","","Security Services","","Security Supervisor","7/0/120",520,"",74.3876666666667,"",594.387666666667,15600,"",2231.63,""
-"","Assam","","","Security Services","","Head Guard - Security Services","7/0/120",456.66,"",65.328,"",521.988,13700,"",1959.84,""
-"","Assam","","","Security Services","","Security guard","7/0/120",356.66,"",51.0223333333333,"",407.682333333333,10700,"",1530.67,""
-"","Assam","","","Shops & Commercial Establishments","","Sales Promotion Employees","5/0/119","","","","","",12500,"",1802.91,""
-"","Assam","","","Contractors Workman Employed","Highly Skilled","","7/0/120",460,"",121.66,"",581.66,13800,"",3649.8,""
-"","Assam","","","Contractors Workman Employed","Skilled A","","7/0/120",370,"",97.87,"",467.87,11100,"",2936.1,""
-"","Assam","","","Contractors Workman Employed","Skilled B","","7/0/120",350,"",92.58,"",442.58,10500,"",2777.4,""
-"","Assam","","","Contractors Workman Employed","Semi Skilled","","7/0/120",290,"",76.62,"",366.62,8700,"",2298.6,""
-"","Assam","","","Contractors Workman Employed","Unskilled","","7/0/120",250,"",66.11,"",316.11,7500,"",1983.3,""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Assam","","","","Unskilled","","01.06.2020",30,240,"",0,"","",0,7200,"",1431.9,"","",8631.9
+"Assam","","","","Semi Skilled","","01.06.2020",30,280,"",0,"","",0,8400,"",1670.8,"","",10070.8
+"Assam","","","","Skilled","","01.06.2020",30,350,"",0,"","",0,10500,"",2088.9,"","",12588.9
+"Assam","","","","Highly Skilled","","01.06.2020",30,450,"",0,"","",0,13500,"",2685,"","",16185
+"Assam","Brahmaputra Valley","","Agriculture","Unskilled","Plantation Worker","22.02.2021",30,"","","","","",321,"","","","","","9630.00"
+"Assam","Barak Valley","","Agriculture","Unskilled","Plantation Worker","22.02.2021",30,"","","","","",299,"","","","","","8970.00"
+"Assam","","","Security Services","","Assistant Security Officer","01.07.2020",30,623.33,"",0,"","",0,18700,"",2675.11,"","",21375.11
+"Assam","","","Security Services","","Security Supervisor","01.07.2020",30,520,"",0,"","",0,15600,"",2231.63,"","",17831.63
+"Assam","","","Security Services","","Head Guard - Security Services","01.07.2020",30,456.66,"",0,"","",0,13700,"",1959.84,"","",15659.84
+"Assam","","","Security Services","","Security guard","01.07.2020",30,356.66,"",0,"","",0,10700,"",1530.67,"","",12230.67
+"Assam","","","Shops & Commercial Establishments","","Sales Promotion Employees","01.05.2019",30,"416.67","","60.10","","","476.76",12500,"",1802.91,"","",14302.91
+"Assam","","","Contractors Workman Employed","Highly Skilled","","01.07.2020",30,460,"",121.66,"","",0,13800,"",3649.8,"","",17450.04
+"Assam","","","Contractors Workman Employed","Skilled A","","01.07.2020",30,370,"",97.87,"","",0,11100,"",2936.1,"","",14035.72
+"Assam","","","Contractors Workman Employed","Skilled B","","01.07.2020",30,350,"",92.58,"","",0,10500,"",2777.4,"","",13356.76
+"Assam","","","Contractors Workman Employed","Semi Skilled","","01.07.2020",30,290,"",76.62,"","",0,8700,"",2298.6,"","",10998.81
+"Assam","","","Contractors Workman Employed","Unskilled","","01.07.2020",30,250,"",66.11,"","",0,7500,"",1983.3,"","",9483
+"Assam","","","Security Services","","Assistant Security Officer","01.01.2021",30,623.33,"","111.24","","","734.57",18700,"",3337.09,"","",0
+"Assam","","","Security Services","","Security Supervisor","01.01.2021",30,520,"","92.80","","","612.80",15600,"",2783.87,"","",0
+"Assam","","","Security Services","","Head Guard - Security Services","01.01.2021",30,456.66,"","81.49","","","538.16",13700,"",2444.82,"","",0
+"Assam","","","Security Services","","Security guard","01.01.2021",30,356.66,"","63.65","","","420.31",10700,"",1909.45,"","",0
+"Assam","","","Shops & Commercial Establishments","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Shops & Commercial Establishments","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Shops & Commercial Establishments","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Shops & Commercial Establishments","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Bakeries","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Bakeries","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Bakeries","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Bakeries","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Distillery-Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Distillery-Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Distillery-Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Distillery-Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Biscuit Manufacturer","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Biscuit Manufacturer","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Biscuit Manufacturer","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Biscuit Manufacturer","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Cinema Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Cinema Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Cinema Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Cinema Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Cloth Dyeing & Printing","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Cloth Dyeing & Printing","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Cloth Dyeing & Printing","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Cloth Dyeing & Printing","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Clinical Pathological Laboratories and Diagonistic Centres","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Clinical Pathological Laboratories and Diagonistic Centres","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Clinical Pathological Laboratories and Diagonistic Centres","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Clinical Pathological Laboratories and Diagonistic Centres","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Public Motor Transport","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Public Motor Transport","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Public Motor Transport","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Public Motor Transport","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Hospital","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Hospital","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Hospital","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Hospital","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Readymade Garments Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Readymade Garments Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Readymade Garments Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Readymade Garments Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Tailoring Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Tailoring Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Tailoring Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Tailoring Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Hotels and Restaurants","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Hotels and Restaurants","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Hotels and Restaurants","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Hotels and Restaurants","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Agarbathy Manufactory","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Agarbathy Manufactory","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Agarbathy Manufactory","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Agarbathy Manufactory","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Cement and Cement Based Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Cement and Cement Based Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Cement and Cement Based Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Cement and Cement Based Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Wooden Furniture","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Wooden Furniture","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Wooden Furniture","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Wooden Furniture","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Beverage Manufacturing and Vending Establishments","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Beverage Manufacturing and Vending Establishments","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Beverage Manufacturing and Vending Establishments","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Beverage Manufacturing and Vending Establishments","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Bricks or Roof Tiles","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Bricks or Roof Tiles","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Bricks or Roof Tiles","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Bricks or Roof Tiles","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Bought Tea Leaf Factory","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Bought Tea Leaf Factory","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Bought Tea Leaf Factory","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Bought Tea Leaf Factory","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Cotton Textile Mills","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Cotton Textile Mills","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Cotton Textile Mills","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Cotton Textile Mills","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Chakki Mills","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Chakki Mills","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Chakki Mills","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Chakki Mills","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Chemicals and pharmaceuticals, including pesticides","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Chemicals and pharmaceuticals, including pesticides","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Chemicals and pharmaceuticals, including pesticides","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Chemicals and pharmaceuticals, including pesticides","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Plantation activities","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Plantation activities","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Plantation activities","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Plantation activities","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Engineering Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Engineering Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Engineering Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Engineering Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Food Processing Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Food Processing Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Food Processing Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Food Processing Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Tobacco Manufacturing","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Tobacco Manufacturing","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Tobacco Manufacturing","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Tobacco Manufacturing","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Tobacco Bidi making","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Tobacco Bidi making","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Tobacco Bidi making","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Tobacco Bidi making","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Food – Ice-cream Manufacturer","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Food – Ice-cream Manufacturer","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Food – Ice-cream Manufacturer","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Food – Ice-cream Manufacturer","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Jute Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Jute Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Jute Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Jute Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Matchbox Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Matchbox Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Matchbox Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Matchbox Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Metal Foundries And General Engineering","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Metal Foundries And General Engineering","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Metal Foundries And General Engineering","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Metal Foundries And General Engineering","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Plywood Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Plywood Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Plywood Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Plywood Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Paper and Paper Board Manufactury","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Paper and Paper Board Manufactury","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Paper and Paper Board Manufactury","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Paper and Paper Board Manufactury","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Pottery Industries","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Pottery Industries","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Pottery Industries","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Pottery Industries","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Rubber Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Rubber Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Rubber Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Rubber Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Oil Mills","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Oil Mills","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Oil Mills","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Oil Mills","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Saw Mills","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Saw Mills","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Saw Mills","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Saw Mills","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Soaps & Cosmetics","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Soaps & Cosmetics","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Soaps & Cosmetics","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Soaps & Cosmetics","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Tanneries and Leather Manufactory","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Tanneries and Leather Manufactory","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Tanneries and Leather Manufactory","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Tanneries and Leather Manufactory","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Agriculture","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Agriculture","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Agriculture","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Agriculture","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Forest and Forestry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Forest and Forestry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Forest and Forestry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Forest and Forestry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Stone Breaking and Crushing","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Stone Breaking and Crushing","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Stone Breaking and Crushing","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Stone Breaking and Crushing","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0
+"Assam","","","Timber Industry","Unskilled","","01.06.2021",30,240,"","58.21","","","298.21",7200,"",1746.3,"","",0
+"Assam","","","Timber Industry","Semi Skilled","","01.06.2021",30,280,"","67.92","","","347.92",8400,"",2037.7,"","",0
+"Assam","","","Timber Industry","Skilled","","01.06.2021",30,350,"","84.92","","","434.92",10500,"",2547.6,"","",0
+"Assam","","","Timber Industry","Highly Skilled","","01.06.2021",30,450,"","109.16","","","559.16",13500,"",3274.8,"","",0

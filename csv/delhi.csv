@@ -1,7 +1,10 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Delhi","","","","Unskilled","","4/0/121",570.846153846154,"",41,"",612,14842,"",1066,""
-"","Delhi","","","","Semi Skilled","","4/0/121",628.5,"",46,"",675,16341,"",1196,""
-"","Delhi","","","","Skilled","","4/0/121",691.961538461538,"",50,"",742,17991,"",1300,""
-"","Delhi","","","","Clerical 3","","4/0/121",628.5,"",46,"",675,16341,"",1196,""
-"","Delhi","","","","Clerical 2","","4/0/121",691.961538461538,"",50,"",742,17991,"",1300,""
-"","Delhi","","","","Clerical 1","","4/0/121",752.769230769231,"",54,"",807,19572,"",1404,""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Delhi","","","","Unskilled","","01.04.2021",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908
+"Delhi","","","","Semi Skilled","","01.04.2021",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537
+"Delhi","","","","Skilled","","01.04.2021",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291
+"Delhi","","","","Clerical","Non Matriculation","01.04.2021",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537
+"Delhi","","","","Supervisory","Non Matriculation","01.04.2021",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537
+"Delhi","","","","Clerical","Matriculate but not Graduate","01.04.2021",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291
+"Delhi","","","","Supervisory","Matriculate but not Graduate","01.04.2021",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291
+"Delhi","","","","Clerical","Graduate and Above","01.04.2021",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976
+"Delhi","","","","Supervisory","Graduate and Above","01.04.2021",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976

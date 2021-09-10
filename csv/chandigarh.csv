@@ -1,252 +1,270 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Chandigarh","","","","Unskilled","","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Semi Skilled B","","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled A","","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Skilled B","","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled A","","01.04.2020","","","","",439,"","","",""
-"","Chandigarh","","","","Highly Skilled","","01.04.2020","","","","",455,"","","",""
-"","Chandigarh","","","","Class 3","","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 2","","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 1","","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Unskilled","Loading/Unloading","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Cleaner","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Sweeper","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Gardener","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Washerman","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Packer","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Wrapping","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Filler","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Water boy","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Masalchi","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Gatekeeper","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Peon","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Watchman","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Rickshaw Driver / Lumper","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Belder","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Mazdoor","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Khalssi","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Poster Boy","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Oiler","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Cleanliness of Vehicle and workyard","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Polisher in Auto-Mobile Dealers shop","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Digging","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Excavator","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Unskilled","Removing of Earth","01.04.2020","","","","",413,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Plumber","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Reinforcer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Spinner","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Stitcher","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Tailor","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Embroider","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Barber","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Cobbler","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Pump Attender","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Mixer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Deffedar","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Tarcol","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Sprayers","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Gravel Spreader","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Quarry operator","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Jumper Man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Hammerman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Sole Cutter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Upper Cutter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Backer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Securer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Stiffer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Skiver","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Heel Builder","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Boat Man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Floor Polisher","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Mistry","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","White Washer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Carpenter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Distemperer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Air-Condition Operator","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Air-Condition Mechanic","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Moulder","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Compositor","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Dyers","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Roller Driver","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Sawman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Plainer Man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Cutter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Soaker","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Hanger Man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Drilling","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Leach Houseman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Lime Yard Man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Drum Man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Tan Yardman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Book Binder","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Wireman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Buffer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Grusher","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Waiter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Delivery boy","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Sour","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Pickle-Marmalade Maker","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Weighman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Lineman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Bill Collector","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Assistant Cook","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Pantryman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Storeman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Canvassar","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Glass Fitter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Repairman","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Furniture Polisher","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Blacksmith","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Planer","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Driver (Light Vehicle)","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Chauffeur","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Conductor","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Welder","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Sheet Metal Worker","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Fitter","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Turner","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Machine man","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Grinding Worker","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Grinder Machinist","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Radio and Television Mechanic","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Motor Mechanic","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Engine Operator","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Machine Operator","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Diesel Mechanic","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled B","Meter Reader","01.04.2020","","","","",419,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Head Mate","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Massion","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Glass Cutter","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Bakery Maistry","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Confectioner","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Rafugar","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Dry Cleaner","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Press Boy","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Steward","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Head Bearer","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Head Waiter","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Film Repairer","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Guide","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Cook","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Tadoorchi","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Coffee Man","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Photographer","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Video Camera Operator","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Dispenser","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Analysist","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Checking","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Clerk Cum Computer Operator","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Inspector","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Weaver","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Shaver","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Electroplater","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Glassblower","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Decorator","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Scudder","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Dyers","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Flasher","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Finisher","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Setters","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Splitter","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Laboratory Assistant","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Chemist","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Attendant","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Dye Maker","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Refrigeration Mechanic","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Ginisher","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Luster","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Candle Man","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Spinning Master","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Printing Master","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Screening Master","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Semi Skilled A","Artisan","01.04.2020","","","","",423,"","","",""
-"","Chandigarh","","","","Skilled B","Grinding Worker","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Grinder Machinist","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Lineman","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Welder","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Turner","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Wireman","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Electrician","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Shaper","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Painter","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Blacksmith","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Goldsmith","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Sheet Metal Worker","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Fitter","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Radio and Television Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Dye Maker","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Air-Condition Operator","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Air-Condition Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Laboratory Attendant","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Chemist","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Compounder","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Printing","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Craftsman","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Lithographer","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Compositor","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Moulder","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Dyers","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Watch Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Watch Assembler","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Computer Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Software Developer","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Motor Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Motor Binder","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Refrigeration Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Blower","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Senior Mechanic","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled B","Computerized Machine Operator","01.04.2020","","","","",431,"","","",""
-"","Chandigarh","","","","Skilled A","Medical Sales Representative","01.04.2020","","","","",439,"","","",""
-"","Chandigarh","","","","Skilled A","Advertiser","01.04.2020","","","","",439,"","","",""
-"","Chandigarh","","","","Skilled A","Marketing Professional","01.04.2020","","","","",439,"","","",""
-"","Chandigarh","","","","Skilled A","Chef Supervisor","01.04.2020","","","","",439,"","","",""
-"","Chandigarh","","","","Skilled A","Technical Supervisor","01.04.2020","","","","",439,"","","",""
-"","Chandigarh","","","","Highly Skilled","Foreman","01.04.2020","","","","",455,"","","",""
-"","Chandigarh","","","","Highly Skilled","Manager","01.04.2020","","","","",455,"","","",""
-"","Chandigarh","","","","Highly Skilled","Executive","01.04.2020","","","","",455,"","","",""
-"","Chandigarh","","","","Highly Skilled","Office Superintendent","01.04.2020","","","","",455,"","","",""
-"","Chandigarh","","","","Class 3","Clerk","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Time Keeper","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Scribe","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Store Assistant","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Store Keeper","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Accounts Assistant","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Typist","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Stenographer","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Receptionist","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Personal Assistant","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Cashier","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Draftsman","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Telephone Operator","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Computer programmer","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Counter","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Ticket Checker","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Ticket Collector","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Legal Assistant","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Supplier","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Nurse","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Nursing Assistant","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Compounder","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Technologist","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 3","Radiologist","01.04.2020","","","","",424,"","","",""
-"","Chandigarh","","","","Class 2","Accountant","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Stenographer","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Work in-charge","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Office Supervisor","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Salesman","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Purchaser","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Store incharge","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 2","Architect","01.04.2020","","","","",430,"","","",""
-"","Chandigarh","","","","Class 1","Asst Manager","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Foreman","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Executive","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Engineer","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Officer in Charge","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Office Superintendent","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Medical Officer","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Doctor","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Dentist","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Surgeon","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Pharmacist","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Veda Hakeem","01.04.2020","","","","",444,"","","",""
-"","Chandigarh","","","","Class 1","Homeopath","01.04.2020","","","","",444,"","","",""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Chandigarh","","","","Unskilled","","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Semi Skilled B","","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled A","","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Skilled B","","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled A","","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","","Highly Skilled","","01.04.2020",26,"","","","","",455,"","","","","",11822
+"Chandigarh","","","","Class 3","","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 2","","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 1","","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","Hotels and Restaurants","Unskilled","","01.04.2020",26,0,"","",0,"",0,9404,"","",1343,"",10747
+"Chandigarh","","","Hotels and Restaurants","Semi Skilled B","","01.04.2020",26,0,"","",0,"",0,9535,"","",1362,"",10897
+"Chandigarh","","","Hotels and Restaurants","Semi Skilled A","","01.04.2020",26,0,"","",0,"",0,9622,"","",1375,"",10997
+"Chandigarh","","","Hotels and Restaurants","Skilled B","","01.04.2020",26,0,"","",0,"",0,9797,"","",1400,"",11197
+"Chandigarh","","","Hotels and Restaurants","Skilled A","","01.04.2020",26,0,"","",0,"",0,9994,"","",1428,"",11422
+"Chandigarh","","","Hotels and Restaurants","Highly Skilled","","01.04.2020",26,0,"","",0,"",0,10344,"","",1478,"",11822
+"Chandigarh","","","Hotels and Restaurants","Class 3","","01.04.2020",26,0,"","",0,"",0,9644,"","",1378,"",11022
+"Chandigarh","","","Hotels and Restaurants","Class 2","","01.04.2020",26,0,"","",0,"",0,9775,"","",1397,"",11172
+"Chandigarh","","","Hotels and Restaurants","Class 1","","01.04.2020",26,0,"","",0,"",0,10090,"","",1442,"",11532
+"Chandigarh","","","Shops & Commercial Establishments","Unskilled","","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","Shops & Commercial Establishments","Semi Skilled B","","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","Shops & Commercial Establishments","Semi Skilled A","","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","Shops & Commercial Establishments","Skilled B","","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","Shops & Commercial Establishments","Skilled A","","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","Shops & Commercial Establishments","Highly Skilled","","01.04.2020",26,"","","","","",455,"","","","","",11822
+"Chandigarh","","","Shops & Commercial Establishments","Class 3","","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","Shops & Commercial Establishments","Class 2","","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","Shops & Commercial Establishments","Class 1","","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Unskilled","Loading/Unloading","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Cleaner","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Sweeper","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Gardener","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Washerman","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Packer","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Wrapping","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Filler","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Water boy","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Masalchi","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Gatekeeper","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Peon","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Watchman","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Rickshaw Driver / Lumper","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Belder","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Mazdoor","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Khalssi","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Poster Boy","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Oiler","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Cleanliness of Vehicle and workyard","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Polisher in Auto-Mobile Dealers shop","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Digging","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Excavator","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Unskilled","Removing of Earth","01.04.2020",26,"","","","","",413,"","","","","",10747
+"Chandigarh","","","","Semi Skilled B","Plumber","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Reinforcer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Spinner","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Stitcher","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Tailor","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Embroider","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Barber","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Cobbler","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Pump Attender","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Mixer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Deffedar","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Tarcol","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Sprayers","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Gravel Spreader","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Quarry operator","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Jumper Man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Hammerman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Sole Cutter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Upper Cutter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Backer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Securer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Stiffer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Skiver","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Heel Builder","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Boat Man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Floor Polisher","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Mistry","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","White Washer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Carpenter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Distemperer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Air-Condition Operator","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Air-Condition Mechanic","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Moulder","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Compositor","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Dyers","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Roller Driver","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Sawman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Plainer Man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Cutter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Soaker","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Hanger Man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Drilling","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Leach Houseman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Lime Yard Man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Drum Man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Tan Yardman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Book Binder","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Wireman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Buffer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Grusher","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Waiter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Delivery boy","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Sour","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Pickle-Marmalade Maker","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Weighman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Lineman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Bill Collector","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Assistant Cook","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Pantryman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Storeman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Canvassar","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Glass Fitter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Repairman","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Furniture Polisher","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Blacksmith","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Planer","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Driver (Light Vehicle)","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Chauffeur","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Conductor","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Welder","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Sheet Metal Worker","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Fitter","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Turner","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Machine man","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Grinding Worker","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Grinder Machinist","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Radio and Television Mechanic","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Motor Mechanic","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Engine Operator","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Machine Operator","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Diesel Mechanic","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled B","Meter Reader","01.04.2020",26,"","","","","",419,"","","","","",10897
+"Chandigarh","","","","Semi Skilled A","Head Mate","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Massion","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Glass Cutter","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Bakery Maistry","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Confectioner","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Rafugar","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Dry Cleaner","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Press Boy","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Steward","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Head Bearer","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Head Waiter","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Film Repairer","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Guide","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Cook","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Tadoorchi","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Coffee Man","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Photographer","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Video Camera Operator","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Dispenser","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Analysist","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Checking","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Clerk Cum Computer Operator","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Inspector","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Weaver","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Shaver","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Electroplater","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Glassblower","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Decorator","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Scudder","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Dyers","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Flasher","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Finisher","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Setters","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Splitter","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Laboratory Assistant","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Chemist","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Attendant","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Dye Maker","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Refrigeration Mechanic","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Ginisher","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Luster","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Candle Man","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Spinning Master","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Printing Master","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Screening Master","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Semi Skilled A","Artisan","01.04.2020",26,"","","","","",423,"","","","","",10997
+"Chandigarh","","","","Skilled B","Grinding Worker","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Grinder Machinist","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Lineman","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Welder","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Turner","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Wireman","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Electrician","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Shaper","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Painter","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Blacksmith","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Goldsmith","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Sheet Metal Worker","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Fitter","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Radio and Television Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Dye Maker","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Air-Condition Operator","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Air-Condition Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Laboratory Attendant","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Chemist","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Compounder","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Printing","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Craftsman","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Lithographer","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Compositor","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Moulder","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Dyers","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Watch Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Watch Assembler","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Computer Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Software Developer","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Motor Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Motor Binder","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Refrigeration Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Blower","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Senior Mechanic","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled B","Computerized Machine Operator","01.04.2020",26,"","","","","",431,"","","","","",11197
+"Chandigarh","","","","Skilled A","Medical Sales Representative","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","","Skilled A","Advertiser","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","","Skilled A","Marketing Professional","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","","Skilled A","Chef Supervisor","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","","Skilled A","Technical Supervisor","01.04.2020",26,"","","","","",439,"","","","","",11422
+"Chandigarh","","","","Highly Skilled","Foreman","01.04.2020",26,"","","","","",455,"","","","","",11822
+"Chandigarh","","","","Highly Skilled","Manager","01.04.2020",26,"","","","","",455,"","","","","",11822
+"Chandigarh","","","","Highly Skilled","Executive","01.04.2020",26,"","","","","",455,"","","","","",11822
+"Chandigarh","","","","Highly Skilled","Office Superintendent","01.04.2020",26,"","","","","",455,"","","","","",11822
+"Chandigarh","","","","Class 3","Clerk","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Time Keeper","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Scribe","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Store Assistant","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Store Keeper","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Accounts Assistant","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Typist","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Stenographer","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Receptionist","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Personal Assistant","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Cashier","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Draftsman","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Telephone Operator","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Computer programmer","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Counter","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Ticket Checker","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Ticket Collector","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Legal Assistant","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Supplier","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Nurse","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Nursing Assistant","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Compounder","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Technologist","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 3","Radiologist","01.04.2020",26,"","","","","",424,"","","","","",11022
+"Chandigarh","","","","Class 2","Accountant","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Stenographer","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Work in-charge","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Office Supervisor","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Salesman","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Purchaser","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Store incharge","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 2","Architect","01.04.2020",26,"","","","","",430,"","","","","",11172
+"Chandigarh","","","","Class 1","Asst Manager","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Foreman","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Executive","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Engineer","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Officer in Charge","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Office Superintendent","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Medical Officer","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Doctor","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Dentist","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Surgeon","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Pharmacist","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Veda Hakeem","01.04.2020",26,"","","","","",444,"","","","","",11532
+"Chandigarh","","","","Class 1","Homeopath","01.04.2020",26,"","","","","",444,"","","","","",11532

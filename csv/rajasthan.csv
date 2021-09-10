@@ -1,695 +1,797 @@
-"Central Sphere","State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","Effective_from (dd/mm/yyyy)","Basic /day","HRA/day","VDA /day","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Special Allowance/month","Monthly Rate"
-"","Rajasthan","","","","Unskilled","","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Semi Skilled","","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Skilled","","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Highly Skilled","","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Unskilled","Belder","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Watchman","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Jamadar","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Washerman","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Water Carrier","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Baby House Attendant","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Sweeper","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Water Bearer","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Petrol Loader","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Class 4","Work Man","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Gangman","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Khalssi","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Animal Blocker","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Sustainer","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Chief Sailor","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Pump Attender","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Sanitary Jamadar","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Peon","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Key Keeper","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Sprayers","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Gauge Reader","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Zari Worker","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Feeder","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Loader","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Bag Filler","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Trolley Filler","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Ginning Work","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Packer","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Bell Lifters","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Lerner","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Laborer","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Blower","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Mercerizing Helper","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Kier Boilers","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Kier Bleachers","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Dyeing Worker","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Cleaner","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Below Machine Helper","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Hopper Man","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Cleaner","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Career","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Bobbin carrier","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Trolleyman","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Spinning Wheeler Rieller","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Paper Lifter","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Poster Boy","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Expeller Cleaner","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Caol Man","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Crate man","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Gatekeeper","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Cook Career","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Decorticator","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Groundnut Careers","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Husk Career","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Bag Stitchers","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Washing Man","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Stitcher","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Shorter","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Bearer","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Vegetable Cutter","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Delivery boy","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Cotter Roller","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Filter","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Pump Attender","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Awning Stretcher","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Cotton Feeder","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Carrier","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Porter","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Unskilled","Spinner","01.05.2019","","","","",225,"","","",""
-"","Rajasthan","","","","Semi Skilled","Scribe","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Land Measurer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Baby House in-charge","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Head Dealer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Stone Cutter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Stone Dresser","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Helper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Wireman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Workshop Helper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Painter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Turner","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Oiler","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Valve Man","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Halfpress Man","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Warmer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Conductor","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Head Watchman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Fitter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Carpenter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Greaser","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Tinker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tyre Fitter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Polisher","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lathe Operator","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tool Keeper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Liner","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Winder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tie Man","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Petri Man","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lubrication Assistant","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Junior Clerk","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Band checker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Jiggerman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Clipper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Screen Printer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Machine Stretcher","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Fielders","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Aidan Helper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Heavy Machine Helper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Operator","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lep Men","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Wingman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Digging","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Warper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Folder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Sizing Worker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Paper Man","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Inkman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Gatekeeper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Distributor","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Grinding Worker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Taker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Copy Holder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Paper Feeder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Ticket Collector","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Rewinder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lift Operator","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Winnower","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Labor Supervisor","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Crushing Worker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Fitter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Fireman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Pump Attender","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Fitter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Turner","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Welder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Mechanic","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Washerman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Recovery Agent / Reminder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Puncture Man","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Delivery boy","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Cobbler","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Kaj-Button Maker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Chair Nester","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Cycle Repairer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Cotton Feeder","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Breaker","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Southern finisher","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tanter-cum-steeper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Dyeing Simplex","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Ring and Dubling Sizer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Daffer","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Roller","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Wireman-cum-helper","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Sanitary Jamadar","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Silkman","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Store Cutter","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Semi Skilled","Sewage Cleaner","01.05.2019","","","","",237,"","","",""
-"","Rajasthan","","","","Skilled","Mason","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Mistry","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Carpenter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Blacksmith","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Tailor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Tanner","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Machine Fitter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Lineman","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Painter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Plumber","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Burnerer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Electrician","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Wireman","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Cinema Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Gardener","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Mechanical Dealer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Mechanical Blaster","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Driver (Light Vehicle)","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Tractor Driver","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Driver (Heavy Vehicle)","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","JCB Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Road Roller Driver","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Engine Driver","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Clerk","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Typist","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Cashier","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Library Clerk","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Time Keeper","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Store Keeper","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Accounts clerk","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Inspector","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Supervisor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Fire Officer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Overseer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Water Supply Supervisor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Chief Sanitary","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Boiler Attender","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Fireman","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Machine man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Conductor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Dryevers","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Turner","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Coach Builders","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Vulcaniser","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Electroplater","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Compounder","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Draftsman","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Shift Supervisor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Machine Fitter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Pressing Man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Binder","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Jobbar-cum-Oil Man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Jobbar-cum-Sizer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Bill clerk","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Booking Clerk","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Cook","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Air-Condition Mechanic","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Rafugar","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Butar Tailor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Polisher","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Radio Mechanic/Repairer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Auto Machine Lock-Fitter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Sheet Maker","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Furniture Designer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Manihara","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Barber","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Confectioner","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Photographer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Artist Autocian","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Umbrella Maker","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Suitcase/All kinds of Bags and Purse makers (other than leather)","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Nurse","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Work in-charge","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Security guard","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Godown Keeper","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Elevator Incharge","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Well press Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Full Press Man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Mukadam","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Moulder","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Fabrication","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Time Keeper","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Crusher Master","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Drum Maker","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Tin Smith","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Soldere","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Air-Condition Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Asst Manager","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Electrical Supervisor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Compositor","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Operator-Lino/Mono","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Dye Printer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Carpenter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Proofreader","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Block maker","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Block Printer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Dye Stamper","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Designer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Winder","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Stitcher","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Caster","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Lino Plate Printer","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Seg Machine Driver","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Plate Cutter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Dyeing Master","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Contenar Man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Foreman","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Carding Machine Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Bowling Press Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Jobbar","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Lathe Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Winding Machine Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Assembler","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Bladder","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Screen Printing Painter","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Boiler Attender","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Felt Master Cussing and Pigment","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Color Master","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Motor Mechanic","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Griller","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Draftsman","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Vulcaniser","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Grading Worker","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Boring Man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Press Mistry","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Elevator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Cool Press Man","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Miller","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Mill Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Generator Operator","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Quality Controller","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Road inspector","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Laboratory Assistant","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Laboratory Attendant","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Skilled","Junior Technical Assistant","01.05.2019","","","","",249,"","","",""
-"","Rajasthan","","","","Highly Skilled","Stenographer","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Accountant","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Clerk Cum Computer Operator","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Manager","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Sales Supervisor","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Sales Representative","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Medical Sales Representative","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Chemist","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Librarian","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Office Superintendent","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Lab Technician","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Telephone Operator","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","ECG Technician","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Radiographer Manpower","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Pharmacist","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Senior Technical Assistant","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Cook","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","","Highly Skilled","Nurse","01.05.2019","","","","",299,"","","",""
-"","Rajasthan","","","Stone Breaking","Unskilled","Ditcher","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Work Man","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Water Carrier","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Stone Breaker","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Sweeper","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Crèche Attendant","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Helper","01.10.2020",60.8903846153846,"",197.269230769231,"",258.159615384615,1583.15,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Chainman","01.10.2020",60.8903846153846,"",197.269230769231,"",258.159615384615,1583.15,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Watchman","01.10.2020",83.3807692307692,"",197.269230769231,"",280.65,2167.9,"",5129,""
-"","Rajasthan","","","Stone Breaking","Unskilled","Jamadar","01.10.2020",83.3807692307692,"",197.269230769231,"",280.65,2167.9,"",5129,""
-"","Rajasthan","","","Stone Breaking","Semi Skilled","Clerk","01.10.2020",86.7307692307692,"",197.269230769231,"",284,2255,"",5129,""
-"","Rajasthan","","","Stone Breaking","Semi Skilled","Surveyor","01.10.2020",86.7307692307692,"",197.269230769231,"",284,2255,"",5129,""
-"","Rajasthan","","","Stone Breaking","Semi Skilled","Assistant","01.10.2020",86.7307692307692,"",197.269230769231,"",284,2255,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Mistry","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Carpenter","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Fireman","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Blacksmith","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Machine man","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Fitter","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Lineman","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Electrician","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Cleaner","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Driver (Heavy Vehicle)","01.10.2020",102.153846153846,"",197.269230769231,"",299.423076923077,2656,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Mechanic","01.10.2020",102.153846153846,"",197.269230769231,"",299.423076923077,2656,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Blaster","01.10.2020",102.153846153846,"",197.269230769231,"",299.423076923077,2656,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","","01.10.2020",102.153846153846,"",197.269230769231,"",299.423076923077,2656,"",5129,""
-"","Rajasthan","","","Stone Breaking","Skilled","Stone Carrier","01.10.2020",102.153846153846,"",197.269230769231,"",299.423076923077,2656,"",5129,""
-"","Rajasthan","","","Glass Industry","Unskilled","","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Glass Industry","Semi Skilled","","01.10.2020",86.7307692307692,"",197.269230769231,"",284,2255,"",5129,""
-"","Rajasthan","","","Glass Industry","Skilled","","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Beds Leveling","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Cleaner","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Washerman","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Manufacturing Worker","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Clearance and Storage Worker","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Pile Formation Workers","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Loading/Unloading","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Pumping Man","01.10.2020",117.57,"",197.27,"",314.84,3056.82,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Mistry","01.10.2020",117.57,"",197.27,"",314.84,3056.82,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","General workers","01.10.2020",81,"",197.27,"",278.27,2106,"",5129,""
-"","Rajasthan","","","Salt Pan Industry","","Bandhewal (Per Metric Ton)","01.10.2020",327.41,"",197.27,"",524.68,8512.66,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","01.10.2020",103,"",197.269230769231,"",300.269230769231,2678,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","01.10.2020",102.423076923077,"",197.269230769231,"",299.692307692308,2663,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","01.10.2020",96.3076923076923,"",197.269230769231,"",293.576923076923,2504,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","01.10.2020",105.846153846154,"",197.269230769231,"",303.115384615385,2752,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","01.10.2020",97.7307692307692,"",197.269230769231,"",295,2541,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","01.10.2020",86.7307692307692,"",197.269230769231,"",284,2255,"",5129,""
-"","Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Papad Industry","Unskilled","","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Papad Industry","Semi Skilled","","01.10.2020",86.7307692307692,"",197.269230769231,"",284,2255,"",5129,""
-"","Rajasthan","","","Papad Industry","Skilled","","01.10.2020",91.6538461538462,"",197.269230769231,"",288.923076923077,2383,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","01.10.2020",72.68,"",72.89,""
-"","Rajasthan","","","Tobacco Bidi making","","Bundle Reping (Per 1000 Beedi)","01.10.2020",72.68,"",72.89,""
-"","Rajasthan","","","Tobacco Bidi making","","Packing (Per 1000 Beedi)","01.10.2020",72.68,"",72.89,""
-"","Rajasthan","","","Tobacco Bidi making","","Beedi Sorter","01.10.2020",101.875384615385,"",197.269230769231,"",299.144615384615,2648.76,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Beedi Checker","01.10.2020",101.875384615385,"",197.269230769231,"",299.144615384615,2648.76,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Snuff Packer","01.10.2020",86.7265384615385,"",197.269230769231,"",283.995769230769,2254.89,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","Unskilled","Porter","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Tobacco Mixer","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","kiln man","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Tobacco Sorter","01.10.2020",81,"",197.269230769231,"",278.269230769231,2106,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Watchman","01.10.2020",83.3807692307692,"",197.269230769231,"",280.65,2167.9,"",5129,""
-"","Rajasthan","","","Tobacco Bidi making","","Security guard","01.10.2020",83.3807692307692,"",197.269230769231,"",280.65,2167.9,"",5129,""
-"","Rajasthan","","","","Unskilled","","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Semi Skilled","","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Skilled","","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Highly Skilled","","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Unskilled","Belder","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Watchman","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Jamadar","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Washerman","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Water Carrier","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Baby House Attendant","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Sweeper","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Water Bearer","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Petrol Loader","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Class 4","Work Man","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Gangman","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Khalssi","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Animal Blocker","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Sustainer","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Chief Sailor","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Pump Attender","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Sanitary Jamadar","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Peon","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Key Keeper","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Sprayers","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Gauge Reader","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Zari Worker","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Feeder","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Loader","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Bag Filler","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Trolley Filler","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Ginning Work","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Packer","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Bell Lifters","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Lerner","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Laborer","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Blower","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Mercerizing Helper","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Kier Boilers","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Kier Bleachers","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Dyeing Worker","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Cleaner","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Below Machine Helper","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Hopper Man","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Cleaner","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Career","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Bobbin carrier","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Trolleyman","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Spinning Wheeler Rieller","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Paper Lifter","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Poster Boy","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Expeller Cleaner","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Caol Man","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Crate man","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Gatekeeper","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Cook Career","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Decorticator","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Groundnut Careers","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Husk Career","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Bag Stitchers","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Washing Man","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Stitcher","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Wool Shorter","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Bearer","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Vegetable Cutter","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Delivery boy","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Cotter Roller","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Filter","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Pump Attender","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Awning Stretcher","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Cotton Feeder","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Carrier","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Porter","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Unskilled","Spinner","01.07.2020","","","","",252,"","","",""
-"","Rajasthan","","","","Semi Skilled","Scribe","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Land Measurer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Baby House in-charge","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Head Dealer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Stone Cutter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Stone Dresser","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Helper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Wireman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Workshop Helper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Painter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Turner","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Oiler","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Valve Man","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Halfpress Man","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Warmer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Conductor","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Head Watchman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Fitter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Carpenter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Greaser","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Tinker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tyre Fitter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Polisher","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lathe Operator","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tool Keeper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Liner","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Winder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tie Man","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Petri Man","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lubrication Assistant","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Junior Clerk","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Band checker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Jiggerman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Clipper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Screen Printer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Machine Stretcher","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Fielders","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Aidan Helper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Heavy Machine Helper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Operator","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lep Men","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Wingman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Digging","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Warper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Folder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Sizing Worker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Paper Man","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Inkman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Gatekeeper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Distributor","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Grinding Worker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Taker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Copy Holder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Paper Feeder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Ticket Collector","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Rewinder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Lift Operator","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Winnower","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Labor Supervisor","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Crushing Worker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Fitter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Fireman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Pump Attender","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Fitter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Turner","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Welder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Assistant Mechanic","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Washerman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Recovery Agent / Reminder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Puncture Man","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Delivery boy","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Cobbler","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Kaj-Button Maker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Chair Nester","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Cycle Repairer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Cotton Feeder","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Breaker","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Southern finisher","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Tanter-cum-steeper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Dyeing Simplex","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Ring and Dubling Sizer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Daffer","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Roller","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Wireman-cum-helper","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Sanitary Jamadar","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Silkman","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Store Cutter","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Semi Skilled","Sewage Cleaner","01.07.2020","","","","",264,"","","",""
-"","Rajasthan","","","","Skilled","Mason","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Mistry","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Carpenter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Blacksmith","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Tailor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Tanner","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Machine Fitter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Lineman","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Painter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Plumber","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Burnerer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Electrician","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Wireman","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Cinema Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Gardener","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Mechanical Dealer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Mechanical Blaster","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Driver (Light Vehicle)","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Tractor Driver","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Driver (Heavy Vehicle)","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","JCB Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Road Roller Driver","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Engine Driver","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Clerk","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Typist","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Cashier","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Library Clerk","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Time Keeper","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Store Keeper","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Accounts clerk","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Inspector","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Supervisor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Fire Officer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Overseer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Water Supply Supervisor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Chief Sanitary","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Boiler Attender","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Fireman","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Machine man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Conductor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Dryevers","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Turner","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Coach Builders","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Vulcaniser","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Electroplater","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Compounder","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Draftsman","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Shift Supervisor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Machine Fitter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Pressing Man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Binder","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Jobbar-cum-Oil Man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Jobbar-cum-Sizer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Bill clerk","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Booking Clerk","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Cook","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Air-Condition Mechanic","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Rafugar","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Butar Tailor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Polisher","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Radio Mechanic/Repairer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Auto Machine Lock-Fitter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Sheet Maker","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Furniture Designer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Manihara","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Barber","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Confectioner","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Photographer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Artist Autocian","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Umbrella Maker","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Suitcase/All kinds of Bags and Purse makers (other than leather)","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Nurse","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Work in-charge","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Security guard","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Godown Keeper","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Elevator Incharge","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Well press Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Full Press Man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Mukadam","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Moulder","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Fabrication","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Time Keeper","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Crusher Master","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Drum Maker","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Tin Smith","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Soldere","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Air-Condition Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Asst Manager","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Electrical Supervisor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Compositor","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Operator-Lino/Mono","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Dye Printer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Carpenter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Proofreader","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Block maker","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Block Printer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Dye Stamper","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Designer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Winder","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Stitcher","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Caster","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Lino Plate Printer","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Seg Machine Driver","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Plate Cutter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Dyeing Master","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Contenar Man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Foreman","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Carding Machine Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Bowling Press Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Jobbar","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Lathe Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Winding Machine Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Assembler","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Bladder","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Screen Printing Painter","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Boiler Attender","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Felt Master Cussing and Pigment","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Color Master","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Motor Mechanic","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Griller","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Draftsman","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Vulcaniser","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Grading Worker","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Boring Man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Press Mistry","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Elevator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Cool Press Man","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Miller","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Mill Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Generator Operator","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Quality Controller","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Road inspector","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Laboratory Assistant","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Laboratory Attendant","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Skilled","Junior Technical Assistant","01.07.2020","","","","",276,"","","",""
-"","Rajasthan","","","","Highly Skilled","Stenographer","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Accountant","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Clerk Cum Computer Operator","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Manager","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Sales Supervisor","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Sales Representative","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Medical Sales Representative","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Chemist","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Librarian","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Office Superintendent","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Lab Technician","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Telephone Operator","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","ECG Technician","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Radiographer Manpower","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Pharmacist","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Senior Technical Assistant","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Cook","01.07.2020","","","","",326,"","","",""
-"","Rajasthan","","","","Highly Skilled","Nurse","01.07.2020","","","","",326,"","","",""
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Rajasthan","","","","Unskilled","","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Semi Skilled","","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Skilled","","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Highly Skilled","","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Unskilled","Belder","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Watchman","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Jamadar","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Washerman","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Water Carrier","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Baby House Attendant","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Sweeper","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Water Bearer","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Petrol Loader","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Class 4","Work Man","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Gangman","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Khalssi","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Animal Blocker","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Sustainer","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Chief Sailor","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Pump Attender","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Sanitary Jamadar","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Peon","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Key Keeper","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Sprayers","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Gauge Reader","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Zari Worker","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Feeder","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Loader","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Bag Filler","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Trolley Filler","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Ginning Work","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Packer","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Bell Lifters","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Lerner","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Laborer","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Blower","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Mercerizing Helper","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Kier Boilers","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Kier Bleachers","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Dyeing Worker","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Wool Cleaner","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Below Machine Helper","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Hopper Man","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Cleaner","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Wool Career","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Bobbin carrier","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Trolleyman","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Spinning Wheeler Rieller","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Paper Lifter","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Poster Boy","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Expeller Cleaner","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Caol Man","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Crate man","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Gatekeeper","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Cook Career","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Decorticator","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Groundnut Careers","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Husk Career","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Bag Stitchers","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Wool Washing Man","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Stitcher","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Wool Shorter","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Bearer","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Vegetable Cutter","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Delivery boy","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Cotter Roller","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Filter","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Pump Attender","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Awning Stretcher","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Cotton Feeder","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Carrier","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Porter","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Unskilled","Spinner","01.05.2019",26,"","","","","",225,"","","","","",5850
+"Rajasthan","","","","Semi Skilled","Scribe","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Land Measurer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Baby House in-charge","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Head Dealer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Stone Cutter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Stone Dresser","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Helper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Wireman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Workshop Helper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Painter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Turner","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Oiler","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Valve Man","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Halfpress Man","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Warmer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Conductor","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Head Watchman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Fitter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Carpenter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Greaser","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Tinker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Tyre Fitter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Polisher","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Lathe Operator","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Tool Keeper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Liner","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Winder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Tie Man","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Petri Man","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Lubrication Assistant","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Junior Clerk","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Band checker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Jiggerman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Clipper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Screen Printer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Machine Stretcher","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Fielders","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Aidan Helper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Heavy Machine Helper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Operator","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Lep Men","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Wingman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Digging","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Warper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Folder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Sizing Worker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Paper Man","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Inkman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Gatekeeper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Distributor","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Grinding Worker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Taker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Copy Holder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Paper Feeder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Ticket Collector","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Rewinder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Lift Operator","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Winnower","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Labor Supervisor","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Crushing Worker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Fitter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Fireman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Pump Attender","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Fitter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Turner","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Welder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Assistant Mechanic","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Washerman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Recovery Agent / Reminder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Puncture Man","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Delivery boy","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Cobbler","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Kaj-Button Maker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Chair Nester","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Cycle Repairer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Cotton Feeder","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Breaker","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Southern finisher","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Tanter-cum-steeper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Dyeing Simplex","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Ring and Dubling Sizer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Daffer","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Roller","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Wireman-cum-helper","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Sanitary Jamadar","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Silkman","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Store Cutter","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Semi Skilled","Sewage Cleaner","01.05.2019",26,"","","","","",237,"","","","","",6162
+"Rajasthan","","","","Skilled","Mason","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Mistry","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Carpenter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Blacksmith","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Tailor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Tanner","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Machine Fitter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Lineman","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Painter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Plumber","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Burnerer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Electrician","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Wireman","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Cinema Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Gardener","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Mechanical Dealer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Mechanical Blaster","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Driver (Light Vehicle)","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Tractor Driver","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Driver (Heavy Vehicle)","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","JCB Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Road Roller Driver","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Engine Driver","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Clerk","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Typist","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Cashier","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Library Clerk","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Time Keeper","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Store Keeper","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Accounts clerk","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Inspector","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Supervisor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Fire Officer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Overseer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Water Supply Supervisor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Chief Sanitary","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Boiler Attender","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Fireman","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Machine man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Conductor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Dryevers","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Turner","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Coach Builders","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Vulcaniser","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Electroplater","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Compounder","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Draftsman","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Shift Supervisor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Machine Fitter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Pressing Man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Binder","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Jobbar-cum-Oil Man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Jobbar-cum-Sizer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Bill clerk","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Booking Clerk","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Cook","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Air-Condition Mechanic","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Rafugar","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Butar Tailor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Polisher","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Radio Mechanic/Repairer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Auto Machine Lock-Fitter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Sheet Maker","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Furniture Designer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Manihara","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Barber","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Confectioner","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Photographer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Artist Autocian","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Umbrella Maker","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Suitcase/All kinds of Bags and Purse makers (other than leather)","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Nurse","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Work in-charge","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Security guard","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Godown Keeper","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Elevator Incharge","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Well press Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Full Press Man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Mukadam","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Moulder","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Fabrication","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Time Keeper","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Crusher Master","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Drum Maker","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Tin Smith","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Soldere","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Air-Condition Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Asst Manager","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Electrical Supervisor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Compositor","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Operator-Lino/Mono","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Dye Printer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Carpenter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Proofreader","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Block maker","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Block Printer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Dye Stamper","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Designer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Winder","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Stitcher","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Caster","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Lino Plate Printer","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Seg Machine Driver","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Plate Cutter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Dyeing Master","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Contenar Man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Foreman","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Carding Machine Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Bowling Press Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Jobbar","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Lathe Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Winding Machine Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Assembler","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Bladder","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Screen Printing Painter","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Boiler Attender","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Felt Master Cussing and Pigment","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Color Master","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Motor Mechanic","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Griller","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Draftsman","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Vulcaniser","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Grading Worker","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Boring Man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Press Mistry","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Elevator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Cool Press Man","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Miller","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Mill Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Generator Operator","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Quality Controller","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Road inspector","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Laboratory Assistant","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Laboratory Attendant","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Skilled","Junior Technical Assistant","01.05.2019",26,"","","","","",249,"","","","","",6474
+"Rajasthan","","","","Highly Skilled","Stenographer","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Accountant","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Clerk Cum Computer Operator","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Manager","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Sales Supervisor","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Sales Representative","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Medical Sales Representative","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Chemist","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Librarian","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Office Superintendent","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Lab Technician","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Telephone Operator","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","ECG Technician","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Radiographer Manpower","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Pharmacist","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Senior Technical Assistant","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Cook","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","","Highly Skilled","Nurse","01.05.2019",26,"","","","","",299,"","","","","",7774
+"Rajasthan","","","Stone Breaking","Unskilled","Ditcher","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Stone Breaking","Unskilled","Work Man","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Stone Breaking","Unskilled","Water Carrier","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Stone Breaking","Unskilled","Stone Breaker","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Stone Breaking","Unskilled","Sweeper","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Stone Breaking","Unskilled","Crèche Attendant","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Stone Breaking","Unskilled","Helper","01.10.2020",26,"60.89","","197.27","","","258.16",1583.15,"",5129,"","",6712.15
+"Rajasthan","","","Stone Breaking","Unskilled","Chainman","01.10.2020",26,"60.89","","197.27","","","258.16",1583.15,"",5129,"","",6712.15
+"Rajasthan","","","Stone Breaking","Unskilled","Watchman","01.10.2020",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9
+"Rajasthan","","","Stone Breaking","Unskilled","Jamadar","01.10.2020",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9
+"Rajasthan","","","Stone Breaking","Semi Skilled","Clerk","01.10.2020",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384
+"Rajasthan","","","Stone Breaking","Semi Skilled","Surveyor","01.10.2020",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384
+"Rajasthan","","","Stone Breaking","Semi Skilled","Assistant","01.10.2020",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384
+"Rajasthan","","","Stone Breaking","Skilled","Mistry","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Carpenter","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Fireman","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Blacksmith","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Machine man","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Fitter","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Lineman","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Electrician","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Cleaner","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Stone Breaking","Skilled","Driver (Heavy Vehicle)","01.10.2020",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785
+"Rajasthan","","","Stone Breaking","Skilled","Mechanic","01.10.2020",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785
+"Rajasthan","","","Stone Breaking","Skilled","Blaster","01.10.2020",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785
+"Rajasthan","","","Stone Breaking","Skilled","","01.10.2020",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785
+"Rajasthan","","","Stone Breaking","Skilled","Stone Carrier","01.10.2020",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785
+"Rajasthan","","","Glass Industry","Unskilled","","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Glass Industry","Semi Skilled","","01.10.2020",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384
+"Rajasthan","","","Glass Industry","Skilled","","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Salt Pan Industry","","Beds Leveling","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Cleaner","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Washerman","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Manufacturing Worker","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Clearance and Storage Worker","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Pile Formation Workers","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Loading/Unloading","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Salt Pan Industry","","Pumping Man","01.10.2020",26,117.57,"",197.27,"","",314.84,3056.82,"",5129,"","","8185.84"
+"Rajasthan","","","Salt Pan Industry","","Mistry","01.10.2020",26,117.57,"",197.27,"","",314.84,3056.82,"",5129,"","","8185.84"
+"Rajasthan","","","Salt Pan Industry","","General workers","01.10.2020",26,81,"",197.27,"","",278.27,2106,"",5129,"","","7235.02"
+"Rajasthan","","","Salt Pan Industry","","Bandhewal (Per Metric Ton)","01.10.2020",26,327.41,"",197.27,"","",524.68,8512.66,"",5129,"","","13641.68"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","01.10.2020",26,"103.00","","197.27","","","300.27",2678,"",5129,"","",7807
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","01.10.2020",26,"102.42","","197.27","","","299.69",2663,"",5129,"","",7792
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","01.10.2020",26,"96.31","","197.27","","","293.58",2504,"",5129,"","",7633
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","01.10.2020",26,"105.85","","197.27","","","303.12",2752,"",5129,"","",7881
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","01.10.2020",26,"97.73","","197.27","","","295.00",2541,"",5129,"","",7670
+"Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","01.10.2020",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384
+"Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Papad Industry","Unskilled","","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Papad Industry","Semi Skilled","","01.10.2020",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384
+"Rajasthan","","","Papad Industry","Skilled","","01.10.2020",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512
+"Rajasthan","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","01.10.2020",26,72.68,"",72.89,"","",145.57,"1889.68","","1895.14","","","3784.82"
+"Rajasthan","","","Tobacco Bidi making","","Bundle Reping (Per 1000 Beedi)","01.10.2020",26,72.68,"",72.89,"","",145.57,"1889.68","","1895.14","","","3784.82"
+"Rajasthan","","","Tobacco Bidi making","","Packing (Per 1000 Beedi)","01.10.2020",26,72.68,"",72.89,"","",145.57,"1889.68","","1895.14","","","3784.82"
+"Rajasthan","","","Tobacco Bidi making","","Beedi Sorter","01.10.2020",26,"101.88","","197.27","","","299.14",2648.76,"",5129,"","",7777.76
+"Rajasthan","","","Tobacco Bidi making","","Beedi Checker","01.10.2020",26,"101.88","","197.27","","","299.14",2648.76,"",5129,"","",7777.76
+"Rajasthan","","","Tobacco Bidi making","","Snuff Packer","01.10.2020",26,"86.73","","197.27","","","284.00",2254.89,"",5129,"","",7383.89
+"Rajasthan","","","Tobacco Bidi making","Unskilled","Porter","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Tobacco Bidi making","","Tobacco Mixer","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Tobacco Bidi making","","kiln man","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Tobacco Bidi making","","Tobacco Sorter","01.10.2020",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235
+"Rajasthan","","","Tobacco Bidi making","","Watchman","01.10.2020",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9
+"Rajasthan","","","Tobacco Bidi making","","Security guard","01.10.2020",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9
+"Rajasthan","","","Automobile Workshops","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Automobile Workshops","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Automobile Workshops","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Automobile Workshops","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Belder","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Watchman","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Jamadar","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Washerman","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Water Carrier","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Baby House Attendant","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sweeper","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Water Bearer","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Petrol Loader","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Class 4","Work Man","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gangman","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Khalssi","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Animal Blocker","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sustainer","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Chief Sailor","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Pump Attender","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sanitary Jamadar","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Peon","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Key Keeper","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sprayers","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gauge Reader","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Zari Worker","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Feeder","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Loader","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bag Filler","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Trolley Filler","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Ginning Work","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Packer","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bell Lifters","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Lerner","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Laborer","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Blower","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Mercerizing Helper","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Kier Boilers","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Kier Bleachers","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Dyeing Worker","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Cleaner","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Below Machine Helper","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Hopper Man","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cleaner","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Career","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bobbin carrier","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Trolleyman","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Spinning Wheeler Rieller","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Paper Lifter","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Poster Boy","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Expeller Cleaner","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Caol Man","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Crate man","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gatekeeper","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cook Career","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Decorticator","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Groundnut Careers","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Husk Career","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bag Stitchers","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Washing Man","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Stitcher","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Shorter","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bearer","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Vegetable Cutter","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Delivery boy","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cotter Roller","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Filter","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Pump Attender","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Awning Stretcher","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cotton Feeder","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Carrier","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Porter","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Spinner","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Scribe","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Land Measurer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Baby House in-charge","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Head Dealer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Stone Cutter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Stone Dresser","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Helper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wireman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Workshop Helper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Painter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Oiler","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Valve Man","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Halfpress Man","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Warmer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Conductor","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Head Watchman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Carpenter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Greaser","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Tinker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tyre Fitter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Polisher","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lathe Operator","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tool Keeper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Liner","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Winder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tie Man","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Petri Man","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lubrication Assistant","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Junior Clerk","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Band checker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Jiggerman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Clipper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Screen Printer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Machine Stretcher","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fielders","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Aidan Helper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Heavy Machine Helper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Operator","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lep Men","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wingman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Digging","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Warper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Folder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sizing Worker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Paper Man","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Inkman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Gatekeeper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Distributor","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Grinding Worker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Taker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Copy Holder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Paper Feeder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Ticket Collector","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Rewinder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lift Operator","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Winnower","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Labor Supervisor","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Crushing Worker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fitter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fireman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Pump Attender","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Welder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Mechanic","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Washerman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Recovery Agent / Reminder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Puncture Man","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Delivery boy","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cobbler","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Kaj-Button Maker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Chair Nester","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cycle Repairer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cotton Feeder","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Breaker","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Southern finisher","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tanter-cum-steeper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Dyeing Simplex","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Ring and Dubling Sizer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Daffer","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Roller","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wireman-cum-helper","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sanitary Jamadar","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Silkman","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Store Cutter","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sewage Cleaner","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mason","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mistry","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carpenter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Blacksmith","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tailor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tanner","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine Fitter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lineman","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Painter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Plumber","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Burnerer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electrician","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Wireman","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cinema Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Gardener","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mechanical Dealer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mechanical Blaster","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Driver (Light Vehicle)","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tractor Driver","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Driver (Heavy Vehicle)","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","JCB Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Road Roller Driver","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Engine Driver","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Clerk","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Typist","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cashier","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Library Clerk","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Time Keeper","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Store Keeper","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Accounts clerk","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Inspector","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Supervisor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fire Officer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Overseer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Water Supply Supervisor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Chief Sanitary","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boiler Attender","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fireman","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Conductor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dryevers","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Turner","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Coach Builders","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Vulcaniser","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electroplater","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Compounder","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Draftsman","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Shift Supervisor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine Fitter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Pressing Man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Binder","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar-cum-Oil Man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar-cum-Sizer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bill clerk","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Booking Clerk","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cook","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Air-Condition Mechanic","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Rafugar","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Butar Tailor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Polisher","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Radio Mechanic/Repairer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Auto Machine Lock-Fitter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Sheet Maker","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Furniture Designer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Manihara","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Barber","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Confectioner","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Photographer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Artist Autocian","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Umbrella Maker","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Suitcase/All kinds of Bags and Purse makers (other than leather)","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Nurse","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Work in-charge","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Security guard","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Godown Keeper","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Elevator Incharge","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Well press Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Full Press Man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mukadam","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Moulder","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fabrication","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Time Keeper","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Crusher Master","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Drum Maker","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tin Smith","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Soldere","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Air-Condition Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Asst Manager","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electrical Supervisor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Compositor","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Operator-Lino/Mono","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dye Printer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carpenter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Proofreader","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Block maker","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Block Printer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dye Stamper","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Designer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Winder","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Stitcher","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Caster","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lino Plate Printer","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Seg Machine Driver","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Plate Cutter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dyeing Master","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Contenar Man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Foreman","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carding Machine Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bowling Press Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lathe Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Winding Machine Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Assembler","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bladder","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Screen Printing Painter","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boiler Attender","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Felt Master Cussing and Pigment","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Color Master","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Motor Mechanic","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Griller","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Draftsman","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Vulcaniser","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Grading Worker","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boring Man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Press Mistry","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Elevator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cool Press Man","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Miller","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mill Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Generator Operator","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Quality Controller","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Road inspector","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Laboratory Assistant","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Laboratory Attendant","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Junior Technical Assistant","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Stenographer","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Accountant","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Clerk Cum Computer Operator","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Manager","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Sales Supervisor","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Sales Representative","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Medical Sales Representative","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Chemist","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Librarian","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Office Superintendent","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Lab Technician","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Telephone Operator","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","ECG Technician","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Radiographer Manpower","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Pharmacist","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Senior Technical Assistant","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Cook","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Nurse","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Agriculture","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Agriculture","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Agriculture","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Agriculture","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Cloth Dyeing & Printing","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Cloth Dyeing & Printing","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Cloth Dyeing & Printing","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Cloth Dyeing & Printing","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Power Loom Industry","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Power Loom Industry","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Power Loom Industry","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Power Loom Industry","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Printing Press","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Printing Press","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Printing Press","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Printing Press","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Cinema Industry","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Cinema Industry","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Cinema Industry","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Cinema Industry","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Oil Mills","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Oil Mills","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Oil Mills","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Oil Mills","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Engineering Industry","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Engineering Industry","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Engineering Industry","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Engineering Industry","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Handloom","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Handloom","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Handloom","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Handloom","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Public Motor Transport","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Public Motor Transport","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Public Motor Transport","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Public Motor Transport","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Hotels and Restaurants","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Hotels and Restaurants","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Hotels and Restaurants","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Hotels and Restaurants","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Private Educational Institutes","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Private Educational Institutes","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Private Educational Institutes","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Private Educational Institutes","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Cement and Cement Based Industry","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Cement and Cement Based Industry","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Cement and Cement Based Industry","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Cement and Cement Based Industry","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Aerated Water Manufacturer","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Aerated Water Manufacturer","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Aerated Water Manufacturer","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Aerated Water Manufacturer","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Metal Foundries And General Engineering","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Metal Foundries And General Engineering","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Metal Foundries And General Engineering","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Metal Foundries And General Engineering","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Petrol Pump","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Petrol Pump","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Petrol Pump","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Petrol Pump","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Readymade Garments Industry","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Readymade Garments Industry","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Readymade Garments Industry","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Readymade Garments Industry","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Cotton Textile Mills","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Cotton Textile Mills","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Cotton Textile Mills","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Cotton Textile Mills","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Pottery Industries","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Pottery Industries","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Pottery Industries","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Pottery Industries","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Wooden Furniture","Unskilled","","01.07.2020",26,"","","","","",252,"","","","","",6552
+"Rajasthan","","","Wooden Furniture","Semi Skilled","","01.07.2020",26,"","","","","",264,"","","","","",6864
+"Rajasthan","","","Wooden Furniture","Skilled","","01.07.2020",26,"","","","","",276,"","","","","",7176
+"Rajasthan","","","Wooden Furniture","Highly Skilled","","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Bricks or Roof Tiles","","Kiln Burners.","01.07.2020",26,"","","","","",276,"","","","","","7176.00"
+"Rajasthan","","","Bricks or Roof Tiles","","Kiln Mistri","01.07.2020",26,"","","","","",326,"","","","","",8476
+"Rajasthan","","","Bricks or Roof Tiles","","Cleaner","01.07.2020",26,"","","","","",252,"","","","","","6552.00"
+"Rajasthan","","","Bricks or Roof Tiles","","Ditcher","01.07.2020",26,"","","","","",252,"","","","","","6552.00"
+"Rajasthan","","","Bricks or Roof Tiles","","Water Bearer","01.07.2020",26,"","","","","",264,"","","","","","6864.00"
+"Rajasthan","","","Bricks or Roof Tiles","","Jamadar","01.07.2020",26,"","","","","",276,"","","","","","7176.00"
