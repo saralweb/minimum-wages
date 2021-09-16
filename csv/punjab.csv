@@ -1,99 +1,99 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Punjab","","","Shops & Commercial Establishments","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Shops & Commercial Establishments","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Shops & Commercial Establishments","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Shops & Commercial Establishments","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 1","","01.03.2020",26,"","","","","",552.42,"","","","","",14348.56
-"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 2","","01.03.2020",26,"","","","","",488.22,"","","","","",12678.56
-"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 3","","01.03.2020",26,"","","","","",430.52,"","","","","",11178.56
-"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 4","","01.03.2020",26,"","","","","",384.32,"","","","","",9978.56
-"Punjab","","","Agriculture","Unskilled","Laborer","01.03.2020",26,"","","","","",361.39,"","","","","","9396.14"
-"Punjab","","","Bricks or Roof Tiles","","Pathera with Jama-dari Commission Bricks (Per 1000 bricks)","01.03.2020",26,"","","","","",756.61,"","","","","","19671.86"
-"Punjab","","","Bricks or Roof Tiles","","Pathera with Jama-dari Commission Tiles (Per 1000 tiles)","01.03.2020",26,"","","","","",841.97,"","","","","","21891.22"
-"Punjab","","","Bricks or Roof Tiles","","Pathera without Jama-dari Commission Bricks (Per 1000 bricks)","01.03.2020",26,"","","","","",712.39,"","","","","","18522.14"
-"Punjab","","","Bricks or Roof Tiles","","Pathera without Jama-dari Commission Tiles (Per 1000 tiles)","01.03.2020",26,"","","","","",801.71,"","","","","","20844.46"
-"Punjab","","","Bricks or Roof Tiles","","Animal Driven Stuffing Man (Per 1000)","01.03.2020",26,"","","","","",281.12,"","","","","","7309.12"
-"Punjab","","","Bricks or Roof Tiles","","Driver","01.03.2020",26,"","","","","",244.54,"","","","","","6358.04"
-"Punjab","","","Bricks or Roof Tiles","","Loading/Unloading","01.03.2020",26,"","","","","",208.7,"","","","","","5426.20"
-"Punjab","","","Bricks or Roof Tiles","","Brick Extractor (Per 1000)","01.03.2020",26,"","","","","",180.24,"","","","","","4686.24"
-"Punjab","","","Bricks or Roof Tiles","","Mistry","01.03.2020",26,"","","","","",140.13,"","","","","","3643.38"
-"Punjab","","","Rubber Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Rubber Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Rubber Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Rubber Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Oil Mills","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Oil Mills","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Oil Mills","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Oil Mills","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Cotton Ginning and Pressing Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Cotton Ginning and Pressing Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Cotton Ginning and Pressing Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Public Motor Transport","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Public Motor Transport","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Public Motor Transport","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Public Motor Transport","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Automobile Workshops","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Automobile Workshops","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Automobile Workshops","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Automobile Workshops","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Cement and Cement Based Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Cement and Cement Based Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Cement and Cement Based Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Cement and Cement Based Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","General Engineering and Fabrication","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","General Engineering and Fabrication","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","General Engineering and Fabrication","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","General Engineering and Fabrication","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Cinema Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Cinema Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Cinema Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Cinema Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Tanneries and Leather Manufactory","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Tanneries and Leather Manufactory","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Tanneries and Leather Manufactory","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Tanneries and Leather Manufactory","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Stone Breaking and Crushing","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Stone Breaking and Crushing","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Stone Breaking and Crushing","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Stone Breaking and Crushing","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Hotels and Restaurants","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Hotels and Restaurants","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Hotels and Restaurants","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Hotels and Restaurants","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Paper and Paper Board Manufactury","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Paper and Paper Board Manufactury","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Paper and Paper Board Manufactury","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Paper and Paper Board Manufactury","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Bricks or Roof Tiles","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Bricks or Roof Tiles","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Bricks or Roof Tiles","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Bricks or Roof Tiles","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Agriculture","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Agriculture","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Agriculture","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Agriculture","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Readymade Garments Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Readymade Garments Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Readymade Garments Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Readymade Garments Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
-"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
-"Punjab","","","Security Services","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
-"Punjab","","","Security Services","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
-"Punjab","","","Security Services","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
 "Punjab","","","Security Services","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Security Services","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Security Services","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Security Services","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Readymade Garments Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Readymade Garments Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Readymade Garments Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Readymade Garments Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Agriculture","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Agriculture","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Agriculture","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Agriculture","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Bricks or Roof Tiles","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Bricks or Roof Tiles","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Bricks or Roof Tiles","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Bricks or Roof Tiles","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Paper and Paper Board Manufactury","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Paper and Paper Board Manufactury","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Paper and Paper Board Manufactury","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Paper and Paper Board Manufactury","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Hotels and Restaurants","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Hotels and Restaurants","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Hotels and Restaurants","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Hotels and Restaurants","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Stone Breaking and Crushing","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Stone Breaking and Crushing","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Stone Breaking and Crushing","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Stone Breaking and Crushing","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Tanneries and Leather Manufactory","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Tanneries and Leather Manufactory","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Tanneries and Leather Manufactory","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Tanneries and Leather Manufactory","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Cinema Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Cinema Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Cinema Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Cinema Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","General Engineering and Fabrication","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","General Engineering and Fabrication","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","General Engineering and Fabrication","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","General Engineering and Fabrication","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Cement and Cement Based Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Cement and Cement Based Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Cement and Cement Based Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Cement and Cement Based Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Automobile Workshops","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Automobile Workshops","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Automobile Workshops","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Automobile Workshops","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Public Motor Transport","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Public Motor Transport","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Public Motor Transport","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Public Motor Transport","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Cotton Ginning and Pressing Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Cotton Ginning and Pressing Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Cotton Ginning and Pressing Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Oil Mills","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Oil Mills","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Oil Mills","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Oil Mills","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Rubber Industry","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Rubber Industry","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Rubber Industry","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Rubber Industry","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
+"Punjab","","","Bricks or Roof Tiles","","Mistry","01.03.2020",26,"","","","","",140.13,"","","","","","3643.38"
+"Punjab","","","Bricks or Roof Tiles","","Brick Extractor (Per 1000)","01.03.2020",26,"","","","","",180.24,"","","","","","4686.24"
+"Punjab","","","Bricks or Roof Tiles","","Loading/Unloading","01.03.2020",26,"","","","","",208.7,"","","","","","5426.20"
+"Punjab","","","Bricks or Roof Tiles","","Driver","01.03.2020",26,"","","","","",244.54,"","","","","","6358.04"
+"Punjab","","","Bricks or Roof Tiles","","Animal Driven Stuffing Man (Per 1000)","01.03.2020",26,"","","","","",281.12,"","","","","","7309.12"
+"Punjab","","","Bricks or Roof Tiles","","Pathera without Jama-dari Commission Tiles (Per 1000 tiles)","01.03.2020",26,"","","","","",801.71,"","","","","","20844.46"
+"Punjab","","","Bricks or Roof Tiles","","Pathera without Jama-dari Commission Bricks (Per 1000 bricks)","01.03.2020",26,"","","","","",712.39,"","","","","","18522.14"
+"Punjab","","","Bricks or Roof Tiles","","Pathera with Jama-dari Commission Tiles (Per 1000 tiles)","01.03.2020",26,"","","","","",841.97,"","","","","","21891.22"
+"Punjab","","","Bricks or Roof Tiles","","Pathera with Jama-dari Commission Bricks (Per 1000 bricks)","01.03.2020",26,"","","","","",756.61,"","","","","","19671.86"
+"Punjab","","","Agriculture","Unskilled","Laborer","01.03.2020",26,"","","","","",361.39,"","","","","","9396.14"
+"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 4","","01.03.2020",26,"","","","","",384.32,"","","","","",9978.56
+"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 3","","01.03.2020",26,"","","","","",430.52,"","","","","",11178.56
+"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 2","","01.03.2020",26,"","","","","",488.22,"","","","","",12678.56
+"Punjab","","","Local Authority Industry (Other than Village Panchayat)","Category 1","","01.03.2020",26,"","","","","",552.42,"","","","","",14348.56
+"Punjab","","","Shops & Commercial Establishments","Highly Skilled","","01.03.2020",26,"","","","","",457.72,"","","","","",11887.56
+"Punjab","","","Shops & Commercial Establishments","Skilled","","01.03.2020",26,"","","","","",418.02,"","","","","",10855.56
+"Punjab","","","Shops & Commercial Establishments","Semi Skilled","","01.03.2020",26,"","","","","",383.52,"","","","","",9958.56
+"Punjab","","","Shops & Commercial Establishments","Unskilled","","01.03.2020",26,"","","","","",353.52,"","","","","",9178.56
