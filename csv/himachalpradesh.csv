@@ -1,4 +1,87 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Semi Skilled","","01.04.2021",30,"","","","","",309.27,"","","","","",9278
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Stone Breaking and Crushing","Clerical and non Technical Supervisory Staff","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Stone Breaking and Crushing","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","01.04.2021",30,"","","","","",318.57,"","","","","",9557
+"Himachal Pradesh","","","Stone Breaking and Crushing","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Security Services","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Security Services","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Security Services","Semi Skilled","","01.04.2021",30,"","","","","",309.27,"","","","","",9278
+"Himachal Pradesh","","","Security Services","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Domestic Workers","Skilled","","01.04.2021",30,276.92,"","",71.29,"",348.21,8303,"","",2143,"",10446
+"Himachal Pradesh","","","Domestic Workers","Semi Skilled","","01.04.2021",30,256.88,"","",60.11,"",316.99,7306,"","",2204,"",9510
+"Himachal Pradesh","","","Domestic Workers","Unskilled","","01.04.2021",30,246,"","",54,"",300,7380,"","",1620,"",9000
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","01.04.2021",30,335.37,"","",26.97,"",362.34,10061,"","",809,"",10870
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2021",30,320.06,"","",28.15,"",348.21,9602,"","",844,"",10446
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2021",30,289.12,"","",27.87,"",316.99,8674,"","",836,"",9510
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2021",30,274.47,"","",25.53,"",300,8234,"","",766,"",9000
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","01.04.2021",30,"","","","","",309.27,"","","","","",9278
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Hydro Power Projets","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Hydro Power Projets","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Hydro Power Projets","Semi Skilled","","01.04.2021",30,"","","","","",318.57,"","","","","",9557
+"Himachal Pradesh","","","Hydro Power Projets","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Private Educational Institutes","Highly Skilled","","01.04.2021",30,"","","","","",362.34,"","","","","",10870
+"Himachal Pradesh","","","Private Educational Institutes","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Private Educational Institutes","Semi Skilled","","01.04.2021",30,"","","","","",316.99,"","","","","",9510
+"Himachal Pradesh","","","Private Educational Institutes","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",30,335.37,"","",26.97,"",362.34,10061,"","",809,"",10870
+"Himachal Pradesh","","","Hotels and Restaurants","Skilled","","01.04.2021",30,320.06,"","",28.15,"",348.21,9602,"","",844,"",10446
+"Himachal Pradesh","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",30,290.11,"","",26.88,"",316.99,8703,"","",807,"",9510
+"Himachal Pradesh","","","Hotels and Restaurants","Unskilled","","01.04.2021",30,274.47,"","",25.53,"",300,8234,"","",766,"",9000
+"Himachal Pradesh","","","Manufacturing Process","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Manufacturing Process","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Manufacturing Process","Semi Skilled","","01.04.2021",30,"","","","","",309.27,"","","","","",9278
+"Himachal Pradesh","","","Manufacturing Process","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Tea Plantation","Class 2","Electrician-cum- Mechanic","01.04.2021",30,"","","","","",379.2,"","","","","",11376
+"Himachal Pradesh","","","Tea Plantation","Class 1","Electrician-cum- Mechanic","01.04.2021",30,"","","","","",428.11,"","","","","",12843
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Assistant Mechanic","01.04.2021",30,"","","","","",379.2,"","","","","",11376
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Mechanic","01.04.2021",30,"","","","","",428.11,"","","","","",12843
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Driver","01.04.2021",30,"","","","","",380.88,"","","","","",11427
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Compounder","01.04.2021",30,"","","","","",424.69,"","","","","",12741
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Watchman","01.04.2021",30,"","","","","",305.01,"","","","","",9150
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Peon","01.04.2021",30,"","","","","",305.01,"","","","","",9150
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Scribe","01.04.2021",30,"","","","","",364.97,"","","","","",10949
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Clerk","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Accountant","01.04.2021",30,"","","","","",458.46,"","","","","",13754
+"Himachal Pradesh","","","Tea Plantation","Semi Skilled","","01.04.2021",30,"","","","","",305.01,"","","","","",9150
+"Himachal Pradesh","","","Tea Plantation","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Engineering Industry","Clerical","","01.04.2021",30,"","","","","",321.87,"","","","","",9656
+"Himachal Pradesh","","","Engineering Industry","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Engineering Industry","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Engineering Industry","Semi Skilled","","01.04.2021",30,"","","","","",309.27,"","","","","",9278
+"Himachal Pradesh","","","Engineering Industry","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Semi Skilled","","01.04.2021",30,"","","","","",309.27,"","","","","",9278
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Shops & Commercial Establishments","Highly Skilled","","01.04.2021",30,335.37,"","",26.97,"",362.34,10061,"","",809,"",10870
+"Himachal Pradesh","","","Shops & Commercial Establishments","Skilled","","01.04.2021",30,320.06,"","",28.15,"",348.21,9602,"","",844,"",10446
+"Himachal Pradesh","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",30,289.12,"","",27.87,"",316.99,8674,"","",836,"",9510
+"Himachal Pradesh","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",30,274.47,"","",25.53,"",300,8234,"","",766,"",9000
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Part-Time Booking Clerk","01.04.2021",30,"","","","","",193.72,"","","","","",5812
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Cleaner-cum-Conductor","01.04.2021",30,"","","","","",325.25,"","","","","",9757
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Conductor","01.04.2021",30,"","","","","",347.59,"","","","","",10428
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Driver","01.04.2021",30,"","","","","",380.89,"","","","","",11427
+"Himachal Pradesh","","","Public Motor Transport","Group C","","01.04.2021",30,"","","","","",421.4,"","","","","",12642
+"Himachal Pradesh","","","Public Motor Transport","Group B","","01.04.2021",30,"","","","","",357.3,"","","","","",10719
+"Himachal Pradesh","","","Public Motor Transport","Group A","","01.04.2021",30,"","","","","",339.87,"","","","","",10196
+"Himachal Pradesh","","","Public Motor Transport","Highly Skilled","","01.04.2021",30,"","","","","",376.94,"","","","","",11308
+"Himachal Pradesh","","","Public Motor Transport","Skilled","","01.04.2021",30,"","","","","",339.87,"","","","","",10196
+"Himachal Pradesh","","","Public Motor Transport","Semi Skilled","","01.04.2021",30,"","","","","",311.12,"","","","","",9334
+"Himachal Pradesh","","","Public Motor Transport","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Clerical and non Technical Supervisory Staff","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",30,"","","","","",414.03,"","","","","",12421
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",30,"","","","","",348.21,"","","","","",10446
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",30,"","","","","",318.57,"","","","","",9557
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
+"Himachal Pradesh","","","Agriculture","Unskilled","","01.04.2021",30,"","","","","",300,"","","","","",9000
 "Himachal Pradesh","","","Private Educational Institutes","Highly Skilled","","01.04.2020",30,"","","","","",332.12,"","","","","",9964
 "Himachal Pradesh","","","Private Educational Institutes","Skilled","","01.04.2020",30,"","","","","",319.17,"","","","","",9575
 "Himachal Pradesh","","","Private Educational Institutes","Semi Skilled","","01.04.2020",30,"","","","","",290.55,"","","","","",8717
