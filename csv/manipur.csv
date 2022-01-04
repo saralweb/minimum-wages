@@ -1,242 +1,338 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Manipur","","","Daily Rated Workers","Unskilled","","04.03.2021",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Sprayers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Helper","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Cleaner","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Messenger","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Laborer","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Workers","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Driver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Store Keeper","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Typist","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Accountant","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Metal Industries","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Metal Industries","Unskilled","Weighman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Metal Industries","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Metal Industries","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Metal Industries","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Metal Industries","Skilled","Workers","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Metal Industries","Skilled","Typist","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Metal Industries","Skilled","Accountant","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Metal Industries","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Weighman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Workers","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Typist","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Accountant","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Weighman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Workers","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Managing Doll Toy Maker","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Typist","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Accountant","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Laborer","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Cleaner","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Helper","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Workers","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Artisan","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Typist","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Accountant","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Driver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Printing","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Wood Carver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Embroider","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Cutter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Tailor","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Dye Wrapper","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Blacksmith","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Knitter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Carpenter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","Weaver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Rewinder","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Gatekeeper","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Sweeper","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Conductor","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Pump Attender","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Supplier","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Tailor","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Weighman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Service Man","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Waiter","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Bearer","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Cleaner","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Welder","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Upholster","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Porter","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Unskilled","Helper","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Workers","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Typist-cum-clerk","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Stenographer","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Accountant","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Bookkeeper","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Cashier","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Asst Manager","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Ticket Checker","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Class 2","Carpenter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Assistant Machine Operator","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Assistant Station Master","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Traffic Inspector","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Ticket Seller","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Line Checker","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Driver","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Stitcher","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Fitter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Mechanic","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Head Bearer","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Caneman","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Polisher","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Painter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Blacksmith","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Class 2","Salesman","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Shops & Commercial Establishments","Skilled","UDC","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Bill clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Manager","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Head Electrician","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Class 1","Carpenter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Head Mechanic","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Station Master","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Finisher","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Photographer","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Master","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Compounder","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Tadoorchi","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Cook","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Carpenter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Driver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled","Godown Keeper","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Shops & Commercial Establishments","Skilled A","Salesman","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Conductor","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Oil Fitter","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Tin Smith","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Metal Sheet Worker","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Fitter","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Electrician","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Cleaner","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Public Motor Transport","Semi Skilled","Workers","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Semi Skilled","Junior Mechanic","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Semi Skilled A","Fitter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Semi Skilled","Upholster","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Semi Skilled B","Carpenter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Semi Skilled B","Blacksmith","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Semi Skilled","Driver","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Public Motor Transport","Skilled","Workers","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Skilled A","Carpenter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Skilled A","Blacksmith","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Skilled","Head Electrician","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Skilled","Head Mechanic","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Skilled","Senior Driver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Public Motor Transport","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Workers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lineman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cable Painter","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lathe Operator","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Wireman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Switch Attendant","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Electric Generating Driver","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Diesel Engine Driver","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Armature Winder","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Pump Driver","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Packer","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Meter Reader","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Machine Operator","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gauge Reader","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Boat Man","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Pump Attender","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Porter","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cleaner","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Upholster","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sprayers","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sweeper","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Stone Crusher","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Hole Driller","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Breaker","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Excavator","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Cerement","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Water boy","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Thatcher","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Laborer","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Mazdoor","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Armature Winder","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Power House Operator","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Wireman","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Driver (Light Vehicle)","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Road Mohorrir","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Driver (Heavy Vehicle)","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Road Roller Driver","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Welder","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Blacksmith","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Carpenter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Cerement","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Mason","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Electrician","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Mechanic","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Mazdoor","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Saw Cerement Operator","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Fitter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Painter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Carpenter","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Blacksmith","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Mason","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tracer","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Head Electrician","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Head Mechanic","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Driver (Heavy Vehicle)","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Clerk","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Carpenter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Fitter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Blacksmith","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Painter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Mason","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Unskilled","Cleaner","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Driver","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Pump Operator","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Laborer","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Chainman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Field Man","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Laboratory Attendant","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Watchman","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Gardener","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Unskilled","Peon","01.01.2017",30,"","","","","",225,"","","","","",6750
-"Manipur","","","Agriculture","Semi Skilled","Junior Diver","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Semi Skilled","Junior Mechanic","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Semi Skilled","Thatcher","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Semi Skilled","Road Mohorrir","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Semi Skilled","Cinema Operator","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Semi Skilled","Junior Laboratory","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Semi Skilled","Junior Field Assistant","01.01.2017",30,"","","","","",248,"","","","","",7440
-"Manipur","","","Agriculture","Skilled","Senior Mechanic","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","Blacksmith","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","Senior Driver","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","Senior Carpainter","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","LDC","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","Laboratory","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","Senior Field Assistant","01.01.2017",30,"","","","","",273,"","","","","",8190
-"Manipur","","","Agriculture","Skilled","Surveyor","01.01.2017",30,"","","","","",273,"","","","","",8190
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","LDC","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","Surveyor","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","Tracer","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","Head Electrician","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","Head Mechanic","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Skilled","Driver (Heavy Vehicle)","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Driver (Light Vehicle)","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Electrician","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Power House Operator","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Armature Winder","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Mechanic","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Welder","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Saw Cerement Operator","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Fitter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Painter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Carpenter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Blacksmith","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Mason","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Road Mohorrir","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Cinema Operator","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Laboratory Assistant","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Semi Skilled","Field Assistant","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Stone Crusher","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Breaker","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Excavator","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Lab Boy","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Sheet Metal Worker","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Tin Smith","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Oil Fitter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Cable Painter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Lathe man","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Wireman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Switch Attendant","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Lineman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Conductor","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Packer","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Meter Reader","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Machine man","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Gauge Reader","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Boat Man","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Pump Attender","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Porter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Upholster","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Sprayers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Sweeper","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Caneman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Thatcher","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Mazdoor","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Cleaner Vehicle","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Laborer","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Chainman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Field Man","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Laboratory Attendant","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Security guard","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Casual/ Muster Rolls/Daily Basis Employees in Government Offices","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Semi Skilled","","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Laborer","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Helper","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Semi Skilled","","1/0/117",30,"","","","","",248,"","","","","",7440,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Artisan","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Typist","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Accountant","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Driver","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Printing","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Wood Carver","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Embroider","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Cutter","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Tailor","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Dye Wrapper","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Blacksmith","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Knitter","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Carpenter","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Wool Weaving, Spinning and Knitting in Handloom or Cotton Spinning in Mill and Handloom","Skilled","Weaver","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Daily Rated Workers","Unskilled","","4/2/121",30,"","","","","",225,"","","","","",6750,"Informal Sector"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Sprayers","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Helper","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Messenger","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Laborer","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Driver","1/0/117",30,"","","","","",273,"","","","","",8190,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Store Keeper","1/0/117",30,"","","","","",273,"","","","","",8190,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Typist","1/0/117",30,"","","","","",273,"","","","","",8190,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Accountant","1/0/117",30,"","","","","",273,"","","","","",8190,"Sericulture"
+"Manipur","","","Silkworm Plantation And Food Plant","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,"Sericulture"
+"Manipur","","","Metal Industries","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Metal Industries","Unskilled","Weighman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Metal Industries","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Metal Industries","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Metal Industries","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Metal Industries","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Metal Industries","Skilled","Typist","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Metal Industries","Skilled","Accountant","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Metal Industries","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Weighman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Typist","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Accountant","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Wood Bamboo And Cane Furniture","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Weighman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Managing Doll Toy Maker","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Typist","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Accountant","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment - Doll Toys And Brass And Bell Metal","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Laborer","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Helper","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Semi Skilled","","1/0/117",30,"","","","","",248,"","","","","",7440,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Artisan","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Typist","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Accountant","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Driver","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Printing","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Wood Carver","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Embroider","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Cutter","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Tailor","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Dye Wrapper","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Blacksmith","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Knitter","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Carpenter","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Weaving, Spinning, Printing, Dyeing, Finishing and Bleaching of silk and pina fabric","Skilled","Weaver","1/0/117",30,"","","","","",273,"","","","","",8190,"Textile Yarn"
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Rewinder","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Gatekeeper","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Sweeper","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Conductor","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Supplier","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Tailor","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Weighman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Service Man","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Waiter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Bearer","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Welder","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Upholster","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Porter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Unskilled","Helper","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Workers","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Typist-cum-clerk","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Stenographer","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Accountant","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Bookkeeper","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Cashier","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Asst Manager","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Ticket Checker","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Class 2","Carpenter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Assistant Machine Operator","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Assistant Station Master","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Traffic Inspector","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Ticket Seller","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Line Checker","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Driver","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Stitcher","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Fitter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Mechanic","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Head Bearer","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Caneman","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Polisher","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Painter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Semi Skilled","Blacksmith","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Class 2","Salesman","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","UDC","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Bill clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Manager","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Head Electrician","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Class 1","Carpenter","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Head Mechanic","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Station Master","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Finisher","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Photographer","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Master","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Compounder","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Tadoorchi","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Cook","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Carpenter","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Driver","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled","Godown Keeper","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Shops & Commercial Establishments","Skilled A","Salesman","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Conductor","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Oil Fitter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Tin Smith","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Metal Sheet Worker","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Fitter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Electrician","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Public Motor Transport","Semi Skilled","Workers","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Semi Skilled","Junior Mechanic","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Semi Skilled A","Fitter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Semi Skilled","Upholster","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Semi Skilled B","Carpenter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Semi Skilled B","Blacksmith","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Semi Skilled","Driver","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Public Motor Transport","Skilled","Workers","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Skilled A","Carpenter","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Skilled A","Blacksmith","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Skilled","Head Electrician","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Skilled","Head Mechanic","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Skilled","Senior Driver","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Public Motor Transport","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment in Electricity Generator and Supply","Skilled","","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Employment in Electricity Generator and Supply","Unskilled","","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Water Supply, Sewage & Extraction &Waste Management","Skilled","","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Water Supply, Sewage & Extraction &Waste Management","Semi Skilled","","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Water Supply, Sewage & Extraction &Waste Management","Unskilled","","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction - Dams and Irrigation Works","Skilled","","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction - Dams and Irrigation Works","Semi Skilled","","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction - Dams and Irrigation Works","Unskilled","","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Workers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lineman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cable Painter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lathe Operator","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Wireman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Switch Attendant","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Electric Generating Driver","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Diesel Engine Driver","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Armature Winder","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Pump Driver","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Packer","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Meter Reader","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Machine Operator","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gauge Reader","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Boat Man","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Pump Attender","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Porter","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Upholster","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sprayers","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sweeper","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Stone Crusher","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Hole Driller","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Breaker","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Excavator","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Cerement","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Water boy","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Thatcher","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Laborer","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Mazdoor","1/0/117",30,"","","","","",225,"","","","","",6750,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Armature Winder","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Power House Operator","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Wireman","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Driver (Light Vehicle)","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Road Mohorrir","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Driver (Heavy Vehicle)","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Road Roller Driver","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Welder","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Blacksmith","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Carpenter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Cerement","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 3","Mason","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Electrician","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Mechanic","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Mazdoor","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Saw Cerement Operator","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Fitter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Painter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Carpenter","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Blacksmith","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Mason","1/0/117",30,"","","","","",248,"","","","","",7440,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tracer","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Head Electrician","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Head Mechanic","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Driver (Heavy Vehicle)","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Clerk","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Carpenter","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Fitter","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Blacksmith","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Painter","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Mason","1/0/117",30,"","","","","",273,"","","","","",8190,0
+"Manipur","","","Agriculture","Unskilled","Cleaner","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Driver","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Pump Operator","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Laborer","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Chainman","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Field Man","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Laboratory Attendant","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Watchman","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Gardener","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Unskilled","Peon","1/0/117",30,"","","","","",225,"","","","","",6750,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Junior Diver","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Junior Mechanic","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Thatcher","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Road Mohorrir","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Cinema Operator","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Junior Laboratory","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Semi Skilled","Junior Field Assistant","1/0/117",30,"","","","","",248,"","","","","",7440,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Senior Mechanic","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Blacksmith","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Senior Driver","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Senior Carpainter","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","LDC","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Laboratory","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Senior Field Assistant","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"
+"Manipur","","","Agriculture","Skilled","Surveyor","1/0/117",30,"","","","","",273,"","","","","",8190,"Farming Horticulture Dairy"

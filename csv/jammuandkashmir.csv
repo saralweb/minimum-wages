@@ -1,349 +1,501 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Supervisor","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Record Keeper","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Typist","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Gestetner Operator","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Receptionist","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Telephone Operator","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Booking Clerk","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Accountant","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Cashier","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Scribe","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Xerox Machine Operator","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Time Keeper","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Tally Clerk","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Store Keeper","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Highly Skilled","Dialysis Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Anaesthesia Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Laboratory Technician/Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Art Painting","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Portrait Maker","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Calligraphy","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Draftsman","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Electrician/Wireman/ Electrical Repairer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Computer programmer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Fashion Designer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Paramedical Staff and Nurses","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Medical Technologists","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Medical Assistant","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Engineer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Photography Editor","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Videography Editor","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Photography Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Videography Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Soil Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Metallurgical Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Machine Operator","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Harvesting","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Thresher","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Computer Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Manager","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Pharmacist","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Beautician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Operation Theatre Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","USG Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","ECG Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","MRI Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","C.T. Scan Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","X-Ray Technician","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Reader Wood Carving","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Reader Embroidery","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Reader Weaving","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Reader Shawl","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Reader Carpet","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Embroidery Designer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Weaving Designer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Shawl Designer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Carpet Designer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Wood Carver","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Geologist","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Chemical Analyst","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Mobile and Computer Mechanic","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Radio and Television Mechanic","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Architect","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Clerk Cum Computer Operator","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Librarian","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Overseer","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Highly Skilled","Goldsmith","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","General Category","Bakery Maker","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Steel Moulders","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Metal Moulders","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Iron Moulders","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Steel Fabricators","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Metal Fabricators","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Iron Fabricators","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Crusher Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Artificial Flooring Fitter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Bath Fitter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Carpet Weaving","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Steward","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Coppersmith","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Head Clerk","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Embroider","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Blacksmith","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Film Repairer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Head Bearer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Tailor","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Machine Repairman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Clerk Cum Computer Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Espresso Man","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Guide","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Shawl Weaving","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Head Cook","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Cinema Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Sprayers","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Slotter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Sharpner/Dharwala","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Packer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Paper Machine Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Silk Weaving","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Manager","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Head Salesperson","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Machine Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","General Category","Security guard","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Helper","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Loading/Unloading","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Salesman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Cleaner","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Sweeper","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Laborer","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Mazdoor","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Watchman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Gardener","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Gatekeeper","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Caretaker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","General Category","Peon","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Harvesting","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Weeding","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Sowing","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Transplanting","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Tube well Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Ploughman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Skilled","Tractor Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Herd Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Store Worker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Winnower","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Thresher","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Irrigation","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Manuring","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Pre Sowing Activities","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Agriculture","Unskilled","Preparation of Soil Embanking","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Torch Boy","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Guide","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Cleaner","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Ticket Collector","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Water boy","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Masalchi","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Pantryman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Table Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Room Boy","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Bearer","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Waiter","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Painter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Head Bearer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Steward","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Projector Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Confectioner","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Cook","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Tadoorchi","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Electrician","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Head Waiter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Butler","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Belder","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Driver (Heavy Vehicle)","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Regressor","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Bricklayers","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Pump Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Fireman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Packer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Mechanic","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Groovier","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Driver (Light Vehicle)","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Driver (Heavy Vehicle)","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Turner","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Engine Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Carpenter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Welder","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Fitter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Blacksmith","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Electrician","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Technician","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Foreman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Assistant Fitter","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Switch Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Oiler","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Ropeman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Silkman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Refractionary Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Water Carrier","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Palledar","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Lathe man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Fireman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Washerman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Woleman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Motor Attendent","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Greaser","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Cartman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Cleaner (Truck Roller Concrete Mixer etc.)","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Goal Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Wheat Cleaner","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Beltman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Machine man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Wireman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Miller","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Weighman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Security guard","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Manker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Bag man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Pipe Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Pacci Nalli Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Pathroo Mistries","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Saw Setters","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sawyers","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Resin Taper","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Mohri Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Mechanic","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Technician","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sorter Fangman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Long Carver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Leg Cutters","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Danga Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Cable Machine Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Gravity Rope Spileer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Crane Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Axe Man","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Looper","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Pacci Nalli Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sawman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Felling of Trees","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Hand Sawing Sheath Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sawman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Setters","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Skilled","Felling Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Grass Cutter","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Water Carrier","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Plantation Worker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Nursery","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Clooper Carriages","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Jamadar","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Resin Tin Carriers","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Nakise Carriase labour","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Bhajies Camp Carriage","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Nallah Mahan","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Dragger Labour","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Striker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Trolleyman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Thatcher","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Sawman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Carriage labour","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Stackers","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Debarker egging operation","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Delimber egging operation","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Hammerman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Porter","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Driver","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Rope Man (Fielding Operation)","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Shuttering","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Welder","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Tare Man","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Road inspector","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","R.E Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Clezior","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Moulder","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Glassman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Upholster","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Surveyor","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Rivetter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Pump Driver","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Distemperer","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Polisher","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Borewell Driller","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Turner","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Binder","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Rattan Worker","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Pump Attender","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Plaster","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Lineman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Painter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Plumber","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Cobbler","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Care Maker","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Celotax Cutter Maker","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Blaster","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Boiler Man","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Armature","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Electrician","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Concrete Mixer Operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Caneman","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Carpenter","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Blacksmith","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Quarry operator","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Chick Maker","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Cabinet maker","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Mason","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Store Keeper","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Skilled","Mistry","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Jamadar","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Crowbar Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Tindles","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Stocker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Spade Worker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Storeman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Lescar","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Thatcher","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Stretcher","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Cherpoy Stringer","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Canner Weaner","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Hammerman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Mucher Jamadar","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Grass Cutter","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Condenser Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Coal Pourer","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","White Washer","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Valve Controller","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Trolleyman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Tile Turner","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Sweeper","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Quarry man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Grinding Worker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Fireman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Foreman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Daftary","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Checking","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Breaker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Slinger","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Signal Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Searcher","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Petrol Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Lamp Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Khalssi","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Jumper Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Handle Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Gangman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Flag Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Daffadar","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Greaser","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Excavator","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Cracker","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Shuttlers","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Driver (bullock)","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Concrete Hand Mixer","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Cartman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Water Carrier","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Stone Carrier","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Bucket Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Boat Man","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Chainman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Belowman","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Beater Women","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Belder","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","Construction Industry","Unskilled","Gravel Spreader","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
-"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","","01.11.2017",26,"","","","","",325,"","","","","","8450.00"
-"Jammu and Kashmir","","","","Highly Skilled","","01.11.2017",26,"","","","","",400,"","","","","","10400.00"
-"Jammu and Kashmir","","","","Skilled","","01.11.2017",26,"","","","","",350,"","","","","","9100.00"
-"Jammu and Kashmir","","","","Unskilled","","01.11.2017",26,"","","","","",225,"","","","","","5850.00"
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Jammu and Kashmir","","","Plastic Industry","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Plastic Industry","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Plastic Industry","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Plastic Industry","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Cement and Cement Based Industry","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Constructions"
+"Jammu and Kashmir","","","Cement and Cement Based Industry","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Constructions"
+"Jammu and Kashmir","","","Cement and Cement Based Industry","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Cement and Cement Based Industry","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Constructions"
+"Jammu and Kashmir","","","Sweeping and Cleaning","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Scavengers"
+"Jammu and Kashmir","","","Sweeping and Cleaning","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Scavengers"
+"Jammu and Kashmir","","","Sweeping and Cleaning","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Scavengers"
+"Jammu and Kashmir","","","Sweeping and Cleaning","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Scavengers"
+"Jammu and Kashmir","","","Private Educational Institutes","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Teaching School Collage"
+"Jammu and Kashmir","","","Private Educational Institutes","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Teaching School Collage"
+"Jammu and Kashmir","","","Private Educational Institutes","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Teaching School Collage"
+"Jammu and Kashmir","","","Private Educational Institutes","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Teaching School Collage"
+"Jammu and Kashmir","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Hair Cutting Saloons","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Hair Cutting Saloons","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Hair Cutting Saloons","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Hair Cutting Saloons","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Cold Storage Employments","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Cold Storage Employments","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Cold Storage Employments","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Cold Storage Employments","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Beverage Manufacturing and Vending Establishments","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Food Cold Drinks"
+"Jammu and Kashmir","","","Beverage Manufacturing and Vending Establishments","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Food Cold Drinks"
+"Jammu and Kashmir","","","Beverage Manufacturing and Vending Establishments","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Food Cold Drinks"
+"Jammu and Kashmir","","","Beverage Manufacturing and Vending Establishments","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Food Cold Drinks"
+"Jammu and Kashmir","","","Tailoring Industry","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Stitch Textile"
+"Jammu and Kashmir","","","Tailoring Industry","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Stitch Textile"
+"Jammu and Kashmir","","","Tailoring Industry","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Stitch Textile"
+"Jammu and Kashmir","","","Tailoring Industry","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Stitch Textile"
+"Jammu and Kashmir","","","Security Services","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Watchman Guard"
+"Jammu and Kashmir","","","Security Services","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Watchman Guard"
+"Jammu and Kashmir","","","Security Services","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Watchman Guard"
+"Jammu and Kashmir","","","Security Services","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Watchman Guard"
+"Jammu and Kashmir","","","Electronic Industry","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Hardware Semiconductor"
+"Jammu and Kashmir","","","Electronic Industry","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Hardware Semiconductor"
+"Jammu and Kashmir","","","Electronic Industry","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Hardware Semiconductor"
+"Jammu and Kashmir","","","Electronic Industry","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Hardware Semiconductor"
+"Jammu and Kashmir","","","Saw Mills","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Wood Furniture carpentry"
+"Jammu and Kashmir","","","Saw Mills","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Wood Furniture carpentry"
+"Jammu and Kashmir","","","Saw Mills","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Wood Furniture carpentry"
+"Jammu and Kashmir","","","Saw Mills","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Wood Furniture carpentry"
+"Jammu and Kashmir","","","Sports Goods Manufacturer","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Sports Goods Manufacturer","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Sports Goods Manufacturer","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Sports Goods Manufacturer","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Detergent and Soap Manufacturer","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Washing Cleaning"
+"Jammu and Kashmir","","","Detergent and Soap Manufacturer","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Washing Cleaning"
+"Jammu and Kashmir","","","Detergent and Soap Manufacturer","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Washing Cleaning"
+"Jammu and Kashmir","","","Detergent and Soap Manufacturer","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Washing Cleaning"
+"Jammu and Kashmir","","","Employment in Rosin and Turpentine Product","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Employment in Rosin and Turpentine Product","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Employment in Rosin and Turpentine Product","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Employment in Rosin and Turpentine Product","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Manufacture of Metal and Steel Utensils","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Alloy"
+"Jammu and Kashmir","","","Manufacture of Metal and Steel Utensils","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Alloy"
+"Jammu and Kashmir","","","Manufacture of Metal and Steel Utensils","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Alloy"
+"Jammu and Kashmir","","","Manufacture of Metal and Steel Utensils","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Alloy"
+"Jammu and Kashmir","","","Food Products Manufacturer","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Food Products Manufacturer","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Food Products Manufacturer","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Food Products Manufacturer","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Wooden Furniture","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Carpentry"
+"Jammu and Kashmir","","","Wooden Furniture","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Carpentry"
+"Jammu and Kashmir","","","Wooden Furniture","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Carpentry"
+"Jammu and Kashmir","","","Wooden Furniture","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Carpentry"
+"Jammu and Kashmir","","","Silicate and Chemical Works","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Silicate and Chemical Works","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Silicate and Chemical Works","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Silicate and Chemical Works","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Paper and Paper Board Manufactury","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Stationery"
+"Jammu and Kashmir","","","Paper and Paper Board Manufactury","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Stationery"
+"Jammu and Kashmir","","","Paper and Paper Board Manufactury","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Stationery"
+"Jammu and Kashmir","","","Paper and Paper Board Manufactury","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Stationery"
+"Jammu and Kashmir","","","General Engineering and Fabrication","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Metal"
+"Jammu and Kashmir","","","General Engineering and Fabrication","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Metal"
+"Jammu and Kashmir","","","General Engineering and Fabrication","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Metal"
+"Jammu and Kashmir","","","General Engineering and Fabrication","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Metal"
+"Jammu and Kashmir","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Vehicle car bike autopart"
+"Jammu and Kashmir","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Vehicle car bike autopart"
+"Jammu and Kashmir","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Vehicle car bike autopart"
+"Jammu and Kashmir","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Vehicle car bike autopart"
+"Jammu and Kashmir","","","Lighting Engineering Works","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Electrical"
+"Jammu and Kashmir","","","Lighting Engineering Works","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Electrical"
+"Jammu and Kashmir","","","Lighting Engineering Works","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Electrical"
+"Jammu and Kashmir","","","Lighting Engineering Works","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Electrical"
+"Jammu and Kashmir","","","Steel and Metal Rolling Mills","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Alloy"
+"Jammu and Kashmir","","","Steel and Metal Rolling Mills","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Alloy"
+"Jammu and Kashmir","","","Steel and Metal Rolling Mills","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Alloy"
+"Jammu and Kashmir","","","Steel and Metal Rolling Mills","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Alloy"
+"Jammu and Kashmir","","","Shops & Commercial Establishments","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Shops & Commercial Establishments","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Shops & Commercial Establishments","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Shops & Commercial Establishments","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Wood Carving Work","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Furniture carpentry"
+"Jammu and Kashmir","","","Wood Carving Work","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Furniture carpentry"
+"Jammu and Kashmir","","","Wood Carving Work","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Furniture carpentry"
+"Jammu and Kashmir","","","Wood Carving Work","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Furniture carpentry"
+"Jammu and Kashmir","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Tailoring"
+"Jammu and Kashmir","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Tailoring"
+"Jammu and Kashmir","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Tailoring"
+"Jammu and Kashmir","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Tailoring"
+"Jammu and Kashmir","","","Tanneries and Leather Manufactory","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Tanneries and Leather Manufactory","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Tanneries and Leather Manufactory","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Tanneries and Leather Manufactory","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Public Motor Transport","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Public Motor Transport","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Public Motor Transport","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Public Motor Transport","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Mica Works","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Furniture carpentry Wood"
+"Jammu and Kashmir","","","Mica Works","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Furniture carpentry Wood"
+"Jammu and Kashmir","","","Mica Works","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Furniture carpentry Wood"
+"Jammu and Kashmir","","","Mica Works","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Furniture carpentry Wood"
+"Jammu and Kashmir","","","Lac Manufacturers Industry","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Lac Manufacturers Industry","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Lac Manufacturers Industry","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Lac Manufacturers Industry","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Stone Breaking and Crushing","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Stone Breaking and Crushing","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Stone Breaking and Crushing","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Stone Breaking and Crushing","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Local Authority Industry (Other than Village Panchayat)","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Rural Government Employees"
+"Jammu and Kashmir","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Rural Government Employees"
+"Jammu and Kashmir","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Rural Government Employees"
+"Jammu and Kashmir","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Rural Government Employees"
+"Jammu and Kashmir","","","Oil Mills","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Oil Mills","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Oil Mills","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Oil Mills","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Plantation activities","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Gardening"
+"Jammu and Kashmir","","","Plantation activities","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Gardening"
+"Jammu and Kashmir","","","Plantation activities","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Gardening"
+"Jammu and Kashmir","","","Plantation activities","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Gardening"
+"Jammu and Kashmir","","","Tobacco Bidi making","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Tobacco Bidi making","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Tobacco Bidi making","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Tobacco Bidi making","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Tobacco Manufacturing","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","Tobacco Manufacturing","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","Tobacco Manufacturing","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Tobacco Manufacturing","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Wool Shawl and Carpet Maker","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00","Clothes"
+"Jammu and Kashmir","","","Wool Shawl and Carpet Maker","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00","Clothes"
+"Jammu and Kashmir","","","Wool Shawl and Carpet Maker","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00","Clothes"
+"Jammu and Kashmir","","","Wool Shawl and Carpet Maker","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00","Clothes"
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Supervisor","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Record Keeper","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Typist","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Gestetner Operator","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Receptionist","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Telephone Operator","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Booking Clerk","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Accountant","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Cashier","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Scribe","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Xerox Machine Operator","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Time Keeper","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Tally Clerk","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","Store Keeper","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Dialysis Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Anaesthesia Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Laboratory Technician/Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Art Painting","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Portrait Maker","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Calligraphy","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Draftsman","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Electrician/Wireman/ Electrical Repairer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Computer programmer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Fashion Designer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Paramedical Staff and Nurses","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Medical Technologists","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Medical Assistant","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Engineer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Photography Editor","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Videography Editor","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Photography Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Videography Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Soil Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Metallurgical Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Machine Operator","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Harvesting","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Thresher","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Computer Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Manager","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Pharmacist","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Beautician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Operation Theatre Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","USG Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","ECG Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","MRI Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","C.T. Scan Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","X-Ray Technician","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Reader Wood Carving","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Reader Embroidery","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Reader Weaving","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Reader Shawl","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Reader Carpet","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Embroidery Designer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Weaving Designer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Shawl Designer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Carpet Designer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Wood Carver","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Geologist","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Chemical Analyst","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Mobile and Computer Mechanic","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Radio and Television Mechanic","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Architect","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Clerk Cum Computer Operator","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Librarian","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Overseer","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Highly Skilled","Goldsmith","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","General Category","Bakery Maker","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Steel Moulders","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Metal Moulders","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Iron Moulders","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Steel Fabricators","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Metal Fabricators","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Iron Fabricators","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Crusher Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Artificial Flooring Fitter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Bath Fitter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Carpet Weaving","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Steward","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Coppersmith","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Head Clerk","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Embroider","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Blacksmith","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Film Repairer","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Head Bearer","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Tailor","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Machine Repairman","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Clerk Cum Computer Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Espresso Man","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Guide","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Shawl Weaving","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Head Cook","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Cinema Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Sprayers","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Slotter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Sharpner/Dharwala","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Packer","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Paper Machine Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Silk Weaving","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Manager","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Head Salesperson","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Machine Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","General Category","Security guard","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Helper","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Loading/Unloading","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Salesman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Cleaner","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Sweeper","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Laborer","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Mazdoor","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Watchman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Gardener","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Gatekeeper","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Caretaker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","General Category","Peon","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Agriculture","Skilled","Harvesting","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Skilled","Weeding","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Skilled","Sowing","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Skilled","Transplanting","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Skilled","Tube well Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Skilled","Ploughman","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Skilled","Tractor Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Herd Man","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Store Worker","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Winnower","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Thresher","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Irrigation","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Manuring","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Pre Sowing Activities","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Agriculture","Unskilled","Preparation of Soil Embanking","1/10/117",26,"","","","","",225,"","","","","","5850.00","Farming Horticulture Dairy"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Torch Boy","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Guide","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Cleaner","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Ticket Collector","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Water boy","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Masalchi","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Pantryman","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Table Man","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Room Boy","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Bearer","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Unskilled","Waiter","1/10/117",26,"","","","","",225,"","","","","","5850.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Painter","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Head Bearer","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Steward","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Projector Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Confectioner","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Cook","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Tadoorchi","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Electrician","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Head Waiter","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Hotels and Restaurants","Skilled","Butler","1/10/117",26,"","","","","",350,"","","","","","9100.00","Eating House Cantin Accommodation"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Belder","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Driver (Heavy Vehicle)","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Regressor","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Bricklayers","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Pump Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Fireman","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Bricks or Roof Tiles","Skilled","Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Constructions"
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Packer","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Mechanic","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Groovier","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Driver (Light Vehicle)","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Driver (Heavy Vehicle)","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Turner","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Engine Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Carpenter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Welder","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Fitter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Blacksmith","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Electrician","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Technician","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Skilled","Foreman","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Assistant Fitter","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Switch Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Oiler","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Ropeman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Silkman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Refractionary Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Water Carrier","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Palledar","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Lathe man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Fireman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Washerman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Woleman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Motor Attendent","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Greaser","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Cartman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Cleaner (Truck Roller Concrete Mixer etc.)","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Goal Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Wheat Cleaner","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Beltman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Machine man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Wireman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Miller","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Weighman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Security guard","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Manker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Bag man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","Pipe Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Pacci Nalli Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Pathroo Mistries","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Saw Setters","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sawyers","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Resin Taper","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Mohri Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Mechanic","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Technician","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sorter Fangman","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Long Carver","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Leg Cutters","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Danga Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Cable Machine Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Gravity Rope Spileer","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Crane Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Axe Man","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Looper","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Pacci Nalli Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sawman","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Felling of Trees","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Hand Sawing Sheath Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Sawman","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Setters","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Skilled","Felling Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Grass Cutter","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Water Carrier","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Plantation Worker","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Nursery","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Clooper Carriages","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Jamadar","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Resin Tin Carriers","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Nakise Carriase labour","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Bhajies Camp Carriage","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Nallah Mahan","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Dragger Labour","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Striker","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Trolleyman","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Thatcher","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Sawman","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Carriage labour","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Stackers","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Debarker egging operation","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Delimber egging operation","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Hammerman","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Porter","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Driver","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Forest and Forestry","Unskilled","Rope Man (Fielding Operation)","1/10/117",26,"","","","","",225,"","","","","","5850.00","Jungle"
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Shuttering","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Welder","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tare Man","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Road inspector","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","R.E Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Clezior","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Moulder","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Glassman","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Upholster","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Surveyor","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Rivetter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Pump Driver","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Distemperer","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Polisher","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Borewell Driller","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Turner","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Binder","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Rattan Worker","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Pump Attender","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Plaster","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Lineman","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Painter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Plumber","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Cobbler","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Care Maker","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Celotax Cutter Maker","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Blaster","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Boiler Man","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Armature","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Electrician","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Concrete Mixer Operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Caneman","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Carpenter","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Blacksmith","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Quarry operator","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Chick Maker","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Cabinet maker","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Mason","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Store Keeper","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Mistry","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Jamadar","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Crowbar Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Tindles","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Stocker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Spade Worker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Storeman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lescar","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Thatcher","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Stretcher","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cherpoy Stringer","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Canner Weaner","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Hammerman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Mucher Jamadar","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Grass Cutter","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Condenser Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Coal Pourer","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","White Washer","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Valve Controller","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Trolleyman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Tile Turner","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sweeper","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Quarry man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Grinding Worker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Fireman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Foreman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Daftary","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Checking","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Breaker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Slinger","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Signal Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Searcher","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Petrol Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lamp Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Khalssi","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Jumper Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Handle Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gangman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Flag Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Daffadar","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Greaser","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Excavator","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cracker","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Shuttlers","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Driver (bullock)","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Concrete Hand Mixer","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cartman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Water Carrier","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Stone Carrier","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Bucket Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Boat Man","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Chainman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Belowman","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Beater Women","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Belder","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gravel Spreader","1/10/117",26,"","","","","",225,"","","","","","5850.00",0
+"Jammu and Kashmir","","","","Administrative/Ministerial/Accounts Staff","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
+"Jammu and Kashmir","","","","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
+"Jammu and Kashmir","","","","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0
+"Jammu and Kashmir","","","","Unskilled","","1/10/117",26,"","","","","",225,"","","","","","5850.00",0

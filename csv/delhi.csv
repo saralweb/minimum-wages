@@ -1,10 +1,109 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Delhi","","","","Supervisory","Graduate and Above","01.04.2021",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976
-"Delhi","","","","Clerical","Graduate and Above","01.04.2021",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976
-"Delhi","","","","Supervisory","Matriculate but not Graduate","01.04.2021",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291
-"Delhi","","","","Clerical","Matriculate but not Graduate","01.04.2021",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291
-"Delhi","","","","Supervisory","Non Matriculation","01.04.2021",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537
-"Delhi","","","","Clerical","Non Matriculation","01.04.2021",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537
-"Delhi","","","","Skilled","","01.04.2021",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291
-"Delhi","","","","Semi Skilled","","01.04.2021",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537
-"Delhi","","","","Unskilled","","01.04.2021",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Delhi","","","Engineering Industry","Supervisory","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,"Startup Company"
+"Delhi","","","Engineering Industry","Clerical","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,"Startup Company"
+"Delhi","","","Engineering Industry","Supervisory","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Startup Company"
+"Delhi","","","Engineering Industry","Clerical","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Startup Company"
+"Delhi","","","Engineering Industry","Supervisory","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Startup Company"
+"Delhi","","","Engineering Industry","Clerical","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Startup Company"
+"Delhi","","","Engineering Industry","Skilled","","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Startup Company"
+"Delhi","","","Engineering Industry","Semi Skilled","","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Startup Company"
+"Delhi","","","Engineering Industry","Unskilled","","1/9/121",26,611.846153846154,"",6,"","",617.846153846154,15908,"",156,"","",16064,"Startup Company"
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/9/121",26,611.846153846154,"",6,"","",617.846153846154,15908,"",156,"","",16064,0
+"Delhi","","","Hotels and Restaurants","Supervisory","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Clerical","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Supervisory","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Clerical","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Supervisory","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Clerical","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Skilled","","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Semi Skilled","","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Unskilled","","1/9/121",26,611.846153846154,"",6,"","",617.846153846154,15908,"",156,"","",16064,"Eating House Cantin Accommodation"
+"Delhi","","","Industrial Workers","Supervisory","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,0
+"Delhi","","","Industrial Workers","Clerical","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,0
+"Delhi","","","Industrial Workers","Supervisory","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Industrial Workers","Clerical","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Industrial Workers","Supervisory","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Industrial Workers","Clerical","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Industrial Workers","Skilled","","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Industrial Workers","Semi Skilled","","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Industrial Workers","Unskilled","","1/9/121",26,611.846153846154,"",6,"","",617.846153846154,15908,"",156,"","",16064,0
+"Delhi","","","Textile Industry","Supervisory","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,"Clothes"
+"Delhi","","","Textile Industry","Clerical","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,"Clothes"
+"Delhi","","","Textile Industry","Supervisory","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Clothes"
+"Delhi","","","Textile Industry","Clerical","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Clothes"
+"Delhi","","","Textile Industry","Supervisory","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Clothes"
+"Delhi","","","Textile Industry","Clerical","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Clothes"
+"Delhi","","","Textile Industry","Skilled","","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,"Clothes"
+"Delhi","","","Textile Industry","Semi Skilled","","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,"Clothes"
+"Delhi","","","Textile Industry","Unskilled","","1/9/121",26,611.846153846154,"",6,"","",617.846153846154,15908,"",156,"","",16064,"Clothes"
+"Delhi","","","Shops & Commercial Establishments","Supervisory","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,0
+"Delhi","","","Shops & Commercial Establishments","Clerical","Graduate and Above","1/9/121",26,806.769230769231,"",8,"","",814.769230769231,20976,"",208,"","",21184,0
+"Delhi","","","Shops & Commercial Establishments","Supervisory","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Shops & Commercial Establishments","Clerical","Matriculate but not Graduate","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Shops & Commercial Establishments","Supervisory","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Shops & Commercial Establishments","Clerical","Non Matriculation","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Shops & Commercial Establishments","Skilled","","1/9/121",26,741.961538461538,"",7,"","",748.961538461538,19291,"",182,"","",19473,0
+"Delhi","","","Shops & Commercial Establishments","Semi Skilled","","1/9/121",26,674.5,"",6,"","",680.5,17537,"",156,"","",17693,0
+"Delhi","","","Shops & Commercial Establishments","Unskilled","","1/9/121",26,611.846153846154,"",6,"","",617.846153846154,15908,"",156,"","",16064,0
+"Delhi","","","Engineering Industry","Supervisory","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,"Startup Company"
+"Delhi","","","Engineering Industry","Clerical","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,"Startup Company"
+"Delhi","","","Engineering Industry","Supervisory","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Startup Company"
+"Delhi","","","Engineering Industry","Clerical","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Startup Company"
+"Delhi","","","Engineering Industry","Supervisory","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Startup Company"
+"Delhi","","","Engineering Industry","Clerical","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Startup Company"
+"Delhi","","","Engineering Industry","Skilled","","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Startup Company"
+"Delhi","","","Engineering Industry","Semi Skilled","","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Startup Company"
+"Delhi","","","Engineering Industry","Unskilled","","1/3/121",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908,"Startup Company"
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/121",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908,0
+"Delhi","","","Hotels and Restaurants","Supervisory","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Clerical","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Supervisory","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Clerical","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Supervisory","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Clerical","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Skilled","","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Semi Skilled","","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Eating House Cantin Accommodation"
+"Delhi","","","Hotels and Restaurants","Unskilled","","1/3/121",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908,"Eating House Cantin Accommodation"
+"Delhi","","","Industrial Workers","Supervisory","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,0
+"Delhi","","","Industrial Workers","Clerical","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,0
+"Delhi","","","Industrial Workers","Supervisory","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Industrial Workers","Clerical","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Industrial Workers","Supervisory","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Industrial Workers","Clerical","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Industrial Workers","Skilled","","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Industrial Workers","Semi Skilled","","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Industrial Workers","Unskilled","","1/3/121",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908,0
+"Delhi","","","Textile Industry","Supervisory","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,"Clothes"
+"Delhi","","","Textile Industry","Clerical","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,"Clothes"
+"Delhi","","","Textile Industry","Supervisory","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Clothes"
+"Delhi","","","Textile Industry","Clerical","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Clothes"
+"Delhi","","","Textile Industry","Supervisory","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Clothes"
+"Delhi","","","Textile Industry","Clerical","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Clothes"
+"Delhi","","","Textile Industry","Skilled","","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,"Clothes"
+"Delhi","","","Textile Industry","Semi Skilled","","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,"Clothes"
+"Delhi","","","Textile Industry","Unskilled","","1/3/121",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908,"Clothes"
+"Delhi","","","Shops & Commercial Establishments","Supervisory","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,0
+"Delhi","","","Shops & Commercial Establishments","Clerical","Graduate and Above","1/3/121",26,"785.77","","21.00","","","806.77",20430,"",546,"","",20976,0
+"Delhi","","","Shops & Commercial Establishments","Supervisory","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Shops & Commercial Establishments","Clerical","Matriculate but not Graduate","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Shops & Commercial Establishments","Supervisory","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Shops & Commercial Establishments","Clerical","Non Matriculation","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Shops & Commercial Establishments","Skilled","","1/3/121",26,"722.96","","19.00","","","741.96",18797,"",494,"","",19291,0
+"Delhi","","","Shops & Commercial Establishments","Semi Skilled","","1/3/121",26,"656.50","","18.00","","","674.50",17069,"",468,"","",17537,0
+"Delhi","","","Shops & Commercial Establishments","Unskilled","","1/3/121",26,"595.85","","16.00","","","611.85",15492,"",416,"","",15908,0

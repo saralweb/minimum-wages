@@ -1,193 +1,653 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Odisha","","","Wooden Furniture","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Wooden Furniture","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Wooden Furniture","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Wooden Furniture","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Tobacco Bidi making","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Tobacco Bidi making","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Tobacco Bidi making","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Tobacco Bidi making","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Bricks or Roof Tiles","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Bricks or Roof Tiles","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Bricks or Roof Tiles","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Bricks or Roof Tiles","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Stone Breaking and Crushing","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Stone Breaking and Crushing","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Stone Breaking and Crushing","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Stone Breaking and Crushing","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Soaps & Cosmetics","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Soaps & Cosmetics","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Soaps & Cosmetics","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Soaps & Cosmetics","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Saw Mills","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Saw Mills","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Saw Mills","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Saw Mills","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Salt Pan Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Salt Pan Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Salt Pan Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Salt Pan Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Rubber Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Rubber Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Rubber Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Rubber Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Readymade Garments Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Readymade Garments Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Readymade Garments Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Readymade Garments Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Public Motor Transport","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Public Motor Transport","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Public Motor Transport","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Public Motor Transport","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Security Services","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Security Services","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Security Services","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Security Services","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Power Loom Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Power Loom Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Power Loom Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Power Loom Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Pharmaceutical Manufacturers","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Pharmaceutical Manufacturers","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Pharmaceutical Manufacturers","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Pharmaceutical Manufacturers","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Paper and Paper Board Manufactury","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Paper and Paper Board Manufactury","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Paper and Paper Board Manufactury","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Paper and Paper Board Manufactury","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Oil Mills","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Oil Mills","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Oil Mills","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Oil Mills","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Metal Industries","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Metal Industries","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Metal Industries","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Metal Industries","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Utensils","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Utensils","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Utensils","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Utensils","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Plastic Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Plastic Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Plastic Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Plastic Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Paints and Varnishes","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Paints and Varnishes","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Paints and Varnishes","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Paints and Varnishes","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Jute Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Jute Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Jute Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Jute Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Hotels and Restaurants","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Hotels and Restaurants","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Handloom","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Handloom","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Handloom","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Handloom","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Hosiery","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Hosiery","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Hosiery","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Hosiery","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Glass Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Glass Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Glass Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Glass Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Shops & Commercial Establishments","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Fisheries And Sea Food Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Fisheries And Sea Food Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Fisheries And Sea Food Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Fisheries And Sea Food Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Cloth Dyeing & Printing","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Cloth Dyeing & Printing","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Cloth Dyeing & Printing","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Cloth Dyeing & Printing","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Distillery-Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Distillery-Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Distillery-Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Distillery-Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Cotton Ginning and Pressing Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Cotton Ginning and Pressing Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Cotton Ginning and Pressing Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Cotton Ginning and Pressing Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Construction - Dams and Multi Purpose Projects","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Construction - Dams and Multi Purpose Projects","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Construction - Dams and Multi Purpose Projects","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Construction - Dams and Multi Purpose Projects","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Coir Manufacturer","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Coir Manufacturer","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Coir Manufacturer","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Coir Manufacturer","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Cinema Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Cinema Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Cinema Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Cinema Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Chemical Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Chemical Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Chemical Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Chemical Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Ceramic Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Ceramic Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Ceramic Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Ceramic Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Cement and Cement Based Industry","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Cement and Cement Based Industry","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Cement and Cement Based Industry","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Cement and Cement Based Industry","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Cashew Processing","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Cashew Processing","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Cashew Processing","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Cashew Processing","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Carpet Weaving Manufacturer","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Carpet Weaving Manufacturer","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Carpet Weaving Manufacturer","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Carpet Weaving Manufacturer","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","BELL METAL AND BRASS INDUSTRY","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","BELL METAL AND BRASS INDUSTRY","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","BELL METAL AND BRASS INDUSTRY","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","BELL METAL AND BRASS INDUSTRY","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Biscuit Manufacturer","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Biscuit Manufacturer","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Biscuit Manufacturer","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Biscuit Manufacturer","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Bakeries","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Bakeries","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Bakeries","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Bakeries","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Automobile Workshops","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Automobile Workshops","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Automobile Workshops","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Automobile Workshops","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Agriculture","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Agriculture","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Agriculture","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Agriculture","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","Agarbathy Manufactory","Highly Skilled","","01.04.2021",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00"
-"Odisha","","","Agarbathy Manufactory","Skilled","","01.04.2021",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00"
-"Odisha","","","Agarbathy Manufactory","Semi Skilled","","01.04.2021",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00"
-"Odisha","","","Agarbathy Manufactory","Unskilled","","01.04.2021",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00"
-"Odisha","","","","Highly Skilled","","01.10.2020",26,453.35,"",4.65,"","",458,"11787.10","","120.90","","","11908.00"
-"Odisha","","","","Skilled","","01.10.2020",26,393.35,"",4.65,"","",398,"10227.10","","120.90","","","10348.00"
-"Odisha","","","","Semi Skilled","","01.10.2020",26,343.35,"",4.65,"","",348,"8927.10","","120.90","","","9048.00"
-"Odisha","","","","Unskilled","","01.10.2020",26,303.35,"",4.65,"","",308,"7887.10","","120.90","","","8008.00"
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Odisha","","","Trunk And Bucket Manufacturer","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Metal Products"
+"Odisha","","","Trunk And Bucket Manufacturer","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Metal Products"
+"Odisha","","","Trunk And Bucket Manufacturer","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Metal Products"
+"Odisha","","","Trunk And Bucket Manufacturer","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Metal Products"
+"Odisha","","","Timber Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Furniture carpentry Wood"
+"Odisha","","","Timber Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Furniture carpentry Wood"
+"Odisha","","","Timber Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Furniture carpentry Wood"
+"Odisha","","","Timber Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Furniture carpentry Wood"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Plates"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Plates"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Plates"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Plates"
+"Odisha","","","Public Health Engineering","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Public Health Engineering","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Public Health Engineering","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Public Health Engineering","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Transportation & Storage","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Logistics Warehouse"
+"Odisha","","","Transportation & Storage","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Logistics Warehouse"
+"Odisha","","","Transportation & Storage","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Logistics Warehouse"
+"Odisha","","","Transportation & Storage","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Logistics Warehouse"
+"Odisha","","","Printing Press","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Printing Press","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Printing Press","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Printing Press","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Petrol Pump","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Petrol Pump","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Petrol Pump","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Petrol Pump","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Private Educational Institutes","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Teaching School Collage"
+"Odisha","","","Private Educational Institutes","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Teaching School Collage"
+"Odisha","","","Private Educational Institutes","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Teaching School Collage"
+"Odisha","","","Private Educational Institutes","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Teaching School Collage"
+"Odisha","","","Manufacture of Radio by assembling with parts","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Manufacture of Radio by assembling with parts","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Manufacture of Radio by assembling with parts","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Manufacture of Radio by assembling with parts","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Manufacture of nails and pines","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Hardwear"
+"Odisha","","","Manufacture of nails and pines","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Hardwear"
+"Odisha","","","Manufacture of nails and pines","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Hardwear"
+"Odisha","","","Manufacture of nails and pines","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Hardwear"
+"Odisha","","","Matches and Fireworks Manufacturers","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Matches and Fireworks Manufacturers","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Matches and Fireworks Manufacturers","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Matches and Fireworks Manufacturers","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Electronic Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Hardware Semiconductor"
+"Odisha","","","Electronic Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Hardware Semiconductor"
+"Odisha","","","Electronic Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Hardware Semiconductor"
+"Odisha","","","Electronic Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Hardware Semiconductor"
+"Odisha","","","Manufacture of Coke and Burning Coals","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Manufacture of Coke and Burning Coals","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Manufacture of Coke and Burning Coals","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Manufacture of Coke and Burning Coals","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Manufacture of brush and brooms","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Manufacture of brush and brooms","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Manufacture of brush and brooms","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Manufacture of brush and brooms","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Rural Government Employees"
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Rural Government Employees"
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Rural Government Employees"
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Rural Government Employees"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","LPG"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","LPG"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","LPG"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","LPG"
+"Odisha","","","Tanneries and Leather Manufactory","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Tanneries and Leather Manufactory","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Tanneries and Leather Manufactory","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Tanneries and Leather Manufactory","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Khadi & Village Industries","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Clothes"
+"Odisha","","","Khadi & Village Industries","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Clothes"
+"Odisha","","","Khadi & Village Industries","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Clothes"
+"Odisha","","","Khadi & Village Industries","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Clothes"
+"Odisha","","","Kendu Leaf Collection","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Kendu Leaf Collection","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Kendu Leaf Collection","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Kendu Leaf Collection","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Cold Storage Employments","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Cold Storage Employments","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Cold Storage Employments","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Cold Storage Employments","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Graphite Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Carbon"
+"Odisha","","","Graphite Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Carbon"
+"Odisha","","","Graphite Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Carbon"
+"Odisha","","","Graphite Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Carbon"
+"Odisha","","","Jewellery Manufacturing Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Goldsmith"
+"Odisha","","","Jewellery Manufacturing Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Goldsmith"
+"Odisha","","","Jewellery Manufacturing Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Goldsmith"
+"Odisha","","","Jewellery Manufacturing Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Goldsmith"
+"Odisha","","","Foundry Industries","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Alloy Metal"
+"Odisha","","","Foundry Industries","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Alloy Metal"
+"Odisha","","","Foundry Industries","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Alloy Metal"
+"Odisha","","","Foundry Industries","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Alloy Metal"
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Pipelines Construction"
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Pipelines Construction"
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Pipelines Construction"
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Pipelines Construction"
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Domestic Workers","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Informal Sector"
+"Odisha","","","Domestic Workers","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Informal Sector"
+"Odisha","","","Domestic Workers","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Informal Sector"
+"Odisha","","","Domestic Workers","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Informal Sector"
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Collection of Sal Seeds","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Agri-Tech"
+"Odisha","","","Collection of Sal Seeds","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Agri-Tech"
+"Odisha","","","Collection of Sal Seeds","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Agri-Tech"
+"Odisha","","","Collection of Sal Seeds","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Agri-Tech"
+"Odisha","","","Clay Pottery","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Earthenware"
+"Odisha","","","Clay Pottery","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Earthenware"
+"Odisha","","","Clay Pottery","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Earthenware"
+"Odisha","","","Clay Pottery","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Earthenware"
+"Odisha","","","Bamboo Forest Establishment","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Jungle Wood"
+"Odisha","","","Bamboo Forest Establishment","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Jungle Wood"
+"Odisha","","","Bamboo Forest Establishment","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Jungle Wood"
+"Odisha","","","Bamboo Forest Establishment","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Jungle Wood"
+"Odisha","","","Wooden Furniture","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Carpentry"
+"Odisha","","","Wooden Furniture","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Carpentry"
+"Odisha","","","Wooden Furniture","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Carpentry"
+"Odisha","","","Wooden Furniture","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Carpentry"
+"Odisha","","","Tobacco Bidi making","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Tobacco Bidi making","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Tobacco Bidi making","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Tobacco Bidi making","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Bricks or Roof Tiles","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Constructions"
+"Odisha","","","Bricks or Roof Tiles","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Constructions"
+"Odisha","","","Bricks or Roof Tiles","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Constructions"
+"Odisha","","","Bricks or Roof Tiles","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Constructions"
+"Odisha","","","Stone Breaking and Crushing","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Stone Breaking and Crushing","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Stone Breaking and Crushing","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Stone Breaking and Crushing","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Soaps & Cosmetics","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Detergent"
+"Odisha","","","Soaps & Cosmetics","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Detergent"
+"Odisha","","","Soaps & Cosmetics","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Detergent"
+"Odisha","","","Soaps & Cosmetics","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Detergent"
+"Odisha","","","Saw Mills","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Wood Furniture carpentry"
+"Odisha","","","Saw Mills","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Wood Furniture carpentry"
+"Odisha","","","Saw Mills","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Wood Furniture carpentry"
+"Odisha","","","Saw Mills","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Wood Furniture carpentry"
+"Odisha","","","Salt Pan Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Salt Pan Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Salt Pan Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Salt Pan Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Rubber Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Rubber Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Rubber Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Rubber Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Readymade Garments Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Clothes Textile"
+"Odisha","","","Readymade Garments Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Clothes Textile"
+"Odisha","","","Readymade Garments Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Clothes Textile"
+"Odisha","","","Readymade Garments Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Clothes Textile"
+"Odisha","","","Public Motor Transport","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Public Motor Transport","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Public Motor Transport","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Public Motor Transport","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Security Services","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Watchman Guard"
+"Odisha","","","Security Services","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Watchman Guard"
+"Odisha","","","Security Services","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Watchman Guard"
+"Odisha","","","Security Services","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Watchman Guard"
+"Odisha","","","Power Loom Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Textile Industry"
+"Odisha","","","Power Loom Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Textile Industry"
+"Odisha","","","Power Loom Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Textile Industry"
+"Odisha","","","Power Loom Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Textile Industry"
+"Odisha","","","Pharmaceutical Manufacturers","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Medicine Shop medical"
+"Odisha","","","Pharmaceutical Manufacturers","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Medicine Shop medical"
+"Odisha","","","Pharmaceutical Manufacturers","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Medicine Shop medical"
+"Odisha","","","Pharmaceutical Manufacturers","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Medicine Shop medical"
+"Odisha","","","Paper and Paper Board Manufactury","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Stationery"
+"Odisha","","","Paper and Paper Board Manufactury","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Stationery"
+"Odisha","","","Paper and Paper Board Manufactury","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Stationery"
+"Odisha","","","Paper and Paper Board Manufactury","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Stationery"
+"Odisha","","","Oil Mills","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Oil Mills","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Oil Mills","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Oil Mills","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Metal Industries","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Metal Industries","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Metal Industries","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Metal Industries","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Utensils","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Utensils","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Utensils","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Utensils","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Plastic Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Plastic Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Plastic Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Plastic Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Paints and Varnishes","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Color Colour"
+"Odisha","","","Paints and Varnishes","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Color Colour"
+"Odisha","","","Paints and Varnishes","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Color Colour"
+"Odisha","","","Paints and Varnishes","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Color Colour"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","House LPG"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","House LPG"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","House LPG"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","House LPG"
+"Odisha","","","Jute Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Gunny Bags"
+"Odisha","","","Jute Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Gunny Bags"
+"Odisha","","","Jute Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Gunny Bags"
+"Odisha","","","Jute Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Gunny Bags"
+"Odisha","","","Hotels and Restaurants","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Eating House Cantin Accommodation"
+"Odisha","","","Hotels and Restaurants","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Eating House Cantin Accommodation"
+"Odisha","","","Hotels and Restaurants","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Eating House Cantin Accommodation"
+"Odisha","","","Hotels and Restaurants","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Eating House Cantin Accommodation"
+"Odisha","","","Handloom","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Textile Industry"
+"Odisha","","","Handloom","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Textile Industry"
+"Odisha","","","Handloom","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Textile Industry"
+"Odisha","","","Handloom","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Textile Industry"
+"Odisha","","","Hosiery","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Textile Industry"
+"Odisha","","","Hosiery","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Textile Industry"
+"Odisha","","","Hosiery","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Textile Industry"
+"Odisha","","","Hosiery","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Textile Industry"
+"Odisha","","","Glass Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Glass Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Glass Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Glass Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Shops & Commercial Establishments","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Shops & Commercial Establishments","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Shops & Commercial Establishments","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Shops & Commercial Establishments","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Fisheries And Sea Food Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Seafood"
+"Odisha","","","Fisheries And Sea Food Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Seafood"
+"Odisha","","","Fisheries And Sea Food Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Seafood"
+"Odisha","","","Fisheries And Sea Food Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Seafood"
+"Odisha","","","Cloth Dyeing & Printing","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Textile Industry"
+"Odisha","","","Cloth Dyeing & Printing","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Textile Industry"
+"Odisha","","","Cloth Dyeing & Printing","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Textile Industry"
+"Odisha","","","Cloth Dyeing & Printing","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Textile Industry"
+"Odisha","","","Distillery-Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Beer Wine Liquor"
+"Odisha","","","Distillery-Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Beer Wine Liquor"
+"Odisha","","","Distillery-Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Beer Wine Liquor"
+"Odisha","","","Distillery-Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Beer Wine Liquor"
+"Odisha","","","Cotton Ginning and Pressing Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Clothes Textile Yarn"
+"Odisha","","","Cotton Ginning and Pressing Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Clothes Textile Yarn"
+"Odisha","","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Clothes Textile Yarn"
+"Odisha","","","Cotton Ginning and Pressing Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Clothes Textile Yarn"
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Coir Manufacturer","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Rope"
+"Odisha","","","Coir Manufacturer","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Rope"
+"Odisha","","","Coir Manufacturer","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Rope"
+"Odisha","","","Coir Manufacturer","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Rope"
+"Odisha","","","Cinema Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Film Industry Multiplex Hall"
+"Odisha","","","Cinema Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Film Industry Multiplex Hall"
+"Odisha","","","Cinema Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Film Industry Multiplex Hall"
+"Odisha","","","Cinema Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Film Industry Multiplex Hall"
+"Odisha","","","Chemical Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Chemical Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Chemical Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Chemical Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Cement and Cement Based Industry","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Constructions"
+"Odisha","","","Cement and Cement Based Industry","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Constructions"
+"Odisha","","","Cement and Cement Based Industry","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Constructions"
+"Odisha","","","Cement and Cement Based Industry","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Constructions"
+"Odisha","","","Cashew Processing","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Cashew Processing","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Cashew Processing","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Cashew Processing","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Carpet Weaving Manufacturer","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Textile Industry"
+"Odisha","","","Carpet Weaving Manufacturer","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Textile Industry"
+"Odisha","","","Carpet Weaving Manufacturer","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Textile Industry"
+"Odisha","","","Carpet Weaving Manufacturer","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Textile Industry"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Alloy Metal"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Alloy Metal"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Alloy Metal"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Alloy Metal"
+"Odisha","","","Biscuit Manufacturer","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Food Bakeries"
+"Odisha","","","Biscuit Manufacturer","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Food Bakeries"
+"Odisha","","","Biscuit Manufacturer","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Food Bakeries"
+"Odisha","","","Biscuit Manufacturer","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Food Bakeries"
+"Odisha","","","Bakeries","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Food Industry Biscuit"
+"Odisha","","","Bakeries","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Food Industry Biscuit"
+"Odisha","","","Bakeries","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Food Industry Biscuit"
+"Odisha","","","Bakeries","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Food Industry Biscuit"
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00",0
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00",0
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00",0
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00",0
+"Odisha","","","Automobile Workshops","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Vehicle car bike autopart"
+"Odisha","","","Automobile Workshops","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Vehicle car bike autopart"
+"Odisha","","","Automobile Workshops","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Vehicle car bike autopart"
+"Odisha","","","Automobile Workshops","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Vehicle car bike autopart"
+"Odisha","","","Agriculture","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Farming Horticulture Dairy"
+"Odisha","","","Agriculture","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Farming Horticulture Dairy"
+"Odisha","","","Agriculture","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Farming Horticulture Dairy"
+"Odisha","","","Agriculture","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Farming Horticulture Dairy"
+"Odisha","","","Agarbathy Manufactory","Highly Skilled","","1/9/121",26,461,"",4,"","",465,"11986.00","","104.00","","","12090.00","Incense"
+"Odisha","","","Agarbathy Manufactory","Skilled","","1/9/121",26,401,"",4,"","",405,"10426.00","","104.00","","","10530.00","Incense"
+"Odisha","","","Agarbathy Manufactory","Semi Skilled","","1/9/121",26,351,"",4,"","",355,"9126.00","","104.00","","","9230.00","Incense"
+"Odisha","","","Agarbathy Manufactory","Unskilled","","1/9/121",26,311,"",4,"","",315,"8086.00","","104.00","","","8190.00","Incense"
+"Odisha","","","Trunk And Bucket Manufacturer","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Metal Products"
+"Odisha","","","Trunk And Bucket Manufacturer","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Metal Products"
+"Odisha","","","Trunk And Bucket Manufacturer","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Metal Products"
+"Odisha","","","Trunk And Bucket Manufacturer","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Metal Products"
+"Odisha","","","Timber Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Furniture carpentry Wood"
+"Odisha","","","Timber Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Furniture carpentry Wood"
+"Odisha","","","Timber Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Furniture carpentry Wood"
+"Odisha","","","Timber Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Furniture carpentry Wood"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Plates"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Plates"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Plates"
+"Odisha","","","Siali leaf pluckers & Sal leaf pluckers","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Plates"
+"Odisha","","","Public Health Engineering","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Public Health Engineering","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Public Health Engineering","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Public Health Engineering","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Collection-distribution-purification-transmission of water"
+"Odisha","","","Transportation & Storage","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Logistics Warehouse"
+"Odisha","","","Transportation & Storage","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Logistics Warehouse"
+"Odisha","","","Transportation & Storage","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Logistics Warehouse"
+"Odisha","","","Transportation & Storage","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Logistics Warehouse"
+"Odisha","","","Printing Press","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Printing Press","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Printing Press","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Printing Press","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Petrol Pump","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Petrol Pump","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Petrol Pump","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Petrol Pump","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Private Educational Institutes","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Teaching School Collage"
+"Odisha","","","Private Educational Institutes","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Teaching School Collage"
+"Odisha","","","Private Educational Institutes","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Teaching School Collage"
+"Odisha","","","Private Educational Institutes","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Teaching School Collage"
+"Odisha","","","Manufacture of Radio by assembling with parts","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Manufacture of Radio by assembling with parts","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Manufacture of Radio by assembling with parts","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Manufacture of Radio by assembling with parts","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Manufacture of nails and pines","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Hardwear"
+"Odisha","","","Manufacture of nails and pines","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Hardwear"
+"Odisha","","","Manufacture of nails and pines","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Hardwear"
+"Odisha","","","Manufacture of nails and pines","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Hardwear"
+"Odisha","","","Matches and Fireworks Manufacturers","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Matches and Fireworks Manufacturers","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Matches and Fireworks Manufacturers","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Matches and Fireworks Manufacturers","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Electronic Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Hardware Semiconductor"
+"Odisha","","","Electronic Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Hardware Semiconductor"
+"Odisha","","","Electronic Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Hardware Semiconductor"
+"Odisha","","","Electronic Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Hardware Semiconductor"
+"Odisha","","","Manufacture of Coke and Burning Coals","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Manufacture of Coke and Burning Coals","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Manufacture of Coke and Burning Coals","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Manufacture of Coke and Burning Coals","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Manufacture of brush and brooms","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Manufacture of brush and brooms","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Manufacture of brush and brooms","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Manufacture of brush and brooms","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Rural Government Employees"
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Rural Government Employees"
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Rural Government Employees"
+"Odisha","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Rural Government Employees"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","LPG"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","LPG"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","LPG"
+"Odisha","","","Liquefied Petroleum Gas manufacture and distribution","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","LPG"
+"Odisha","","","Tanneries and Leather Manufactory","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Tanneries and Leather Manufactory","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Tanneries and Leather Manufactory","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Tanneries and Leather Manufactory","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Khadi & Village Industries","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Clothes"
+"Odisha","","","Khadi & Village Industries","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Clothes"
+"Odisha","","","Khadi & Village Industries","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Clothes"
+"Odisha","","","Khadi & Village Industries","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Clothes"
+"Odisha","","","Kendu Leaf Collection","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Kendu Leaf Collection","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Kendu Leaf Collection","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Kendu Leaf Collection","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Cold Storage Employments","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Cold Storage Employments","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Cold Storage Employments","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Cold Storage Employments","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Graphite Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Carbon"
+"Odisha","","","Graphite Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Carbon"
+"Odisha","","","Graphite Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Carbon"
+"Odisha","","","Graphite Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Carbon"
+"Odisha","","","Jewellery Manufacturing Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Goldsmith"
+"Odisha","","","Jewellery Manufacturing Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Goldsmith"
+"Odisha","","","Jewellery Manufacturing Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Goldsmith"
+"Odisha","","","Jewellery Manufacturing Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Goldsmith"
+"Odisha","","","Foundry Industries","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Alloy Metal"
+"Odisha","","","Foundry Industries","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Alloy Metal"
+"Odisha","","","Foundry Industries","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Alloy Metal"
+"Odisha","","","Foundry Industries","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Alloy Metal"
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Forest produce such as Genduli gum, Mahua making of coal and resin.","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Finishing Dying of yarn and fabrics, painting, knitting and embroidery","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Pipelines Construction"
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Pipelines Construction"
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Pipelines Construction"
+"Odisha","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Pipelines Construction"
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Employment in NGO and Voluntary Social Organization","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Employment in Electricity Generator and Supply","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Domestic Workers","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Informal Sector"
+"Odisha","","","Domestic Workers","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Informal Sector"
+"Odisha","","","Domestic Workers","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Informal Sector"
+"Odisha","","","Domestic Workers","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Informal Sector"
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Employment in Courier and Cargo Services","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Collection of Sal Seeds","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Agri-Tech"
+"Odisha","","","Collection of Sal Seeds","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Agri-Tech"
+"Odisha","","","Collection of Sal Seeds","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Agri-Tech"
+"Odisha","","","Collection of Sal Seeds","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Agri-Tech"
+"Odisha","","","Clay Pottery","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Earthenware"
+"Odisha","","","Clay Pottery","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Earthenware"
+"Odisha","","","Clay Pottery","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Earthenware"
+"Odisha","","","Clay Pottery","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Earthenware"
+"Odisha","","","Bamboo Forest Establishment","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Jungle Wood"
+"Odisha","","","Bamboo Forest Establishment","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Jungle Wood"
+"Odisha","","","Bamboo Forest Establishment","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Jungle Wood"
+"Odisha","","","Bamboo Forest Establishment","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Jungle Wood"
+"Odisha","","","Wooden Furniture","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Carpentry"
+"Odisha","","","Wooden Furniture","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Carpentry"
+"Odisha","","","Wooden Furniture","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Carpentry"
+"Odisha","","","Wooden Furniture","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Carpentry"
+"Odisha","","","Tobacco Bidi making","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Tobacco Bidi making","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Tobacco Bidi making","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Tobacco Bidi making","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Bricks or Roof Tiles","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Constructions"
+"Odisha","","","Bricks or Roof Tiles","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Constructions"
+"Odisha","","","Bricks or Roof Tiles","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Constructions"
+"Odisha","","","Bricks or Roof Tiles","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Constructions"
+"Odisha","","","Stone Breaking and Crushing","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Stone Breaking and Crushing","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Stone Breaking and Crushing","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Stone Breaking and Crushing","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Soaps & Cosmetics","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Detergent"
+"Odisha","","","Soaps & Cosmetics","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Detergent"
+"Odisha","","","Soaps & Cosmetics","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Detergent"
+"Odisha","","","Soaps & Cosmetics","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Detergent"
+"Odisha","","","Saw Mills","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Wood Furniture carpentry"
+"Odisha","","","Saw Mills","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Wood Furniture carpentry"
+"Odisha","","","Saw Mills","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Wood Furniture carpentry"
+"Odisha","","","Saw Mills","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Wood Furniture carpentry"
+"Odisha","","","Salt Pan Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Salt Pan Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Salt Pan Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Salt Pan Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Rubber Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Rubber Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Rubber Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Rubber Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Readymade Garments Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Clothes Textile"
+"Odisha","","","Readymade Garments Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Clothes Textile"
+"Odisha","","","Readymade Garments Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Clothes Textile"
+"Odisha","","","Readymade Garments Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Clothes Textile"
+"Odisha","","","Public Motor Transport","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Public Motor Transport","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Public Motor Transport","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Public Motor Transport","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Security Services","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Watchman Guard"
+"Odisha","","","Security Services","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Watchman Guard"
+"Odisha","","","Security Services","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Watchman Guard"
+"Odisha","","","Security Services","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Watchman Guard"
+"Odisha","","","Power Loom Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Textile Industry"
+"Odisha","","","Power Loom Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Textile Industry"
+"Odisha","","","Power Loom Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Textile Industry"
+"Odisha","","","Power Loom Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Textile Industry"
+"Odisha","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Medicine Shop medical"
+"Odisha","","","Pharmaceutical Manufacturers","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Medicine Shop medical"
+"Odisha","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Medicine Shop medical"
+"Odisha","","","Pharmaceutical Manufacturers","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Medicine Shop medical"
+"Odisha","","","Paper and Paper Board Manufactury","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Stationery"
+"Odisha","","","Paper and Paper Board Manufactury","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Stationery"
+"Odisha","","","Paper and Paper Board Manufactury","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Stationery"
+"Odisha","","","Paper and Paper Board Manufactury","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Stationery"
+"Odisha","","","Oil Mills","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Oil Mills","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Oil Mills","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Oil Mills","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Metal Industries","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Metal Industries","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Metal Industries","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Metal Industries","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Utensils","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Utensils","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Utensils","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Utensils","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Odisha","","","Plastic Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Plastic Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Plastic Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Plastic Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Paints and Varnishes","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Color Colour"
+"Odisha","","","Paints and Varnishes","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Color Colour"
+"Odisha","","","Paints and Varnishes","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Color Colour"
+"Odisha","","","Paints and Varnishes","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Color Colour"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","House LPG"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","House LPG"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","House LPG"
+"Odisha","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","House LPG"
+"Odisha","","","Jute Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Gunny Bags"
+"Odisha","","","Jute Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Gunny Bags"
+"Odisha","","","Jute Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Gunny Bags"
+"Odisha","","","Jute Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Gunny Bags"
+"Odisha","","","Hotels and Restaurants","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Eating House Cantin Accommodation"
+"Odisha","","","Hotels and Restaurants","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Eating House Cantin Accommodation"
+"Odisha","","","Hotels and Restaurants","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Eating House Cantin Accommodation"
+"Odisha","","","Hotels and Restaurants","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Eating House Cantin Accommodation"
+"Odisha","","","Handloom","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Textile Industry"
+"Odisha","","","Handloom","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Textile Industry"
+"Odisha","","","Handloom","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Textile Industry"
+"Odisha","","","Handloom","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Textile Industry"
+"Odisha","","","Hosiery","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Textile Industry"
+"Odisha","","","Hosiery","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Textile Industry"
+"Odisha","","","Hosiery","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Textile Industry"
+"Odisha","","","Hosiery","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Textile Industry"
+"Odisha","","","Glass Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Glass Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Glass Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Glass Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Shops & Commercial Establishments","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Shops & Commercial Establishments","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Shops & Commercial Establishments","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Shops & Commercial Establishments","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Fisheries And Sea Food Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Seafood"
+"Odisha","","","Fisheries And Sea Food Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Seafood"
+"Odisha","","","Fisheries And Sea Food Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Seafood"
+"Odisha","","","Fisheries And Sea Food Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Seafood"
+"Odisha","","","Cloth Dyeing & Printing","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Textile Industry"
+"Odisha","","","Cloth Dyeing & Printing","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Textile Industry"
+"Odisha","","","Cloth Dyeing & Printing","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Textile Industry"
+"Odisha","","","Cloth Dyeing & Printing","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Textile Industry"
+"Odisha","","","Distillery-Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Beer Wine Liquor"
+"Odisha","","","Distillery-Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Beer Wine Liquor"
+"Odisha","","","Distillery-Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Beer Wine Liquor"
+"Odisha","","","Distillery-Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Beer Wine Liquor"
+"Odisha","","","Cotton Ginning and Pressing Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Clothes Textile Yarn"
+"Odisha","","","Cotton Ginning and Pressing Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Clothes Textile Yarn"
+"Odisha","","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Clothes Textile Yarn"
+"Odisha","","","Cotton Ginning and Pressing Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Clothes Textile Yarn"
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Construction - Dams and Irrigation Works","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Coir Manufacturer","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Rope"
+"Odisha","","","Coir Manufacturer","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Rope"
+"Odisha","","","Coir Manufacturer","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Rope"
+"Odisha","","","Coir Manufacturer","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Rope"
+"Odisha","","","Cinema Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Film Industry Multiplex Hall"
+"Odisha","","","Cinema Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Film Industry Multiplex Hall"
+"Odisha","","","Cinema Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Film Industry Multiplex Hall"
+"Odisha","","","Cinema Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Film Industry Multiplex Hall"
+"Odisha","","","Chemical Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Chemical Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Chemical Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Chemical Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Potteries Ceramics and Refractory Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Cement and Cement Based Industry","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Constructions"
+"Odisha","","","Cement and Cement Based Industry","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Constructions"
+"Odisha","","","Cement and Cement Based Industry","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Constructions"
+"Odisha","","","Cement and Cement Based Industry","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Constructions"
+"Odisha","","","Cashew Processing","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Cashew Processing","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Cashew Processing","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Cashew Processing","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Food Industry Dry Fruits Nuts"
+"Odisha","","","Carpet Weaving Manufacturer","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Textile Industry"
+"Odisha","","","Carpet Weaving Manufacturer","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Textile Industry"
+"Odisha","","","Carpet Weaving Manufacturer","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Textile Industry"
+"Odisha","","","Carpet Weaving Manufacturer","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Textile Industry"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Alloy Metal"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Alloy Metal"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Alloy Metal"
+"Odisha","","","BELL METAL AND BRASS INDUSTRY","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Alloy Metal"
+"Odisha","","","Biscuit Manufacturer","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Food Bakeries"
+"Odisha","","","Biscuit Manufacturer","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Food Bakeries"
+"Odisha","","","Biscuit Manufacturer","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Food Bakeries"
+"Odisha","","","Biscuit Manufacturer","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Food Bakeries"
+"Odisha","","","Bakeries","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Food Industry Biscuit"
+"Odisha","","","Bakeries","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Food Industry Biscuit"
+"Odisha","","","Bakeries","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Food Industry Biscuit"
+"Odisha","","","Bakeries","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Food Industry Biscuit"
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00",0
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00",0
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00",0
+"Odisha","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00",0
+"Odisha","","","Automobile Workshops","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Vehicle car bike autopart"
+"Odisha","","","Automobile Workshops","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Vehicle car bike autopart"
+"Odisha","","","Automobile Workshops","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Vehicle car bike autopart"
+"Odisha","","","Automobile Workshops","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Vehicle car bike autopart"
+"Odisha","","","Agriculture","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Farming Horticulture Dairy"
+"Odisha","","","Agriculture","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Farming Horticulture Dairy"
+"Odisha","","","Agriculture","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Farming Horticulture Dairy"
+"Odisha","","","Agriculture","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Farming Horticulture Dairy"
+"Odisha","","","Agarbathy Manufactory","Highly Skilled","","1/3/121",26,458,"",3,"","",461,"11908.00","","78.00","","","11986.00","Incense"
+"Odisha","","","Agarbathy Manufactory","Skilled","","1/3/121",26,398,"",3,"","",401,"10348.00","","78.00","","","10426.00","Incense"
+"Odisha","","","Agarbathy Manufactory","Semi Skilled","","1/3/121",26,348,"",3,"","",351,"9048.00","","78.00","","","9126.00","Incense"
+"Odisha","","","Agarbathy Manufactory","Unskilled","","1/3/121",26,308,"",3,"","",311,"8008.00","","78.00","","","8086.00","Incense"
+"Odisha","","","Shops & Commercial Establishments","Highly Skilled","","1/9/120",26,453.35,"",4.65,"","",458,"11787.10","","120.90","","","11908.00",0
+"Odisha","","","Shops & Commercial Establishments","Skilled","","1/9/120",26,393.35,"",4.65,"","",398,"10227.10","","120.90","","","10348.00",0
+"Odisha","","","Shops & Commercial Establishments","Semi Skilled","","1/9/120",26,343.35,"",4.65,"","",348,"8927.10","","120.90","","","9048.00",0
+"Odisha","","","Shops & Commercial Establishments","Unskilled","","1/9/120",26,303.35,"",4.65,"","",308,"7887.10","","120.90","","","8008.00",0

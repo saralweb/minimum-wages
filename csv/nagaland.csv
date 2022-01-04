@@ -1,52 +1,61 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Nagaland","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Extraction & Management of Underground Water","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Extraction & Management of Underground Water","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Extraction & Management of Underground Water","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Water Supply, Sewage & Extraction &Waste Management","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Water Supply, Sewage & Extraction &Waste Management","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Water Supply, Sewage & Extraction &Waste Management","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Khadi & Village Industries","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Khadi & Village Industries","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Khadi & Village Industries","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Forest and Forestry","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Forest and Forestry","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Forest and Forestry","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Sericulture","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Sericulture","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Sericulture","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Horticulture","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Horticulture","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Horticulture","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Agriculture","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Agriculture","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Agriculture","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Veterinary &Animal Husbandry","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Veterinary &Animal Husbandry","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Veterinary &Animal Husbandry","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Information & Communication","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Information & Communication","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Information & Communication","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Accommodation &Food Service Activities","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Accommodation &Food Service Activities","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Accommodation &Food Service Activities","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Clinical Nursing Home Establishment","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Clinical Nursing Home Establishment","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Clinical Nursing Home Establishment","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Hospital","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Hospital","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Hospital","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Mining & Quarrying","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Mining & Quarrying","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Mining & Quarrying","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Transportation & Storage","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Transportation & Storage","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Transportation & Storage","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Plantation activities","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Plantation activities","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Plantation activities","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
-"Nagaland","","","Shops & Commercial Establishments","Skilled","","12.06.2019",30,"","","","","",235,"","","","","",7050
-"Nagaland","","","Shops & Commercial Establishments","Semi Skilled","","12.06.2019",30,"","","","","",210,"","","","","",6300
-"Nagaland","","","Shops & Commercial Establishments","Unskilled","","12.06.2019",30,"","","","","",176,"","","","","",5280
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Nagaland","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Rural Government Employees"
+"Nagaland","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Rural Government Employees"
+"Nagaland","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Rural Government Employees"
+"Nagaland","","","Private Educational Institutes","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Teaching School Collage"
+"Nagaland","","","Private Educational Institutes","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Teaching School Collage"
+"Nagaland","","","Private Educational Institutes","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Teaching School Collage"
+"Nagaland","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,0
+"Nagaland","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,0
+"Nagaland","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,0
+"Nagaland","","","Extraction & Management of Underground Water","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,0
+"Nagaland","","","Extraction & Management of Underground Water","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,0
+"Nagaland","","","Extraction & Management of Underground Water","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,0
+"Nagaland","","","Water Supply, Sewage & Extraction &Waste Management","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,0
+"Nagaland","","","Water Supply, Sewage & Extraction &Waste Management","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,0
+"Nagaland","","","Water Supply, Sewage & Extraction &Waste Management","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,0
+"Nagaland","","","Khadi & Village Industries","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Clothes"
+"Nagaland","","","Khadi & Village Industries","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Clothes"
+"Nagaland","","","Khadi & Village Industries","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Clothes"
+"Nagaland","","","Forest and Forestry","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Jungle"
+"Nagaland","","","Forest and Forestry","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Jungle"
+"Nagaland","","","Forest and Forestry","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Jungle"
+"Nagaland","","","Sericulture","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Silk Farming Silkworm"
+"Nagaland","","","Sericulture","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Silk Farming Silkworm"
+"Nagaland","","","Sericulture","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Silk Farming Silkworm"
+"Nagaland","","","Horticulture","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Farming"
+"Nagaland","","","Horticulture","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Farming"
+"Nagaland","","","Horticulture","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Farming"
+"Nagaland","","","Agriculture","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Farming Horticulture Dairy"
+"Nagaland","","","Agriculture","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Farming Horticulture Dairy"
+"Nagaland","","","Agriculture","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Farming Horticulture Dairy"
+"Nagaland","","","Veterinary &Animal Husbandry","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,0
+"Nagaland","","","Veterinary &Animal Husbandry","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,0
+"Nagaland","","","Veterinary &Animal Husbandry","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,0
+"Nagaland","","","Information & Communication","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,0
+"Nagaland","","","Information & Communication","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,0
+"Nagaland","","","Information & Communication","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,0
+"Nagaland","","","Accommodation &Food Service Activities","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Hotel & rest."
+"Nagaland","","","Accommodation &Food Service Activities","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Hotel & rest."
+"Nagaland","","","Accommodation &Food Service Activities","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Hotel & rest."
+"Nagaland","","","Clinical Nursing Home Establishment","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Hospital"
+"Nagaland","","","Clinical Nursing Home Establishment","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Hospital"
+"Nagaland","","","Clinical Nursing Home Establishment","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Hospital"
+"Nagaland","","","Hospital","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Clinic Nursing Homes Dispensaries"
+"Nagaland","","","Hospital","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Clinic Nursing Homes Dispensaries"
+"Nagaland","","","Hospital","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Clinic Nursing Homes Dispensaries"
+"Nagaland","","","Mining & Quarrying","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Ore"
+"Nagaland","","","Mining & Quarrying","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Ore"
+"Nagaland","","","Mining & Quarrying","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Ore"
+"Nagaland","","","Transportation & Storage","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Logistics Warehouse"
+"Nagaland","","","Transportation & Storage","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Logistics Warehouse"
+"Nagaland","","","Transportation & Storage","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Logistics Warehouse"
+"Nagaland","","","Aluminium Industry","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Alloy Metal"
+"Nagaland","","","Aluminium Industry","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Alloy Metal"
+"Nagaland","","","Aluminium Industry","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Alloy Metal"
+"Nagaland","","","Plantation activities","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,"Gardening"
+"Nagaland","","","Plantation activities","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,"Gardening"
+"Nagaland","","","Plantation activities","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,"Gardening"
+"Nagaland","","","Shops & Commercial Establishments","Skilled","","1/5/119",30,"","","","","",235,"","","","","",7050,0
+"Nagaland","","","Shops & Commercial Establishments","Semi Skilled","","1/5/119",30,"","","","","",210,"","","","","",6300,0
+"Nagaland","","","Shops & Commercial Establishments","Unskilled","","1/5/119",30,"","","","","",176,"","","","","",5280,0

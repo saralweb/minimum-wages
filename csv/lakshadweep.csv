@@ -1,31 +1,31 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Highly Skilled","","01.11.2019",26,392,"",124.8,"","",516.8,"10192.00","","3244.80","","","13436.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Clerical","","01.11.2019",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Skilled","","01.11.2019",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Semi Skilled","","01.11.2019",26,324,"",124.8,"","",448.8,"8424.00","","3244.80","","","11668.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Unskilled","","01.11.2019",26,293,"",124.8,"","",417.8,"7618.00","","3244.80","","","10862.80"
-"Lakshadweep","","","Harbours Works","Highly Skilled","","01.11.2019",26,392,"",124.8,"","",516.8,"10192.00","","3244.80","","","13436.80"
-"Lakshadweep","","","Harbours Works","Clerical","","01.11.2019",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80"
-"Lakshadweep","","","Harbours Works","Skilled","","01.11.2019",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80"
-"Lakshadweep","","","Harbours Works","Semi Skilled","","01.11.2019",26,324,"",124.8,"","",448.8,"8424.00","","3244.80","","","11668.80"
-"Lakshadweep","","","Harbours Works","Unskilled","","01.11.2019",26,293,"",124.8,"","",417.8,"7618.00","","3244.80","","","10862.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Highly Skilled","","01.11.2019",26,392,"",124.8,"","",516.8,"10192.00","","3244.80","","","13436.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Clerical","","01.11.2019",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Skilled","","01.11.2019",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Semi Skilled","","01.11.2019",26,324,"",124.8,"","",448.8,"8424.00","","3244.80","","","11668.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Unskilled","","01.11.2019",26,473,"",124.8,"","",597.8,"12298.00","","3244.80","","","15542.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Highly Skilled","","01.05.2019",26,392,"",120.8,"","",512.8,"10192.00","","3140.80","","","13332.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Clerical","","01.05.2019",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Skilled","","01.05.2019",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Semi Skilled","","01.05.2019",26,324,"",120.8,"","",444.8,"8424.00","","3140.80","","","11564.80"
-"Lakshadweep","","","Fisheries And Sea Food Industry","Unskilled","","01.05.2019",26,293,"",120.8,"","",413.8,"7618.00","","3140.80","","","10758.80"
-"Lakshadweep","","","Harbours Works","Highly Skilled","","01.05.2019",26,392,"",120.8,"","",512.8,"10192.00","","3140.80","","","13332.80"
-"Lakshadweep","","","Harbours Works","Clerical","","01.05.2019",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80"
-"Lakshadweep","","","Harbours Works","Skilled","","01.05.2019",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80"
-"Lakshadweep","","","Harbours Works","Semi Skilled","","01.05.2019",26,324,"",120.8,"","",444.8,"8424.00","","3140.80","","","11564.80"
-"Lakshadweep","","","Harbours Works","Unskilled","","01.05.2019",26,293,"",120.8,"","",413.8,"7618.00","","3140.80","","","10758.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Highly Skilled","","01.05.2019",26,392,"",120.8,"","",512.8,"10192.00","","3140.80","","","13332.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Clerical","","01.05.2019",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Skilled","","01.05.2019",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Semi Skilled","","01.05.2019",26,324,"",120.8,"","",444.8,"8424.00","","3140.80","","","11564.80"
-"Lakshadweep","","","Construction of Roads and Buildings","Unskilled","","01.05.2019",26,473,"",120.8,"","",593.8,"12298.00","","3140.80","","","15438.80"
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Highly Skilled","","1/10/119",26,392,"",124.8,"","",516.8,"10192.00","","3244.80","","","13436.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Clerical","","1/10/119",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Skilled","","1/10/119",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Semi Skilled","","1/10/119",26,324,"",124.8,"","",448.8,"8424.00","","3244.80","","","11668.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Unskilled","","1/10/119",26,293,"",124.8,"","",417.8,"7618.00","","3244.80","","","10862.80","Seafood"
+"Lakshadweep","","","Harbours Works","Highly Skilled","","1/10/119",26,392,"",124.8,"","",516.8,"10192.00","","3244.80","","","13436.80",0
+"Lakshadweep","","","Harbours Works","Clerical","","1/10/119",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80",0
+"Lakshadweep","","","Harbours Works","Skilled","","1/10/119",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80",0
+"Lakshadweep","","","Harbours Works","Semi Skilled","","1/10/119",26,324,"",124.8,"","",448.8,"8424.00","","3244.80","","","11668.80",0
+"Lakshadweep","","","Harbours Works","Unskilled","","1/10/119",26,293,"",124.8,"","",417.8,"7618.00","","3244.80","","","10862.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Highly Skilled","","1/10/119",26,392,"",124.8,"","",516.8,"10192.00","","3244.80","","","13436.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Clerical","","1/10/119",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Skilled","","1/10/119",26,381,"",124.8,"","",505.8,"9906.00","","3244.80","","","13150.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Semi Skilled","","1/10/119",26,324,"",124.8,"","",448.8,"8424.00","","3244.80","","","11668.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Unskilled","","1/10/119",26,473,"",124.8,"","",597.8,"12298.00","","3244.80","","","15542.80",0
+"Lakshadweep","","","Fisheries And Sea Food Industry","Highly Skilled","","1/4/119",26,392,"",120.8,"","",512.8,"10192.00","","3140.80","","","13332.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Clerical","","1/4/119",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Skilled","","1/4/119",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Semi Skilled","","1/4/119",26,324,"",120.8,"","",444.8,"8424.00","","3140.80","","","11564.80","Seafood"
+"Lakshadweep","","","Fisheries And Sea Food Industry","Unskilled","","1/4/119",26,293,"",120.8,"","",413.8,"7618.00","","3140.80","","","10758.80","Seafood"
+"Lakshadweep","","","Harbours Works","Highly Skilled","","1/4/119",26,392,"",120.8,"","",512.8,"10192.00","","3140.80","","","13332.80",0
+"Lakshadweep","","","Harbours Works","Clerical","","1/4/119",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80",0
+"Lakshadweep","","","Harbours Works","Skilled","","1/4/119",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80",0
+"Lakshadweep","","","Harbours Works","Semi Skilled","","1/4/119",26,324,"",120.8,"","",444.8,"8424.00","","3140.80","","","11564.80",0
+"Lakshadweep","","","Harbours Works","Unskilled","","1/4/119",26,293,"",120.8,"","",413.8,"7618.00","","3140.80","","","10758.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Highly Skilled","","1/4/119",26,392,"",120.8,"","",512.8,"10192.00","","3140.80","","","13332.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Clerical","","1/4/119",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Skilled","","1/4/119",26,381,"",120.8,"","",501.8,"9906.00","","3140.80","","","13046.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Semi Skilled","","1/4/119",26,324,"",120.8,"","",444.8,"8424.00","","3140.80","","","11564.80",0
+"Lakshadweep","","","Construction of Roads and Buildings","Unskilled","","1/4/119",26,473,"",120.8,"","",593.8,"12298.00","","3140.80","","","15438.80",0

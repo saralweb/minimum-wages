@@ -1,71 +1,260 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Tripura","","","Public Motor Transport","Class 4","Workers","01.04.2021",26,"45.96","","26.71","","62.85","135.52",1195,"",694.57,"",1634,3523.57
-"Tripura","","","Public Motor Transport","","Peon","01.04.2021",26,"45.96","","26.71","","62.85","135.52",1195,"",694.57,"",1634,3523.57
-"Tripura","","","Public Motor Transport","","Mail Runner","01.04.2021",26,"64.96","","37.77","","72.27","175.00",1689,"",982.03,"",1879,4550.03
-"Tripura","","","Public Motor Transport","","Ticket Checker","01.04.2021",26,"76.50","","44.48","","58.19","179.18",1989,"",1156.56,"",1513,4658.56
-"Tripura","","","Public Motor Transport","","Inspector","01.04.2021",26,"76.50","","44.48","","58.19","179.18",1989,"",1156.56,"",1513,4658.56
-"Tripura","","","Public Motor Transport","","Time Keeper","01.04.2021",26,"57.31","","33.31","","54.38","145.00",1490,"",866.02,"",1414,3770.02
-"Tripura","","","Public Motor Transport","","Booking Clerk","01.04.2021",26,"72.38","","42.11","","59.00","173.49",1882,"",1094.73,"",1534,4510.73
-"Tripura","","","Public Motor Transport","","Accountant","01.04.2021",26,"84.81","","49.32","","59.54","193.66",2205,"",1282.25,"",1548,5035.25
-"Tripura","","","Public Motor Transport","","Head Clerk","01.04.2021",26,"84.81","","49.32","","59.54","193.66",2205,"",1282.25,"",1548,5035.25
-"Tripura","","","Public Motor Transport","","Conductor","01.04.2021",26,"49.77","","28.98","","","78.75",1294,"",753.41,"","",2047.41
-"Tripura","","","Public Motor Transport","","Cleaner (Light Vehicle)","01.04.2021",26,"41.62","","24.21","","","65.82",1082,"",629.41,"","",1711.41
-"Tripura","","","Public Motor Transport","","Assistant Handyman (Light Vehicle)","01.04.2021",26,"41.62","","24.21","","","65.82",1082,"",629.41,"","",1711.41
-"Tripura","","","Public Motor Transport","","Cleaner (Heavy Vehicle)","01.04.2021",26,"45.96","","26.71","","","72.68",1195,"",694.57,"","",1889.57
-"Tripura","","","Public Motor Transport","","Assistant Handyman (Heavy Vehicle)","01.04.2021",26,"45.96","","26.71","","","72.68",1195,"",694.57,"","",1889.57
-"Tripura","","","Public Motor Transport","","Driver (Light Vehicle)","01.04.2021",26,"80.08","","46.58","","","126.65",2082,"",1211,"","",3293
-"Tripura","","","Public Motor Transport","","Driver Medium Vehicle","01.04.2021",26,"87.92","","51.13","","","139.06",2286,"",1329.49,"","",3615.49
-"Tripura","","","Public Motor Transport","","Driver (Heavy Vehicle)","01.04.2021",26,"122.35","","71.17","","","193.51",3181,"",1850.37,"","",5031.37
-"Tripura","","","Public Motor Transport","","Driver Dumper","01.04.2021",26,"335.08","","194.87","","","529.95",8712,"",5066.67,"","",13778.67
-"Tripura","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","01.04.2021",26,125,"",37.98,"","",162.98,"3250.00","","987.48","","","4237.48"
-"Tripura","","","Rice Mills, Flour Mills or Dal Mills","","Machine man","01.04.2021",26,"288.46","","80.41","","","368.88",7500,"",2090.76,"","",9590.76
-"Tripura","","","Rice Mills, Flour Mills or Dal Mills","","Hullerman","01.04.2021",26,"288.46","","80.41","","","368.88",7500,"",2090.76,"","",9590.76
-"Tripura","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49
-"Tripura","","","Hotels and Restaurants","Highly Skilled","Receptionist","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49
-"Tripura","","","Hotels and Restaurants","Highly Skilled","Accountant","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49
-"Tripura","","","Hotels and Restaurants","Highly Skilled","Cashier","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49
-"Tripura","","","Hotels and Restaurants","Highly Skilled","Clerk","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49
-"Tripura","","","Hotels and Restaurants","Highly Skilled","Head Cook","01.04.2021",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49
-"Tripura","","","Hotels and Restaurants","Skilled","","01.04.2021",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",9800.5
-"Tripura","","","Hotels and Restaurants","Skilled","Cook Helper","01.04.2021",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",9800.5
-"Tripura","","","Hotels and Restaurants","Skilled","Assistant Cook","01.04.2021",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",9800.5
-"Tripura","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071
-"Tripura","","","Hotels and Restaurants","Semi Skilled","Cleaner","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071
-"Tripura","","","Hotels and Restaurants","Semi Skilled","Server","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071
-"Tripura","","","Hotels and Restaurants","Semi Skilled","Service Man","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071
-"Tripura","","","Hotels and Restaurants","Semi Skilled","Waiter","01.04.2021",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071
-"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",26,230,"",130.29,"","",360.29,"5980.00","","3387.54","","","9367.54"
-"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,201.25,"",113.98,"","",315.23,"5232.50","","2963.48","","","8195.98"
-"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,173,"",97.96,"","",270.96,"4498.00","","2546.96","","","7044.96"
-"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,150,"",84.96,"","",234.96,"3900.00","","2208.96","","","6108.96"
-"Tripura","","","Tea Garden","","Non Adult Worker (Male and Female)","04.01.2018",26,"","","","","",88,"","","","","","2288.00"
-"Tripura","","","Tea Garden","","Adult Worker (Male and Female)","04.01.2018",26,"","","","","",176,"","","","","","4576.00"
-"Tripura","","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,"254.12","","38.88","","","293.00",6607,"",1010.99,"","",7618
-"Tripura","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,"227.23","","34.76","","","262.00",5908,"",903.85,"","",6812
-"Tripura","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,"207.12","","31.68","","","238.81",5385,"",823.66,"","",6209
-"Tripura","","","Palatana Power Project","Highly Skilled","","01.04.2021",26,436,"",95.29,"","",531.29,"11336.00","","2477.54","","",13814
-"Tripura","","","Palatana Power Project","Skilled","","01.04.2021",26,374,"",81.73,"","",455.73,"9724.00","","2124.98","","",11849
-"Tripura","","","Palatana Power Project","Semi Skilled","","01.04.2021",26,325,"",71.03,"","",396.03,"8450.00","","1846.78","","",10297
-"Tripura","","","Palatana Power Project","Unskilled","","01.04.2021",26,305,"",66.66,"","",371.66,"7930.00","","1733.16","","",9663
-"Tripura","","","Security Services","Skilled","Field Supervisor","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Skilled","Marketing Personnel","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Skilled","Accountant","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Skilled","Cashier","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Skilled","Clerk","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Skilled","Security Guard With Weapon","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Semi Skilled","Security Supervisor","01.04.2021",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346
-"Tripura","","","Security Services","Semi Skilled","Head Guard - Security Services","01.04.2021",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346
-"Tripura","","","Security Services","Unskilled","Gatekeeper","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
-"Tripura","","","Security Services","Unskilled","Watchman","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
-"Tripura","","","Security Services","Unskilled","Security guard","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
-"Tripura","","","Security Services","Skilled","","01.04.2021",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284
-"Tripura","","","Security Services","Semi Skilled","","01.04.2021",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346
-"Tripura","","","Security Services","Unskilled","","01.04.2021",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746
-"Tripura","","","Mechanical Workshop","Highly Skilled","","01.04.2021",26,"482.62","","222.07","","","704.69",12548,"",5773.83,"","",18322
-"Tripura","","","Mechanical Workshop","Skilled","","01.04.2021",26,"231.31","","106.43","","","337.73",6014,"",2767.25,"","",8781
-"Tripura","","","Mechanical Workshop","Semi Skilled","","01.04.2021",26,"193.81","","89.17","","","282.96",5039,"",2318.44,"","",7357
-"Tripura","","","Mechanical Workshop","Unskilled","","01.04.2021",26,"188.15","","86.19","","","274.35",4892,"",2241.06,"","",7133
-"Tripura","","","Sweeping and Cleaning","Unskilled","Sweeper","01.04.2021",26,204,"",31.22,"","",235,"5304.00","","811.72","","","6110.00"
-"Tripura","","","Petrol Pump","Skilled","","01.04.2021",26,"132.69","","79.64","","","212.35",3450,"",2070.63,"","",5521
-"Tripura","","","Petrol Pump","Semi Skilled","","01.04.2021",26,"140.38","","84.27","","","224.65",3650,"",2191,"","",5841
-"Tripura","","","Petrol Pump","Unskilled","","01.04.2021",26,"148.08","","88.89","","","236.96",3850,"",2311.18,"","",6161
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Tripura","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","1/9/121",30,125,"",40,"","",165,"3750.00","","1200.00","","","4950.00",0
+"Tripura","","","Agriculture","Annual Attached Worker","Non Adult Worker (Male and Female)","1/9/121",30,"58.42","","21.64","","","80.06",1752.5,"",649.25,"","",2401.75,"Farming Horticulture Dairy"
+"Tripura","","","Agriculture","Annual Attached Worker","Adult Worker (Male and Female)","1/9/121",30,"81.77","","30.32","","","112.08",2453,"",909.5,"","",3362.5,"Farming Horticulture Dairy"
+"Tripura","","","Agriculture","Daily Rated Worker","Non Adult Worker (Male and Female)","1/9/121",30,174,"",65,"","",239,"5220.00","","1950.00","","","7170.00","Farming Horticulture Dairy"
+"Tripura","","","Agriculture","Daily Rated Worker","Adult Worker (Male and Female)","1/9/121",30,250,"",93,"","",343,"7500.00","","2790.00","","","10290.00","Farming Horticulture Dairy"
+"Tripura","","","Taxis and Auto Rickshaws","","Driver","1/9/121",26,"75.62","","45.50","107.00","","228.12",1966,"",1183,2782,"",5931,"Transport"
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/121",30,230,"",135,"","",365,"6900.00","","4050.00","","","10950.00",0
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/121",30,201.25,"",118,"","",319.25,"6037.50","","3540.00","","","9577.50",0
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/121",30,173,"",101,"","",274,"5190.00","","3030.00","","","8220.00",0
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/121",30,150,"",88,"","",238,"4500.00","","2640.00","","","7140.00",0
+"Tripura","","","Domestic Workers","Unskilled","Workers","1/9/121",26,"57.69","","29.12","","","86.81",1500,"",757,"","",2257,"Informal Sector"
+"Tripura","","","Goldsmith Employment","Skilled","","1/9/121",30,270,"",100,"","",370,"8100.00","","3000.00","","","11100.00","Jewellery"
+"Tripura","","","Goldsmith Employment","Semi Skilled","","1/9/121",30,231,"",86,"","",317,"6930.00","","2580.00","","","9510.00","Jewellery"
+"Tripura","","","Goldsmith Employment","","Apprentice manufacturing 3gram gold","1/9/121",30,161,"",60,"","",221,"4830.00","","1800.00","","","6630.00","Jewellery"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","","1/9/121",26,"365.38","","63.04","","","428.42",9500,"",1639,"","",11139,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Receptionist","1/9/121",26,"365.38","","63.04","","","428.42",9500,"",1639,"","",11139,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Accountant","1/9/121",26,"365.38","","63.04","","","428.42",9500,"",1639,"","",11139,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Cashier","1/9/121",26,"365.38","","63.04","","","428.42",9500,"",1639,"","",11139,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Clerk","1/9/121",26,"365.38","","63.04","","","428.42",9500,"",1639,"","",11139,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Head Cook","1/9/121",26,"365.38","","63.04","","","428.42",9500,"",1639,"","",11139,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Skilled","","1/9/121",26,"326.92","","56.38","","","383.31",8500,"",1466,"","",9966,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Skilled","Cook Helper","1/9/121",26,"326.92","","56.38","","","383.31",8500,"",1466,"","",9966,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Skilled","Assistant Cook","1/9/121",26,"326.92","","56.38","","","383.31",8500,"",1466,"","",9966,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","","1/9/121",26,"269.23","","46.46","","","315.69",7000,"",1208,"","",8208,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Cleaner","1/9/121",26,"269.23","","46.46","","","315.69",7000,"",1208,"","",8208,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Server","1/9/121",26,"269.23","","46.46","","","315.69",7000,"",1208,"","",8208,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Service Man","1/9/121",26,"269.23","","46.46","","","315.69",7000,"",1208,"","",8208,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Waiter","1/9/121",26,"269.23","","46.46","","","315.69",7000,"",1208,"","",8208,"Eating House Cantin Accommodation"
+"Tripura","","","Agarbatti and Incense Products Manufacturer","Unskilled","Workers","1/9/121",26,"140.00","","70.65","","","210.65",3640,"",1837,"","",5477,"Perfume"
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Watchman","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Helper","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Weighman","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Peon","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group C","Driver","1/9/121",26,"153.85","","103.88","","","257.73",4000,"",2701,"","",6701,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group C","Clerk","1/9/121",26,"153.85","","103.88","","","257.73",4000,"",2701,"","",6701,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group C","Salesman","1/9/121",26,"153.85","","103.88","","","257.73",4000,"",2701,"","",6701,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","","Supervisor","1/9/121",26,"207.69","","117.46","","","325.15",5400,"",3054,"","",8454,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","","Accountant","1/9/121",26,"211.54","","115.12","","","326.65",5500,"",2993,"","",8493,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","","Manager","1/9/121",26,"269.23","","152.62","","","421.85",7000,"",3968,"","",10968,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Watchman","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Helper","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Weighman","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Peon","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group C","Driver","1/9/121",26,"134.62","","76.12","","","210.73",3500,"",1979,"","",5479,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group C","Clerk","1/9/121",26,"134.62","","76.12","","","210.73",3500,"",1979,"","",5479,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group C","Salesman","1/9/121",26,"134.62","","76.12","","","210.73",3500,"",1979,"","",5479,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","","Supervisor","1/9/121",26,"150.00","","84.85","","","234.85",3900,"",2206,"","",6106,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","","Accountant","1/9/121",26,"153.85","","103.88","","","257.73",4000,"",2701,"","",6701,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","","Manager","1/9/121",26,"173.08","","97.88","","","270.96",4500,"",2545,"","",7045,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Watchman","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Helper","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Weighman","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Peon","1/9/121",26,"119.23","","67.42","","","186.65",3100,"",1753,"","",4853,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group C","Driver","1/9/121",26,"134.62","","76.12","","","210.73",3500,"",1979,"","",5479,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group C","Clerk","1/9/121",26,"134.62","","76.12","","","210.73",3500,"",1979,"","",5479,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group C","Salesman","1/9/121",26,"134.62","","76.12","","","210.73",3500,"",1979,"","",5479,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","","Supervisor","1/9/121",26,"169.23","","95.69","","","264.92",4400,"",2488,"","",6888,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","","Accountant","1/9/121",26,"173.08","","97.88","","","270.96",4500,"",2545,"","",7045,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","","Managing Director","1/9/121",26,"211.54","","115.12","","","326.65",5500,"",2993,"","",8493,0
+"Tripura","","","Industrial Worker (loading and unloading)","Managerial/Clerical","","1/9/121",30,409,"",71,"","",480,12270,"",2130,"","",14400,0
+"Tripura","","","Industrial Worker (loading and unloading)","Unskilled","","1/9/121",30,409,"",71,"","",480,12270,"",2130,"","",14400,0
+"Tripura","","","Industrial Worker (loading and unloading)","Semi Skilled","","1/9/121",30,443,"",76,"","",519,13290,"",2280,"","",15570,0
+"Tripura","","","Industrial Worker (loading and unloading)","Skilled","","1/9/121",30,477,"",82,"","",559,14310,"",2460,"","",16770,0
+"Tripura","","","Mechanical Workshop","Highly Skilled","","1/9/121",26,"482.62","","231.50","","","714.12",12548,"",6019,"","",18567,"Automobile"
+"Tripura","","","Mechanical Workshop","Skilled","","1/9/121",26,"231.31","","110.96","","","342.27",6014,"",2885,"","",8899,"Automobile"
+"Tripura","","","Mechanical Workshop","Semi Skilled","","1/9/121",26,"193.81","","92.96","","","286.77",5039,"",2417,"","",7456,"Automobile"
+"Tripura","","","Mechanical Workshop","Unskilled","","1/9/121",26,"188.15","","89.85","","","278.00",4892,"",2336,"","",7228,"Automobile"
+"Tripura","","","Petrol Pump","Skilled","","1/9/121",26,"148.08","","91.77","","","239.85",3850,"",2386,"","",6236,0
+"Tripura","","","Petrol Pump","Semi Skilled","","1/9/121",26,"140.38","","87.00","","","227.38",3650,"",2262,"","",5912,0
+"Tripura","","","Petrol Pump","Unskilled","","1/9/121",26,"132.69","","82.23","","","214.92",3450,"",2138,"","",5588,0
+"Tripura","","","Security Services","Skilled","Field Supervisor","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Marketing Personnel","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Accountant","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Cashier","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Clerk","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Security Guard With Weapon","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Semi Skilled","Security Supervisor","1/9/121",26,"311.77","","53.77","","","365.54",8106,"",1398,"","",9504,"Watchman Guard"
+"Tripura","","","Security Services","Semi Skilled","Head Guard - Security Services","1/9/121",26,"311.77","","53.77","","","365.54",8106,"",1398,"","",9504,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","Gatekeeper","1/9/121",26,"291.73","","50.31","","","342.04",7585,"",1308,"","",8893,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","Watchman","1/9/121",26,"291.73","","50.31","","","342.04",7585,"",1308,"","",8893,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","Security guard","1/9/121",26,"291.73","","50.31","","","342.04",7585,"",1308,"","",8893,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","","1/9/121",26,"343.04","","59.19","","","402.23",8919,"",1539,"","",10458,"Watchman Guard"
+"Tripura","","","Security Services","Semi Skilled","","1/9/121",26,"311.77","","53.77","","","365.54",8106,"",1398,"","",9504,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","","1/9/121",26,"291.73","","50.31","","","342.04",7585,"",1308,"","",8893,"Watchman Guard"
+"Tripura","","","Private Educational Institutes","Clerical","Staff in Nursery and Pre-Primary School","1/9/121",26,"277.35","","47.85","","","325.19",7211,"",1244,"","",8455,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher in Nursery and Pre-Primary School","1/9/121",26,"277.35","","47.85","","","325.19",7211,"",1244,"","",8455,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teachers In Charge in Nursery and Pre-Primary School","1/9/121",26,"320.77","","55.35","","","376.12",8340,"",1439,"","",9779,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Headmaster in Nursery and Pre-Primary","1/9/121",26,"320.77","","55.35","","","376.12",8340,"",1439,"","",9779,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Clerical","Staff in Senior Basic and Primary School","1/9/121",26,"277.35","","47.85","","","325.19",7211,"",1244,"","",8455,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher in Senior Basic and Primary School","1/9/121",26,"289.00","","49.85","","","338.85",7514,"",1296,"","",8810,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teachers In Charge in Senior Basic and Primary School","1/9/121",26,"333.08","","57.46","","","390.54",8660,"",1494,"","",10154,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Headmaster in Senior Basic and Primary School","1/9/121",26,"333.08","","57.46","","","390.54",8660,"",1494,"","",10154,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Rickshaw Puller","1/9/121",26,"219.04","","37.77","","","256.81",5695,"",982,"","",6677,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Workers in High & Higher Secondary School","1/9/121",26,"219.04","","37.77","","","256.81",5695,"",982,"","",6677,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Helper","1/9/121",26,"219.04","","37.77","","","256.81",5695,"",982,"","",6677,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Daftary","1/9/121",26,"219.04","","37.77","","","256.81",5695,"",982,"","",6677,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Clerical","Staff in High & Higher Secondary School","1/9/121",26,"333.08","","57.46","","","390.54",8660,"",1494,"","",10154,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher High Secondary Educations","1/9/121",26,"333.08","","57.46","","","390.54",8660,"",1494,"","",10154,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher High Schools","1/9/121",26,"333.08","","57.46","","","390.54",8660,"",1494,"","",10154,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teachers In Charge in High & Higher Secondary School","1/9/121",26,"454.92","","78.46","","","533.38",11828,"",2040,"","",13868,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Headmaster in High & Higher Secondary School","1/9/121",26,"454.92","","78.46","","","533.38",11828,"",2040,"","",13868,"Teaching School Collage"
+"Tripura","","","Public Motor Transport","Class 4","Workers","1/9/121",26,"45.96","","27.62","","63.62","137.19",1195,"",718,"",1654,3567,0
+"Tripura","","","Public Motor Transport","","Peon","1/9/121",26,"45.96","","27.62","","63.62","137.19",1195,"",718,"",1654,3567,0
+"Tripura","","","Public Motor Transport","","Mail Runner","1/9/121",26,"64.96","","39.04","","73.15","177.15",1689,"",1015,"",1902,4606,0
+"Tripura","","","Public Motor Transport","","Ticket Checker","1/9/121",26,"76.50","","45.96","","58.92","181.38",1989,"",1195,"",1532,4716,0
+"Tripura","","","Public Motor Transport","","Inspector","1/9/121",26,"76.50","","45.96","","58.92","181.38",1989,"",1195,"",1532,4716,0
+"Tripura","","","Public Motor Transport","","Time Keeper","1/9/121",26,"57.31","","34.42","","55.08","146.81",1490,"",895,"",1432,3817,0
+"Tripura","","","Public Motor Transport","","Booking Clerk","1/9/121",26,"72.38","","43.50","","59.73","175.62",1882,"",1131,"",1553,4566,0
+"Tripura","","","Public Motor Transport","","Accountant","1/9/121",26,"84.81","","50.96","","60.27","196.04",2205,"",1325,"",1567,5097,0
+"Tripura","","","Public Motor Transport","","Head Clerk","1/9/121",26,"84.81","","50.96","","60.27","196.04",2205,"",1325,"",1567,5097,0
+"Tripura","","","Public Motor Transport","","Conductor","1/9/121",26,"49.77","","29.92","","","79.69",1294,"",778,"","",2072,0
+"Tripura","","","Public Motor Transport","","Cleaner (Light Vehicle)","1/9/121",26,"41.62","","25.04","","","66.65",1082,"",651,"","",1733,0
+"Tripura","","","Public Motor Transport","","Assistant Handyman (Light Vehicle)","1/9/121",26,"41.62","","25.04","","","66.65",1082,"",651,"","",1733,0
+"Tripura","","","Public Motor Transport","","Cleaner (Heavy Vehicle)","1/9/121",26,"45.96","","27.62","","","73.58",1195,"",718,"","",1913,0
+"Tripura","","","Public Motor Transport","","Assistant Handyman (Heavy Vehicle)","1/9/121",26,"45.96","","27.62","","","73.58",1195,"",718,"","",1913,0
+"Tripura","","","Public Motor Transport","","Driver (Light Vehicle)","1/9/121",26,"80.08","","48.15","","","128.23",2082,"",1252,"","",3334,0
+"Tripura","","","Public Motor Transport","","Driver Medium Vehicle","1/9/121",26,"87.92","","52.85","","","140.77",2286,"",1374,"","",3660,0
+"Tripura","","","Public Motor Transport","","Driver (Heavy Vehicle)","1/9/121",26,"122.35","","73.54","","","195.88",3181,"",1912,"","",5093,0
+"Tripura","","","Public Motor Transport","","Driver Dumper","1/9/121",26,"335.08","","201.42","","","536.50",8712,"",5237,"","",13949,0
+"Tripura","","","Rice Mills","","Machine man","1/9/121",26,"288.46","","86.04","","","374.50",7500,"",2237.04,"","",9737.04,0
+"Tripura","","","Rice Mills","","Hullerman","1/9/121",26,"288.46","","86.04","","","374.50",7500,"",2237.04,"","",9737.04,0
+"Tripura","","","Rubber Plantations","","Field Man","1/9/121",30,280,"",48.29,"","",328.29,"8400.00","","1448.70","","","9848.70","Farming Forestry"
+"Tripura","","","Rubber Plantations","","Processing Worker","1/9/121",30,290,"",50.02,"","",340.02,"8700.00","","1500.60","","","10200.60","Farming Forestry"
+"Tripura","","","Rubber Plantations","","Tappers","1/9/121",30,290,"",50.02,"","",340.02,"8700.00","","1500.60","","","10200.60","Farming Forestry"
+"Tripura","","","Sweeping and Cleaning","Unskilled","Sweeper","1/9/121",30,204,"",35.21,"","",239.21,"6120.00","","1056.30","","","7176.30","Scavengers"
+"Tripura","","","Shops & Commercial Establishments","Skilled","","1/9/121",26,"254.12","","43.85","","","297.96",6607,"",1140,"","",7747,0
+"Tripura","","","Shops & Commercial Establishments","Semi Skilled","","1/9/121",26,"227.23","","39.19","","","266.42",5908,"",1019,"","",6927,0
+"Tripura","","","Shops & Commercial Establishments","Unskilled","","1/9/121",26,"207.12","","35.73","","","242.85",5385,"",929,"","",6314,0
+"Tripura","","","Rubber Plantations","","Field Man","1/3/121",30,280,"",42.83,"","",322.83,"8400.00","","1284.90","","","9684.90","Farming Forestry"
+"Tripura","","","Rubber Plantations","","Processing Worker","1/3/121",30,290,"",44.36,"","",334.36,"8700.00","","1330.80","","","10030.80","Farming Forestry"
+"Tripura","","","Rubber Plantations","","Tappers","1/3/121",30,290,"",44.36,"","",334.36,"8700.00","","1330.80","","","10030.80","Farming Forestry"
+"Tripura","","","Agriculture","Daily Rated Worker","Non Adult Worker (Male and Female)","1/3/121",30,174,"",61.11,"","",235.11,"5220.00","","1833.30","","","7053.30","Farming Horticulture Dairy"
+"Tripura","","","Agriculture","Daily Rated Worker","Adult Worker (Male and Female)","1/3/121",30,250,"",87.8,"","",337.8,"7500.00","","2634.00","","","10134.00","Farming Horticulture Dairy"
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Watchman","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Helper","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Weighman","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group D","Peon","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group C","Driver","1/3/121",26,"153.85","","100.89","","","254.74",4000,"",2623.19,"","",6623.19,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group C","Clerk","1/3/121",26,"153.85","","100.89","","","254.74",4000,"",2623.19,"","",6623.19,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","Group C","Salesman","1/3/121",26,"153.85","","100.89","","","254.74",4000,"",2623.19,"","",6623.19,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","","Supervisor","1/3/121",26,"207.69","","113.40","","","321.10",5400,"",2948.51,"","",8348.51,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","","Accountant","1/3/121",26,"211.54","","110.97","","","322.51",5500,"",2885.26,"","",8385.26,0
+"Tripura","","","Primary Agriculture Cooperative Society(PACS)","","Manager","1/3/121",26,"269.23","","147.37","","","416.60",7000,"",3831.51,"","",10831.51,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Watchman","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Helper","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Weighman","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group D","Peon","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group C","Driver","1/3/121",26,"134.62","","73.48","","","208.10",3500,"",1910.59,"","",5410.59,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group C","Clerk","1/3/121",26,"134.62","","73.48","","","208.10",3500,"",1910.59,"","",5410.59,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","Group C","Salesman","1/3/121",26,"134.62","","73.48","","","208.10",3500,"",1910.59,"","",5410.59,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","","Supervisor","1/3/121",26,"150.00","","81.91","","","231.91",3900,"",2129.7,"","",6029.7,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","","Accountant","1/3/121",26,"153.85","","100.89","","","254.74",4000,"",2623.19,"","",6623.19,0
+"Tripura","","","Primary Marketing Cooperative Society(PMCS)","","Manager","1/3/121",26,"173.08","","94.50","","","267.57",4500,"",2456.93,"","",6956.93,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Watchman","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Helper","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Weighman","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group D","Peon","1/3/121",26,"119.23","","65.10","","","184.33",3100,"",1692.69,"","",4792.69,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group C","Driver","1/3/121",26,"134.62","","73.48","","","208.10",3500,"",1910.59,"","",5410.59,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group C","Clerk","1/3/121",26,"134.62","","73.48","","","208.10",3500,"",1910.59,"","",5410.59,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","Group C","Salesman","1/3/121",26,"134.62","","73.48","","","208.10",3500,"",1910.59,"","",5410.59,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","","Supervisor","1/3/121",26,"169.23","","92.39","","","261.62",4400,"",2402.17,"","",6802.17,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","","Accountant","1/3/121",26,"173.08","","94.50","","","267.57",4500,"",2456.93,"","",6956.93,0
+"Tripura","","","Cooperative Store and Large size Multipurpose Cooperative Society(LAMPS)","","Managing Director","1/3/121",26,"211.54","","110.97","","","322.51",5500,"",2885.26,"","",8385.26,0
+"Tripura","","","Private Educational Institutes","Clerical","Staff in Nursery and Pre-Primary School","1/3/121",26,"277.35","","42.43","","","319.78",7211,"",1103.27,"","",8314.27,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher in Nursery and Pre-Primary School","1/3/121",26,"277.35","","42.43","","","319.78",7211,"",1103.27,"","",8314.27,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teachers In Charge in Nursery and Pre-Primary School","1/3/121",26,"320.77","","49.08","","","369.85",8340,"",1276.02,"","",9616.02,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Headmaster in Nursery and Pre-Primary","1/3/121",26,"320.77","","49.08","","","369.85",8340,"",1276.02,"","",9616.02,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Clerical","Staff in Senior Basic and Primary School","1/3/121",26,"277.35","","42.43","","","319.78",7211,"",1103.27,"","",8314.27,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher in Senior Basic and Primary School","1/3/121",26,"289.00","","44.22","","","333.22",7514,"",1149.65,"","",8663.65,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teachers In Charge in Senior Basic and Primary School","1/3/121",26,"333.08","","50.96","","","384.04",8660,"",1324.97,"","",9984.97,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Headmaster in Senior Basic and Primary School","1/3/121",26,"333.08","","50.96","","","384.04",8660,"",1324.97,"","",9984.97,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Rickshaw Puller","1/3/121",26,"219.04","","33.51","","","252.55",5695,"",871.34,"","",6566.34,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Workers in High & Higher Secondary School","1/3/121",26,"219.04","","33.51","","","252.55",5695,"",871.34,"","",6566.34,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Helper in High & Higher Secondary School","1/3/121",26,"219.04","","33.51","","","252.55",5695,"",871.34,"","",6566.34,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Group D","Daftari in High & Higher Secondary School","1/3/121",26,"219.04","","33.51","","","252.55",5695,"",871.34,"","",6566.34,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","Clerical","Staff in High & Higher Secondary School","1/3/121",26,"333.08","","50.96","","","384.04",8660,"",1324.97,"","",9984.97,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher High Secondary Educations","1/3/121",26,"333.08","","50.96","","","384.04",8660,"",1324.97,"","",9984.97,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teacher High Schools","1/3/121",26,"333.08","","50.96","","","384.04",8660,"",1324.97,"","",9984.97,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Teachers In Charge in High & Higher Secondary School","1/3/121",26,"454.92","","69.60","","","524.53",11828,"",1809.68,"","",13637.68,"Teaching School Collage"
+"Tripura","","","Private Educational Institutes","","Headmaster in High & Higher Secondary School","1/3/121",26,"454.92","","69.60","","","524.53",11828,"",1809.68,"","",13637.68,"Teaching School Collage"
+"Tripura","","","Industrial Worker (loading and unloading)","Managerial/Clerical","","1/3/121",30,409,"",63,"","",472,12270,"",1890,"","",14160,0
+"Tripura","","","Industrial Worker (loading and unloading)","Unskilled","","1/3/121",30,409,"",63,"","",472,12270,"",1890,"","",14160,0
+"Tripura","","","Industrial Worker (loading and unloading)","Semi Skilled","","1/3/121",30,443,"",68,"","",511,13290,"",2040,"","",15330,0
+"Tripura","","","Industrial Worker (loading and unloading)","Skilled","","1/3/121",30,477,"",73,"","",550,14310,"",2190,"","",16500,0
+"Tripura","","","Goldsmith Employment","Skilled","","1/3/121",30,270,"",94.82,"","",364.82,"8100.00","","2844.60","","","10944.60","Jewellery"
+"Tripura","","","Goldsmith Employment","Semi Skilled","","1/3/121",30,231,"",81.11,"","",312.11,"6930.00","","2433.30","","","9363.30","Jewellery"
+"Tripura","","","Goldsmith Employment","","Apprentice manufacturing 3gram gold","1/3/121",30,161,"",56.54,"","",217.54,"4830.00","","1696.20","","","6526.20","Jewellery"
+"Tripura","","","Agarbatti and Incense Products Manufacturer","Unskilled","Workers","1/3/121",26,"140.00","","67.92","","","207.92",3640,"",1765.87,"","",5405.87,"Perfume"
+"Tripura","","","Domestic Workers","Unskilled","Workers","1/3/121",26,"57.69","","27.99","","","85.68",1500,"",727.7,"","",2227.7,"Informal Sector"
+"Tripura","","","Public Motor Transport","Class 4","Workers","1/3/121",26,"45.96","","26.71","","62.85","135.52",1195,"",694.57,"",1634,3523.57,0
+"Tripura","","","Public Motor Transport","","Peon","1/3/121",26,"45.96","","26.71","","62.85","135.52",1195,"",694.57,"",1634,3523.57,0
+"Tripura","","","Public Motor Transport","","Mail Runner","1/3/121",26,"64.96","","37.77","","72.27","175.00",1689,"",982.03,"",1879,4550.03,0
+"Tripura","","","Public Motor Transport","","Ticket Checker","1/3/121",26,"76.50","","44.48","","58.19","179.18",1989,"",1156.56,"",1513,4658.56,0
+"Tripura","","","Public Motor Transport","","Inspector","1/3/121",26,"76.50","","44.48","","58.19","179.18",1989,"",1156.56,"",1513,4658.56,0
+"Tripura","","","Public Motor Transport","","Time Keeper","1/3/121",26,"57.31","","33.31","","54.38","145.00",1490,"",866.02,"",1414,3770.02,0
+"Tripura","","","Public Motor Transport","","Booking Clerk","1/3/121",26,"72.38","","42.11","","59.00","173.49",1882,"",1094.73,"",1534,4510.73,0
+"Tripura","","","Public Motor Transport","","Accountant","1/3/121",26,"84.81","","49.32","","59.54","193.66",2205,"",1282.25,"",1548,5035.25,0
+"Tripura","","","Public Motor Transport","","Head Clerk","1/3/121",26,"84.81","","49.32","","59.54","193.66",2205,"",1282.25,"",1548,5035.25,0
+"Tripura","","","Public Motor Transport","","Conductor","1/3/121",26,"49.77","","28.98","","","78.75",1294,"",753.41,"","",2047.41,0
+"Tripura","","","Public Motor Transport","","Cleaner (Light Vehicle)","1/3/121",26,"41.62","","24.21","","","65.82",1082,"",629.41,"","",1711.41,0
+"Tripura","","","Public Motor Transport","","Assistant Handyman (Light Vehicle)","1/3/121",26,"41.62","","24.21","","","65.82",1082,"",629.41,"","",1711.41,0
+"Tripura","","","Public Motor Transport","","Cleaner (Heavy Vehicle)","1/3/121",26,"45.96","","26.71","","","72.68",1195,"",694.57,"","",1889.57,0
+"Tripura","","","Public Motor Transport","","Assistant Handyman (Heavy Vehicle)","1/3/121",26,"45.96","","26.71","","","72.68",1195,"",694.57,"","",1889.57,0
+"Tripura","","","Public Motor Transport","","Driver (Light Vehicle)","1/3/121",26,"80.08","","46.58","","","126.65",2082,"",1211,"","",3293,0
+"Tripura","","","Public Motor Transport","","Driver Medium Vehicle","1/3/121",26,"87.92","","51.13","","","139.06",2286,"",1329.49,"","",3615.49,0
+"Tripura","","","Public Motor Transport","","Driver (Heavy Vehicle)","1/3/121",26,"122.35","","71.17","","","193.51",3181,"",1850.37,"","",5031.37,0
+"Tripura","","","Public Motor Transport","","Driver Dumper","1/3/121",26,"335.08","","194.87","","","529.95",8712,"",5066.67,"","",13778.67,0
+"Tripura","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","1/3/121",30,125,"",37.98,"","",162.98,"3750.00","","1139.40","","","4889.40",0
+"Tripura","","","Rice Mills","","Machine man","1/3/121",26,"288.46","","80.41","","","368.88",7500,"",2090.76,"","",9590.76,0
+"Tripura","","","Rice Mills","","Hullerman","1/3/121",26,"288.46","","80.41","","","368.88",7500,"",2090.76,"","",9590.76,0
+"Tripura","","","Hotels and Restaurants","Highly Skilled","","1/3/121",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Receptionist","1/3/121",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Accountant","1/3/121",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Cashier","1/3/121",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Clerk","1/3/121",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Highly Skilled","Head Cook","1/3/121",26,"365.38","","55.90","","","421.29",9500,"",1453.49,"","",10953.49,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Skilled","","1/3/121",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",9800.5,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Skilled","Cook Helper","1/3/121",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",9800.5,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Skilled","Assistant Cook","1/3/121",26,"326.92","","50.02","","","376.94",8500,"",1300.5,"","",9800.5,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","","1/3/121",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Cleaner","1/3/121",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Server","1/3/121",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Service Man","1/3/121",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071,"Eating House Cantin Accommodation"
+"Tripura","","","Hotels and Restaurants","Semi Skilled","Waiter","1/3/121",26,"269.23","","41.19","","","310.42",7000,"",1071,"","",8071,"Eating House Cantin Accommodation"
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/121",30,230,"",130.29,"","",360.29,"6900.00","","3908.70","","","10808.70",0
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/121",30,201.25,"",113.98,"","",315.23,"6037.50","","3419.40","","","9456.90",0
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/121",30,173,"",97.96,"","",270.96,"5190.00","","2938.80","","","8128.80",0
+"Tripura","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/121",30,150,"",84.96,"","",234.96,"4500.00","","2548.80","","","7048.80",0
+"Tripura","","","Tea Plantation","","Non Adult Worker (Male and Female)","4/0/118",26,"","","","","",88,"","","","","","2288.00","Farming Agriculture"
+"Tripura","","","Tea Plantation","","Adult Worker (Male and Female)","4/0/118",26,"","","","","",176,"","","","","","4576.00","Farming Agriculture"
+"Tripura","","","Shops & Commercial Establishments","Skilled","","1/3/121",26,"254.12","","38.88","","","293.00",6607,"",1010.99,"","",7618,0
+"Tripura","","","Shops & Commercial Establishments","Semi Skilled","","1/3/121",26,"227.23","","34.76","","","262.00",5908,"",903.85,"","",6812,0
+"Tripura","","","Shops & Commercial Establishments","Unskilled","","1/3/121",26,"207.12","","31.68","","","238.81",5385,"",823.66,"","",6209,0
+"Tripura","","","Palatana Power Project","Highly Skilled","","1/3/121",26,436,"",95.29,"","",531.29,"11336.00","","2477.54","","",13814,"Electricity"
+"Tripura","","","Palatana Power Project","Skilled","","1/3/121",26,374,"",81.73,"","",455.73,"9724.00","","2124.98","","",11849,"Electricity"
+"Tripura","","","Palatana Power Project","Semi Skilled","","1/3/121",26,325,"",71.03,"","",396.03,"8450.00","","1846.78","","",10297,"Electricity"
+"Tripura","","","Palatana Power Project","Unskilled","","1/3/121",26,305,"",66.66,"","",371.66,"7930.00","","1733.16","","",9663,"Electricity"
+"Tripura","","","Security Services","Skilled","Field Supervisor","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Marketing Personnel","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Accountant","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Cashier","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Clerk","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","Security Guard With Weapon","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Semi Skilled","Security Supervisor","1/3/121",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346,"Watchman Guard"
+"Tripura","","","Security Services","Semi Skilled","Head Guard - Security Services","1/3/121",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","Gatekeeper","1/3/121",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","Watchman","1/3/121",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","Security guard","1/3/121",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746,"Watchman Guard"
+"Tripura","","","Security Services","Skilled","","1/3/121",26,"343.04","","52.48","","","395.54",8919,"",1364.59,"","",10284,"Watchman Guard"
+"Tripura","","","Security Services","Semi Skilled","","1/3/121",26,"311.77","","47.70","","","359.46",8106,"",1240.22,"","",9346,"Watchman Guard"
+"Tripura","","","Security Services","Unskilled","","1/3/121",26,"291.73","","44.63","","","336.38",7585,"",1160.49,"","",8746,"Watchman Guard"
+"Tripura","","","Mechanical Workshop","Highly Skilled","","1/3/121",26,"482.62","","222.07","","","704.69",12548,"",5773.83,"","",18322,"Automobile"
+"Tripura","","","Mechanical Workshop","Skilled","","1/3/121",26,"231.31","","106.43","","","337.73",6014,"",2767.25,"","",8781,"Automobile"
+"Tripura","","","Mechanical Workshop","Semi Skilled","","1/3/121",26,"193.81","","89.17","","","282.96",5039,"",2318.44,"","",7357,"Automobile"
+"Tripura","","","Mechanical Workshop","Unskilled","","1/3/121",26,"188.15","","86.19","","","274.35",4892,"",2241.06,"","",7133,"Automobile"
+"Tripura","","","Sweeping and Cleaning","Unskilled","Sweeper","1/3/121",30,204,"",31.22,"","",235,"6120.00","","936.60","","","7050.00","Scavengers"
+"Tripura","","","Petrol Pump","Unskilled","","1/3/121",26,"132.69","","79.64","","","212.35",3450,"",2070.63,"","",5521,0
+"Tripura","","","Petrol Pump","Semi Skilled","","1/3/121",26,"140.38","","84.27","","","224.65",3650,"",2191,"","",5841,0
+"Tripura","","","Petrol Pump","Skilled","","1/3/121",26,"148.08","","88.89","","","236.96",3850,"",2311.18,"","",6161,0

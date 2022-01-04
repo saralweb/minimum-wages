@@ -1,259 +1,844 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Jharkhand","","","Transportation & Storage","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Transportation & Storage","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Transportation & Storage","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Transportation & Storage","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Transportation & Storage","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Automobile Workshops","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Automobile Workshops","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Automobile Workshops","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Automobile Workshops","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Automobile Workshops","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Biscuit Manufacturer","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Biscuit Manufacturer","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Biscuit Manufacturer","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Biscuit Manufacturer","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Biscuit Manufacturer","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Security Services","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Security Services","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Security Services","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Security Services","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Security Services","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Plywood Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Plywood Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Plywood Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Plywood Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Plywood Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Electronic Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Electronic Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Electronic Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Electronic Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Electronic Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Agriculture","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Agriculture","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Agriculture","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Agriculture","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Agriculture","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Plastic Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Plastic Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Plastic Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Plastic Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Plastic Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Rubber Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Rubber Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Rubber Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Rubber Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Rubber Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Tailoring Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Tailoring Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Tailoring Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Tailoring Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Tailoring Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Oil Mills","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Oil Mills","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Oil Mills","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Oil Mills","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Oil Mills","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Dal Mills","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Dal Mills","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Dal Mills","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Dal Mills","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Dal Mills","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Flour Mills","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Flour Mills","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Flour Mills","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Flour Mills","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Flour Mills","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Rice Mills","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Rice Mills","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Rice Mills","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Rice Mills","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Rice Mills","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Cinema Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Cinema Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Cinema Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Cinema Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Cinema Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Dairy","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Dairy","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Dairy","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Dairy","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Dairy","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Wool Shawl and Carpet Maker","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Wool Shawl and Carpet Maker","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Wool Shawl and Carpet Maker","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Wool Shawl and Carpet Maker","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Wool Shawl and Carpet Maker","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Hotels and Restaurants","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Hotels and Restaurants","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Hotels and Restaurants","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Hotels and Restaurants","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Hotels and Restaurants","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Public Motor Transport","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Public Motor Transport","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Public Motor Transport","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Public Motor Transport","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Public Motor Transport","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Shops & Commercial Establishments","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Shops & Commercial Establishments","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Shops & Commercial Establishments","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Shops & Commercial Establishments","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Shops & Commercial Establishments","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Ceramic Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Ceramic Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Ceramic Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Ceramic Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Ceramic Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Jewellery Manufacturing Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Jewellery Manufacturing Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Jewellery Manufacturing Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Jewellery Manufacturing Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Jewellery Manufacturing Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Handloom","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Handloom","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Handloom","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Handloom","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Handloom","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Khadi & Village Industries","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Khadi & Village Industries","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Khadi & Village Industries","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Khadi & Village Industries","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Khadi & Village Industries","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Fisheries And Sea Food Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Fisheries And Sea Food Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Fisheries And Sea Food Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Fisheries And Sea Food Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Fisheries And Sea Food Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Petrol Pump","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Petrol Pump","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Petrol Pump","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Petrol Pump","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Petrol Pump","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Ice & Cold Drinks","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Ice & Cold Drinks","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Ice & Cold Drinks","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Ice & Cold Drinks","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Ice & Cold Drinks","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Wooden Furniture","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Wooden Furniture","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Wooden Furniture","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Wooden Furniture","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Wooden Furniture","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Leather Goods Manufacturer","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Leather Goods Manufacturer","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Leather Goods Manufacturer","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Leather Goods Manufacturer","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Leather Goods Manufacturer","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Paints and Varnishes","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Paints and Varnishes","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Paints and Varnishes","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Paints and Varnishes","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Paints and Varnishes","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Hosiery","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Hosiery","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Hosiery","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Hosiery","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Hosiery","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Paper and Paper Board Manufactury","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Paper and Paper Board Manufactury","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Paper and Paper Board Manufactury","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Paper and Paper Board Manufactury","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Paper and Paper Board Manufactury","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Glass Products Manufacturers","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Glass Products Manufacturers","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Glass Products Manufacturers","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Glass Products Manufacturers","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Glass Products Manufacturers","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Cement and Cement Based Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Cement and Cement Based Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Cement and Cement Based Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Cement and Cement Based Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Cement and Cement Based Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Soaps & Cosmetics","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Soaps & Cosmetics","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Soaps & Cosmetics","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Soaps & Cosmetics","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Soaps & Cosmetics","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Chemical Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Chemical Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Chemical Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Chemical Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Chemical Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Pharmaceutical Manufacturers","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Pharmaceutical Manufacturers","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Pharmaceutical Manufacturers","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Pharmaceutical Manufacturers","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Pharmaceutical Manufacturers","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Khandsari Manufacturer","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Khandsari Manufacturer","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Khandsari Manufacturer","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Khandsari Manufacturer","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Khandsari Manufacturer","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Aluminium Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Aluminium Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Aluminium Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Aluminium Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Aluminium Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Bakeries","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Bakeries","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Bakeries","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Bakeries","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Bakeries","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Pottery Industries","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Pottery Industries","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Pottery Industries","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Pottery Industries","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Pottery Industries","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Distillery-Industry","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Distillery-Industry","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Distillery-Industry","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Distillery-Industry","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Distillery-Industry","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Cold Storage Employments","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Cold Storage Employments","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Cold Storage Employments","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Cold Storage Employments","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Cold Storage Employments","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Tanneries and Leather Manufactory","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Tanneries and Leather Manufactory","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Tanneries and Leather Manufactory","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Tanneries and Leather Manufactory","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Tanneries and Leather Manufactory","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Employment – Dam construction and irrigation works","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Employment – Dam construction and irrigation works","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Employment – Dam construction and irrigation works","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Employment – Dam construction and irrigation works","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Employment – Dam construction and irrigation works","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
-"Jharkhand","","","Daily Rated Workers","Highly Skilled","","01.04.2021",26,"525.98","","69.90","","","595.89",13675.59,"",1817.49,"","",15493.08
-"Jharkhand","","","Daily Rated Workers","Skilled","","01.04.2021",26,"459.04","","61.01","","","520.05",11935.06,"",1586.17,"","",13521.23
-"Jharkhand","","","Daily Rated Workers","Semi Skilled","","01.04.2021",26,"345.29","","45.89","","","391.18",8977.47,"",1193.11,"","",10170.58
-"Jharkhand","","","Daily Rated Workers","Unskilled","","01.04.2021",26,"329.68","","43.82","","","373.50",8571.78,"",1139.19,"","",9710.97
-"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","01.04.2021",26,471.11,"",62.61,"","",533.72,12248.86,"",1627.87,"","",13876.73
-"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","01.04.2021",26,405.68,"",53.91,"","",459.59,10547.68,"",1401.78,"","",11949.46
-"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","01.04.2021",26,314.07,"",41.73,"","",355.8,8165.82,"",1085.23,"","",9251.05
-"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","01.04.2021",26,294.44,"",39.13,"","",333.57,7655.44,"",1017.4,"","",8672.84
-"Jharkhand","","","Decoration","Clerical","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Decoration","Highly Skilled","","01.04.2021",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95
-"Jharkhand","","","Decoration","Skilled","","01.04.2021",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61
-"Jharkhand","","","Decoration","Semi Skilled","","01.04.2021",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2
-"Jharkhand","","","Decoration","Unskilled","","01.04.2021",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Jharkhand","","","Contract Labour","Highly Skilled","","1/9/121",26,"525.98","","76.85","","","602.83",13675.59,"",1998,"","",15673.59,0
+"Jharkhand","","","Contract Labour","Skilled","","1/9/121",26,"459.04","","67.07","","","526.11",11935.06,"",1743.71,"","",13678.77,0
+"Jharkhand","","","Contract Labour","Semi Skilled","","1/9/121",26,"345.29","","50.45","","","395.73",8977.47,"",1311.61,"","",10289.08,0
+"Jharkhand","","","Contract Labour","Unskilled","","1/9/121",26,"329.68","","48.17","","","377.85",8571.78,"",1252.34,"","",9824.12,0
+"Jharkhand","","","Transportation & Storage","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Logistics Warehouse"
+"Jharkhand","","","Paints and Varnishes","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Color Colour"
+"Jharkhand","","","Ceramic Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Ceramic Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Ceramic Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Ceramic Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Ceramic Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Cement and Cement Based Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Constructions"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Alloy Metal"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Clerical","","1/9/121",26,405.68,"",59.27,"","",464.95,10547.68,"",1541.02,"","",12088.7,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/9/121",26,471.11,"",68.83,"","",539.94,12248.86,"",1789.55,"","",14038.41,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/9/121",26,405.68,"",59.27,"","",464.95,10547.68,"",1541.02,"","",12088.7,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/9/121",26,314.07,"",45.89,"","",359.96,8165.82,"",1193.03,"","",9358.85,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/9/121",26,294.44,"",43.02,"","",337.46,7655.44,"",1118.45,"","",8773.89,"Rural Government Employees"
+"Jharkhand","","","Engineering Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Startup Company"
+"Jharkhand","","","Engineering Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Startup Company"
+"Jharkhand","","","Engineering Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Startup Company"
+"Jharkhand","","","Engineering Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Startup Company"
+"Jharkhand","","","Engineering Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Startup Company"
+"Jharkhand","","","Pharmaceutical Manufacturers","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Medicine Shop medical"
+"Jharkhand","","","Chemical Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Chemical Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Chemical Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Chemical Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Chemical Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Automobile Workshops","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Vehicle car bike autopart"
+"Jharkhand","","","Employments in Mobile Tower etc","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employments in Mobile Tower etc","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Employments in Mobile Tower etc","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employments in Mobile Tower etc","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Employments in Mobile Tower etc","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Sales Promotion Worker","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Sales Promotion Worker","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Sales Promotion Worker","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Sales Promotion Worker","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Sales Promotion Worker","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Bus and Truck Transportation","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Bus and Truck Transportation","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Bus and Truck Transportation","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Bus and Truck Transportation","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Bus and Truck Transportation","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Decoration","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Pandal"
+"Jharkhand","","","Decoration","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Pandal"
+"Jharkhand","","","Decoration","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Pandal"
+"Jharkhand","","","Decoration","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Pandal"
+"Jharkhand","","","Decoration","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Pandal"
+"Jharkhand","","","Employment in Electricity Generator and Supply","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Pipelines Construction"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"CA"
+"Jharkhand","","","Clubs And Canteens","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Bar Pub"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Alloy Metal"
+"Jharkhand","","","Sweeping and Cleaning","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Scavengers"
+"Jharkhand","","","Security Services","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Watchman Guard"
+"Jharkhand","","","Security Services","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Watchman Guard"
+"Jharkhand","","","Security Services","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Watchman Guard"
+"Jharkhand","","","Security Services","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Watchman Guard"
+"Jharkhand","","","Security Services","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Watchman Guard"
+"Jharkhand","","","Coal Briquettes Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Coal Briquettes Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Coal Briquettes Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Coal Briquettes Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Coal Briquettes Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Glass Products Manufacturers","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Glass Products Manufacturers","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Glass Products Manufacturers","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Glass Products Manufacturers","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Glass Products Manufacturers","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Biscuit Manufacturer","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Food Bakeries"
+"Jharkhand","","","Foundry Industries","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Alloy Metal"
+"Jharkhand","","","Plywood Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Carpentry Furniture Wood"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Stationery"
+"Jharkhand","","","Employment In Binding","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employment In Binding","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Employment In Binding","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employment In Binding","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Employment In Binding","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Agriculture","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Farming Horticulture Dairy"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Constructions Industry"
+"Jharkhand","","","Plastic Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Plastic Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Plastic Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Plastic Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Plastic Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Electronic Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Hardware Semiconductor"
+"Jharkhand","","","Bulb and Florence Tube","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Light"
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Tailoring Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Stitch Textile"
+"Jharkhand","","","Oil Mills","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Oil Mills","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Oil Mills","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Oil Mills","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Oil Mills","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Cinema Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Film Industry Multiplex Hall"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Vehicle car bike autopart"
+"Jharkhand","","","Dairy","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Milk"
+"Jharkhand","","","Dairy","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Milk"
+"Jharkhand","","","Dairy","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Milk"
+"Jharkhand","","","Dairy","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Milk"
+"Jharkhand","","","Dairy","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Milk"
+"Jharkhand","","","Poultry Farm","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"eggs"
+"Jharkhand","","","Poultry Farm","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"eggs"
+"Jharkhand","","","Poultry Farm","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"eggs"
+"Jharkhand","","","Poultry Farm","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"eggs"
+"Jharkhand","","","Poultry Farm","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"eggs"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Clothes"
+"Jharkhand","","","Hotels and Restaurants","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Eating House Cantin Accommodation"
+"Jharkhand","","","Private Educational Institutes","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Teaching School Collage"
+"Jharkhand","","","Public Motor Transport","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Public Motor Transport","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Public Motor Transport","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Public Motor Transport","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Public Motor Transport","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Shops & Commercial Establishments","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Shops & Commercial Establishments","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Shops & Commercial Establishments","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Shops & Commercial Establishments","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Shops & Commercial Establishments","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Jewellery Manufacturing Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Goldsmith"
+"Jharkhand","","","Handloom","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Textile Industry"
+"Jharkhand","","","Handloom","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Textile Industry"
+"Jharkhand","","","Handloom","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Textile Industry"
+"Jharkhand","","","Handloom","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Textile Industry"
+"Jharkhand","","","Handloom","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Textile Industry"
+"Jharkhand","","","Mica Works","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Furniture carpentry Wood"
+"Jharkhand","","","Printing Press","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Printing Press","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Printing Press","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Printing Press","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Printing Press","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Hard Coke Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Coal"
+"Jharkhand","","","Hard Coke Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Coal"
+"Jharkhand","","","Hard Coke Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Coal"
+"Jharkhand","","","Hard Coke Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Coal"
+"Jharkhand","","","Hard Coke Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Coal"
+"Jharkhand","","","Private Ferries and LTC","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Private Ferries and LTC","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Private Ferries and LTC","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Private Ferries and LTC","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Private Ferries and LTC","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Khadi & Village Industries","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Clothes"
+"Jharkhand","","","Fisheries And Sea Food Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Seafood"
+"Jharkhand","","","Petrol Pump","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Petrol Pump","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Petrol Pump","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Petrol Pump","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Petrol Pump","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Ice & Cold Drinks","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Beverage"
+"Jharkhand","","","Wooden Furniture","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Carpentry"
+"Jharkhand","","","Leather Goods Manufacturer","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Leather Goods Manufacturer","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Leather Goods Manufacturer","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Leather Goods Manufacturer","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Leather Goods Manufacturer","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Color and Vermilion Manufacturer","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Paint Red Lead Sindoor"
+"Jharkhand","","","Hosiery","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Textile Industry"
+"Jharkhand","","","Hosiery","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Textile Industry"
+"Jharkhand","","","Hosiery","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Textile Industry"
+"Jharkhand","","","Hosiery","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Textile Industry"
+"Jharkhand","","","Hosiery","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Textile Industry"
+"Jharkhand","","","Laundry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Washing Cleaning"
+"Jharkhand","","","Laundry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Washing Cleaning"
+"Jharkhand","","","Laundry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Washing Cleaning"
+"Jharkhand","","","Laundry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Washing Cleaning"
+"Jharkhand","","","Laundry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Washing Cleaning"
+"Jharkhand","","","Paper and Paper Board Manufactury","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Stationery"
+"Jharkhand","","","Religious and Social Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Religious and Social Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Religious and Social Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Religious and Social Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Religious and Social Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Gun Factory","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Arms"
+"Jharkhand","","","Gun Factory","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Arms"
+"Jharkhand","","","Gun Factory","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Arms"
+"Jharkhand","","","Gun Factory","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Arms"
+"Jharkhand","","","Gun Factory","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Arms"
+"Jharkhand","","","Glass Sheet Manufactures","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Glass Sheet Manufactures","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Glass Sheet Manufactures","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Glass Sheet Manufactures","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Glass Sheet Manufactures","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Asbestos Cement Factory","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Asbestos Cement Factory","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Asbestos Cement Factory","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Asbestos Cement Factory","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Asbestos Cement Factory","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Cement Prestressed Products Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Constructions Industry"
+"Jharkhand","","","Soaps & Cosmetics","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Detergent"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Drugs Fertilizers"
+"Jharkhand","","","Khandsari Manufacturer","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Sugarcane"
+"Jharkhand","","","Aluminium Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Alloy Metal"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Farming"
+"Jharkhand","","","Bakeries & Confectioneries","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Food Industry"
+"Jharkhand","","","Pottery Industries","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Ceramic"
+"Jharkhand","","","Pottery Industries","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Ceramic"
+"Jharkhand","","","Pottery Industries","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Ceramic"
+"Jharkhand","","","Pottery Industries","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Ceramic"
+"Jharkhand","","","Pottery Industries","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Ceramic"
+"Jharkhand","","","Distillery-Industry","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,"Beer Wine Liquor"
+"Jharkhand","","","Cold Storage Employments","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Cold Storage Employments","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Cold Storage Employments","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Cold Storage Employments","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Cold Storage Employments","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Shops Selling Cooked Food Stuff","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Shops Selling Cooked Food Stuff","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Shops Selling Cooked Food Stuff","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Shops Selling Cooked Food Stuff","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Shops Selling Cooked Food Stuff","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Clerical","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Highly Skilled","","1/9/121",26,438.39,"",64.05,"","",502.44,11398.14,"",1665.27,"","",13063.41,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Skilled","","1/9/121",26,379.51,"",55.45,"","",434.96,9867.26,"",1441.6,"","",11308.86,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Semi Skilled","","1/9/121",26,287.9,"",42.06,"","",329.96,7485.4,"",1093.62,"","",8579.02,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Unskilled","","1/9/121",26,274.81,"",40.15,"","",314.96,7145.06,"",1043.89,"","",8188.95,0
+"Jharkhand","","","Sales Promotion Worker","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Sales Promotion Worker","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Sales Promotion Worker","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Sales Promotion Worker","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Sales Promotion Worker","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Employment in Electricity Generator and Supply","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Pipelines Construction"
+"Jharkhand","","","Employment in laying of underground electric lines and water supply lines and sewerage pipe lines","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Pipelines Construction"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"CA"
+"Jharkhand","","","CHARTERED/COST ACCOUNTANTS, AUDITORS etc. FIRMS","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"CA"
+"Jharkhand","","","Clubs And Canteens","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Bar Pub"
+"Jharkhand","","","Clubs And Canteens","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Bar Pub"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Rod Manufacturing","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Alloy Metal"
+"Jharkhand","","","Manufacturing of Angle from Iron and Ingots","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Alloy Metal"
+"Jharkhand","","","Sweeping and Cleaning","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Scavengers"
+"Jharkhand","","","Sweeping and Cleaning","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Scavengers"
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Mineral Ore Grinding and Crushing","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Engineering Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Startup Company"
+"Jharkhand","","","Engineering Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Startup Company"
+"Jharkhand","","","Engineering Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Startup Company"
+"Jharkhand","","","Engineering Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Startup Company"
+"Jharkhand","","","Engineering Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Startup Company"
+"Jharkhand","","","Coal Briquettes Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Coal Briquettes Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Coal Briquettes Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Coal Briquettes Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Coal Briquettes Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Foundry Industries","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Alloy Metal"
+"Jharkhand","","","Foundry Industries","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Alloy Metal"
+"Jharkhand","","","Plywood Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Carpentry Furniture Wood"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Stationery"
+"Jharkhand","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Stationery"
+"Jharkhand","","","Employment In Binding","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Employment In Binding","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Employment In Binding","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Employment In Binding","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Employment In Binding","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Constructions Industry"
+"Jharkhand","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Constructions Industry"
+"Jharkhand","","","Bulb and Florence Tube","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Light"
+"Jharkhand","","","Bulb and Florence Tube","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Light"
+"Jharkhand","","","Poultry Farm","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"eggs"
+"Jharkhand","","","Poultry Farm","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"eggs"
+"Jharkhand","","","Poultry Farm","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"eggs"
+"Jharkhand","","","Poultry Farm","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"eggs"
+"Jharkhand","","","Poultry Farm","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"eggs"
+"Jharkhand","","","Dairy","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Milk"
+"Jharkhand","","","Dairy","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Milk"
+"Jharkhand","","","Dairy","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Milk"
+"Jharkhand","","","Dairy","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Milk"
+"Jharkhand","","","Dairy","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Milk"
+"Jharkhand","","","Private Educational Institutes","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Teaching School Collage"
+"Jharkhand","","","Private Educational Institutes","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Teaching School Collage"
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Refractory Fire Bricks and Ceramic Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Jewellery Manufacturing Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Goldsmith"
+"Jharkhand","","","Mica Works","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Furniture carpentry Wood"
+"Jharkhand","","","Mica Works","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Furniture carpentry Wood"
+"Jharkhand","","","Printing Press","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Printing Press","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Printing Press","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Printing Press","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Printing Press","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Hard Coke Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Coal"
+"Jharkhand","","","Hard Coke Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Coal"
+"Jharkhand","","","Hard Coke Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Coal"
+"Jharkhand","","","Hard Coke Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Coal"
+"Jharkhand","","","Hard Coke Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Coal"
+"Jharkhand","","","Color and Vermilion Manufacturer","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Paint Red Lead Sindoor"
+"Jharkhand","","","Color and Vermilion Manufacturer","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Paint Red Lead Sindoor"
+"Jharkhand","","","Laundry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Washing Cleaning"
+"Jharkhand","","","Laundry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Washing Cleaning"
+"Jharkhand","","","Laundry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Washing Cleaning"
+"Jharkhand","","","Laundry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Washing Cleaning"
+"Jharkhand","","","Laundry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Washing Cleaning"
+"Jharkhand","","","Religious and Social Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Religious and Social Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Religious and Social Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Religious and Social Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Religious and Social Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Gun Factory","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Arms"
+"Jharkhand","","","Gun Factory","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Arms"
+"Jharkhand","","","Gun Factory","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Arms"
+"Jharkhand","","","Gun Factory","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Arms"
+"Jharkhand","","","Gun Factory","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Arms"
+"Jharkhand","","","Glass Sheet Manufactures","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Glass Sheet Manufactures","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Glass Sheet Manufactures","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Glass Sheet Manufactures","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Glass Sheet Manufactures","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Cement Prestressed Products Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Constructions Industry"
+"Jharkhand","","","Cement Prestressed Products Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Constructions Industry"
+"Jharkhand","","","Asbestos Cement Factory","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Asbestos Cement Factory","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Asbestos Cement Factory","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Asbestos Cement Factory","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Asbestos Cement Factory","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Drugs Fertilizers"
+"Jharkhand","","","Chemicals and pharmaceuticals, including pesticides","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Drugs Fertilizers"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Farming"
+"Jharkhand","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Farming"
+"Jharkhand","","","Transportation & Storage","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Logistics Warehouse"
+"Jharkhand","","","Transportation & Storage","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Logistics Warehouse"
+"Jharkhand","","","Automobile Workshops","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Workshops","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Vehicle car bike autopart"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Alloy Metal"
+"Jharkhand","","","Sponge Iron, Ferro Alloys and Induction Furnaces","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Alloy Metal"
+"Jharkhand","","","Biscuit Manufacturer","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Food Bakeries"
+"Jharkhand","","","Biscuit Manufacturer","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Food Bakeries"
+"Jharkhand","","","Security Services","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Watchman Guard"
+"Jharkhand","","","Security Services","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Watchman Guard"
+"Jharkhand","","","Security Services","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Watchman Guard"
+"Jharkhand","","","Security Services","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Watchman Guard"
+"Jharkhand","","","Security Services","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Watchman Guard"
+"Jharkhand","","","Plywood Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Carpentry Furniture Wood"
+"Jharkhand","","","Plywood Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Carpentry Furniture Wood"
+"Jharkhand","","","Electronic Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Hardware Semiconductor"
+"Jharkhand","","","Electronic Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Hardware Semiconductor"
+"Jharkhand","","","Agriculture","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Farming Horticulture Dairy"
+"Jharkhand","","","Agriculture","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Farming Horticulture Dairy"
+"Jharkhand","","","Plastic Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Plastic Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Plastic Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Plastic Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Plastic Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Rubber and Rubber Compound Industry in include Tyre and Tube Manufacturer","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Tailoring Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Stitch Textile"
+"Jharkhand","","","Tailoring Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Stitch Textile"
+"Jharkhand","","","Oil Mills","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Oil Mills","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Oil Mills","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Oil Mills","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Oil Mills","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Cinema Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Film Industry Multiplex Hall"
+"Jharkhand","","","Cinema Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Film Industry Multiplex Hall"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Vehicle car bike autopart"
+"Jharkhand","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Vehicle car bike autopart"
+"Jharkhand","","","Dairy","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Milk"
+"Jharkhand","","","Dairy","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Milk"
+"Jharkhand","","","Dairy","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Milk"
+"Jharkhand","","","Dairy","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Milk"
+"Jharkhand","","","Dairy","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Milk"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Clothes"
+"Jharkhand","","","Wool Shawl and Carpet Maker","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Clothes"
+"Jharkhand","","","Hotels and Restaurants","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Eating House Cantin Accommodation"
+"Jharkhand","","","Hotels and Restaurants","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Eating House Cantin Accommodation"
+"Jharkhand","","","Public Motor Transport","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Public Motor Transport","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Public Motor Transport","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Public Motor Transport","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Public Motor Transport","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Shops & Commercial Establishments","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Shops & Commercial Establishments","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Shops & Commercial Establishments","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Shops & Commercial Establishments","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Shops & Commercial Establishments","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Ceramic Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Ceramic Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Ceramic Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Ceramic Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Ceramic Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Jewellery Manufacturing Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Goldsmith"
+"Jharkhand","","","Jewellery Manufacturing Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Goldsmith"
+"Jharkhand","","","Handloom","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Textile Industry"
+"Jharkhand","","","Handloom","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Textile Industry"
+"Jharkhand","","","Handloom","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Textile Industry"
+"Jharkhand","","","Handloom","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Textile Industry"
+"Jharkhand","","","Handloom","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Textile Industry"
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Khadi & Village Industries","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Clothes"
+"Jharkhand","","","Khadi & Village Industries","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Clothes"
+"Jharkhand","","","Fisheries And Sea Food Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Seafood"
+"Jharkhand","","","Fisheries And Sea Food Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Seafood"
+"Jharkhand","","","Petrol Pump","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Petrol Pump","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Petrol Pump","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Petrol Pump","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Petrol Pump","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Ice & Cold Drinks","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Beverage"
+"Jharkhand","","","Ice & Cold Drinks","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Beverage"
+"Jharkhand","","","Wooden Furniture","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Carpentry"
+"Jharkhand","","","Wooden Furniture","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Carpentry"
+"Jharkhand","","","Leather Goods Manufacturer","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Leather Goods Manufacturer","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Leather Goods Manufacturer","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Leather Goods Manufacturer","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Leather Goods Manufacturer","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Paints and Varnishes","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Color Colour"
+"Jharkhand","","","Paints and Varnishes","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Color Colour"
+"Jharkhand","","","Hosiery","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Textile Industry"
+"Jharkhand","","","Hosiery","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Textile Industry"
+"Jharkhand","","","Hosiery","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Textile Industry"
+"Jharkhand","","","Hosiery","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Textile Industry"
+"Jharkhand","","","Hosiery","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Textile Industry"
+"Jharkhand","","","Paper and Paper Board Manufactury","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Stationery"
+"Jharkhand","","","Paper and Paper Board Manufactury","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Stationery"
+"Jharkhand","","","Glass Products Manufacturers","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Glass Products Manufacturers","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Glass Products Manufacturers","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Glass Products Manufacturers","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Glass Products Manufacturers","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Cement and Cement Based Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Constructions"
+"Jharkhand","","","Cement and Cement Based Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Constructions"
+"Jharkhand","","","Soaps & Cosmetics","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Detergent"
+"Jharkhand","","","Soaps & Cosmetics","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Detergent"
+"Jharkhand","","","Chemical Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Chemical Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Chemical Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Chemical Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Chemical Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Pharmaceutical Manufacturers","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Medicine Shop medical"
+"Jharkhand","","","Pharmaceutical Manufacturers","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Medicine Shop medical"
+"Jharkhand","","","Khandsari Manufacturer","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Sugarcane"
+"Jharkhand","","","Khandsari Manufacturer","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Sugarcane"
+"Jharkhand","","","Aluminium Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Alloy Metal"
+"Jharkhand","","","Aluminium Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Alloy Metal"
+"Jharkhand","","","Bakeries & Confectioneries","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Food Industry"
+"Jharkhand","","","Bakeries & Confectioneries","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Food Industry"
+"Jharkhand","","","Pottery Industries","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Ceramic"
+"Jharkhand","","","Pottery Industries","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Ceramic"
+"Jharkhand","","","Pottery Industries","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Ceramic"
+"Jharkhand","","","Pottery Industries","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Ceramic"
+"Jharkhand","","","Pottery Industries","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Ceramic"
+"Jharkhand","","","Distillery-Industry","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Beer Wine Liquor"
+"Jharkhand","","","Distillery-Industry","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Beer Wine Liquor"
+"Jharkhand","","","Cold Storage Employments","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Cold Storage Employments","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Cold Storage Employments","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Cold Storage Employments","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Cold Storage Employments","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Tanneries and Leather Manufactory","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,0
+"Jharkhand","","","Employment – Dam construction and irrigation works","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,0
+"Jharkhand","","","Contract Labour","Highly Skilled","","1/3/121",26,"525.98","","69.90","","","595.89",13675.59,"",1817.49,"","",15493.08,0
+"Jharkhand","","","Contract Labour","Skilled","","1/3/121",26,"459.04","","61.01","","","520.05",11935.06,"",1586.17,"","",13521.23,0
+"Jharkhand","","","Contract Labour","Semi Skilled","","1/3/121",26,"345.29","","45.89","","","391.18",8977.47,"",1193.11,"","",10170.58,0
+"Jharkhand","","","Contract Labour","Unskilled","","1/3/121",26,"329.68","","43.82","","","373.50",8571.78,"",1139.19,"","",9710.97,0
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Clerical","","1/3/121",26,405.68,"",53.91,"","",459.59,10547.68,"",1401.78,"","",11949.46,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/3/121",26,471.11,"",62.61,"","",533.72,12248.86,"",1627.87,"","",13876.73,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/121",26,405.68,"",53.91,"","",459.59,10547.68,"",1401.78,"","",11949.46,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/121",26,314.07,"",41.73,"","",355.8,8165.82,"",1085.23,"","",9251.05,"Rural Government Employees"
+"Jharkhand","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/121",26,294.44,"",39.13,"","",333.57,7655.44,"",1017.4,"","",8672.84,"Rural Government Employees"
+"Jharkhand","","","Decoration","Clerical","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Pandal"
+"Jharkhand","","","Decoration","Highly Skilled","","1/3/121",26,438.39,"",58.26,"","",496.65,11398.14,"",1514.81,"","",12912.95,"Pandal"
+"Jharkhand","","","Decoration","Skilled","","1/3/121",26,379.51,"",50.43,"","",429.94,9867.26,"",1311.35,"","",11178.61,"Pandal"
+"Jharkhand","","","Decoration","Semi Skilled","","1/3/121",26,287.9,"",38.26,"","",326.16,7485.4,"",994.8,"","",8480.2,"Pandal"
+"Jharkhand","","","Decoration","Unskilled","","1/3/121",26,274.81,"",36.52,"","",311.33,7145.06,"",949.57,"","",8094.63,"Pandal"

@@ -1,103 +1,151 @@
-"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill Set","__effective_from__","conversion","Basic/day","HRA/day","VDA/day","Food and lodging","Special Allowance/Day","Daily Rate","Basic /month","HRA/month","VDA /month","Food and lodging","Special Allowance/month","Monthly Rate"
-"Arunachal Pradesh","Zone II","","Security Services","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Security Services","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Security Services","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Security Services","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Security Services","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Security Services","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Distillery-Industry","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Distillery-Industry","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Distillery-Industry","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Distillery-Industry","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Distillery-Industry","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Distillery-Industry","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Private Educational Institutes","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Private Educational Institutes","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Private Educational Institutes","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Private Educational Institutes","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Private Educational Institutes","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Private Educational Institutes","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Forest and Forestry","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Forest and Forestry","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Forest and Forestry","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Forest and Forestry","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Forest and Forestry","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Forest and Forestry","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Horticulture","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Horticulture","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Horticulture","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Horticulture","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Horticulture","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Horticulture","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Plywood Industry","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Plywood Industry","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Plywood Industry","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Plywood Industry","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Plywood Industry","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Plywood Industry","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Saw Mills","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Saw Mills","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Saw Mills","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Saw Mills","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Saw Mills","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Saw Mills","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Cement and Cement Based Industry","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Cement and Cement Based Industry","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Cement and Cement Based Industry","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Cement and Cement Based Industry","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Cement and Cement Based Industry","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Cement and Cement Based Industry","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Printing Press","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Printing Press","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Printing Press","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Printing Press","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Printing Press","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Printing Press","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Shops & Commercial Establishments","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Shops & Commercial Establishments","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Shops & Commercial Establishments","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Shops & Commercial Establishments","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Shops & Commercial Establishments","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Shops & Commercial Establishments","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Public Motor Transport","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Public Motor Transport","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Public Motor Transport","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Public Motor Transport","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Public Motor Transport","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Public Motor Transport","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Tobacco Bidi making","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Tobacco Bidi making","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Tobacco Bidi making","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Tobacco Bidi making","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Tobacco Bidi making","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Tobacco Bidi making","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
-"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Skilled","","01.04.2016",30,"","","","","",240,"","","","","",7200
-"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Skilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Semi Skilled","","01.04.2016",30,"","","","","",230,"","","","","",6900
-"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Semi Skilled","","01.04.2016",30,"","","","","",210,"","","","","",6300
-"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Unskilled","","01.04.2016",30,"","","","","",220,"","","","","",6600
-"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Unskilled","","01.04.2016",30,"","","","","",200,"","","","","",6000
+"State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Arunachal Pradesh","Zone II","","Agriculture","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Farming Horticulture Dairy"
+"Arunachal Pradesh","Zone I","","Agriculture","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Farming Horticulture Dairy"
+"Arunachal Pradesh","Zone II","","Agriculture","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Farming Horticulture Dairy"
+"Arunachal Pradesh","Zone I","","Agriculture","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Farming Horticulture Dairy"
+"Arunachal Pradesh","Zone II","","Agriculture","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Farming Horticulture Dairy"
+"Arunachal Pradesh","Zone I","","Agriculture","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Farming Horticulture Dairy"
+"Arunachal Pradesh","Zone II","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Farming"
+"Arunachal Pradesh","Zone I","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Farming"
+"Arunachal Pradesh","Zone II","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Farming"
+"Arunachal Pradesh","Zone I","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Farming"
+"Arunachal Pradesh","Zone II","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Farming"
+"Arunachal Pradesh","Zone I","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Farming"
+"Arunachal Pradesh","Zone II","","Petrol Pump","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Petrol Pump","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Petrol Pump","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Petrol Pump","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Petrol Pump","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Petrol Pump","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Cinema Industry","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Film Industry Multiplex Hall"
+"Arunachal Pradesh","Zone I","","Cinema Industry","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Film Industry Multiplex Hall"
+"Arunachal Pradesh","Zone II","","Cinema Industry","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Film Industry Multiplex Hall"
+"Arunachal Pradesh","Zone I","","Cinema Industry","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Film Industry Multiplex Hall"
+"Arunachal Pradesh","Zone II","","Cinema Industry","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Film Industry Multiplex Hall"
+"Arunachal Pradesh","Zone I","","Cinema Industry","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Film Industry Multiplex Hall"
+"Arunachal Pradesh","Zone II","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Vehicle car bike autopart"
+"Arunachal Pradesh","Zone I","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Vehicle car bike autopart"
+"Arunachal Pradesh","Zone II","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Vehicle car bike autopart"
+"Arunachal Pradesh","Zone I","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Vehicle car bike autopart"
+"Arunachal Pradesh","Zone II","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Vehicle car bike autopart"
+"Arunachal Pradesh","Zone I","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Vehicle car bike autopart"
+"Arunachal Pradesh","Zone II","","Hotels and Restaurants","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Eating House Cantin Accommodation"
+"Arunachal Pradesh","Zone I","","Hotels and Restaurants","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Eating House Cantin Accommodation"
+"Arunachal Pradesh","Zone II","","Hotels and Restaurants","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Eating House Cantin Accommodation"
+"Arunachal Pradesh","Zone I","","Hotels and Restaurants","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Eating House Cantin Accommodation"
+"Arunachal Pradesh","Zone II","","Hotels and Restaurants","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Eating House Cantin Accommodation"
+"Arunachal Pradesh","Zone I","","Hotels and Restaurants","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Eating House Cantin Accommodation"
+"Arunachal Pradesh","Zone II","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Rural Government Employees"
+"Arunachal Pradesh","Zone I","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Rural Government Employees"
+"Arunachal Pradesh","Zone II","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Rural Government Employees"
+"Arunachal Pradesh","Zone I","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Rural Government Employees"
+"Arunachal Pradesh","Zone II","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Rural Government Employees"
+"Arunachal Pradesh","Zone I","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Rural Government Employees"
+"Arunachal Pradesh","Zone II","","Oil Mills","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Oil Mills","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Oil Mills","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Oil Mills","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Oil Mills","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Oil Mills","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Security Services","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Watchman Guard"
+"Arunachal Pradesh","Zone I","","Security Services","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Watchman Guard"
+"Arunachal Pradesh","Zone II","","Security Services","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Watchman Guard"
+"Arunachal Pradesh","Zone I","","Security Services","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Watchman Guard"
+"Arunachal Pradesh","Zone II","","Security Services","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Watchman Guard"
+"Arunachal Pradesh","Zone I","","Security Services","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Watchman Guard"
+"Arunachal Pradesh","Zone II","","Distillery-Industry","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Beer Wine Liquor"
+"Arunachal Pradesh","Zone I","","Distillery-Industry","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Beer Wine Liquor"
+"Arunachal Pradesh","Zone II","","Distillery-Industry","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Beer Wine Liquor"
+"Arunachal Pradesh","Zone I","","Distillery-Industry","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Beer Wine Liquor"
+"Arunachal Pradesh","Zone II","","Distillery-Industry","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Beer Wine Liquor"
+"Arunachal Pradesh","Zone I","","Distillery-Industry","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Beer Wine Liquor"
+"Arunachal Pradesh","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Private Educational Institutes","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Teaching School Collage"
+"Arunachal Pradesh","Zone I","","Private Educational Institutes","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Teaching School Collage"
+"Arunachal Pradesh","Zone II","","Private Educational Institutes","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Teaching School Collage"
+"Arunachal Pradesh","Zone I","","Private Educational Institutes","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Teaching School Collage"
+"Arunachal Pradesh","Zone II","","Private Educational Institutes","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Teaching School Collage"
+"Arunachal Pradesh","Zone I","","Private Educational Institutes","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Teaching School Collage"
+"Arunachal Pradesh","Zone II","","Forest and Forestry","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Jungle"
+"Arunachal Pradesh","Zone I","","Forest and Forestry","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Jungle"
+"Arunachal Pradesh","Zone II","","Forest and Forestry","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Jungle"
+"Arunachal Pradesh","Zone I","","Forest and Forestry","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Jungle"
+"Arunachal Pradesh","Zone II","","Forest and Forestry","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Jungle"
+"Arunachal Pradesh","Zone I","","Forest and Forestry","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Jungle"
+"Arunachal Pradesh","Zone II","","Plantation activities","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Gardening"
+"Arunachal Pradesh","Zone I","","Plantation activities","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Gardening"
+"Arunachal Pradesh","Zone II","","Plantation activities","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Gardening"
+"Arunachal Pradesh","Zone I","","Plantation activities","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Gardening"
+"Arunachal Pradesh","Zone II","","Plantation activities","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Gardening"
+"Arunachal Pradesh","Zone I","","Plantation activities","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Gardening"
+"Arunachal Pradesh","Zone II","","Plywood Industry","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Carpentry Furniture Wood"
+"Arunachal Pradesh","Zone I","","Plywood Industry","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Carpentry Furniture Wood"
+"Arunachal Pradesh","Zone II","","Plywood Industry","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Carpentry Furniture Wood"
+"Arunachal Pradesh","Zone I","","Plywood Industry","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Carpentry Furniture Wood"
+"Arunachal Pradesh","Zone II","","Plywood Industry","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Carpentry Furniture Wood"
+"Arunachal Pradesh","Zone I","","Plywood Industry","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Carpentry Furniture Wood"
+"Arunachal Pradesh","Zone II","","Saw Mills","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Wood Furniture carpentry"
+"Arunachal Pradesh","Zone I","","Saw Mills","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Wood Furniture carpentry"
+"Arunachal Pradesh","Zone II","","Saw Mills","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Wood Furniture carpentry"
+"Arunachal Pradesh","Zone I","","Saw Mills","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Wood Furniture carpentry"
+"Arunachal Pradesh","Zone II","","Saw Mills","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Wood Furniture carpentry"
+"Arunachal Pradesh","Zone I","","Saw Mills","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Wood Furniture carpentry"
+"Arunachal Pradesh","Zone II","","Cement and Cement Based Industry","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Constructions"
+"Arunachal Pradesh","Zone I","","Cement and Cement Based Industry","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Constructions"
+"Arunachal Pradesh","Zone II","","Cement and Cement Based Industry","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Constructions"
+"Arunachal Pradesh","Zone I","","Cement and Cement Based Industry","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Constructions"
+"Arunachal Pradesh","Zone II","","Cement and Cement Based Industry","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Constructions"
+"Arunachal Pradesh","Zone I","","Cement and Cement Based Industry","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Constructions"
+"Arunachal Pradesh","Zone II","","Printing Press","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Printing Press","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Printing Press","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Printing Press","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Printing Press","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Printing Press","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Shops & Commercial Establishments","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Shops & Commercial Establishments","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Shops & Commercial Establishments","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Shops & Commercial Establishments","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Shops & Commercial Establishments","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Shops & Commercial Establishments","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Public Motor Transport","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Public Motor Transport","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Public Motor Transport","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Public Motor Transport","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Public Motor Transport","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Public Motor Transport","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Tobacco Bidi making","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Tobacco Bidi making","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Tobacco Bidi making","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Tobacco Bidi making","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Tobacco Bidi making","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Tobacco Bidi making","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
+"Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
+"Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
+"Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
+"Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Clothes"
+"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Clothes"
+"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Clothes"
+"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Clothes"
+"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Clothes"
+"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Clothes"
