@@ -20,9 +20,9 @@
 "Uttar Pradesh","","","Employment in Corporate Offices","Skilled","","1/9/121",26,"272.50","","162.74","","",435.23,7085,"",4231.16,"","",11316.16,0
 "Uttar Pradesh","","","Employment in Corporate Offices","Semi Skilled","","1/9/121",26,"243.27","","145.28","","",389,6325,"",3777.29,"","",10102.29,0
 "Uttar Pradesh","","","Employment in Corporate Offices","Unskilled","","1/9/121",26,"221.15","","132.08","","",353.23,5750,"",3434,"","",9184,0
-"Uttar Pradesh","","","Hair Cutting Saloons","Skilled","","1/9/121",26,"272.50","","162.74","","",435.23,7085,"",4231.16,"","",11316.16,0
-"Uttar Pradesh","","","Hair Cutting Saloons","Semi Skilled","","1/9/121",26,"243.27","","145.28","","",389,6325,"",3777.29,"","",10102.29,0
-"Uttar Pradesh","","","Hair Cutting Saloons","Unskilled","","1/9/121",26,"221.15","","132.08","","",353.23,5750,"",3434,"","",9184,0
+"Uttar Pradesh","","","Hair Cutting Saloons","Skilled","","1/9/121",26,"272.50","","162.74","","",435.23,7085,"",4231.16,"","",11316.16,"Beauty Parlour"
+"Uttar Pradesh","","","Hair Cutting Saloons","Semi Skilled","","1/9/121",26,"243.27","","145.28","","",389,6325,"",3777.29,"","",10102.29,"Beauty Parlour"
+"Uttar Pradesh","","","Hair Cutting Saloons","Unskilled","","1/9/121",26,"221.15","","132.08","","",353.23,5750,"",3434,"","",9184,"Beauty Parlour"
 "Uttar Pradesh","","","Sales Promotion Worker","Skilled","","1/9/121",26,"272.50","","162.74","","",435.23,7085,"",4231.16,"","",11316.16,0
 "Uttar Pradesh","","","Sales Promotion Worker","Semi Skilled","","1/9/121",26,"243.27","","145.28","","",389,6325,"",3777.29,"","",10102.29,0
 "Uttar Pradesh","","","Sales Promotion Worker","Unskilled","","1/9/121",26,"221.15","","132.08","","",353.23,5750,"",3434,"","",9184,0
@@ -241,9 +241,9 @@
 "Uttar Pradesh","","","Glass Bangle Industry","Skilled","","1/9/121",26,"209.62","","189.92","","",400,5450,"",4938,"","",10388,0
 "Uttar Pradesh","","","Glass Bangle Industry","Semi Skilled","","1/9/121",26,"188.46","","170.75","","",361.3,4900,"",4439.4,"","",9339.4,0
 "Uttar Pradesh","","","Glass Bangle Industry","Unskilled","","1/9/121",26,"165.38","","149.85","","",315.23,4300,"",3896,"","",8196,0
-"Uttar Pradesh","","","Hair Cutting Saloons","Skilled","","1/3/121",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185,0
-"Uttar Pradesh","","","Hair Cutting Saloons","Semi Skilled","","1/3/121",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985,0
-"Uttar Pradesh","","","Hair Cutting Saloons","Unskilled","","1/3/121",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078,0
+"Uttar Pradesh","","","Hair Cutting Saloons","Skilled","","1/3/121",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185,"Beauty Parlour"
+"Uttar Pradesh","","","Hair Cutting Saloons","Semi Skilled","","1/3/121",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985,"Beauty Parlour"
+"Uttar Pradesh","","","Hair Cutting Saloons","Unskilled","","1/3/121",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078,"Beauty Parlour"
 "Uttar Pradesh","","","Miniature Bulb Manufacturers","Skilled","","1/3/121",26,"272.50","","157.69","","","430.19",7085,"",4100,"","",11185,"Lamps LED"
 "Uttar Pradesh","","","Miniature Bulb Manufacturers","Semi Skilled","","1/3/121",26,"243.27","","140.77","","","384.04",6325,"",3660,"","",9985,"Lamps LED"
 "Uttar Pradesh","","","Miniature Bulb Manufacturers","Unskilled","","1/3/121",26,"221.15","","128.00","","","349.15",5750,"",3328,"","",9078,"Lamps LED"

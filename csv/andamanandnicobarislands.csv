@@ -1,4 +1,34 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Andaman and Nicobar Islands","","","Private Educational Institutes","Highly Skilled","","1/0/122",26,"","","","","",707,"","","","","","18382.00","Teaching School Collage"
+"Andaman and Nicobar Islands","","","Private Educational Institutes","Clerical","","1/0/122",26,"","","","","",649,"","","","","","16874.00","Teaching School Collage"
+"Andaman and Nicobar Islands","","","Private Educational Institutes","Skilled","","1/0/122",26,"","","","","",649,"","","","","","16874.00","Teaching School Collage"
+"Andaman and Nicobar Islands","","","Private Educational Institutes","Semi Skilled","","1/0/122",26,"","","","","",564,"","","","","","14664.00","Teaching School Collage"
+"Andaman and Nicobar Islands","","","Private Educational Institutes","Unskilled","","1/0/122",26,"","","","","",507,"","","","","","13182.00","Teaching School Collage"
+"Andaman and Nicobar Islands","","","Industrial Worker (loading and unloading)","Highly Skilled","","1/0/122",26,"","","","","",707,"","","","","","18382.00",0
+"Andaman and Nicobar Islands","","","Industrial Worker (loading and unloading)","Clerical","","1/0/122",26,"","","","","",649,"","","","","","16874.00",0
+"Andaman and Nicobar Islands","","","Industrial Worker (loading and unloading)","Skilled","","1/0/122",26,"","","","","",649,"","","","","","16874.00",0
+"Andaman and Nicobar Islands","","","Industrial Worker (loading and unloading)","Semi Skilled","","1/0/122",26,"","","","","",564,"","","","","","14664.00",0
+"Andaman and Nicobar Islands","","","Industrial Worker (loading and unloading)","Unskilled","","1/0/122",26,"","","","","",507,"","","","","","13182.00",0
+"Andaman and Nicobar Islands","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/0/122",26,"","","","","",707,"","","","","","18382.00",0
+"Andaman and Nicobar Islands","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/0/122",26,"","","","","",649,"","","","","","16874.00",0
+"Andaman and Nicobar Islands","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/0/122",26,"","","","","",649,"","","","","","16874.00",0
+"Andaman and Nicobar Islands","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/0/122",26,"","","","","",564,"","","","","","14664.00",0
+"Andaman and Nicobar Islands","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/0/122",26,"","","","","",507,"","","","","","13182.00",0
+"Andaman and Nicobar Islands","","","Wooden Furniture","Highly Skilled","","1/0/122",26,"","","","","",707,"","","","","","18382.00","Carpentry"
+"Andaman and Nicobar Islands","","","Wooden Furniture","Clerical","","1/0/122",26,"","","","","",649,"","","","","","16874.00","Carpentry"
+"Andaman and Nicobar Islands","","","Wooden Furniture","Skilled","","1/0/122",26,"","","","","",649,"","","","","","16874.00","Carpentry"
+"Andaman and Nicobar Islands","","","Wooden Furniture","Semi Skilled","","1/0/122",26,"","","","","",564,"","","","","","14664.00","Carpentry"
+"Andaman and Nicobar Islands","","","Wooden Furniture","Unskilled","","1/0/122",26,"","","","","",507,"","","","","","13182.00","Carpentry"
+"Andaman and Nicobar Islands","","","Shops & Commercial Establishments","Highly Skilled","","1/0/122",26,"","","","","",707,"","","","","","18382.00",0
+"Andaman and Nicobar Islands","","","Shops & Commercial Establishments","Clerical","","1/0/122",26,"","","","","",649,"","","","","","16874.00",0
+"Andaman and Nicobar Islands","","","Shops & Commercial Establishments","Skilled","","1/0/122",26,"","","","","",649,"","","","","","16874.00",0
+"Andaman and Nicobar Islands","","","Shops & Commercial Establishments","Semi Skilled","","1/0/122",26,"","","","","",564,"","","","","","14664.00",0
+"Andaman and Nicobar Islands","","","Shops & Commercial Establishments","Unskilled","","1/0/122",26,"","","","","",507,"","","","","","13182.00",0
+"Andaman and Nicobar Islands","","","Agriculture","Highly Skilled","","1/0/122",26,"","","","","",707,"","","","","","18382.00","Farming Horticulture Dairy"
+"Andaman and Nicobar Islands","","","Agriculture","Clerical","","1/0/122",26,"","","","","",649,"","","","","","16874.00","Farming Horticulture Dairy"
+"Andaman and Nicobar Islands","","","Agriculture","Skilled","","1/0/122",26,"","","","","",649,"","","","","","16874.00","Farming Horticulture Dairy"
+"Andaman and Nicobar Islands","","","Agriculture","Semi Skilled","","1/0/122",26,"","","","","",564,"","","","","","14664.00","Farming Horticulture Dairy"
+"Andaman and Nicobar Islands","","","Agriculture","Unskilled","","1/0/122",26,"","","","","",507,"","","","","","13182.00","Farming Horticulture Dairy"
 "Andaman and Nicobar Islands","","","Private Educational Institutes","Highly Skilled","","1/6/121",26,"","","","","",699,"","","","","","18174.00","Teaching School Collage"
 "Andaman and Nicobar Islands","","","Private Educational Institutes","Clerical","","1/6/121",26,"","","","","",641,"","","","","","16666.00","Teaching School Collage"
 "Andaman and Nicobar Islands","","","Private Educational Institutes","Skilled","","1/6/121",26,"","","","","",641,"","","","","","16666.00","Teaching School Collage"
