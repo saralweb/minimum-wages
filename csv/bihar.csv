@@ -1,4 +1,536 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Bihar","","","Brick Kiln Industry","","Scribe (Chimney)","1/3/122",26,"369.04","","14.31","","","383.35",9595,"",372,"","",9967,"Constructions"
+"Bihar","","","Brick Kiln Industry","","Mate/Over Supervisor & Mistry (Chimney)","1/3/122",26,"349.58","","13.54","","","363.12",9089,"",352,"","",9441,"Constructions"
+"Bihar","","","Brick Kiln Industry","","Fire Khalalsi & Rublishman (Chimney)","1/3/122",26,"305.15","","11.85","","","317.00",7934,"",308,"","",8242,"Constructions"
+"Bihar","","","Brick Kiln Industry","","Watchman (Chimney)","1/3/122",26,"305.15","","11.85","","","317.00",7934,"",308,"","",8242,"Constructions"
+"Bihar","","","Brick Kiln Industry","","Coal Man (Chimney)","1/3/122",26,"305.15","","11.85","","","317.00",7934,"",308,"","",8242,"Constructions"
+"Bihar","","","Brick Kiln Industry","","Fireman (Chimney)","1/3/122",26,"361.81","","14.04","","","375.85",9407,"",365,"","",9772,"Constructions"
+"Bihar","","","Brick Kiln Industry","","Chimney Brick Moulder (Per 1000)","1/3/122",26,395,"",15,"","",410,"10270.00","","390.00","","","10660.00","Constructions"
+"Bihar","","","Brick Kiln Industry","","Maistry","1/3/122",26,"325.54","","12.62","","","338.15",8464,"",328,"","",8792,"Constructions"
+"Bihar","","","Sales Promotion Worker","Clerical","","1/3/122",26,"311.46","","12.08","","","323.54",8098,"",314,"","",8412,0
+"Bihar","","","Sales Promotion Worker","Supervisory","","1/3/122",26,"311.46","","12.08","","","323.54",8098,"",314,"","",8412,0
+"Bihar","","","Sales Promotion Worker","Highly Skilled","","1/3/122",26,437,"",17,"","",454,"11362.00","","442.00","","","11804.00",0
+"Bihar","","","Sales Promotion Worker","Skilled","","1/3/122",26,359,"",14,"","",373,"9334.00","","364.00","","","9698.00",0
+"Bihar","","","Sales Promotion Worker","Semi Skilled","","1/3/122",26,290,"",11,"","",301,"7540.00","","286.00","","","7826.00",0
+"Bihar","","","Sales Promotion Worker","Unskilled","","1/3/122",26,280,"",11,"","",291,"7280.00","","286.00","","","7566.00",0
+"Bihar","","","Domestic Workers","Unskilled","Workers","1/3/122",26,"281.58","","10.85","","","292.42",7321,"",282,"","",7603,"Informal Sector"
+"Bihar","","","Kendu Leaf Collection","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Kendu Leaf Collection","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Kendu Leaf Collection","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Kendu Leaf Collection","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Kendu Leaf Collection","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Kendu Leaf Collection","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Power Loom Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Textile Industry"
+"Bihar","","","Power Loom Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Textile Industry"
+"Bihar","","","Power Loom Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Textile Industry"
+"Bihar","","","Power Loom Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Textile Industry"
+"Bihar","","","Power Loom Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Textile Industry"
+"Bihar","","","Power Loom Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Textile Industry"
+"Bihar","","","Lac Manufacturers Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Lac Manufacturers Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Lac Manufacturers Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Lac Manufacturers Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Lac Manufacturers Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Lac Manufacturers Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Tea Plantation","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Farming Agriculture"
+"Bihar","","","Tea Plantation","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Farming Agriculture"
+"Bihar","","","Tea Plantation","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Farming Agriculture"
+"Bihar","","","Tea Plantation","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Farming Agriculture"
+"Bihar","","","Tea Plantation","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Farming Agriculture"
+"Bihar","","","Tea Plantation","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Farming Agriculture"
+"Bihar","","","Silk Textile Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Clothes"
+"Bihar","","","Silk Textile Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Clothes"
+"Bihar","","","Silk Textile Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Clothes"
+"Bihar","","","Silk Textile Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Clothes"
+"Bihar","","","Silk Textile Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Clothes"
+"Bihar","","","Silk Textile Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Clothes"
+"Bihar","","","Forestry and Timbering Operation","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Jungle"
+"Bihar","","","Forestry and Timbering Operation","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Jungle"
+"Bihar","","","Forestry and Timbering Operation","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Jungle"
+"Bihar","","","Forestry and Timbering Operation","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Jungle"
+"Bihar","","","Forestry and Timbering Operation","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Jungle"
+"Bihar","","","Forestry and Timbering Operation","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Jungle"
+"Bihar","","","Loading-Unloading","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Loading-Unloading","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Loading-Unloading","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Loading-Unloading","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Loading-Unloading","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Loading-Unloading","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Hair Cutting Saloons","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Beauty Parlour"
+"Bihar","","","Hair Cutting Saloons","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Beauty Parlour"
+"Bihar","","","Hair Cutting Saloons","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Beauty Parlour"
+"Bihar","","","Hair Cutting Saloons","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Beauty Parlour"
+"Bihar","","","Hair Cutting Saloons","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Beauty Parlour"
+"Bihar","","","Hair Cutting Saloons","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Beauty Parlour"
+"Bihar","","","Brick Kiln Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Constructions"
+"Bihar","","","Brick Kiln Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Constructions"
+"Bihar","","","Brick Kiln Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Constructions"
+"Bihar","","","Brick Kiln Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Constructions"
+"Bihar","","","Brick Kiln Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Constructions"
+"Bihar","","","Brick Kiln Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Constructions"
+"Bihar","","","Tobacco Bidi making","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Tobacco Bidi making","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Tobacco Bidi making","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Tobacco Bidi making","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Tobacco Bidi making","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Tobacco Bidi making","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Stone Breaking and Crushing","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Stone Breaking and Crushing","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Stone Breaking and Crushing","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Stone Breaking and Crushing","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Stone Breaking and Crushing","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Food – Sweets and Snacks Manufacturers","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Food – Sweets and Snacks Manufacturers","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Food – Sweets and Snacks Manufacturers","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Food – Sweets and Snacks Manufacturers","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Food – Sweets and Snacks Manufacturers","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Food – Sweets and Snacks Manufacturers","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Glass Products Manufacturers","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Glass Products Manufacturers","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Glass Products Manufacturers","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Glass Products Manufacturers","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Glass Products Manufacturers","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Glass Products Manufacturers","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Sweeping and Cleaning","Clerical","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,"Scavengers"
+"Bihar","","","Sweeping and Cleaning","Supervisory","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,"Scavengers"
+"Bihar","","","Sweeping and Cleaning","Highly Skilled","","1/3/122",26,456,"",18,"","",474,"11856.00","","468.00","","","12324.00","Scavengers"
+"Bihar","","","Sweeping and Cleaning","Skilled","","1/3/122",26,375,"",14,"","",389,"9750.00","","364.00","","","10114.00","Scavengers"
+"Bihar","","","Sweeping and Cleaning","Semi Skilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Scavengers"
+"Bihar","","","Sweeping and Cleaning","Unskilled","","1/3/122",26,293,"",11,"","",304,"7618.00","","286.00","","","7904.00","Scavengers"
+"Bihar","","","Agarbathy Manufactory","Clerical","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,"Incense"
+"Bihar","","","Agarbathy Manufactory","Supervisory","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,"Incense"
+"Bihar","","","Agarbathy Manufactory","Highly Skilled","","1/3/122",26,456,"",18,"","",474,"11856.00","","468.00","","","12324.00","Incense"
+"Bihar","","","Agarbathy Manufactory","Skilled","","1/3/122",26,375,"",14,"","",389,"9750.00","","364.00","","","10114.00","Incense"
+"Bihar","","","Agarbathy Manufactory","Semi Skilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Incense"
+"Bihar","","","Agarbathy Manufactory","Unskilled","","1/3/122",26,293,"",11,"","",304,"7618.00","","286.00","","","7904.00","Incense"
+"Bihar","","","Sailor's Employment","Clerical","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,0
+"Bihar","","","Sailor's Employment","Supervisory","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,0
+"Bihar","","","Sailor's Employment","Highly Skilled","","1/3/122",26,456,"",18,"","",474,"11856.00","","468.00","","","12324.00",0
+"Bihar","","","Sailor's Employment","Skilled","","1/3/122",26,375,"",14,"","",389,"9750.00","","364.00","","","10114.00",0
+"Bihar","","","Sailor's Employment","Semi Skilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Sailor's Employment","Unskilled","","1/3/122",26,293,"",11,"","",304,"7618.00","","286.00","","","7904.00",0
+"Bihar","","","Papad Industry","Clerical","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,"Food"
+"Bihar","","","Papad Industry","Supervisory","","1/3/122",26,"324.23","","12.58","","","336.81",8430,"",327,"","",8757,"Food"
+"Bihar","","","Papad Industry","Highly Skilled","","1/3/122",26,456,"",18,"","",474,"11856.00","","468.00","","","12324.00","Food"
+"Bihar","","","Papad Industry","Skilled","","1/3/122",26,375,"",14,"","",389,"9750.00","","364.00","","","10114.00","Food"
+"Bihar","","","Papad Industry","Semi Skilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Food"
+"Bihar","","","Papad Industry","Unskilled","","1/3/122",26,293,"",11,"","",304,"7618.00","","286.00","","","7904.00","Food"
+"Bihar","","","Agriculture","","Security guard","1/3/122",26,"315.35","","12.23","","","327.58",8199,"",318,"","",8517,"Farming Horticulture Dairy"
+"Bihar","","","Agriculture","","Plower","1/3/122",26,"315.35","","12.23","","","327.58",8199,"",318,"","",8517,"Farming Horticulture Dairy"
+"Bihar","","","Agriculture","","Watchman","1/3/122",26,"315.35","","12.23","","","327.58",8199,"",318,"","",8517,"Farming Horticulture Dairy"
+"Bihar","","","Agriculture","","Attender","1/3/122",26,"315.35","","12.23","","","327.58",8199,"",318,"","",8517,"Farming Horticulture Dairy"
+"Bihar","","","Agriculture","","Pump Operator","1/3/122",26,"405.27","","15.69","","","420.96",10537,"",408,"","",10945,"Farming Horticulture Dairy"
+"Bihar","","","Agriculture","","Tractor Driver","1/3/122",26,"405.27","","15.69","","","420.96",10537,"",408,"","",10945,"Farming Horticulture Dairy"
+"Bihar","","","Agriculture","","Workers (excluding harvesting)","1/3/122",26,292,"",11,"","",303,"7592.00","","286.00","","","7878.00","Farming Horticulture Dairy"
+"Bihar","","","Private Ferries and LTC","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Private Ferries and LTC","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Private Ferries and LTC","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Private Ferries and LTC","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Private Ferries and LTC","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Private Ferries and LTC","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Stationery"
+"Bihar","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Stationery"
+"Bihar","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Stationery"
+"Bihar","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Stationery"
+"Bihar","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Stationery"
+"Bihar","","","Manufacturing Carton, Cardboard, Mill Board, Corrugated Board, Straw Board","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Stationery"
+"Bihar","","","Information Technology Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"IT Software"
+"Bihar","","","Information Technology Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"IT Software"
+"Bihar","","","Information Technology Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","IT Software"
+"Bihar","","","Information Technology Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","IT Software"
+"Bihar","","","Information Technology Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","IT Software"
+"Bihar","","","Information Technology Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","IT Software"
+"Bihar","","","Frittered Rice","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Frittered Rice","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Frittered Rice","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Frittered Rice","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Frittered Rice","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Frittered Rice","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Hard Coke Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Coal"
+"Bihar","","","Hard Coke Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Coal"
+"Bihar","","","Hard Coke Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Coal"
+"Bihar","","","Hard Coke Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Coal"
+"Bihar","","","Hard Coke Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Coal"
+"Bihar","","","Hard Coke Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Coal"
+"Bihar","","","Refractory Fire Bricks and Ceramic Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Refractory Fire Bricks and Ceramic Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Refractory Fire Bricks and Ceramic Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Refractory Fire Bricks and Ceramic Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Refractory Fire Bricks and Ceramic Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Refractory Fire Bricks and Ceramic Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Private Educational Institutes","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Teaching School Collage"
+"Bihar","","","Private Educational Institutes","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Teaching School Collage"
+"Bihar","","","Private Educational Institutes","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Teaching School Collage"
+"Bihar","","","Private Educational Institutes","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Teaching School Collage"
+"Bihar","","","Private Educational Institutes","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Teaching School Collage"
+"Bihar","","","Private Educational Institutes","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Teaching School Collage"
+"Bihar","","","Mica Works","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Furniture carpentry Wood"
+"Bihar","","","Mica Works","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Furniture carpentry Wood"
+"Bihar","","","Mica Works","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Furniture carpentry Wood"
+"Bihar","","","Mica Works","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Furniture carpentry Wood"
+"Bihar","","","Mica Works","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Furniture carpentry Wood"
+"Bihar","","","Mica Works","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Furniture carpentry Wood"
+"Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Constructions Industry"
+"Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Constructions Industry"
+"Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Constructions Industry"
+"Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Constructions Industry"
+"Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Constructions Industry"
+"Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Constructions Industry"
+"Bihar","","","Wooden Furniture","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Carpentry"
+"Bihar","","","Wooden Furniture","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Carpentry"
+"Bihar","","","Wooden Furniture","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Carpentry"
+"Bihar","","","Wooden Furniture","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Carpentry"
+"Bihar","","","Wooden Furniture","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Carpentry"
+"Bihar","","","Wooden Furniture","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Carpentry"
+"Bihar","","","Jute Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Gunny Bags"
+"Bihar","","","Jute Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Gunny Bags"
+"Bihar","","","Jute Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Gunny Bags"
+"Bihar","","","Jute Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Gunny Bags"
+"Bihar","","","Jute Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Gunny Bags"
+"Bihar","","","Jute Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Gunny Bags"
+"Bihar","","","Rolling Mills","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal Engineering TMT Wire Rod"
+"Bihar","","","Rolling Mills","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal Engineering TMT Wire Rod"
+"Bihar","","","Rolling Mills","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Alloy Metal Engineering TMT Wire Rod"
+"Bihar","","","Rolling Mills","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Alloy Metal Engineering TMT Wire Rod"
+"Bihar","","","Rolling Mills","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Alloy Metal Engineering TMT Wire Rod"
+"Bihar","","","Rolling Mills","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Alloy Metal Engineering TMT Wire Rod"
+"Bihar","","","Electro Casting and Metal Furnishing Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal"
+"Bihar","","","Electro Casting and Metal Furnishing Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal"
+"Bihar","","","Electro Casting and Metal Furnishing Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Alloy Metal"
+"Bihar","","","Electro Casting and Metal Furnishing Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Alloy Metal"
+"Bihar","","","Electro Casting and Metal Furnishing Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Alloy Metal"
+"Bihar","","","Electro Casting and Metal Furnishing Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Alloy Metal"
+"Bihar","","","Poha / Kurmura","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Food"
+"Bihar","","","Poha / Kurmura","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Food"
+"Bihar","","","Poha / Kurmura","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Food"
+"Bihar","","","Poha / Kurmura","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Food"
+"Bihar","","","Poha / Kurmura","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Food"
+"Bihar","","","Poha / Kurmura","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Food"
+"Bihar","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Vehicle car bike autopart"
+"Bihar","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Vehicle car bike autopart"
+"Bihar","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Vehicle car bike autopart"
+"Bihar","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Vehicle car bike autopart"
+"Bihar","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Vehicle car bike autopart"
+"Bihar","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Vehicle car bike autopart"
+"Bihar","","","Pottery Industries","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Ceramic"
+"Bihar","","","Pottery Industries","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Ceramic"
+"Bihar","","","Pottery Industries","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Ceramic"
+"Bihar","","","Pottery Industries","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Ceramic"
+"Bihar","","","Pottery Industries","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Ceramic"
+"Bihar","","","Pottery Industries","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Ceramic"
+"Bihar","","","Ceramic Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Ceramic Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Ceramic Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Ceramic Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Ceramic Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Ceramic Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Security Services","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Watchman Guard"
+"Bihar","","","Security Services","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Watchman Guard"
+"Bihar","","","Security Services","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Watchman Guard"
+"Bihar","","","Security Services","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Watchman Guard"
+"Bihar","","","Security Services","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Watchman Guard"
+"Bihar","","","Security Services","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Watchman Guard"
+"Bihar","","","Cinema Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Film Industry Multiplex Hall"
+"Bihar","","","Cinema Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Film Industry Multiplex Hall"
+"Bihar","","","Cinema Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Film Industry Multiplex Hall"
+"Bihar","","","Cinema Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Film Industry Multiplex Hall"
+"Bihar","","","Cinema Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Film Industry Multiplex Hall"
+"Bihar","","","Cinema Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Film Industry Multiplex Hall"
+"Bihar","","","Hotels and Restaurants","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Eating House Cantin Accommodation"
+"Bihar","","","Hotels and Restaurants","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Eating House Cantin Accommodation"
+"Bihar","","","Hotels and Restaurants","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Eating House Cantin Accommodation"
+"Bihar","","","Hotels and Restaurants","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Eating House Cantin Accommodation"
+"Bihar","","","Hotels and Restaurants","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Eating House Cantin Accommodation"
+"Bihar","","","Hotels and Restaurants","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Eating House Cantin Accommodation"
+"Bihar","","","Bakeries & Confectioneries","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Food Industry"
+"Bihar","","","Bakeries & Confectioneries","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Food Industry"
+"Bihar","","","Bakeries & Confectioneries","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Food Industry"
+"Bihar","","","Bakeries & Confectioneries","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Food Industry"
+"Bihar","","","Bakeries & Confectioneries","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Food Industry"
+"Bihar","","","Bakeries & Confectioneries","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Food Industry"
+"Bihar","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Construction/Maintenance of Roads or in Building Operations*","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Employment – Dam construction and irrigation works","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Employment – Dam construction and irrigation works","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Employment – Dam construction and irrigation works","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Employment – Dam construction and irrigation works","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Employment – Dam construction and irrigation works","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Employment – Dam construction and irrigation works","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Engineering Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Startup Company"
+"Bihar","","","Engineering Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Startup Company"
+"Bihar","","","Engineering Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Startup Company"
+"Bihar","","","Engineering Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Startup Company"
+"Bihar","","","Engineering Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Startup Company"
+"Bihar","","","Engineering Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Startup Company"
+"Bihar","","","Cold Storage Employments","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Cold Storage Employments","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Cold Storage Employments","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Cold Storage Employments","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Cold Storage Employments","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Cold Storage Employments","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Wool Shawl and Carpet Maker","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Clothes"
+"Bihar","","","Wool Shawl and Carpet Maker","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Clothes"
+"Bihar","","","Wool Shawl and Carpet Maker","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Clothes"
+"Bihar","","","Wool Shawl and Carpet Maker","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Clothes"
+"Bihar","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Clothes"
+"Bihar","","","Wool Shawl and Carpet Maker","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Clothes"
+"Bihar","","","Public Motor Transport","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Public Motor Transport","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Public Motor Transport","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Public Motor Transport","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Public Motor Transport","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Public Motor Transport","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Shops & Commercial Establishments","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Shops & Commercial Establishments","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Shops & Commercial Establishments","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Shops & Commercial Establishments","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Shops & Commercial Establishments","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Shops & Commercial Establishments","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Printing Press","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Printing Press","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Printing Press","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Printing Press","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Printing Press","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Printing Press","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Oil Mills","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Oil Mills","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Oil Mills","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Oil Mills","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Oil Mills","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Oil Mills","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Rice Mills, Flour Mills or Dal Mills","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Rice Mills, Flour Mills or Dal Mills","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Tanneries and Leather Manufactory","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Tanneries and Leather Manufactory","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Tanneries and Leather Manufactory","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Tanneries and Leather Manufactory","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Tanneries and Leather Manufactory","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Tanneries and Leather Manufactory","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Jewellery Manufacturing Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Goldsmith"
+"Bihar","","","Jewellery Manufacturing Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Goldsmith"
+"Bihar","","","Jewellery Manufacturing Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Goldsmith"
+"Bihar","","","Jewellery Manufacturing Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Goldsmith"
+"Bihar","","","Jewellery Manufacturing Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Goldsmith"
+"Bihar","","","Jewellery Manufacturing Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Goldsmith"
+"Bihar","","","Poultry Farm","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"eggs"
+"Bihar","","","Poultry Farm","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"eggs"
+"Bihar","","","Poultry Farm","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","eggs"
+"Bihar","","","Poultry Farm","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","eggs"
+"Bihar","","","Poultry Farm","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","eggs"
+"Bihar","","","Poultry Farm","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","eggs"
+"Bihar","","","Dairy","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Milk"
+"Bihar","","","Dairy","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Milk"
+"Bihar","","","Dairy","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Milk"
+"Bihar","","","Dairy","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Milk"
+"Bihar","","","Dairy","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Milk"
+"Bihar","","","Dairy","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Milk"
+"Bihar","","","Glass Sheet Manufactures","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Glass Sheet Manufactures","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Glass Sheet Manufactures","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Glass Sheet Manufactures","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Glass Sheet Manufactures","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Glass Sheet Manufactures","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Mineral Grinding Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Ore"
+"Bihar","","","Mineral Grinding Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Ore"
+"Bihar","","","Mineral Grinding Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Ore"
+"Bihar","","","Mineral Grinding Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Ore"
+"Bihar","","","Mineral Grinding Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Ore"
+"Bihar","","","Mineral Grinding Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Ore"
+"Bihar","","","Plastic Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Plastic Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Plastic Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Plastic Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Plastic Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Plastic Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Distillery-Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Beer Wine Liquor"
+"Bihar","","","Distillery-Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Beer Wine Liquor"
+"Bihar","","","Distillery-Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Beer Wine Liquor"
+"Bihar","","","Distillery-Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Beer Wine Liquor"
+"Bihar","","","Distillery-Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Beer Wine Liquor"
+"Bihar","","","Distillery-Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Beer Wine Liquor"
+"Bihar","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Handloom","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Textile Industry"
+"Bihar","","","Handloom","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Textile Industry"
+"Bihar","","","Handloom","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Textile Industry"
+"Bihar","","","Handloom","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Textile Industry"
+"Bihar","","","Handloom","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Textile Industry"
+"Bihar","","","Handloom","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Textile Industry"
+"Bihar","","","Tailoring Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Stitch Textile"
+"Bihar","","","Tailoring Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Stitch Textile"
+"Bihar","","","Tailoring Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Stitch Textile"
+"Bihar","","","Tailoring Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Stitch Textile"
+"Bihar","","","Tailoring Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Stitch Textile"
+"Bihar","","","Tailoring Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Stitch Textile"
+"Bihar","","","Coal Briquettes Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Coal Briquettes Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Coal Briquettes Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Coal Briquettes Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Coal Briquettes Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Coal Briquettes Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Biscuit Manufacturer","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Food Bakeries"
+"Bihar","","","Biscuit Manufacturer","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Food Bakeries"
+"Bihar","","","Biscuit Manufacturer","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Food Bakeries"
+"Bihar","","","Biscuit Manufacturer","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Food Bakeries"
+"Bihar","","","Biscuit Manufacturer","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Food Bakeries"
+"Bihar","","","Biscuit Manufacturer","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Food Bakeries"
+"Bihar","","","Rubber Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Rubber Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Rubber Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Rubber Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Rubber Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Rubber Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Foundry Industries","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal"
+"Bihar","","","Foundry Industries","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal"
+"Bihar","","","Foundry Industries","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Alloy Metal"
+"Bihar","","","Foundry Industries","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Alloy Metal"
+"Bihar","","","Foundry Industries","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Alloy Metal"
+"Bihar","","","Foundry Industries","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Alloy Metal"
+"Bihar","","","Bulb and Florence Tube","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Light"
+"Bihar","","","Bulb and Florence Tube","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Light"
+"Bihar","","","Bulb and Florence Tube","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Light"
+"Bihar","","","Bulb and Florence Tube","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Light"
+"Bihar","","","Bulb and Florence Tube","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Light"
+"Bihar","","","Bulb and Florence Tube","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Light"
+"Bihar","","","Plywood Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Carpentry Furniture Wood"
+"Bihar","","","Plywood Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Carpentry Furniture Wood"
+"Bihar","","","Plywood Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Carpentry Furniture Wood"
+"Bihar","","","Plywood Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Carpentry Furniture Wood"
+"Bihar","","","Plywood Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Carpentry Furniture Wood"
+"Bihar","","","Plywood Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Carpentry Furniture Wood"
+"Bihar","","","Electronic Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Hardware Semiconductor"
+"Bihar","","","Electronic Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Hardware Semiconductor"
+"Bihar","","","Electronic Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Hardware Semiconductor"
+"Bihar","","","Electronic Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Hardware Semiconductor"
+"Bihar","","","Electronic Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Hardware Semiconductor"
+"Bihar","","","Electronic Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Hardware Semiconductor"
+"Bihar","","","Employment In Binding","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Employment In Binding","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Employment In Binding","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Employment In Binding","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Employment In Binding","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Employment In Binding","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Khadi & Village Industries","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Clothes"
+"Bihar","","","Khadi & Village Industries","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Clothes"
+"Bihar","","","Khadi & Village Industries","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Clothes"
+"Bihar","","","Khadi & Village Industries","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Clothes"
+"Bihar","","","Khadi & Village Industries","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Clothes"
+"Bihar","","","Khadi & Village Industries","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Clothes"
+"Bihar","","","Fisheries And Sea Food Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Seafood"
+"Bihar","","","Fisheries And Sea Food Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Seafood"
+"Bihar","","","Fisheries And Sea Food Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Seafood"
+"Bihar","","","Fisheries And Sea Food Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Seafood"
+"Bihar","","","Fisheries And Sea Food Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Seafood"
+"Bihar","","","Fisheries And Sea Food Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Seafood"
+"Bihar","","","Petrol Pump","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Petrol Pump","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Petrol Pump","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Petrol Pump","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Petrol Pump","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Petrol Pump","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Ice & Cold Drinks","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Beverage"
+"Bihar","","","Ice & Cold Drinks","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Beverage"
+"Bihar","","","Ice & Cold Drinks","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Beverage"
+"Bihar","","","Ice & Cold Drinks","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Beverage"
+"Bihar","","","Ice & Cold Drinks","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Beverage"
+"Bihar","","","Ice & Cold Drinks","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Beverage"
+"Bihar","","","Furniture Maker","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Carpentry Wood"
+"Bihar","","","Furniture Maker","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Carpentry Wood"
+"Bihar","","","Furniture Maker","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Carpentry Wood"
+"Bihar","","","Furniture Maker","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Carpentry Wood"
+"Bihar","","","Furniture Maker","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Carpentry Wood"
+"Bihar","","","Furniture Maker","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Carpentry Wood"
+"Bihar","","","Leather Goods Manufacturer","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Leather Goods Manufacturer","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Leather Goods Manufacturer","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Leather Goods Manufacturer","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Leather Goods Manufacturer","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Leather Goods Manufacturer","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Paints and Varnishes","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Color Colour"
+"Bihar","","","Paints and Varnishes","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Color Colour"
+"Bihar","","","Paints and Varnishes","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Color Colour"
+"Bihar","","","Paints and Varnishes","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Color Colour"
+"Bihar","","","Paints and Varnishes","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Color Colour"
+"Bihar","","","Paints and Varnishes","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Color Colour"
+"Bihar","","","Hosiery","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Textile Industry"
+"Bihar","","","Hosiery","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Textile Industry"
+"Bihar","","","Hosiery","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Textile Industry"
+"Bihar","","","Hosiery","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Textile Industry"
+"Bihar","","","Hosiery","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Textile Industry"
+"Bihar","","","Hosiery","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Textile Industry"
+"Bihar","","","Paper and Paper Board Manufactury","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Stationery"
+"Bihar","","","Paper and Paper Board Manufactury","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Stationery"
+"Bihar","","","Paper and Paper Board Manufactury","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Stationery"
+"Bihar","","","Paper and Paper Board Manufactury","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Stationery"
+"Bihar","","","Paper and Paper Board Manufactury","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Stationery"
+"Bihar","","","Paper and Paper Board Manufactury","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Stationery"
+"Bihar","","","Gun Factory","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Arms"
+"Bihar","","","Gun Factory","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Arms"
+"Bihar","","","Gun Factory","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Arms"
+"Bihar","","","Gun Factory","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Arms"
+"Bihar","","","Gun Factory","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Arms"
+"Bihar","","","Gun Factory","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Arms"
+"Bihar","","","Glass Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Glass Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Glass Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Glass Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Glass Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Glass Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Cement and Cement Based Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Constructions"
+"Bihar","","","Cement and Cement Based Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Constructions"
+"Bihar","","","Cement and Cement Based Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Constructions"
+"Bihar","","","Cement and Cement Based Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Constructions"
+"Bihar","","","Cement and Cement Based Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Constructions"
+"Bihar","","","Cement and Cement Based Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Constructions"
+"Bihar","","","Soaps & Cosmetics","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Detergent"
+"Bihar","","","Soaps & Cosmetics","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Detergent"
+"Bihar","","","Soaps & Cosmetics","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Detergent"
+"Bihar","","","Soaps & Cosmetics","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Detergent"
+"Bihar","","","Soaps & Cosmetics","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Detergent"
+"Bihar","","","Soaps & Cosmetics","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Detergent"
+"Bihar","","","Pharmaceutical Manufacturers","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Medicine Shop medical"
+"Bihar","","","Pharmaceutical Manufacturers","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Medicine Shop medical"
+"Bihar","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Medicine Shop medical"
+"Bihar","","","Pharmaceutical Manufacturers","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Medicine Shop medical"
+"Bihar","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Medicine Shop medical"
+"Bihar","","","Pharmaceutical Manufacturers","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Medicine Shop medical"
+"Bihar","","","Chemical Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Chemical Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,0
+"Bihar","","","Chemical Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00",0
+"Bihar","","","Chemical Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00",0
+"Bihar","","","Chemical Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00",0
+"Bihar","","","Chemical Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00",0
+"Bihar","","","Khandsari Manufacturer","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Sugarcane"
+"Bihar","","","Khandsari Manufacturer","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Sugarcane"
+"Bihar","","","Khandsari Manufacturer","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Sugarcane"
+"Bihar","","","Khandsari Manufacturer","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Sugarcane"
+"Bihar","","","Khandsari Manufacturer","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Sugarcane"
+"Bihar","","","Khandsari Manufacturer","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Sugarcane"
+"Bihar","","","Aluminium Industry","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal"
+"Bihar","","","Aluminium Industry","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Alloy Metal"
+"Bihar","","","Aluminium Industry","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Alloy Metal"
+"Bihar","","","Aluminium Industry","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Alloy Metal"
+"Bihar","","","Aluminium Industry","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Alloy Metal"
+"Bihar","","","Aluminium Industry","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Alloy Metal"
+"Bihar","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Clerical","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Farming"
+"Bihar","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Supervisory","","1/3/122",26,"337.35","","13.08","","","350.42",8771,"",340,"","",9111,"Farming"
+"Bihar","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Highly Skilled","","1/3/122",26,474,"",18,"","",492,"12324.00","","468.00","","","12792.00","Farming"
+"Bihar","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Skilled","","1/3/122",26,388,"",15,"","",403,"10088.00","","390.00","","","10478.00","Farming"
+"Bihar","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Semi Skilled","","1/3/122",26,318,"",12,"","",330,"8268.00","","312.00","","","8580.00","Farming"
+"Bihar","","","Consumer Co-operative Societies, Primary Agricultural Co-operative Societies Marketing Societies","Unskilled","","1/3/122",26,306,"",12,"","",318,"7956.00","","312.00","","","8268.00","Farming"
 "Bihar","","","Sales Promotion Worker","Clerical","","1/9/121",26,"309.04","","2.42","","","311.46",8035,"",63,"","",8098,0
 "Bihar","","","Sales Promotion Worker","Supervisory","","1/9/121",26,"309.04","","2.42","","","311.46",8035,"",63,"","",8098,0
 "Bihar","","","Sales Promotion Worker","Highly Skilled","","1/9/121",26,434,"",3,"","",437,"11284.00","","78.00","","","11362.00",0
@@ -175,12 +707,6 @@
 "Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Skilled","","1/9/121",26,385,"",3,"","",388,"10010.00","","78.00","","","10088.00","Constructions Industry"
 "Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Semi Skilled","","1/9/121",26,316,"",2,"","",318,"8216.00","","52.00","","","8268.00","Constructions Industry"
 "Bihar","","","Cement Hume Pipe, Electric Pole, and Railway Sleeper Manufacturers","Unskilled","","1/9/121",26,304,"",2,"","",306,"7904.00","","52.00","","","7956.00","Constructions Industry"
-"Bihar","","","Ice & Cold Drinks","Clerical","","1/9/121",26,"334.73","","2.62","","","337.35",8703,"",68,"","",8771,"Beverage"
-"Bihar","","","Ice & Cold Drinks","Supervisory","","1/9/121",26,"334.73","","2.62","","","337.35",8703,"",68,"","",8771,"Beverage"
-"Bihar","","","Ice & Cold Drinks","Highly Skilled","","1/9/121",26,470,"",4,"","",474,"12220.00","","104.00","","","12324.00","Beverage"
-"Bihar","","","Ice & Cold Drinks","Skilled","","1/9/121",26,385,"",3,"","",388,"10010.00","","78.00","","","10088.00","Beverage"
-"Bihar","","","Ice & Cold Drinks","Semi Skilled","","1/9/121",26,316,"",2,"","",318,"8216.00","","52.00","","","8268.00","Beverage"
-"Bihar","","","Ice & Cold Drinks","Unskilled","","1/9/121",26,304,"",2,"","",306,"7904.00","","52.00","","","7956.00","Beverage"
 "Bihar","","","Wooden Furniture","Clerical","","1/9/121",26,"334.73","","2.62","","","337.35",8703,"",68,"","",8771,"Carpentry"
 "Bihar","","","Wooden Furniture","Supervisory","","1/9/121",26,"334.73","","2.62","","","337.35",8703,"",68,"","",8771,"Carpentry"
 "Bihar","","","Wooden Furniture","Highly Skilled","","1/9/121",26,470,"",4,"","",474,"12220.00","","104.00","","","12324.00","Carpentry"

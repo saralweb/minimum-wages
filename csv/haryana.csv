@@ -1,4 +1,381 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Haryana","","","Transport Industries loading and unloading processing Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Logistics Warehouse"
+"Haryana","","","Transport Industries loading and unloading processing Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Logistics Warehouse"
+"Haryana","","","Transport Industries loading and unloading processing Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Logistics Warehouse"
+"Haryana","","","Transport Industries loading and unloading processing Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Logistics Warehouse"
+"Haryana","","","Transport Industries loading and unloading processing Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Logistics Warehouse"
+"Haryana","","","Transport Industries loading and unloading processing Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Logistics Warehouse"
+"Haryana","","","Transport Industries loading and unloading processing Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Logistics Warehouse"
+"Haryana","","","Packaging Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Packaging Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Packaging Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Packaging Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Packaging Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Packaging Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Packaging Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Forest and Forestry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Jungle"
+"Haryana","","","Forest and Forestry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Jungle"
+"Haryana","","","Forest and Forestry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Jungle"
+"Haryana","","","Forest and Forestry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Jungle"
+"Haryana","","","Forest and Forestry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Jungle"
+"Haryana","","","Forest and Forestry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Jungle"
+"Haryana","","","Forest and Forestry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Jungle"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Milk Food"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Milk Food"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Milk Food"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Milk Food"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Milk Food"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Milk Food"
+"Haryana","","","Employment in Food Products, Dairy Products, Grain Mill Products and Bakery Products","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Milk Food"
+"Haryana","","","Asbestos Cement Factory","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Asbestos Cement Factory","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Asbestos Cement Factory","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Asbestos Cement Factory","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Asbestos Cement Factory","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Asbestos Cement Factory","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Asbestos Cement Factory","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Typewriter Ribbon Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Ink"
+"Haryana","","","Typewriter Ribbon Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Ink"
+"Haryana","","","Typewriter Ribbon Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Ink"
+"Haryana","","","Typewriter Ribbon Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Ink"
+"Haryana","","","Typewriter Ribbon Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Ink"
+"Haryana","","","Typewriter Ribbon Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Ink"
+"Haryana","","","Typewriter Ribbon Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Ink"
+"Haryana","","","Stone Breaking and Crushing","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Stone Breaking and Crushing","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Stone Breaking and Crushing","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Stone Breaking and Crushing","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Stone Breaking and Crushing","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Stone Breaking and Crushing","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Stone Breaking and Crushing","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Alloy Metal"
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Alloy Metal"
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Alloy Metal"
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Alloy Metal"
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Alloy Metal"
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Alloy Metal"
+"Haryana","","","Ferrous Metal Rolling and Re-Rolling Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Alloy Metal"
+"Haryana","","","Electroplating using salts or Chromium Nickel or Any Compound and Connected Buffing and Polishing Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Alloy Metal"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Jungle"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Jungle"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Jungle"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Jungle"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Jungle"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Jungle"
+"Haryana","","","Contractors Establishment of the Forest Deptt.","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Jungle"
+"Haryana","","","Wool Shawl and Carpet Maker","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Clothes"
+"Haryana","","","Wool Shawl and Carpet Maker","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Clothes"
+"Haryana","","","Wool Shawl and Carpet Maker","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Clothes"
+"Haryana","","","Wool Shawl and Carpet Maker","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Clothes"
+"Haryana","","","Wool Shawl and Carpet Maker","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Clothes"
+"Haryana","","","Wool Shawl and Carpet Maker","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Clothes"
+"Haryana","","","Wool Shawl and Carpet Maker","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Clothes"
+"Haryana","","","Textile Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Clothes"
+"Haryana","","","Textile Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Clothes"
+"Haryana","","","Textile Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Clothes"
+"Haryana","","","Textile Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Clothes"
+"Haryana","","","Textile Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Clothes"
+"Haryana","","","Textile Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Clothes"
+"Haryana","","","Textile Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Clothes"
+"Haryana","","","Tanneries and Leather Manufactory","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Tanneries and Leather Manufactory","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Tanneries and Leather Manufactory","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Tanneries and Leather Manufactory","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Tanneries and Leather Manufactory","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Tanneries and Leather Manufactory","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Tanneries and Leather Manufactory","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Soaps & Cosmetics","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Detergent"
+"Haryana","","","Soaps & Cosmetics","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Detergent"
+"Haryana","","","Soaps & Cosmetics","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Detergent"
+"Haryana","","","Soaps & Cosmetics","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Detergent"
+"Haryana","","","Soaps & Cosmetics","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Detergent"
+"Haryana","","","Soaps & Cosmetics","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Detergent"
+"Haryana","","","Soaps & Cosmetics","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Detergent"
+"Haryana","","","Tailoring Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Stitch Textile"
+"Haryana","","","Tailoring Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Stitch Textile"
+"Haryana","","","Tailoring Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Stitch Textile"
+"Haryana","","","Tailoring Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Stitch Textile"
+"Haryana","","","Tailoring Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Stitch Textile"
+"Haryana","","","Tailoring Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Stitch Textile"
+"Haryana","","","Tailoring Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Stitch Textile"
+"Haryana","","","Scientific Industry","General Administration","","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Research Labs"
+"Haryana","","","Scientific Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Research Labs"
+"Haryana","","","Scientific Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Research Labs"
+"Haryana","","","Scientific Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Research Labs"
+"Haryana","","","Scientific Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Research Labs"
+"Haryana","","","Scientific Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Research Labs"
+"Haryana","","","Scientific Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Research Labs"
+"Haryana","","","Saw Mills and Timbers Trade Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Wood Furniture carpentry"
+"Haryana","","","Saw Mills and Timbers Trade Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Wood Furniture carpentry"
+"Haryana","","","Saw Mills and Timbers Trade Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Wood Furniture carpentry"
+"Haryana","","","Saw Mills and Timbers Trade Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Wood Furniture carpentry"
+"Haryana","","","Saw Mills and Timbers Trade Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Wood Furniture carpentry"
+"Haryana","","","Saw Mills and Timbers Trade Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Wood Furniture carpentry"
+"Haryana","","","Saw Mills and Timbers Trade Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Wood Furniture carpentry"
+"Haryana","","","Rubber Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Rubber Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Rubber Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Rubber Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Rubber Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Rubber Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Rubber Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Readymade Garments Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Clothes Textile"
+"Haryana","","","Readymade Garments Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Clothes Textile"
+"Haryana","","","Readymade Garments Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Clothes Textile"
+"Haryana","","","Readymade Garments Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Clothes Textile"
+"Haryana","","","Readymade Garments Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Clothes Textile"
+"Haryana","","","Readymade Garments Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Clothes Textile"
+"Haryana","","","Readymade Garments Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Clothes Textile"
+"Haryana","","","Public Motor Transport","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Public Motor Transport","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Public Motor Transport","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Public Motor Transport","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Public Motor Transport","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Public Motor Transport","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Public Motor Transport","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Printing Press","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Printing Press","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Printing Press","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Printing Press","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Printing Press","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Printing Press","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Printing Press","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Private Educational Institutes","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Teaching School Collage"
+"Haryana","","","Private Educational Institutes","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Teaching School Collage"
+"Haryana","","","Private Educational Institutes","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Teaching School Collage"
+"Haryana","","","Private Educational Institutes","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Teaching School Collage"
+"Haryana","","","Private Educational Institutes","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Teaching School Collage"
+"Haryana","","","Private Educational Institutes","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Teaching School Collage"
+"Haryana","","","Private Educational Institutes","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Teaching School Collage"
+"Haryana","","","Potteries Ceramics and Refractory Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Potteries Ceramics and Refractory Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Potteries Ceramics and Refractory Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Potteries Ceramics and Refractory Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Potteries Ceramics and Refractory Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Potteries Ceramics and Refractory Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Potteries Ceramics and Refractory Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Petrol Pump","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Petrol Pump","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Petrol Pump","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Petrol Pump","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Petrol Pump","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Petrol Pump","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Plastic Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Plastic Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Plastic Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Plastic Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Plastic Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Plastic Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Plastic Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Paper and Paper Board Manufactury","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Stationery"
+"Haryana","","","Paper and Paper Board Manufactury","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Stationery"
+"Haryana","","","Paper and Paper Board Manufactury","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Stationery"
+"Haryana","","","Paper and Paper Board Manufactury","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Stationery"
+"Haryana","","","Paper and Paper Board Manufactury","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Stationery"
+"Haryana","","","Paper and Paper Board Manufactury","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Stationery"
+"Haryana","","","Paper and Paper Board Manufactury","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Stationery"
+"Haryana","","","Glass, Glass fire and glass Processing Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Glass, Glass fire and glass Processing Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Glass, Glass fire and glass Processing Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Glass, Glass fire and glass Processing Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Glass, Glass fire and glass Processing Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Glass, Glass fire and glass Processing Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Glass, Glass fire and glass Processing Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Oil Mills","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Oil Mills","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Oil Mills","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Oil Mills","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Oil Mills","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Oil Mills","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Oil Mills","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Alloy"
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Alloy"
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Alloy"
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Alloy"
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Alloy"
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Alloy"
+"Haryana","","","Non-ferrous Metal Rolling and Re-Rolling Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Alloy"
+"Haryana","","","Sugar Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Khandsari"
+"Haryana","","","Sugar Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Khandsari"
+"Haryana","","","Sugar Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Khandsari"
+"Haryana","","","Sugar Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Khandsari"
+"Haryana","","","Sugar Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Khandsari"
+"Haryana","","","Sugar Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Khandsari"
+"Haryana","","","Sugar Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Khandsari"
+"Haryana","","","Khandsari Manufacturer","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Sugarcane"
+"Haryana","","","Khandsari Manufacturer","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Sugarcane"
+"Haryana","","","Khandsari Manufacturer","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Sugarcane"
+"Haryana","","","Khandsari Manufacturer","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Sugarcane"
+"Haryana","","","Khandsari Manufacturer","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Sugarcane"
+"Haryana","","","Khandsari Manufacturer","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Sugarcane"
+"Haryana","","","Khandsari Manufacturer","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Sugarcane"
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Dairy","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Milk"
+"Haryana","","","Dairy","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Milk"
+"Haryana","","","Dairy","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Milk"
+"Haryana","","","Dairy","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Milk"
+"Haryana","","","Dairy","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Milk"
+"Haryana","","","Dairy","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Milk"
+"Haryana","","","Dairy","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Milk"
+"Haryana","","","Bakeries","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Food Industry Biscuit"
+"Haryana","","","Bakeries","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Food Industry Biscuit"
+"Haryana","","","Bakeries","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Food Industry Biscuit"
+"Haryana","","","Bakeries","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Food Industry Biscuit"
+"Haryana","","","Bakeries","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Food Industry Biscuit"
+"Haryana","","","Bakeries","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Food Industry Biscuit"
+"Haryana","","","Bakeries","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Food Industry Biscuit"
+"Haryana","","","Electronic Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Hardware Semiconductor"
+"Haryana","","","Electronic Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Hardware Semiconductor"
+"Haryana","","","Electronic Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Hardware Semiconductor"
+"Haryana","","","Electronic Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Hardware Semiconductor"
+"Haryana","","","Electronic Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Hardware Semiconductor"
+"Haryana","","","Electronic Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Hardware Semiconductor"
+"Haryana","","","Electronic Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Hardware Semiconductor"
+"Haryana","","","Cotton Ginning and Pressing Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Clothes Textile Yarn"
+"Haryana","","","Cotton Ginning and Pressing Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Clothes Textile Yarn"
+"Haryana","","","Cotton Ginning and Pressing Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Clothes Textile Yarn"
+"Haryana","","","Cotton Ginning and Pressing Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Clothes Textile Yarn"
+"Haryana","","","Cotton Ginning and Pressing Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Clothes Textile Yarn"
+"Haryana","","","Cotton Ginning and Pressing Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Clothes Textile Yarn"
+"Haryana","","","Cotton Ginning and Pressing Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Clothes Textile Yarn"
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Cinema Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Film Industry Multiplex Hall"
+"Haryana","","","Cinema Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Film Industry Multiplex Hall"
+"Haryana","","","Cinema Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Film Industry Multiplex Hall"
+"Haryana","","","Cinema Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Film Industry Multiplex Hall"
+"Haryana","","","Cinema Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Film Industry Multiplex Hall"
+"Haryana","","","Cinema Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Film Industry Multiplex Hall"
+"Haryana","","","Cinema Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Film Industry Multiplex Hall"
+"Haryana","","","Distillery-Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Beer Wine Liquor"
+"Haryana","","","Distillery-Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Beer Wine Liquor"
+"Haryana","","","Distillery-Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Beer Wine Liquor"
+"Haryana","","","Distillery-Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Beer Wine Liquor"
+"Haryana","","","Distillery-Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Beer Wine Liquor"
+"Haryana","","","Distillery-Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Beer Wine Liquor"
+"Haryana","","","Distillery-Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Beer Wine Liquor"
+"Haryana","","","Chemical Industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Chemical Industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Chemical Industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Chemical Industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Chemical Industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Chemical Industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Chemical Industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Utensils","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Utensils","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Utensils","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Utensils","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Utensils","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Utensils","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Utensils","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Ayurvedic and Unani Pharmacy Employment","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Agricultural Employments. Machine Tools and General Engg. Including electrical goods industry","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Agriculture","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Farming Horticulture Dairy"
+"Haryana","","","Agriculture","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Farming Horticulture Dairy"
+"Haryana","","","Agriculture","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Farming Horticulture Dairy"
+"Haryana","","","Agriculture","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Farming Horticulture Dairy"
+"Haryana","","","Agriculture","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Farming Horticulture Dairy"
+"Haryana","","","Agriculture","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Farming Horticulture Dairy"
+"Haryana","","","Shops & Commercial Establishments","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Shops & Commercial Establishments","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Shops & Commercial Establishments","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Shops & Commercial Establishments","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Shops & Commercial Establishments","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Shops & Commercial Establishments","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Shops & Commercial Establishments","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Rural Government Employees"
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Rural Government Employees"
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Rural Government Employees"
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Rural Government Employees"
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Rural Government Employees"
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Rural Government Employees"
+"Haryana","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Rural Government Employees"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Informal Sector"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Informal Sector"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Informal Sector"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Informal Sector"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Informal Sector"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Informal Sector"
+"Haryana","","","Drilling Operation and Maintenance of Tube Wells","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Informal Sector"
+"Haryana","","","Public Works Departments (Irrigation)","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","Public Works Departments (Irrigation)","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","Public Works Departments (Irrigation)","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","Public Works Departments (Irrigation)","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","Public Works Departments (Irrigation)","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","Public Works Departments (Irrigation)","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","Public Works Departments (Irrigation)","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Alloy Metal"
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Alloy Metal"
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Alloy Metal"
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Alloy Metal"
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Alloy Metal"
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Alloy Metal"
+"Haryana","","","Brass, Copper and Aluminimum, Utensils Making Industries","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Alloy Metal"
+"Haryana","","","Automobile Workshops","General Administration","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,"Vehicle car bike autopart"
+"Haryana","","","Automobile Workshops","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,"Vehicle car bike autopart"
+"Haryana","","","Automobile Workshops","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,"Vehicle car bike autopart"
+"Haryana","","","Automobile Workshops","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,"Vehicle car bike autopart"
+"Haryana","","","Automobile Workshops","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,"Vehicle car bike autopart"
+"Haryana","","","Automobile Workshops","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,"Vehicle car bike autopart"
+"Haryana","","","Automobile Workshops","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,"Vehicle car bike autopart"
+"Haryana","","","Brick Kiln Industry","","Fireman","1/0/122",26,"","","","","",449.641153846154,"","","","","",11690.67,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Caol Man","1/0/122",26,"","","","","",449.641153846154,"","","","","",11690.67,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Maistry","1/0/122",26,"","","","","",449.641153846154,"","","","","",11690.67,"Constructions"
+"Haryana","","","","","Security Guard With Weapon","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","","","Security guard","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","","","Driver (Heavy Vehicle)","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","","","Driver (Light Vehicle)","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","","","Data Entry Operator","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","","Clerical & General Staff","Personal Secretary","1/0/122",26,"505.28","","15.24","","",520.516153846154,13137.23,"",396.19,"","",13533.42,0
+"Haryana","","","","Clerical & General Staff","Personal Assistant","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","","Clerical & General Staff","Senior Stenographer","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","","Clerical & General Staff","Junior Stenographer","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","","Clerical & General Staff","Stenographer","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","","Clerical & General Staff","Graduate and Above","1/0/122",26,"415.69","","13.16","","",428.856153846154,10808.02,"",342.24,"","",11150.26,0
+"Haryana","","","","Clerical & General Staff","Matriculate but not Graduate","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","","Clerical & General Staff","Below Matriculation","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","","Highly Skilled","","1/0/122",26,"481.22","","14.51","","",495.729615384615,12511.65,"",377.32,"","",12888.97,0
+"Haryana","","","","Skilled B","","1/0/122",26,"458.30","","13.82","","",472.123461538462,11915.86,"",359.35,"","",12275.21,0
+"Haryana","","","","Skilled A","","1/0/122",26,"436.48","","13.16","","",449.641153846154,11348.43,"",342.24,"","",11690.67,0
+"Haryana","","","","Semi Skilled B","","1/0/122",26,"415.69","","12.54","","",428.229230769231,10808.02,"",325.94,"","",11133.96,0
+"Haryana","","","","Semi Skilled A","","1/0/122",26,"395.90","","11.94","","",407.837692307692,10293.36,"",310.42,"","",10603.78,0
+"Haryana","","","","Unskilled","","1/0/122",26,"377.05","","11.37","","",388.418461538461,9803.24,"",295.64,"","",10098.88,0
 "Haryana","","","Transport Industries loading and unloading processing Industry","General Administration","Personal Secretary","1/6/121",26,"391.72","","113.56","","",505.278076923077,10184.73,"",2952.5,"","",13137.23,"Logistics Warehouse"
 "Haryana","","","Transport Industries loading and unloading processing Industry","Highly Skilled","","1/6/121",26,"373.07","","108.15","","",481.217307692308,9699.74,"",2811.91,"","",12511.65,"Logistics Warehouse"
 "Haryana","","","Transport Industries loading and unloading processing Industry","Skilled B","","1/6/121",26,"355.30","","103.00","","",458.302307692308,9237.85,"",2678.01,"","",11915.86,"Logistics Warehouse"
@@ -354,9 +731,9 @@
 "Haryana","","","Automobile Workshops","Semi Skilled B","","1/6/121",26,"322.27","","93.42","","",415.693076923077,8379,"",2429.02,"","",10808.02,"Vehicle car bike autopart"
 "Haryana","","","Automobile Workshops","Semi Skilled A","","1/6/121",26,"306.92","","88.98","","",395.898461538462,7980,"",2313.36,"","",10293.36,"Vehicle car bike autopart"
 "Haryana","","","Automobile Workshops","Unskilled","","1/6/121",26,"292.31","","84.74","","",377.047692307692,7600,"",2203.24,"","",9803.24,"Vehicle car bike autopart"
-"Haryana","","","Bricks or Roof Tiles","","Fireman","1/6/121",26,"","","","","",436.478076923077,"","","","","",11348.43,"Constructions"
-"Haryana","","","Bricks or Roof Tiles","","Caol Man","1/6/121",26,"","","","","",436.478076923077,"","","","","",11348.43,"Constructions"
-"Haryana","","","Bricks or Roof Tiles","","Maistry","1/6/121",26,"","","","","",436.478076923077,"","","","","",11348.43,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Fireman","1/6/121",26,"","","","","",436.478076923077,"","","","","",11348.43,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Caol Man","1/6/121",26,"","","","","",436.478076923077,"","","","","",11348.43,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Maistry","1/6/121",26,"","","","","",436.478076923077,"","","","","",11348.43,"Constructions"
 "Haryana","","","","","Security Guard With Weapon","1/6/121",26,"355.30","","103.00","","",458.302307692308,9237.85,"",2678.01,"","",11915.86,0
 "Haryana","","","","","Security guard","1/6/121",26,"306.92","","88.98","","",395.898461538462,7980,"",2313.36,"","",10293.36,0
 "Haryana","","","","","Driver (Heavy Vehicle)","1/6/121",26,"373.07","","108.15","","",481.217307692308,9699.74,"",2811.91,"","",12511.65,0
@@ -376,9 +753,9 @@
 "Haryana","","","","Semi Skilled B","","1/6/121",26,"322.27","","93.42","","",415.693076923077,8379,"",2429.02,"","",10808.02,0
 "Haryana","","","","Semi Skilled A","","1/6/121",26,"306.92","","88.98","","",395.898461538462,7980,"",2313.36,"","",10293.36,0
 "Haryana","","","","Unskilled","","1/6/121",26,"292.31","","84.74","","",377.047692307692,7600,"",2203.24,"","",9803.24,0
-"Haryana","","","Bricks or Roof Tiles","","Fireman","1/0/121",26,"","","","","",432.045384615385,"","","","","",11233.18,"Constructions"
-"Haryana","","","Bricks or Roof Tiles","","Caol Man","1/0/121",26,"","","","","",432.045384615385,"","","","","",11233.18,"Constructions"
-"Haryana","","","Bricks or Roof Tiles","","Maistry","1/0/121",26,"","","","","",432.045384615385,"","","","","",11233.18,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Fireman","1/0/121",26,"","","","","",432.045384615385,"","","","","",11233.18,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Caol Man","1/0/121",26,"","","","","",432.045384615385,"","","","","",11233.18,"Constructions"
+"Haryana","","","Brick Kiln Industry","","Maistry","1/0/121",26,"","","","","",432.045384615385,"","","","","",11233.18,"Constructions"
 "Haryana","","","","","Security Guard With Weapon","1/0/121",26,"355.30","","98.35","","",453.648076923077,9237.85,"",2557,"","",11794.85,0
 "Haryana","","","","","Security guard","1/0/121",26,"306.92","","84.95","","",391.878076923077,7980,"",2208.83,"","",10188.83,0
 "Haryana","","","","","Driver (Heavy Vehicle)","1/0/121",26,"373.07","","103.26","","",476.330384615385,9699.74,"",2684.85,"","",12384.59,0
