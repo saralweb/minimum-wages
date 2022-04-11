@@ -1,4 +1,274 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Gujarat","Zone II","","Sweeping and Cleaning","Skilled","","1/3/122",26,284,"",88.7,"","",372.7,7384,"",2306.2,"","",9690.2,"Scavengers"
+"Gujarat","Zone II","","Sweeping and Cleaning","Semi Skilled","","1/3/122",26,276,"",88.7,"","",364.7,7176,"",2306.2,"","",9482.2,"Scavengers"
+"Gujarat","Zone II","","Sweeping and Cleaning","Unskilled","","1/3/122",26,268,"",88.7,"","",356.7,6968,"",2306.2,"","",9274.2,"Scavengers"
+"Gujarat","Zone I","","Sweeping and Cleaning","Skilled","","1/3/122",26,293,"",88.7,"","",381.7,7618,"",2306.2,"","",9924.2,"Scavengers"
+"Gujarat","Zone I","","Sweeping and Cleaning","Semi Skilled","","1/3/122",26,284,"",88.7,"","",372.7,7384,"",2306.2,"","",9690.2,"Scavengers"
+"Gujarat","Zone I","","Sweeping and Cleaning","Unskilled","","1/3/122",26,276,"",88.7,"","",364.7,7176,"",2306.2,"","",9482.2,"Scavengers"
+"Gujarat","Zone II","","Agarbathy Manufactory","Skilled","","1/3/122",26,284,"","","","",284,7384,"","","","",7384,"Incense"
+"Gujarat","Zone II","","Agarbathy Manufactory","Semi Skilled","","1/3/122",26,276,"","","","",276,7176,"","","","",7176,"Incense"
+"Gujarat","Zone II","","Agarbathy Manufactory","Unskilled","","1/3/122",26,268,"","","","",268,6968,"","","","",6968,"Incense"
+"Gujarat","Zone I","","Agarbathy Manufactory","Skilled","","1/3/122",26,293,"","","","",293,7618,"","","","",7618,"Incense"
+"Gujarat","Zone I","","Agarbathy Manufactory","Semi Skilled","","1/3/122",26,284,"","","","",284,7384,"","","","",7384,"Incense"
+"Gujarat","Zone I","","Agarbathy Manufactory","Unskilled","","1/3/122",26,276,"","","","",276,7176,"","","","",7176,"Incense"
+"Gujarat","Zone II","","Security Services","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Watchman Guard"
+"Gujarat","Zone II","","Security Services","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Watchman Guard"
+"Gujarat","Zone II","","Security Services","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Watchman Guard"
+"Gujarat","Zone I","","Security Services","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Watchman Guard"
+"Gujarat","Zone I","","Security Services","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Watchman Guard"
+"Gujarat","Zone I","","Security Services","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Watchman Guard"
+"Gujarat","Zone II","","Shops & Commercial Establishments","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Shops & Commercial Establishments","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Shops & Commercial Establishments","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Shops & Commercial Establishments","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Shops & Commercial Establishments","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Shops & Commercial Establishments","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Wool Shawl and Carpet Maker","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Clothes"
+"Gujarat","Zone II","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Clothes"
+"Gujarat","Zone II","","Wool Shawl and Carpet Maker","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Clothes"
+"Gujarat","Zone I","","Wool Shawl and Carpet Maker","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Clothes"
+"Gujarat","Zone I","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Clothes"
+"Gujarat","Zone I","","Wool Shawl and Carpet Maker","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Clothes"
+"Gujarat","Zone II","","Tanneries and Leather Manufactory","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Tanneries and Leather Manufactory","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Tanneries and Leather Manufactory","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Tanneries and Leather Manufactory","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Tanneries and Leather Manufactory","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Tanneries and Leather Manufactory","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Stone Breaking and Crushing","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Stone Breaking and Crushing","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Stone Breaking and Crushing","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Stone Breaking and Crushing","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Soaps & Cosmetics","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Detergent"
+"Gujarat","Zone II","","Soaps & Cosmetics","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Detergent"
+"Gujarat","Zone II","","Soaps & Cosmetics","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Detergent"
+"Gujarat","Zone I","","Soaps & Cosmetics","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Detergent"
+"Gujarat","Zone I","","Soaps & Cosmetics","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Detergent"
+"Gujarat","Zone I","","Soaps & Cosmetics","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Detergent"
+"Gujarat","Zone II","","Rubber Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Rubber Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Rubber Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Rubber Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Rubber Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Rubber Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Hotels and Restaurants","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Eating House Cantin Accommodation"
+"Gujarat","Zone II","","Hotels and Restaurants","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Eating House Cantin Accommodation"
+"Gujarat","Zone II","","Hotels and Restaurants","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Eating House Cantin Accommodation"
+"Gujarat","Zone I","","Hotels and Restaurants","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Eating House Cantin Accommodation"
+"Gujarat","Zone I","","Hotels and Restaurants","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Eating House Cantin Accommodation"
+"Gujarat","Zone I","","Hotels and Restaurants","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Eating House Cantin Accommodation"
+"Gujarat","Zone II","","Paper and Paper Board Manufactury","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Stationery"
+"Gujarat","Zone II","","Paper and Paper Board Manufactury","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Stationery"
+"Gujarat","Zone II","","Paper and Paper Board Manufactury","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Stationery"
+"Gujarat","Zone I","","Paper and Paper Board Manufactury","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Stationery"
+"Gujarat","Zone I","","Paper and Paper Board Manufactury","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Stationery"
+"Gujarat","Zone I","","Paper and Paper Board Manufactury","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Stationery"
+"Gujarat","Zone II","","Public Motor Transport","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Public Motor Transport","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Public Motor Transport","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Public Motor Transport","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Public Motor Transport","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Public Motor Transport","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Printing Press","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Printing Press","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Printing Press","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Printing Press","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Printing Press","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Printing Press","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Utensils","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Gujarat","Zone II","","Utensils","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Gujarat","Zone II","","Utensils","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Gujarat","Zone I","","Utensils","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Gujarat","Zone I","","Utensils","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Gujarat","Zone I","","Utensils","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"KitchenProduct KitchenGadgets CookingTools Metal"
+"Gujarat","Zone II","","Power Loom Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Textile Industry"
+"Gujarat","Zone II","","Power Loom Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Textile Industry"
+"Gujarat","Zone II","","Power Loom Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Textile Industry"
+"Gujarat","Zone I","","Power Loom Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Textile Industry"
+"Gujarat","Zone I","","Power Loom Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Textile Industry"
+"Gujarat","Zone I","","Power Loom Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Textile Industry"
+"Gujarat","Zone II","","Pottery Industries","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Ceramic"
+"Gujarat","Zone II","","Pottery Industries","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Ceramic"
+"Gujarat","Zone II","","Pottery Industries","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Ceramic"
+"Gujarat","Zone I","","Pottery Industries","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Ceramic"
+"Gujarat","Zone I","","Pottery Industries","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Ceramic"
+"Gujarat","Zone I","","Pottery Industries","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Ceramic"
+"Gujarat","Zone II","","Plastic Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Plastic Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Plastic Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Plastic Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Plastic Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Plastic Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Private Educational Institutes","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Teaching School Collage"
+"Gujarat","Zone II","","Private Educational Institutes","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Teaching School Collage"
+"Gujarat","Zone II","","Private Educational Institutes","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Teaching School Collage"
+"Gujarat","Zone I","","Private Educational Institutes","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Teaching School Collage"
+"Gujarat","Zone I","","Private Educational Institutes","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Teaching School Collage"
+"Gujarat","Zone I","","Private Educational Institutes","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Teaching School Collage"
+"Gujarat","Zone II","","Pharmaceutical Manufacturers","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Medicine Shop medical"
+"Gujarat","Zone II","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Medicine Shop medical"
+"Gujarat","Zone II","","Pharmaceutical Manufacturers","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Medicine Shop medical"
+"Gujarat","Zone I","","Pharmaceutical Manufacturers","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Medicine Shop medical"
+"Gujarat","Zone I","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Medicine Shop medical"
+"Gujarat","Zone I","","Pharmaceutical Manufacturers","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Medicine Shop medical"
+"Gujarat","Zone II","","Petrol Pump","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Petrol Pump","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Petrol Pump","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Petrol Pump","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Petrol Pump","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Petrol Pump","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Oil Mills","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Oil Mills","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Oil Mills","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Oil Mills","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Oil Mills","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Oil Mills","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Rural Government Employees"
+"Gujarat","Zone II","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Rural Government Employees"
+"Gujarat","Zone II","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Rural Government Employees"
+"Gujarat","Zone I","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Rural Government Employees"
+"Gujarat","Zone I","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Rural Government Employees"
+"Gujarat","Zone I","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Rural Government Employees"
+"Gujarat","Zone II","","Pre-Weaving and Textile Processing Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Yarn"
+"Gujarat","Zone II","","Pre-Weaving and Textile Processing Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Yarn"
+"Gujarat","Zone II","","Pre-Weaving and Textile Processing Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Yarn"
+"Gujarat","Zone I","","Pre-Weaving and Textile Processing Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Yarn"
+"Gujarat","Zone I","","Pre-Weaving and Textile Processing Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Yarn"
+"Gujarat","Zone I","","Pre-Weaving and Textile Processing Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Yarn"
+"Gujarat","Zone II","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Khandsari Manufacturer","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Sugarcane"
+"Gujarat","Zone II","","Khandsari Manufacturer","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Sugarcane"
+"Gujarat","Zone II","","Khandsari Manufacturer","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Sugarcane"
+"Gujarat","Zone I","","Khandsari Manufacturer","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Sugarcane"
+"Gujarat","Zone I","","Khandsari Manufacturer","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Sugarcane"
+"Gujarat","Zone I","","Khandsari Manufacturer","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Sugarcane"
+"Gujarat","Zone II","","Sugar Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Khandsari"
+"Gujarat","Zone II","","Sugar Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Khandsari"
+"Gujarat","Zone II","","Sugar Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Khandsari"
+"Gujarat","Zone I","","Sugar Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Khandsari"
+"Gujarat","Zone I","","Sugar Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Khandsari"
+"Gujarat","Zone I","","Sugar Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Khandsari"
+"Gujarat","Zone II","","Engineering Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Startup Company"
+"Gujarat","Zone II","","Engineering Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Startup Company"
+"Gujarat","Zone II","","Engineering Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Startup Company"
+"Gujarat","Zone I","","Engineering Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Startup Company"
+"Gujarat","Zone I","","Engineering Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Startup Company"
+"Gujarat","Zone I","","Engineering Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Startup Company"
+"Gujarat","Zone II","","Hosiery","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Textile Industry"
+"Gujarat","Zone II","","Hosiery","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Textile Industry"
+"Gujarat","Zone II","","Hosiery","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Textile Industry"
+"Gujarat","Zone I","","Hosiery","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Textile Industry"
+"Gujarat","Zone I","","Hosiery","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Textile Industry"
+"Gujarat","Zone I","","Hosiery","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Textile Industry"
+"Gujarat","Zone II","","Forestry and Timbering Operation","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Jungle"
+"Gujarat","Zone II","","Forestry and Timbering Operation","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Jungle"
+"Gujarat","Zone II","","Forestry and Timbering Operation","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Jungle"
+"Gujarat","Zone I","","Forestry and Timbering Operation","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Jungle"
+"Gujarat","Zone I","","Forestry and Timbering Operation","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Jungle"
+"Gujarat","Zone I","","Forestry and Timbering Operation","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Jungle"
+"Gujarat","Zone II","","Fisheries And Sea Food Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Seafood"
+"Gujarat","Zone II","","Fisheries And Sea Food Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Seafood"
+"Gujarat","Zone II","","Fisheries And Sea Food Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Seafood"
+"Gujarat","Zone I","","Fisheries And Sea Food Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Seafood"
+"Gujarat","Zone I","","Fisheries And Sea Food Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Seafood"
+"Gujarat","Zone I","","Fisheries And Sea Food Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Seafood"
+"Gujarat","Zone II","","Drilling Operation and Maintenance of Tube Wells","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Informal Sector"
+"Gujarat","Zone II","","Drilling Operation and Maintenance of Tube Wells","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Informal Sector"
+"Gujarat","Zone II","","Drilling Operation and Maintenance of Tube Wells","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Informal Sector"
+"Gujarat","Zone I","","Drilling Operation and Maintenance of Tube Wells","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Informal Sector"
+"Gujarat","Zone I","","Drilling Operation and Maintenance of Tube Wells","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Informal Sector"
+"Gujarat","Zone I","","Drilling Operation and Maintenance of Tube Wells","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Informal Sector"
+"Gujarat","Zone II","","Cinema Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Film Industry Multiplex Hall"
+"Gujarat","Zone II","","Cinema Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Film Industry Multiplex Hall"
+"Gujarat","Zone II","","Cinema Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Film Industry Multiplex Hall"
+"Gujarat","Zone I","","Cinema Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Film Industry Multiplex Hall"
+"Gujarat","Zone I","","Cinema Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Film Industry Multiplex Hall"
+"Gujarat","Zone I","","Cinema Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Film Industry Multiplex Hall"
+"Gujarat","Zone II","","Electronic Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Hardware Semiconductor"
+"Gujarat","Zone II","","Electronic Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Hardware Semiconductor"
+"Gujarat","Zone II","","Electronic Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Hardware Semiconductor"
+"Gujarat","Zone I","","Electronic Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Hardware Semiconductor"
+"Gujarat","Zone I","","Electronic Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Hardware Semiconductor"
+"Gujarat","Zone I","","Electronic Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Hardware Semiconductor"
+"Gujarat","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Clothes Textile Yarn"
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Clothes Textile Yarn"
+"Gujarat","Zone II","","Cotton Ginning and Pressing Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Clothes Textile Yarn"
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Clothes Textile Yarn"
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Clothes Textile Yarn"
+"Gujarat","Zone I","","Cotton Ginning and Pressing Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Clothes Textile Yarn"
+"Gujarat","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Cement and Cement Based Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Constructions"
+"Gujarat","Zone II","","Cement and Cement Based Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Constructions"
+"Gujarat","Zone II","","Cement and Cement Based Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Constructions"
+"Gujarat","Zone I","","Cement and Cement Based Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Constructions"
+"Gujarat","Zone I","","Cement and Cement Based Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Constructions"
+"Gujarat","Zone I","","Cement and Cement Based Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Constructions"
+"Gujarat","Zone II","","Bakeries","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Food Industry Biscuit"
+"Gujarat","Zone II","","Bakeries","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Food Industry Biscuit"
+"Gujarat","Zone II","","Bakeries","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Food Industry Biscuit"
+"Gujarat","Zone I","","Bakeries","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Food Industry Biscuit"
+"Gujarat","Zone I","","Bakeries","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Food Industry Biscuit"
+"Gujarat","Zone I","","Bakeries","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Food Industry Biscuit"
+"Gujarat","Zone II","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Vehicle car bike autopart"
+"Gujarat","Zone II","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Vehicle car bike autopart"
+"Gujarat","Zone II","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Vehicle car bike autopart"
+"Gujarat","Zone I","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Vehicle car bike autopart"
+"Gujarat","Zone I","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Vehicle car bike autopart"
+"Gujarat","Zone I","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Vehicle car bike autopart"
+"Gujarat","Zone II","","Tobacco Processing Establishment","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Tobacco Processing Establishment","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Tobacco Processing Establishment","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Tobacco Processing Establishment","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Tobacco Processing Establishment","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Tobacco Processing Establishment","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Readymade Garments Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Clothes Textile"
+"Gujarat","Zone II","","Readymade Garments Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Clothes Textile"
+"Gujarat","Zone II","","Readymade Garments Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Clothes Textile"
+"Gujarat","Zone I","","Readymade Garments Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Clothes Textile"
+"Gujarat","Zone I","","Readymade Garments Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Clothes Textile"
+"Gujarat","Zone I","","Readymade Garments Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Clothes Textile"
+"Gujarat","Zone II","","Bone Crushing Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone II","","Bone Crushing Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Bone Crushing Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,0
+"Gujarat","Zone I","","Bone Crushing Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,0
+"Gujarat","Zone I","","Bone Crushing Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,0
+"Gujarat","Zone I","","Bone Crushing Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,0
+"Gujarat","Zone II","","Bobbin Industry","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Textile Yarn Industry"
+"Gujarat","Zone II","","Bobbin Industry","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Textile Yarn Industry"
+"Gujarat","Zone II","","Bobbin Industry","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Textile Yarn Industry"
+"Gujarat","Zone I","","Bobbin Industry","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Textile Yarn Industry"
+"Gujarat","Zone I","","Bobbin Industry","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Textile Yarn Industry"
+"Gujarat","Zone I","","Bobbin Industry","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Textile Yarn Industry"
+"Gujarat","Zone II","","Zardosi Work","Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Goldsmith embroidery"
+"Gujarat","Zone II","","Zardosi Work","Semi Skilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Goldsmith embroidery"
+"Gujarat","Zone II","","Zardosi Work","Unskilled","","1/3/122",26,268,"",83.3,"","",351.3,6968,"",2165.8,"","",9133.8,"Goldsmith embroidery"
+"Gujarat","Zone I","","Zardosi Work","Skilled","","1/3/122",26,293,"",83.3,"","",376.3,7618,"",2165.8,"","",9783.8,"Goldsmith embroidery"
+"Gujarat","Zone I","","Zardosi Work","Semi Skilled","","1/3/122",26,284,"",83.3,"","",367.3,7384,"",2165.8,"","",9549.8,"Goldsmith embroidery"
+"Gujarat","Zone I","","Zardosi Work","Unskilled","","1/3/122",26,276,"",83.3,"","",359.3,7176,"",2165.8,"","",9341.8,"Goldsmith embroidery"
 "Gujarat","","","Bricks or Roof Tiles","","Raw Brick Carrier","1/9/121",26,276,"",0.2,"","",276.2,"7176.00","","5.20","","","7181.20","Constructions"
 "Gujarat","","","Bricks or Roof Tiles","Class 2","Brick Moulder","1/9/121",26,284,"",0.2,"","",284.2,"7384.00","","5.20","","","7389.20","Constructions"
 "Gujarat","","","Bricks or Roof Tiles","Class 1","Brick Moulder","1/9/121",26,293,"",0.2,"","",293.2,"7618.00","","5.20","","","7623.20","Constructions"
@@ -17,12 +287,12 @@
 "Gujarat","Zone I","","Sweeping and Cleaning","Skilled","","1/9/121",26,293,"",77.3,"","",370.3,7618,"",2009.8,"","",9627.8,"Scavengers"
 "Gujarat","Zone I","","Sweeping and Cleaning","Semi Skilled","","1/9/121",26,284,"",77.3,"","",361.3,7384,"",2009.8,"","",9393.8,"Scavengers"
 "Gujarat","Zone I","","Sweeping and Cleaning","Unskilled","","1/9/121",26,276,"",77.3,"","",353.3,7176,"",2009.8,"","",9185.8,"Scavengers"
-"Gujarat","Zone II","","Agarbathy Manufactory","Skilled","","1/9/121",26,284,"",72,"","",356,7384,"",1872,"","",9256,"Incense"
-"Gujarat","Zone II","","Agarbathy Manufactory","Semi Skilled","","1/9/121",26,276,"",72,"","",348,7176,"",1872,"","",9048,"Incense"
-"Gujarat","Zone II","","Agarbathy Manufactory","Unskilled","","1/9/121",26,268,"",72,"","",340,6968,"",1872,"","",8840,"Incense"
-"Gujarat","Zone I","","Agarbathy Manufactory","Skilled","","1/9/121",26,293,"",72,"","",365,7618,"",1872,"","",9490,"Incense"
-"Gujarat","Zone I","","Agarbathy Manufactory","Semi Skilled","","1/9/121",26,284,"",72,"","",356,7384,"",1872,"","",9256,"Incense"
-"Gujarat","Zone I","","Agarbathy Manufactory","Unskilled","","1/9/121",26,276,"",72,"","",348,7176,"",1872,"","",9048,"Incense"
+"Gujarat","Zone II","","Agarbathy Manufactory","Skilled","","1/9/121",26,284,"","","","",284,7384,"","","","",7384,"Incense"
+"Gujarat","Zone II","","Agarbathy Manufactory","Semi Skilled","","1/9/121",26,276,"","","","",276,7176,"","","","",7176,"Incense"
+"Gujarat","Zone II","","Agarbathy Manufactory","Unskilled","","1/9/121",26,268,"","","","",268,6968,"","","","",6968,"Incense"
+"Gujarat","Zone I","","Agarbathy Manufactory","Skilled","","1/9/121",26,293,"","","","",293,7618,"","","","",7618,"Incense"
+"Gujarat","Zone I","","Agarbathy Manufactory","Semi Skilled","","1/9/121",26,284,"","","","",284,7384,"","","","",7384,"Incense"
+"Gujarat","Zone I","","Agarbathy Manufactory","Unskilled","","1/9/121",26,276,"","","","",276,7176,"","","","",7176,"Incense"
 "Gujarat","Zone II","","Security Services","Skilled","","1/9/121",26,284,"",72,"","",356,7384,"",1872,"","",9256,"Watchman Guard"
 "Gujarat","Zone II","","Security Services","Semi Skilled","","1/9/121",26,276,"",72,"","",348,7176,"",1872,"","",9048,"Watchman Guard"
 "Gujarat","Zone II","","Security Services","Unskilled","","1/9/121",26,268,"",72,"","",340,6968,"",1872,"","",8840,"Watchman Guard"
