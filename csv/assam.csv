@@ -1,4 +1,9 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Assam","","","Contractors Workman Employed","Unskilled","","1/0/122",30,250,"",87.58,"","",337.58,7500,"",2627.25,"","",10127.25,0
+"Assam","","","Contractors Workman Employed","Semi Skilled","","1/0/122",30,290,"",101.54,"","",391.54,8700,"",3046.14,"","",11746.14,0
+"Assam","","","Contractors Workman Employed","Skilled B","","1/0/122",30,350,"",125.29,"","",475.29,10500,"",3758.71,"","",14258.71,0
+"Assam","","","Contractors Workman Employed","Skilled A","","1/0/122",30,370,"",129.64,"","",499.64,11100,"",3889.21,"","",14989.21,0
+"Assam","","","Contractors Workman Employed","Highly Skilled","","1/0/122",30,460,"",161.18,"","",621.18,13800,"",4835.46,"","",18635.46,0
 "Assam","","","Contractors Workman Employed","Unskilled","","1/6/121",30,250,"",78.15,"","",328.15,7500,"",2344.5,"","",9844.5,0
 "Assam","","","Contractors Workman Employed","Semi Skilled","","1/6/121",30,290,"",90.61,"","",380.61,8700,"",2718.15,"","",11418.15,0
 "Assam","","","Contractors Workman Employed","Skilled B","","1/6/121",30,350,"",112.1,"","",462.1,10500,"",3362.86,"","",13862.86,0

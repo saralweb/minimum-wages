@@ -1,4 +1,845 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Goa","","","Security Services","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Watchman Guard"
+"Goa","","","Security Services","Skilled","Head Guard - Security Services","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Watchman Guard"
+"Goa","","","Security Services","Skilled","Security Guard With Weapon","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Watchman Guard"
+"Goa","","","Security Services","Semi Skilled","Security guard","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Watchman Guard"
+"Goa","","","Security Services","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Watchman Guard"
+"Goa","","","Security Services","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Watchman Guard"
+"Goa","","","Security Services","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Watchman Guard"
+"Goa","","","Security Services","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Watchman Guard"
+"Goa","","","Manufacture of cotton fiber, thread yarn spinning and weaving","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Industry"
+"Goa","","","Manufacture of cotton fiber, thread yarn spinning and weaving","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Textile Industry"
+"Goa","","","Manufacture of cotton fiber, thread yarn spinning and weaving","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Industry"
+"Goa","","","Manufacture of cotton fiber, thread yarn spinning and weaving","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Textile Industry"
+"Goa","","","Manufacture of cotton fiber, thread yarn spinning and weaving","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Textile Industry"
+"Goa","","","Handloom Weaving Establishment","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Industry"
+"Goa","","","Handloom Weaving Establishment","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Textile Industry"
+"Goa","","","Handloom Weaving Establishment","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Industry"
+"Goa","","","Handloom Weaving Establishment","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Textile Industry"
+"Goa","","","Handloom Weaving Establishment","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Textile Industry"
+"Goa","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Yarn"
+"Goa","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Textile Yarn"
+"Goa","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Yarn"
+"Goa","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Textile Yarn"
+"Goa","","","Weaving, Spinning, Knitting, Dyeing, Finishing, Bleaching In Handloom & Powerloom","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Textile Yarn"
+"Goa","","","Spinning Mills Industry","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Yarn"
+"Goa","","","Spinning Mills Industry","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Textile Yarn"
+"Goa","","","Spinning Mills Industry","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Yarn"
+"Goa","","","Spinning Mills Industry","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Textile Yarn"
+"Goa","","","Spinning Mills Industry","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Textile Yarn"
+"Goa","","","Cotton Textile Mills","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile Yarn"
+"Goa","","","Cotton Textile Mills","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Clothes Textile Yarn"
+"Goa","","","Cotton Textile Mills","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile Yarn"
+"Goa","","","Cotton Textile Mills","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile Yarn"
+"Goa","","","Cotton Textile Mills","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile Yarn"
+"Goa","","","Handloom","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Industry"
+"Goa","","","Handloom","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Textile Industry"
+"Goa","","","Handloom","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Textile Industry"
+"Goa","","","Handloom","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Textile Industry"
+"Goa","","","Handloom","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Textile Industry"
+"Goa","","","Cotton Ginning and Pressing Industry","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile Yarn"
+"Goa","","","Cotton Ginning and Pressing Industry","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Clothes Textile Yarn"
+"Goa","","","Cotton Ginning and Pressing Industry","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile Yarn"
+"Goa","","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile Yarn"
+"Goa","","","Cotton Ginning and Pressing Industry","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile Yarn"
+"Goa","Zone III","","Hotels and Restaurants","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Eating House Cantin Accommodation"
+"Goa","Zone II","","Hotels and Restaurants","Unskilled","","1/3/122",26,313,"",85,"","",398,"8138.00","","2210.00","","","10348.00","Eating House Cantin Accommodation"
+"Goa","Zone I","","Hotels and Restaurants","Unskilled","","1/3/122",26,318,"",85,"","",403,"8268.00","","2210.00","","","10478.00","Eating House Cantin Accommodation"
+"Goa","Zone III","","Hotels and Restaurants","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Eating House Cantin Accommodation"
+"Goa","Zone II","","Hotels and Restaurants","Semi Skilled","","1/3/122",26,373,"",85,"","",458,"9698.00","","2210.00","","","11908.00","Eating House Cantin Accommodation"
+"Goa","Zone I","","Hotels and Restaurants","Semi Skilled","","1/3/122",26,378,"",85,"","",463,"9828.00","","2210.00","","","12038.00","Eating House Cantin Accommodation"
+"Goa","Zone III","","Hotels and Restaurants","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Eating House Cantin Accommodation"
+"Goa","Zone II","","Hotels and Restaurants","Skilled","","1/3/122",26,428,"",85,"","",513,"11128.00","","2210.00","","","13338.00","Eating House Cantin Accommodation"
+"Goa","Zone I","","Hotels and Restaurants","Skilled","","1/3/122",26,433,"",85,"","",518,"11258.00","","2210.00","","","13468.00","Eating House Cantin Accommodation"
+"Goa","","","Public Motor Transport","Clerical 1","Head Cashier","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Clerical 1","Accountant","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Clerical 1","Auditor","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Clerical 1","Head Clerk","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Tally Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Telephone Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Time Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Checking","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Receptionist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Stenographer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Leader","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Store Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Store Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Booking Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Clerical 2","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Highly Skilled","Driver (Heavy Vehicle)","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Highly Skilled","Garage Supervisor","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Highly Skilled","Head Mechanic","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Skilled","Driver (Light Vehicle)","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Lineman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Moulder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Spray Painter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Painter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Vulcaniser","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Tin Smith","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Cushion Maker","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Boring Barman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Turner","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Welder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Carpenter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Blacksmith","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Electrician","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Fitter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Skilled","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Conductor","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Sprayers","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Boring Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Painter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Vulcaniser","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Cushion Maker","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Turner","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Welder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Carpenter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Blacksmith","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Fitter Helper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Assistant Mechanic","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","Electrician Helper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Mazdoor","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Helper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Cleaner","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Porter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Security guard","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Public Motor Transport","Clerical 1","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Clerical 2","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Public Motor Transport","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Public Motor Transport","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Public Motor Transport","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Pump Operator","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Clerk Cum Computer Operator","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Compounder","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Pastryman","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Glass Cutter","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Metal Sprayman","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Weighman","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Painter","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Moulder","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Blacksmith","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Vulcaniser","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Tin Smith","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Carpenter","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Miller","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Hair Dresser","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Block maker","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Retoucher","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Photographer","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Foreman","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Wireman","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Sales Representative","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Glass Polisher (Optician)","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Optical Mechanic/Grinder/Purchaser","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Engraver in steel and aluminium vessels shops","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Handicraftsman","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Welder","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Electrician","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Mechanic","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Utensil maker (Brass and Copper)","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Fitter","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Turner","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Sewing Man","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Tailor","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Cutter","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Watch Mechanic","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Shoemaker/Slippermaker","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Supervisor","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Driver","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Chemist","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","Pharmacist","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Pump Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Clerk Cum Computer Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Compounder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Pastryman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Glass Cutter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Metal Sprayman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Weighman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Painter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Moulder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Blacksmith","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Vulcaniser","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Tin Smith","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Carpenter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Mill Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Hair Dresser","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Block maker","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Retoucher","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Photographer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Foreman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Wireman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Sales Representative","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Glass Polisher (Optician)","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Optical Mechanic/Grinder/Purchaser","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Engraver in steel and aluminium vessels shops","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Handicraftsman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Welder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Electrician","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Utensil maker (Brass and Copper)","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Fitter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Turner","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Sewing Man","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Tailor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Cutter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Watch Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Shoemaker/Slippermaker","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Chemist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","Pharmacist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Godown Keeper","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Receptionist","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Typist","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Tally Clerk","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Store Clerk","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Clerk","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Technical Supervisor","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Stenographer","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","Accountant","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Godown Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Receptionist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Tally Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Store Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Technical Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Stenographer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","Accountant","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Frame Maker","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Mill Hand","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Lift Operator","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Gardener","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Hair Dresser","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Glazier","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Pressing Man","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Baker","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Polisher","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Ironing Man","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Washerman","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Compounder","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Cushion Maker","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Pump Operator","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Wireman","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Glass Cutter","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Tailor","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Painter","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Moulder","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Sprayman","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Vulcaniser","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Tin Smith","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Welder","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Carpenter","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Blacksmith","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Electrician","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Assistant Mechanic","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","Salesman","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Frame Maker","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Mill Hand","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Lift Attendant","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Gardener","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Helper (Hair Dresser)","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Glazier","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Pressing Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Baker","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Polisher","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Ironing Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Washerman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Compounder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Cushion Maker","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Pump operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Wireman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Glass Cutter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Tailor","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Painter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Moulder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Sprayman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Vulcaniser","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Tinsmith","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Welder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Carpenter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Blacksmith","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Electrician","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Assistant Mechanic","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","Salesman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Office Boy","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Asst Salesman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Packer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Messenger","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Delivery boy","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Helper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Mazdoor","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Attender","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Loading/Unloading","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Cleaner","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Office Boy","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Asst Salesman","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Packer","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Messenger","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Delivery boy","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Peon","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Helper","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Sweeper","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Mazdoor","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Attender","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Loading/Unloading","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Laborer","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Cleaner","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","Watchman","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Clerical","","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Unskilled","","1/3/122",26,310,"",85,"","",395,"8060.00","","2210.00","","","10270.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Semi Skilled","","1/3/122",26,363,"",85,"","",448,"9438.00","","2210.00","","","11648.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","Zone II","","Shops & Commercial Establishments","Skilled","","1/3/122",26,417,"",85,"","",502,"10842.00","","2210.00","","","13052.00",0
+"Goa","Zone I","","Shops & Commercial Establishments","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Agriculture","General Category","Coconut/Arecanut Plucker","1/3/122",26,418,"",85,"","",503,"10868.00","","2210.00","","","13078.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","General Category","Pump Operator","1/3/122",26,318,"",85,"","",403,"8268.00","","2210.00","","","10478.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","General Category","Stacking","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","General Category","Digging","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Forestry and Timbering Operation","Mazdoor","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Forestry and Timbering Operation","Tree Feller","1/3/122",26,321,"",85,"","",406,"8346.00","","2210.00","","","10556.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Horticulture","Assistant Horticulture","1/3/122",26,321,"",85,"","",406,"8346.00","","2210.00","","","10556.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Horticulture","Gardener","1/3/122",26,318,"",85,"","",403,"8268.00","","2210.00","","","10478.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Livestock Attendant","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Grazer","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Mazdoor","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Sweeper","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Cleaner","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Milk Man","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Dairy Farming and Raising on Livestock","Shed Attendant","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Unskilled","Attendant","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Unskilled","Mazdoor","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Skilled","Cobbler","1/3/122",26,391,"",85,"","",476,"10166.00","","2210.00","","","12376.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Skilled","Blacksmith","1/3/122",26,398,"",85,"","",483,"10348.00","","2210.00","","","12558.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Skilled","Carpenter","1/3/122",26,395,"",85,"","",480,"10270.00","","2210.00","","","12480.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Manuring","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Weeding","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Irrigation","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Uprooting","1/3/122",26,317,"",85,"","",402,"8242.00","","2210.00","","","10452.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Harvesting","1/3/122",26,385,"",85,"","",470,"10010.00","","2210.00","","","12220.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Transplanting","1/3/122",26,385,"",85,"","",470,"10010.00","","2210.00","","","12220.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Winnower","1/3/122",26,386,"",85,"","",471,"10036.00","","2210.00","","","12246.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Sowing","1/3/122",26,385,"",85,"","",470,"10010.00","","2210.00","","","12220.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Threshing","1/3/122",26,386,"",85,"","",471,"10036.00","","2210.00","","","12246.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Ploughing with bullocks","1/3/122",26,416,"",85,"","",501,"10816.00","","2210.00","","","13026.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Agricultural Operations","Ploughing","1/3/122",26,386,"",85,"","",471,"10036.00","","2210.00","","","12246.00","Farming Horticulture Dairy"
+"Goa","","","Agriculture","Farm Servants or Attached Worker","Adult Cleaner/Sweeper","1/3/122",26,391,"",85,"","",476,8294,"",1872,"","",10166,"Farming Horticulture Dairy"
+"Goa","","","Agriculture","Farm Servants or Attached Worker","Adult Farm Servant","1/3/122",26,391,"",85,"","",476,10166,"",1872,"","",12038,"Farming Horticulture Dairy"
+"Goa","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Vehicle car bike autopart"
+"Goa","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled B","","1/3/122",26,358,"",85,"","",443,"9308.00","","2210.00","","","11518.00","Vehicle car bike autopart"
+"Goa","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Semi Skilled A","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Vehicle car bike autopart"
+"Goa","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Vehicle car bike autopart"
+"Goa","","","Automobile Engineering Manufacturing, Assembling, Body Building, Servicing and Repairing Works","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Vehicle car bike autopart"
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Special Grade","Bullock-Cart Man with Bullocks","1/3/122",26,354,"",85,"","",439,"9204.00","","2210.00","","","11414.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Clerk Cum Computer Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Telephone Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Workshop Tool Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Time Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Tally Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Store Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Store Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Commuter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Overseer","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Supervisor","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Junior Engineer","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Section Head","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Air-Condition Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Decorator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Welder-cum-fitter","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Wireman","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Welder","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Tin Smith","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Head Plumber","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Head Mechanic","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Electrician","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Head Mistry","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Fitter","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Furniture Carpenter","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Winder","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Assistant Foreman","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Foreman","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Artisan","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","Mason (plaster of Paris ornamental work and ceiling)","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Typrex Vulcaniser","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Navgani","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Panmon","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Road inspector","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Cabinet maker","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Brick Moulder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Technical Assistant","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tracer Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tracer Technical assistant","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Assistant","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Turner","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tradesman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","White Washer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Wood Cutter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Tin Smith","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Fitter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Stone Chiseller","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Upholster","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Stone Cutter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Pump engine driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Pumping Man","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Plumber","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Plaster","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Head Cook","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Moulder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Meter Reader","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Lineman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Gladier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Electrician","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Distemperer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Driver (Heavy Vehicle)","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Concrete Mixer Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Concrete Mixer Maker","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Carpenter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Blacksmith","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Brick Layer Mason","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Mason","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Plumber","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Oil Painter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Maistries (Master Workman)","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Armature Winder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","Assistant Artisan","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Boiler Attender","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Storeman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Oiler","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Jamadar","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Hammerman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Garser-cum-Fireman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Fireman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Store Keeper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Grinding Worker","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Head Chain Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Lab Boy","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Farrash","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Tin Smith","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Stone Cutter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Sprayers","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Pump Attender","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Head Watchman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Fitter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Glazier","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Fireman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Daftary","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Caneman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","White Washer","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Cleaner (Truck Roller Concrete Mixer etc.)","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Charpoy/Stringer","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Cane Weaver","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Brick Moulder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Artisan Helper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Belder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Water Carrier","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Bearer","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Hatcher","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 1","Sewer Layer","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Upholster","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Stone cutter (Higher Grade)","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Stone man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Stone Breaker","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Blacksmith Carpenter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Quarry operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Quarry man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Mason","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Blacksmith","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Head Surveyor","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Assistant Fitter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Excavator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Drilling","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Carpenter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","Cook","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Class 2","Bricklayers","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Singers","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Jamadar","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Berryman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Wodederman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Valve Controller","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Trolleyman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Striker","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Signal Man","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Searcher","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Kamp man","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gatekeeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Kamin","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gangman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Flag Man","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Driver (bullock)","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Draftsman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Concrete Hand Mixer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Care taker (Bridge)","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cartman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Stone Carrier","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Backer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gravel Spreader","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Mazdoor","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Lasker","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Porter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Bullock Cart Driver","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Water Carrier","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Title Turner","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Sewer Man","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Slinger","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Hedge cutter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Driver with hand cart","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Gardener","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Cleaner","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Chainman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Brick Moulder","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","Belder","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Special Grade","","1/3/122",26,354,"",85,"","",439,"9204.00","","2210.00","","","11414.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Telephone Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Store Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Store Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Clerical","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Administration","Stenographer","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Administration","Store Superintendent","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Administration","Senior Store Keeper","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Administration","Accountant","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Administration","Head Clerk","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Administration","Manager","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Office Boy","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","General Coolies.","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Porter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Gardener","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Helper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Unskilled","Clay Slicers and Transplers.","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Fireman","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Fitter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Machine Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Welder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Turner","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Carpenter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Electrician","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Semi Skilled","Assistant Supervisor","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Technician","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Crusher Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Welder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Turner","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Fitter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Carpenter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Electrician","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Draftsman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Colour Mixer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Tiles Salter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Machine Repairman","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Moulder","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Machine Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Mistry","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Skilled","Pressing Man","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Highly Skilled","Chief Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Highly Skilled","Production In charge","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Highly Skilled","Technician Grade","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Highly Skilled","Production Superintendent","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Highly Skilled","Mistry","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Bricks and Tiles Manufacturer","Highly Skilled","Foreman","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Constructions"
+"Goa","","","Cashew Factories and Establishments","Skilled","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Skilled","Store Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Skilled","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Skilled","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Skilled","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","General workers","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Bag Carrier","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Stencillor","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Carpenter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Soaker","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Dryer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Soldere","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Packer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Roasting Worker","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","Grader","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Cashew Factories and Establishments","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Food Industry Dry Fruits Nuts"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Loader","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Ice Loader","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Gardener","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Bottle Loading Operator","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Peeler","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Washing Helper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Cleaner","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Mixer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","Grinding Worker","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Machine Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Peeling Mechanic Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Processor","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Mechanical Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Dealing Boy","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Assistant Store Keeper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","Junior Mechanic","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Refrigerator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Carpenter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Electrician","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Washing Machine Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Grader","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Salesman Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Stenographer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","Store Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Officer in Charge","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Sales Supervisor","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Chemist","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Head Conditioning Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Head Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Accountant","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","Supervisor in Charge","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Printing Press","Clerical & General Staff","Store Keeper","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Stenographer","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Accounts Assistant","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Receptionist","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Booking Clerk","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Time Keeper","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Telephone Operator","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Cashier","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Typist","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Clerk","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Accountant","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Printing Press","Clerical & General Staff","Head Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Printing Press","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Printing Press","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Employment in Watch and Ward","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Employment in Watch and Ward","Skilled","Head Guards (Fire Fighting)","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Employment in Watch and Ward","Skilled","Security Guard With Weapon","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Employment in Watch and Ward","Semi Skilled","Security guard","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Employment in Watch and Ward","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled B","","1/3/122",26,402,"",85,"","",487,"10452.00","","2210.00","","","12662.00",0
+"Goa","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled A","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Readymade Garments Industry","Clerical","Store Keeper","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Clerical","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Clerical","Receptionist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Clerical","Telephone Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Clerical","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Skilled","Stitcher","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Skilled","Machine Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Skilled","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Skilled","Designer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Skilled","Cutter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Skilled","Master Tailor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Asstt. Stitcher","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Assistant Tailor","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Ironing Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Kaj Operators","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Patter Tracers","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Button Holders","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Semi Skilled","Button Stitcher","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Unskilled","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Unskilled","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Unskilled","Thread Cutter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile"
+"Goa","","","Readymade Garments Industry","Unskilled","Helper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Clothes Textile"
+"Goa","","","Cinema Exhibition","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Film Industry Multiplex Hall"
+"Goa","","","Cinema Exhibition","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Film Industry Multiplex Hall"
+"Goa","","","Cinema Exhibition","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Film Industry Multiplex Hall"
+"Goa","","","Cinema Exhibition","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Film Industry Multiplex Hall"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Clerical","Senior Clerk","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Hardware Semiconductor"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Clerical","Typist","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Hardware Semiconductor"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Clerical","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Hardware Semiconductor"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Hardware Semiconductor"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Hardware Semiconductor"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Hardware Semiconductor"
+"Goa","","","Electronic Goods Manufacturing, Assembling and Components and Distribution and Sale of Electronic Products","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Hardware Semiconductor"
+"Goa","","","Pharmaceutical Manufacturers","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Medicine Shop medical"
+"Goa","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Medicine Shop medical"
+"Goa","","","Pharmaceutical Manufacturers","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Medicine Shop medical"
+"Goa","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Medicine Shop medical"
+"Goa","","","Pharmaceutical Manufacturers","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Medicine Shop medical"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Seafood"
+"Goa","","","Employment in Processing and Canning of Food Stuff including Fish and Beverages","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Seafood"
+"Goa","","","Employment in any Commercial or industrial establishment engaged in commercial, manufacturing and service activities, other than that covered under any of the other entries contained in the Schedule","Clerical","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Employment in any Commercial or industrial establishment engaged in commercial, manufacturing and service activities, other than that covered under any of the other entries contained in the Schedule","Highly Skilled","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00",0
+"Goa","","","Employment in any Commercial or industrial establishment engaged in commercial, manufacturing and service activities, other than that covered under any of the other entries contained in the Schedule","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00",0
+"Goa","","","Employment in any Commercial or industrial establishment engaged in commercial, manufacturing and service activities, other than that covered under any of the other entries contained in the Schedule","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00",0
+"Goa","","","Employment in any Commercial or industrial establishment engaged in commercial, manufacturing and service activities, other than that covered under any of the other entries contained in the Schedule","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00",0
+"Goa","","","Breweries Industry","Category 4","Assistant Operator","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Assistant Fitter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Boiler Attender","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Bottle Washer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Gardener","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Trainee Charge Hand","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Trainee Operator","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Trainee Lab. Chemist","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 4","Laboratory Assistant","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Welder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Assistant Air Conditioner","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Assistant Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Store Clerk","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Loading Mistry","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Lab Technician","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Driver (Light Vehicle)","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Sales Supervisory","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Store Keeper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Electrician","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 3","Clerk","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Stenographer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Refrigeration Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Fitter Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Air-Condition Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 2","Machine Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Head Air-Condition Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Head Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Sales Supervisor","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Section Head","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Chemist","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Accountant","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Head Clerk","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Breweries Industry","Category 1","Manager","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Assistant Operator","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Assistant Fitter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Boiler Attender","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Bottle Washer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Gardener","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Trainee Charge Hand","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Trainee Operator","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Trainee Lab. Chemist","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 4","Laboratory Assistant","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Welder","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Assistant Air Conditioner","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Assistant Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Store Clerk","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Loading Mistry","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Lab Technician","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Driver (Light Vehicle)","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Sales Supervisory","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Store Keeper","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Electrician","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 3","Clerk","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Stenographer","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Refrigeration Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Mechanic","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Fitter Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Air-Condition Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 2","Machine Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Head Air-Condition Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Head Operator","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Sales Supervisor","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Section Head","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Chemist","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Accountant","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Head Clerk","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Distillery-Industry","Category 1","Manager","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Beer Wine Liquor"
+"Goa","","","Saw Mills","Clerical 3","Clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 3","Cashier","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 3","Accounts clerk","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 2","Officer in Charge","1/3/122",26,450,"",85,"","",535,"11700.00","","2210.00","","","13910.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 2","Accountant","1/3/122",26,450,"",85,"","",535,"11700.00","","2210.00","","","13910.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 1","Supervisor in Charge","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Upholster","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Bensaw Men","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Carpenter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Painter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Driver","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Artisan","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Polisher","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Cutting Machine Operator","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Sharpner/Dharwala","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Supervisor","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Cutter","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","Head Mistry","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Caol Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Dharwala","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Mistri","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Polisher","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Carpenter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Bensaw Man","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Operator","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Sharpner","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","Assistant Cutter","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Porter","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Messenger","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Attendant","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Water Carrier","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Bullock Cart Driver","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Weighman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Sweeper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Watchman","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Gardener","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Cleaner","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Peon","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Office Boy","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Laborer","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","Helper","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 3","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 2","","1/3/122",26,450,"",85,"","",535,"11700.00","","2210.00","","","13910.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Clerical 1","","1/3/122",26,465,"",85,"","",550,"12090.00","","2210.00","","","14300.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Skilled","","1/3/122",26,423,"",85,"","",508,"10998.00","","2210.00","","","13208.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Semi Skilled","","1/3/122",26,368,"",85,"","",453,"9568.00","","2210.00","","","11778.00","Wood Furniture carpentry"
+"Goa","","","Saw Mills","Unskilled","","1/3/122",26,307,"",85,"","",392,"7982.00","","2210.00","","","10192.00","Wood Furniture carpentry"
 "Goa","","","Security Services","Skilled","Supervisor","1/9/121",26,423,"",72,"","",495,"10998.00","","1872.00","","","12870.00","Watchman Guard"
 "Goa","","","Security Services","Skilled","Head Guard - Security Services","1/9/121",26,423,"",72,"","",495,"10998.00","","1872.00","","","12870.00","Watchman Guard"
 "Goa","","","Security Services","Skilled","Security Guard With Weapon","1/9/121",26,423,"",72,"","",495,"10998.00","","1872.00","","","12870.00","Watchman Guard"
