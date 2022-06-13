@@ -1,4 +1,64 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Jharkhand","","","Domestic Workers","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Informal Sector"
+"Jharkhand","","","Domestic Workers","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Informal Sector"
+"Jharkhand","","","Domestic Workers","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Informal Sector"
+"Jharkhand","","","Domestic Workers","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Informal Sector"
+"Jharkhand","","","Domestic Workers","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Informal Sector"
+"Jharkhand","","","Tea Plantation","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Farming Agriculture"
+"Jharkhand","","","Tea Plantation","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Farming Agriculture"
+"Jharkhand","","","Tea Plantation","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Farming Agriculture"
+"Jharkhand","","","Tea Plantation","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Farming Agriculture"
+"Jharkhand","","","Tea Plantation","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Farming Agriculture"
+"Jharkhand","","","Stone Breaking and Crushing","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Stone Breaking and Crushing","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,0
+"Jharkhand","","","Stone Breaking and Crushing","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,0
+"Jharkhand","","","Stone Breaking and Crushing","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,0
+"Jharkhand","","","Silk Textile Industry","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Clothes"
+"Jharkhand","","","Silk Textile Industry","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Clothes"
+"Jharkhand","","","Silk Textile Industry","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Clothes"
+"Jharkhand","","","Silk Textile Industry","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Clothes"
+"Jharkhand","","","Silk Textile Industry","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Clothes"
+"Jharkhand","","","Hair Cutting Saloons","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Beauty Parlour"
+"Jharkhand","","","Hair Cutting Saloons","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Beauty Parlour"
+"Jharkhand","","","Hair Cutting Saloons","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Beauty Parlour"
+"Jharkhand","","","Hair Cutting Saloons","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Beauty Parlour"
+"Jharkhand","","","Hair Cutting Saloons","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Beauty Parlour"
+"Jharkhand","","","Forestry and Timbering Operation","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Jungle"
+"Jharkhand","","","Forestry and Timbering Operation","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Jungle"
+"Jharkhand","","","Forestry and Timbering Operation","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Jungle"
+"Jharkhand","","","Forestry and Timbering Operation","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Jungle"
+"Jharkhand","","","Forestry and Timbering Operation","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Jungle"
+"Jharkhand","","","Power Loom Industry","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Textile Industry"
+"Jharkhand","","","Power Loom Industry","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Textile Industry"
+"Jharkhand","","","Power Loom Industry","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Textile Industry"
+"Jharkhand","","","Power Loom Industry","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Textile Industry"
+"Jharkhand","","","Power Loom Industry","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Textile Industry"
+"Jharkhand","","","Tobacco Bidi making","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Tobacco Bidi making","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,0
+"Jharkhand","","","Tobacco Bidi making","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Tobacco Bidi making","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,0
+"Jharkhand","","","Tobacco Bidi making","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,0
+"Jharkhand","","","Brick Kiln Industry","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Constructions"
+"Jharkhand","","","Brick Kiln Industry","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Constructions"
+"Jharkhand","","","Brick Kiln Industry","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Constructions"
+"Jharkhand","","","Brick Kiln Industry","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,"Constructions"
+"Jharkhand","","","Brick Kiln Industry","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,"Constructions"
+"Jharkhand","","","Earth Cutting Operation Earth Excavator","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Earth Cutting Operation Earth Excavator","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,0
+"Jharkhand","","","Earth Cutting Operation Earth Excavator","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Earth Cutting Operation Earth Excavator","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,0
+"Jharkhand","","","Earth Cutting Operation Earth Excavator","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,0
+"Jharkhand","","","Loading-Unloading","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Loading-Unloading","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,0
+"Jharkhand","","","Loading-Unloading","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Loading-Unloading","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,0
+"Jharkhand","","","Loading-Unloading","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,0
+"Jharkhand","","","Kendu leaves plucking and processing","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Kendu leaves plucking and processing","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,0
+"Jharkhand","","","Kendu leaves plucking and processing","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,0
+"Jharkhand","","","Kendu leaves plucking and processing","Semi Skilled","","1/3/122",26,287.9,"",54.53,"","",342.43,7485.4,"",1417.73,"","",8903.13,0
+"Jharkhand","","","Kendu leaves plucking and processing","Unskilled","","1/3/122",26,274.81,"",52.04,"","",326.85,7145.06,"",1353.27,"","",8498.33,0
 "Jharkhand","","","Transportation & Storage","Clerical","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Logistics Warehouse"
 "Jharkhand","","","Transportation & Storage","Highly Skilled","","1/3/122",26,438.39,"",83.03,"","",521.42,11398.14,"",2158.81,"","",13556.95,"Logistics Warehouse"
 "Jharkhand","","","Transportation & Storage","Skilled","","1/3/122",26,379.51,"",71.88,"","",451.39,9867.26,"",1868.86,"","",11736.12,"Logistics Warehouse"
