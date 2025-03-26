@@ -1,4 +1,997 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Rajasthan","","","Medical and Sales Representative","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Nursing Medicine Pharmacy"
+"Rajasthan","","","Soap Stone Factory","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Soap Stone Factory","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Soap Stone Factory","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Soap Stone Factory","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Khadi & Village Industries","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Clothes"
+"Rajasthan","","","Khadi & Village Industries","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Clothes"
+"Rajasthan","","","Khadi & Village Industries","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Clothes"
+"Rajasthan","","","Khadi & Village Industries","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Clothes"
+"Rajasthan","","","Hand Embroidery and Jari","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Handloom Textile Industry"
+"Rajasthan","","","Hand Embroidery and Jari","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Handloom Textile Industry"
+"Rajasthan","","","Hand Embroidery and Jari","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Handloom Textile Industry"
+"Rajasthan","","","Hand Embroidery and Jari","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Handloom Textile Industry"
+"Rajasthan","","","Cold Storage Employments","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Cold Storage Employments","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Cold Storage Employments","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Cold Storage Employments","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Woolen Spinning and Weaving","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Textile"
+"Rajasthan","","","Woolen Spinning and Weaving","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Textile"
+"Rajasthan","","","Woolen Spinning and Weaving","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Textile"
+"Rajasthan","","","Woolen Spinning and Weaving","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Textile"
+"Rajasthan","","","Domestic Workers","Unskilled","","1/0/123",26,"","","","","","309.00","","","","","",8034,"Informal Sector"
+"Rajasthan","","","Employment in Public Construction Department","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Employment in Public Construction Department","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Employment in Public Construction Department","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Employment in Public Construction Department","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Cotton Waste Spinning Factory","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Waste Spinning Factory","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Waste Spinning Factory","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Waste Spinning Factory","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Clothes Textile Yarn"
+"Rajasthan","","","Mica Work (In addition to mica mines)","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Mica Work (In addition to mica mines)","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Mica Work (In addition to mica mines)","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Mica Work (In addition to mica mines)","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Rural Government Employees"
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Rural Government Employees"
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Rural Government Employees"
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Rural Government Employees"
+"Rajasthan","","","Textile Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Clothes"
+"Rajasthan","","","Textile Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Clothes"
+"Rajasthan","","","Textile Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Clothes"
+"Rajasthan","","","Textile Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Clothes"
+"Rajasthan","","","Bricks or Roof Tiles","","Jamadar","1/0/123",26,"","","","","",309,"","","","","","8034.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Water Bearer","1/0/123",26,"","","","","",297,"","","","","","7722.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Ditcher","1/0/123",26,"","","","","",285,"","","","","","7410.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Cleaner","1/0/123",26,"","","","","",285,"","","","","","7410.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Kiln Mistri","1/0/123",26,"","","","","","359.00","","","","","",9334,"Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Kiln Burners.","1/0/123",26,"","","","","",309,"","","","","","8034.00","Constructions"
+"Rajasthan","","","Wooden Furniture","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Carpentry"
+"Rajasthan","","","Wooden Furniture","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Carpentry"
+"Rajasthan","","","Wooden Furniture","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Carpentry"
+"Rajasthan","","","Wooden Furniture","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Carpentry"
+"Rajasthan","","","Pottery Industries","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Ceramic"
+"Rajasthan","","","Pottery Industries","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Ceramic"
+"Rajasthan","","","Pottery Industries","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Ceramic"
+"Rajasthan","","","Pottery Industries","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Ceramic"
+"Rajasthan","","","Cotton Textile Mills","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Textile Mills","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Textile Mills","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Textile Mills","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Clothes Textile Yarn"
+"Rajasthan","","","Readymade Garments Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Clothes Textile"
+"Rajasthan","","","Readymade Garments Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Clothes Textile"
+"Rajasthan","","","Readymade Garments Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Clothes Textile"
+"Rajasthan","","","Readymade Garments Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Clothes Textile"
+"Rajasthan","","","Petrol Pump","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Petrol Pump","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Petrol Pump","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Petrol Pump","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Metal Foundries And General Engineering","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Metal Foundries And General Engineering","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Metal Foundries And General Engineering","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Metal Foundries And General Engineering","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"House LPG"
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"House LPG"
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"House LPG"
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"House LPG"
+"Rajasthan","","","Aerated Water Manufacturer","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Beverage"
+"Rajasthan","","","Aerated Water Manufacturer","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Beverage"
+"Rajasthan","","","Aerated Water Manufacturer","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Beverage"
+"Rajasthan","","","Aerated Water Manufacturer","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Beverage"
+"Rajasthan","","","Cement and Cement Based Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Constructions"
+"Rajasthan","","","Cement and Cement Based Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Constructions"
+"Rajasthan","","","Cement and Cement Based Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Constructions"
+"Rajasthan","","","Cement and Cement Based Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Constructions"
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Private Educational Institutes","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Teaching School Collage"
+"Rajasthan","","","Private Educational Institutes","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Teaching School Collage"
+"Rajasthan","","","Private Educational Institutes","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Teaching School Collage"
+"Rajasthan","","","Private Educational Institutes","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Teaching School Collage"
+"Rajasthan","","","Hotels and Restaurants","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Eating House Cantin Accommodation"
+"Rajasthan","","","Hotels and Restaurants","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Eating House Cantin Accommodation"
+"Rajasthan","","","Hotels and Restaurants","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Eating House Cantin Accommodation"
+"Rajasthan","","","Hotels and Restaurants","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Eating House Cantin Accommodation"
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Public Motor Transport","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Public Motor Transport","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Public Motor Transport","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Public Motor Transport","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Handloom","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Textile Industry"
+"Rajasthan","","","Handloom","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Textile Industry"
+"Rajasthan","","","Handloom","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Textile Industry"
+"Rajasthan","","","Handloom","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Textile Industry"
+"Rajasthan","","","Engineering Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Startup Company"
+"Rajasthan","","","Engineering Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Startup Company"
+"Rajasthan","","","Engineering Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Startup Company"
+"Rajasthan","","","Engineering Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Startup Company"
+"Rajasthan","","","Oil Mills","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Oil Mills","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Oil Mills","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Oil Mills","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Cinema Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Film Industry Multiplex Hall"
+"Rajasthan","","","Cinema Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Film Industry Multiplex Hall"
+"Rajasthan","","","Cinema Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Film Industry Multiplex Hall"
+"Rajasthan","","","Cinema Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Film Industry Multiplex Hall"
+"Rajasthan","","","Printing Press","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Printing Press","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Printing Press","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Printing Press","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Power Loom Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Textile Industry"
+"Rajasthan","","","Power Loom Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Textile Industry"
+"Rajasthan","","","Power Loom Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Textile Industry"
+"Rajasthan","","","Power Loom Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Textile Industry"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Clothes Textile Yarn"
+"Rajasthan","","","Agriculture","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Farming Horticulture Dairy"
+"Rajasthan","","","Agriculture","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Farming Horticulture Dairy"
+"Rajasthan","","","Agriculture","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Farming Horticulture Dairy"
+"Rajasthan","","","Agriculture","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Farming Horticulture Dairy"
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Nurse","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Cook","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Senior Technical Assistant","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Pharmacist","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Radiographer Manpower","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","ECG Technician","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Telephone Operator","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Lab Technician","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Office Superintendent","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Librarian","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Chemist","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Medical Sales Representative","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Sales Representative","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Sales Supervisor","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Manager","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Clerk Cum Computer Operator","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Accountant","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Stenographer","1/0/123",26,"","","","","",359,"","","","","",9334,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Junior Technical Assistant","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Laboratory Attendant","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Laboratory Assistant","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Road inspector","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Quality Controller","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Generator Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mill Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Miller","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cool Press Man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Elevator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Press Mistry","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boring Man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Grading Worker","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Vulcaniser","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Draftsman","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Griller","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Motor Mechanic","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Color Master","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Felt Master Cussing and Pigment","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boiler Attender","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Screen Printing Painter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bladder","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Assembler","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Winding Machine Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lathe Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bowling Press Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carding Machine Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Foreman","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Contenar Man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dyeing Master","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Plate Cutter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Seg Machine Driver","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lino Plate Printer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Caster","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Stitcher","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Winder","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Designer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dye Stamper","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Block Printer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Block maker","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Proofreader","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carpenter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dye Printer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Operator-Lino/Mono","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Compositor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electrical Supervisor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Asst Manager","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Air-Condition Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Soldere","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tin Smith","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Drum Maker","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Crusher Master","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Time Keeper","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fabrication","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Moulder","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mukadam","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Full Press Man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Well press Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Elevator Incharge","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Godown Keeper","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Security guard","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Work in-charge","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Nurse","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Suitcase/All kinds of Bags and Purse makers (other than leather)","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Umbrella Maker","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Artist Autocian","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Photographer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Confectioner","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Barber","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Manihara","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Furniture Designer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Sheet Maker","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Auto Machine Lock-Fitter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Radio Mechanic/Repairer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Polisher","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Butar Tailor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Rafugar","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Air-Condition Mechanic","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cook","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Booking Clerk","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bill clerk","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar-cum-Sizer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar-cum-Oil Man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Binder","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Pressing Man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine Fitter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Shift Supervisor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Draftsman","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Compounder","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electroplater","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Vulcaniser","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Coach Builders","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Turner","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dryevers","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Conductor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine man","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fireman","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boiler Attender","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Chief Sanitary","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Water Supply Supervisor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Overseer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fire Officer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Supervisor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Inspector","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Accounts clerk","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Store Keeper","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Time Keeper","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Library Clerk","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cashier","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Typist","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Clerk","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Engine Driver","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Road Roller Driver","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","JCB Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Driver (Heavy Vehicle)","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tractor Driver","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Driver (Light Vehicle)","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mechanical Blaster","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mechanical Dealer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Gardener","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cinema Operator","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Wireman","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electrician","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Burnerer","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Plumber","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Painter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lineman","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine Fitter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tanner","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tailor","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Blacksmith","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carpenter","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mistry","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mason","1/0/123",26,"","","","","",309,"","","","","",8034,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sewage Cleaner","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Store Cutter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Silkman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sanitary Jamadar","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wireman-cum-helper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Roller","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Daffer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Ring and Dubling Sizer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Dyeing Simplex","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tanter-cum-steeper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Southern finisher","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Breaker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cotton Feeder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cycle Repairer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Chair Nester","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Kaj-Button Maker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cobbler","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Delivery boy","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Puncture Man","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Recovery Agent / Reminder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Washerman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Mechanic","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Welder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Pump Attender","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fireman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fitter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Crushing Worker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Labor Supervisor","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Winnower","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lift Operator","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Rewinder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Ticket Collector","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Paper Feeder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Copy Holder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Taker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Grinding Worker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Distributor","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Gatekeeper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Inkman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Paper Man","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sizing Worker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Folder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Warper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Digging","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wingman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lep Men","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Operator","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Heavy Machine Helper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Aidan Helper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fielders","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Machine Stretcher","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Screen Printer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Clipper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Jiggerman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Band checker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Junior Clerk","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lubrication Assistant","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Petri Man","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tie Man","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Winder","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Liner","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tool Keeper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lathe Operator","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Polisher","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tyre Fitter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Tinker","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Greaser","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Carpenter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Head Watchman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Conductor","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Warmer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Halfpress Man","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Valve Man","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Oiler","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Painter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Workshop Helper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wireman","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Helper","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Stone Dresser","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Stone Cutter","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Head Dealer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Baby House in-charge","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Land Measurer","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Scribe","1/0/123",26,"","","","","",297,"","","","","",7722,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Spinner","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Porter","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Carrier","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cotton Feeder","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Awning Stretcher","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Filter","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cotter Roller","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Delivery boy","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Vegetable Cutter","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bearer","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Shorter","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Stitcher","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Washing Man","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bag Stitchers","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Husk Career","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Groundnut Careers","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Decorticator","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cook Career","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gatekeeper","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Crate man","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Caol Man","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Expeller Cleaner","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Poster Boy","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Paper Lifter","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Spinning Wheeler Rieller","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Trolleyman","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bobbin carrier","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Career","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cleaner","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Hopper Man","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Below Machine Helper","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Cleaner","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Dyeing Worker","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Kier Bleachers","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Kier Boilers","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Mercerizing Helper","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Blower","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Laborer","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Lerner","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bell Lifters","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Packer","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Ginning Work","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Trolley Filler","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bag Filler","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Loader","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Feeder","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Zari Worker","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gauge Reader","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sprayers","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Key Keeper","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Peon","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sanitary Jamadar","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Chief Sailor","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sustainer","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Animal Blocker","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Khalssi","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gangman","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Class 4","Work Man","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Petrol Loader","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Water Bearer","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sweeper","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Baby House Attendant","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Water Carrier","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Washerman","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Jamadar","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Watchman","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Belder","1/0/123",26,"","","","","",285,"","","","","",7410,0
+"Rajasthan","","","Automobile Workshops","Highly Skilled","","1/0/123",26,"","","","","",359,"","","","","",9334,"Vehicle car bike autopart"
+"Rajasthan","","","Automobile Workshops","Skilled","","1/0/123",26,"","","","","",309,"","","","","",8034,"Vehicle car bike autopart"
+"Rajasthan","","","Automobile Workshops","Semi Skilled","","1/0/123",26,"","","","","",297,"","","","","",7722,"Vehicle car bike autopart"
+"Rajasthan","","","Automobile Workshops","Unskilled","","1/0/123",26,"","","","","",285,"","","","","",7410,"Vehicle car bike autopart"
+"Rajasthan","","","Papad Industry","Skilled","","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Food"
+"Rajasthan","","","Papad Industry","Semi Skilled","","1/9/122",26,"86.73","","217.58","","","304.31",2255,"",5657,"","",7912,"Food"
+"Rajasthan","","","Papad Industry","Unskilled","","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Food"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/9/122",26,"86.73","","217.58","","","304.31",2255,"",5657,"","",7912,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","1/9/122",26,"97.73","","217.58","","","315.31",2541,"",5657,"","",8198,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","1/9/122",26,"105.85","","217.58","","","323.42",2752,"",5657,"","",8409,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","1/9/122",26,"96.31","","217.58","","","313.88",2504,"",5657,"","",8161,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","1/9/122",26,"102.42","","217.58","","","320.00",2663,"",5657,"","",8320,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","1/9/122",26,"103.00","","217.58","","","320.58",2678,"",5657,"","",8335,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Clothes, Textile"
+"Rajasthan","","","Salt Pan Industry","","Bandhewal (Per Metric Ton)","1/9/122",26,327.41,"",217.57,"","",544.98,"8512.66","","5656.82","","","14169.48",0
+"Rajasthan","","","Salt Pan Industry","","General workers","1/9/122",26,81,"",217.57,"","",298.57,"2106.00","","5656.82","","","7762.82",0
+"Rajasthan","","","Salt Pan Industry","","Mistry","1/9/122",26,117.57,"",217.57,"","",335.14,"3056.82","","5656.82","","","8713.64",0
+"Rajasthan","","","Salt Pan Industry","","Pumping Man","1/9/122",26,117.57,"",217.57,"","",335.14,"3056.82","","5656.82","","","8713.64",0
+"Rajasthan","","","Salt Pan Industry","","Loading/Unloading","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Salt Pan Industry","","Pile Formation Workers","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Salt Pan Industry","","Clearance and Storage Worker","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Salt Pan Industry","","Manufacturing Worker","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Salt Pan Industry","","Washerman","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Salt Pan Industry","","Cleaner","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Salt Pan Industry","","Beds Leveling","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Glass and Chinaware Industry","Skilled","","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,0
+"Rajasthan","","","Glass and Chinaware Industry","Semi Skilled","","1/9/122",26,"86.73","","217.58","","","304.31",2255,"",5657,"","",7912,0
+"Rajasthan","","","Glass and Chinaware Industry","Unskilled","","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Stone Carriage Driver","1/9/122",26,"102.15","","217.58","","","319.73",2656,"",5657,"","",8313,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","","1/9/122",26,"102.15","","217.58","","","319.73",2656,"",5657,"","",8313,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blaster","1/9/122",26,"102.15","","217.58","","","319.73",2656,"",5657,"","",8313,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mechanic","1/9/122",26,"102.15","","217.58","","","319.73",2656,"",5657,"","",8313,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Driver (Heavy Vehicle)","1/9/122",26,"102.15","","217.58","","","319.73",2656,"",5657,"","",8313,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Washerman","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Electrician","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Lineman","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fitter","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Machine man","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blacksmith","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fireman","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Carpenter","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mistry","1/9/122",26,"91.65","","217.58","","","309.23",2383,"",5657,"","",8040,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Assistant","1/9/122",26,"86.73","","217.58","","","304.31",2255,"",5657,"","",7912,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Surveyor","1/9/122",26,"86.73","","217.58","","","304.31",2255,"",5657,"","",7912,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Clerk","1/9/122",26,"86.73","","217.58","","","304.31",2255,"",5657,"","",7912,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Jamadar","1/9/122",26,"83.38","","217.58","","","300.96",2167.9,"",5657,"","",7824.9,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Watchman","1/9/122",26,"83.38","","217.58","","","300.96",2167.9,"",5657,"","",7824.9,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Chainman","1/9/122",26,"82.20","","217.58","","","299.78",2137.25,"",5657,"","",7794.25,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Helper","1/9/122",26,"82.20","","217.58","","","299.78",2137.25,"",5657,"","",7794.25,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Crèche Attendant","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Sweeper","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Stone Carrier","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Water Carrier","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Work Man","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Ditcher","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,"Construction"
+"Rajasthan","","","Tobacco Bidi making","","Security guard","1/9/122",26,"83.38","","217.58","","","300.96",2167.9,"",5657,"","",7824.9,0
+"Rajasthan","","","Tobacco Bidi making","","Watchman","1/9/122",26,"83.38","","217.58","","","300.96",2167.9,"",5657,"","",7824.9,0
+"Rajasthan","","","Tobacco Bidi making","","Tobacco Sorter","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Tobacco Bidi making","","kiln man","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Tobacco Bidi making","","Tobacco Mixer","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Tobacco Bidi making","Unskilled","Porter","1/9/122",26,"81.00","","217.58","","","298.58",2106,"",5657,"","",7763,0
+"Rajasthan","","","Tobacco Bidi making","","Snuff Packer","1/9/122",26,"86.73","","217.58","","","304.30",2254.89,"",5657,"","",7911.89,0
+"Rajasthan","","","Tobacco Bidi making","","Beedi Checker","1/9/122",26,"101.88","","217.58","","","319.45",2648.76,"",5657,"","",8305.76,0
+"Rajasthan","","","Tobacco Bidi making","","Beedi Sorter","1/9/122",26,"101.88","","217.58","","","319.45",2648.76,"",5657,"","",8305.76,0
+"Rajasthan","","","Tobacco Bidi making","","Packing (Per 1000 Beedi)","1/9/122",26,72.68,"",80.82,"","",153.5,"1889.68","","2101.32","","","3991.00",0
+"Rajasthan","","","Tobacco Bidi making","","Bundle Reping (Per 1000 Beedi)","1/9/122",26,72.68,"",80.82,"","",153.5,"1889.68","","2101.32","","","3991.00",0
+"Rajasthan","","","Tobacco Bidi making","","Rolling (Per 1000 Beedi)","1/9/122",26,72.68,"",80.82,"","",153.5,"1889.68","","2101.32","","","3991.00",0
+"Rajasthan","","","Khadi & Village Industries","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Clothes"
+"Rajasthan","","","Khadi & Village Industries","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Clothes"
+"Rajasthan","","","Khadi & Village Industries","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Clothes"
+"Rajasthan","","","Khadi & Village Industries","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Clothes"
+"Rajasthan","","","Hand Embroidery and Jari","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Handloom Textile Industry"
+"Rajasthan","","","Hand Embroidery and Jari","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Handloom Textile Industry"
+"Rajasthan","","","Hand Embroidery and Jari","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Handloom Textile Industry"
+"Rajasthan","","","Hand Embroidery and Jari","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Handloom Textile Industry"
+"Rajasthan","","","Cold Storage Employments","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Cold Storage Employments","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Cold Storage Employments","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Cold Storage Employments","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Woolen Spinning and Weaving","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Textile"
+"Rajasthan","","","Woolen Spinning and Weaving","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Textile"
+"Rajasthan","","","Woolen Spinning and Weaving","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Textile"
+"Rajasthan","","","Woolen Spinning and Weaving","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Textile"
+"Rajasthan","","","Domestic Workers","Unskilled","","1/6/121",26,"","","","","","283.00","","","","","",7358,"Informal Sector"
+"Rajasthan","","","Employment in Public Construction Department","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Employment in Public Construction Department","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Employment in Public Construction Department","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Employment in Public Construction Department","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Employment in Public Health Engineering Department","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Employment Dam construction and irrigation works","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Cotton Waste Spinning Factory","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Waste Spinning Factory","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Waste Spinning Factory","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Waste Spinning Factory","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Clothes Textile Yarn"
+"Rajasthan","","","Mica Work (In addition to mica mines)","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Mica Work (In addition to mica mines)","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Mica Work (In addition to mica mines)","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Mica Work (In addition to mica mines)","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Rural Government Employees"
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Rural Government Employees"
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Rural Government Employees"
+"Rajasthan","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Rural Government Employees"
+"Rajasthan","","","Textile Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Clothes"
+"Rajasthan","","","Textile Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Clothes"
+"Rajasthan","","","Textile Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Clothes"
+"Rajasthan","","","Textile Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Clothes"
+"Rajasthan","","","Bricks or Roof Tiles","","Jamadar","1/6/121",26,"","","","","",283,"","","","","","7358.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Water Bearer","1/6/121",26,"","","","","",271,"","","","","","7046.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Ditcher","1/6/121",26,"","","","","",259,"","","","","","6734.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Cleaner","1/6/121",26,"","","","","",259,"","","","","","6734.00","Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Kiln Mistri","1/6/121",26,"","","","","","333.00","","","","","",8658,"Constructions"
+"Rajasthan","","","Bricks or Roof Tiles","","Kiln Burners.","1/6/121",26,"","","","","",283,"","","","","","7358.00","Constructions"
+"Rajasthan","","","Wooden Furniture","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Carpentry"
+"Rajasthan","","","Wooden Furniture","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Carpentry"
+"Rajasthan","","","Wooden Furniture","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Carpentry"
+"Rajasthan","","","Wooden Furniture","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Carpentry"
+"Rajasthan","","","Pottery Industries","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Ceramic"
+"Rajasthan","","","Pottery Industries","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Ceramic"
+"Rajasthan","","","Pottery Industries","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Ceramic"
+"Rajasthan","","","Pottery Industries","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Ceramic"
+"Rajasthan","","","Cotton Textile Mills","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Textile Mills","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Textile Mills","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Textile Mills","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Clothes Textile Yarn"
+"Rajasthan","","","Readymade Garments Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Clothes Textile"
+"Rajasthan","","","Readymade Garments Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Clothes Textile"
+"Rajasthan","","","Readymade Garments Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Clothes Textile"
+"Rajasthan","","","Readymade Garments Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Clothes Textile"
+"Rajasthan","","","Petrol Pump","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Petrol Pump","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Petrol Pump","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Petrol Pump","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Metal Foundries And General Engineering","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Metal Foundries And General Engineering","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Metal Foundries And General Engineering","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Metal Foundries And General Engineering","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"House LPG"
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"House LPG"
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"House LPG"
+"Rajasthan","","","Distribution of Liquid Petroleum Gas Cylinders","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"House LPG"
+"Rajasthan","","","Aerated Water Manufacturer","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Beverage"
+"Rajasthan","","","Aerated Water Manufacturer","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Beverage"
+"Rajasthan","","","Aerated Water Manufacturer","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Beverage"
+"Rajasthan","","","Aerated Water Manufacturer","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Beverage"
+"Rajasthan","","","Cement and Cement Based Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Constructions"
+"Rajasthan","","","Cement and Cement Based Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Constructions"
+"Rajasthan","","","Cement and Cement Based Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Constructions"
+"Rajasthan","","","Cement and Cement Based Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Constructions"
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Private Educational Institutes","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Teaching School Collage"
+"Rajasthan","","","Private Educational Institutes","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Teaching School Collage"
+"Rajasthan","","","Private Educational Institutes","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Teaching School Collage"
+"Rajasthan","","","Private Educational Institutes","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Teaching School Collage"
+"Rajasthan","","","Hotels and Restaurants","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Eating House Cantin Accommodation"
+"Rajasthan","","","Hotels and Restaurants","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Eating House Cantin Accommodation"
+"Rajasthan","","","Hotels and Restaurants","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Eating House Cantin Accommodation"
+"Rajasthan","","","Hotels and Restaurants","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Eating House Cantin Accommodation"
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Public Motor Transport","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Public Motor Transport","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Public Motor Transport","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Public Motor Transport","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Handloom","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Textile Industry"
+"Rajasthan","","","Handloom","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Textile Industry"
+"Rajasthan","","","Handloom","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Textile Industry"
+"Rajasthan","","","Handloom","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Textile Industry"
+"Rajasthan","","","Engineering Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Startup Company"
+"Rajasthan","","","Engineering Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Startup Company"
+"Rajasthan","","","Engineering Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Startup Company"
+"Rajasthan","","","Engineering Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Startup Company"
+"Rajasthan","","","Oil Mills","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Oil Mills","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Oil Mills","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Oil Mills","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Cinema Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Film Industry Multiplex Hall"
+"Rajasthan","","","Cinema Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Film Industry Multiplex Hall"
+"Rajasthan","","","Cinema Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Film Industry Multiplex Hall"
+"Rajasthan","","","Cinema Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Film Industry Multiplex Hall"
+"Rajasthan","","","Printing Press","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Printing Press","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Printing Press","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Printing Press","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Power Loom Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Textile Industry"
+"Rajasthan","","","Power Loom Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Textile Industry"
+"Rajasthan","","","Power Loom Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Textile Industry"
+"Rajasthan","","","Power Loom Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Textile Industry"
+"Rajasthan","","","Cloth Dyeing & Printing","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Textile Industry"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Clothes Textile Yarn"
+"Rajasthan","","","Cotton Ginning and Pressing Industry","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Clothes Textile Yarn"
+"Rajasthan","","","Agriculture","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Farming Horticulture Dairy"
+"Rajasthan","","","Agriculture","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Farming Horticulture Dairy"
+"Rajasthan","","","Agriculture","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Farming Horticulture Dairy"
+"Rajasthan","","","Agriculture","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Farming Horticulture Dairy"
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Nurse","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Cook","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Senior Technical Assistant","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Pharmacist","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Radiographer Manpower","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","ECG Technician","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Telephone Operator","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Lab Technician","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Office Superintendent","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Librarian","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Chemist","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Medical Sales Representative","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Sales Representative","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Sales Supervisor","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Manager","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Clerk Cum Computer Operator","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Accountant","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Highly Skilled","Stenographer","1/6/121",26,"","","","","",333,"","","","","",8658,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Junior Technical Assistant","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Laboratory Attendant","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Laboratory Assistant","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Road inspector","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Quality Controller","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Generator Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mill Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Miller","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cool Press Man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Elevator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Press Mistry","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boring Man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Grading Worker","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Vulcaniser","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Draftsman","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Griller","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Motor Mechanic","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Color Master","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Felt Master Cussing and Pigment","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boiler Attender","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Screen Printing Painter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bladder","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Assembler","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Winding Machine Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lathe Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bowling Press Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carding Machine Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Foreman","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Contenar Man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dyeing Master","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Plate Cutter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Seg Machine Driver","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lino Plate Printer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Caster","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Stitcher","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Winder","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Designer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dye Stamper","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Block Printer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Block maker","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Proofreader","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carpenter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dye Printer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Operator-Lino/Mono","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Compositor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electrical Supervisor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Asst Manager","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Air-Condition Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Soldere","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tin Smith","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Drum Maker","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Crusher Master","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Time Keeper","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fabrication","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Moulder","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mukadam","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Full Press Man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Well press Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Elevator Incharge","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Godown Keeper","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Security guard","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Work in-charge","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Nurse","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Suitcase/All kinds of Bags and Purse makers (other than leather)","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Umbrella Maker","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Artist Autocian","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Photographer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Confectioner","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Barber","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Manihara","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Furniture Designer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Sheet Maker","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Auto Machine Lock-Fitter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Radio Mechanic/Repairer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Polisher","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Butar Tailor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Rafugar","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Air-Condition Mechanic","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cook","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Booking Clerk","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Bill clerk","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar-cum-Sizer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Jobbar-cum-Oil Man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Binder","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Pressing Man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine Fitter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Shift Supervisor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Draftsman","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Compounder","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electroplater","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Vulcaniser","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Coach Builders","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Turner","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Dryevers","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Conductor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine man","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fireman","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Boiler Attender","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Chief Sanitary","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Water Supply Supervisor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Overseer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Fire Officer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Supervisor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Inspector","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Accounts clerk","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Store Keeper","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Time Keeper","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Library Clerk","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cashier","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Typist","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Clerk","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Engine Driver","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Road Roller Driver","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","JCB Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Driver (Heavy Vehicle)","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tractor Driver","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Driver (Light Vehicle)","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mechanical Blaster","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mechanical Dealer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Gardener","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Cinema Operator","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Wireman","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Electrician","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Burnerer","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Plumber","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Painter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Lineman","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Machine Fitter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tanner","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Tailor","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Blacksmith","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Carpenter","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mistry","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Skilled","Mason","1/6/121",26,"","","","","",283,"","","","","",7358,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sewage Cleaner","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Store Cutter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Silkman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sanitary Jamadar","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wireman-cum-helper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Roller","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Daffer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Ring and Dubling Sizer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Dyeing Simplex","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tanter-cum-steeper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Southern finisher","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Breaker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cotton Feeder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cycle Repairer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Chair Nester","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Kaj-Button Maker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Cobbler","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Delivery boy","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Puncture Man","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Recovery Agent / Reminder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Washerman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Mechanic","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Welder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Pump Attender","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fireman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fitter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Crushing Worker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Labor Supervisor","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Winnower","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lift Operator","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Rewinder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Ticket Collector","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Paper Feeder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Copy Holder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Taker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Grinding Worker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Distributor","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Gatekeeper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Inkman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Paper Man","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Sizing Worker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Folder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Warper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Digging","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wingman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lep Men","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Operator","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Heavy Machine Helper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Aidan Helper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Fielders","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Machine Stretcher","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Screen Printer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Clipper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Jiggerman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Band checker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Junior Clerk","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lubrication Assistant","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Petri Man","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tie Man","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Winder","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Liner","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tool Keeper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Lathe Operator","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Polisher","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Tyre Fitter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Tinker","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Greaser","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Carpenter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Fitter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Head Watchman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Conductor","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Warmer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Halfpress Man","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Valve Man","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Oiler","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Turner","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Assistant Painter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Workshop Helper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Wireman","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Helper","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Stone Dresser","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Stone Cutter","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Head Dealer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Baby House in-charge","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Land Measurer","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Semi Skilled","Scribe","1/6/121",26,"","","","","",271,"","","","","",7046,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Spinner","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Porter","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Carrier","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cotton Feeder","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Awning Stretcher","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Filter","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cotter Roller","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Delivery boy","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Vegetable Cutter","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bearer","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Shorter","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Stitcher","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Washing Man","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bag Stitchers","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Husk Career","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Groundnut Careers","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Decorticator","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cook Career","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gatekeeper","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Crate man","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Caol Man","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Expeller Cleaner","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Poster Boy","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Paper Lifter","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Spinning Wheeler Rieller","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Trolleyman","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bobbin carrier","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Career","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Cleaner","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Hopper Man","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Below Machine Helper","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Wool Cleaner","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Dyeing Worker","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Kier Bleachers","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Kier Boilers","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Mercerizing Helper","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Blower","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Laborer","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Lerner","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bell Lifters","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Packer","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Ginning Work","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Trolley Filler","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Bag Filler","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Loader","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Feeder","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Zari Worker","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gauge Reader","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sprayers","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Key Keeper","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Peon","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sanitary Jamadar","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Pump Attender","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Chief Sailor","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sustainer","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Animal Blocker","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Khalssi","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Gangman","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Class 4","Work Man","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Petrol Loader","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Water Bearer","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Sweeper","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Baby House Attendant","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Water Carrier","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Washerman","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Jamadar","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Watchman","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Shops & Commercial Establishments","Unskilled","Belder","1/6/121",26,"","","","","",259,"","","","","",6734,0
+"Rajasthan","","","Automobile Workshops","Highly Skilled","","1/6/121",26,"","","","","",333,"","","","","",8658,"Vehicle car bike autopart"
+"Rajasthan","","","Automobile Workshops","Skilled","","1/6/121",26,"","","","","",283,"","","","","",7358,"Vehicle car bike autopart"
+"Rajasthan","","","Automobile Workshops","Semi Skilled","","1/6/121",26,"","","","","",271,"","","","","",7046,"Vehicle car bike autopart"
+"Rajasthan","","","Automobile Workshops","Unskilled","","1/6/121",26,"","","","","",259,"","","","","",6734,"Vehicle car bike autopart"
 "Rajasthan","","","Tobacco Bidi making","","Security guard","1/9/121",26,"83.38","","203.85","","","287.23",2167.9,"",5300,"","",7467.9,0
 "Rajasthan","","","Tobacco Bidi making","","Watchman","1/9/121",26,"83.38","","203.85","","","287.23",2167.9,"",5300,"","",7467.9,0
 "Rajasthan","","","Tobacco Bidi making","","Tobacco Sorter","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
@@ -14,14 +1007,14 @@
 "Rajasthan","","","Papad Industry","Skilled","","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Food"
 "Rajasthan","","","Papad Industry","Semi Skilled","","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,"Food"
 "Rajasthan","","","Papad Industry","Unskilled","","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Food"
-"Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","1/9/121",26,"97.73","","203.85","","","301.58",2541,"",5300,"","",7841,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","1/9/121",26,"105.85","","203.85","","","309.69",2752,"",5300,"","",8052,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","1/9/121",26,"96.31","","203.85","","","300.15",2504,"",5300,"","",7804,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","1/9/121",26,"102.42","","203.85","","","306.27",2663,"",5300,"","",7963,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","1/9/121",26,"103.00","","203.85","","","306.85",2678,"",5300,"","",7978,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Clothes"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","1/9/121",26,"97.73","","203.85","","","301.58",2541,"",5300,"","",7841,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","1/9/121",26,"105.85","","203.85","","","309.69",2752,"",5300,"","",8052,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","1/9/121",26,"96.31","","203.85","","","300.15",2504,"",5300,"","",7804,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","1/9/121",26,"102.42","","203.85","","","306.27",2663,"",5300,"","",7963,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","1/9/121",26,"103.00","","203.85","","","306.85",2678,"",5300,"","",7978,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Clothes, Textile"
 "Rajasthan","","","Salt Pan Industry","","Bandhewal (Per Metric Ton)","1/9/121",26,327.41,"",203.84,"","",531.25,"8512.66","","5299.84","","","13812.50",0
 "Rajasthan","","","Salt Pan Industry","","General workers","1/9/121",26,81,"",203.84,"","",284.84,"2106.00","","5299.84","","","7405.84",0
 "Rajasthan","","","Salt Pan Industry","","Mistry","1/9/121",26,117.57,"",203.84,"","",321.41,"3056.82","","5299.84","","","8356.66",0
@@ -36,33 +1029,33 @@
 "Rajasthan","","","Glass and Chinaware Industry","Skilled","","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
 "Rajasthan","","","Glass and Chinaware Industry","Semi Skilled","","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,0
 "Rajasthan","","","Glass and Chinaware Industry","Unskilled","","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Stone Carriage Driver","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blaster","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mechanic","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Driver (Heavy Vehicle)","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Washerman","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Electrician","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Lineman","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fitter","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Machine man","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blacksmith","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fireman","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Carpenter","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mistry","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,0
-"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Assistant","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,0
-"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Surveyor","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,0
-"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Clerk","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Jamadar","1/9/121",26,"83.38","","203.85","","","287.23",2167.9,"",5300,"","",7467.9,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Watchman","1/9/121",26,"83.38","","203.85","","","287.23",2167.9,"",5300,"","",7467.9,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Chainman","1/9/121",26,"82.20","","203.85","","","286.05",2137.25,"",5300,"","",7437.25,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Helper","1/9/121",26,"82.20","","203.85","","","286.05",2137.25,"",5300,"","",7437.25,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Crèche Attendant","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Sweeper","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Stone Carrier","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Water Carrier","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Work Man","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Ditcher","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,0
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Stone Carriage Driver","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blaster","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mechanic","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Driver (Heavy Vehicle)","1/9/121",26,"102.15","","203.85","","","306.00",2656,"",5300,"","",7956,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Washerman","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Electrician","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Lineman","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fitter","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Machine man","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blacksmith","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fireman","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Carpenter","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mistry","1/9/121",26,"91.65","","203.85","","","295.50",2383,"",5300,"","",7683,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Assistant","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Surveyor","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Clerk","1/9/121",26,"86.73","","203.85","","","290.58",2255,"",5300,"","",7555,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Jamadar","1/9/121",26,"83.38","","203.85","","","287.23",2167.9,"",5300,"","",7467.9,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Watchman","1/9/121",26,"83.38","","203.85","","","287.23",2167.9,"",5300,"","",7467.9,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Chainman","1/9/121",26,"82.20","","203.85","","","286.05",2137.25,"",5300,"","",7437.25,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Helper","1/9/121",26,"82.20","","203.85","","","286.05",2137.25,"",5300,"","",7437.25,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Crèche Attendant","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Sweeper","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Stone Carrier","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Water Carrier","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Work Man","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Ditcher","1/9/121",26,"81.00","","203.85","","","284.85",2106,"",5300,"","",7406,"Construction"
 "Rajasthan","","","Bricks or Roof Tiles","","Jamadar","1/6/120",26,"","","","","",276,"","","","","","7176.00","Constructions"
 "Rajasthan","","","Bricks or Roof Tiles","","Water Bearer","1/6/120",26,"","","","","",264,"","","","","","6864.00","Constructions"
 "Rajasthan","","","Bricks or Roof Tiles","","Ditcher","1/6/120",26,"","","","","",252,"","","","","","6552.00","Constructions"
@@ -495,14 +1488,14 @@
 "Rajasthan","","","Papad Industry","Skilled","","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Food"
 "Rajasthan","","","Papad Industry","Semi Skilled","","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,"Food"
 "Rajasthan","","","Papad Industry","Unskilled","","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Food"
-"Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","1/9/120",26,"97.73","","197.27","","","295.00",2541,"",5129,"","",7670,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","1/9/120",26,"105.85","","197.27","","","303.12",2752,"",5129,"","",7881,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","1/9/120",26,"96.31","","197.27","","","293.58",2504,"",5129,"","",7633,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","1/9/120",26,"102.42","","197.27","","","299.69",2663,"",5129,"","",7792,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","1/9/120",26,"103.00","","197.27","","","300.27",2678,"",5129,"","",7807,"Clothes"
-"Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Clothes"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Skilled","","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Semi Skilled","","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Carpet Mistri","1/9/120",26,"97.73","","197.27","","","295.00",2541,"",5129,"","",7670,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Emvegers","1/9/120",26,"105.85","","197.27","","","303.12",2752,"",5129,"","",7881,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Cleaner","1/9/120",26,"96.31","","197.27","","","293.58",2504,"",5129,"","",7633,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Driver","1/9/120",26,"102.42","","197.27","","","299.69",2663,"",5129,"","",7792,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","","Washerman","1/9/120",26,"103.00","","197.27","","","300.27",2678,"",5129,"","",7807,"Clothes, Textile"
+"Rajasthan","","","Wool Shawl and Carpet Maker","Unskilled","","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Clothes, Textile"
 "Rajasthan","","","Salt Pan Industry","","Bandhewal (Per Metric Ton)","1/9/120",26,327.41,"",197.27,"","",524.68,8512.66,"",5129,"","","13641.68",0
 "Rajasthan","","","Salt Pan Industry","","General workers","1/9/120",26,81,"",197.27,"","",278.27,2106,"",5129,"","","7235.02",0
 "Rajasthan","","","Salt Pan Industry","","Mistry","1/9/120",26,117.57,"",197.27,"","",314.84,3056.82,"",5129,"","","8185.84",0
@@ -517,33 +1510,33 @@
 "Rajasthan","","","Glass and Chinaware Industry","Skilled","","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
 "Rajasthan","","","Glass and Chinaware Industry","Semi Skilled","","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,0
 "Rajasthan","","","Glass and Chinaware Industry","Unskilled","","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Stone Carriage Driver","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blaster","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mechanic","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Driver (Heavy Vehicle)","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Washerman","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Electrician","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Lineman","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fitter","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Machine man","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blacksmith","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fireman","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Carpenter","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mistry","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,0
-"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Assistant","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,0
-"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Surveyor","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,0
-"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Clerk","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Jamadar","1/9/120",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Watchman","1/9/120",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Chainman","1/9/120",26,"60.89","","197.27","","","258.16",1583.15,"",5129,"","",6712.15,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Helper","1/9/120",26,"60.89","","197.27","","","258.16",1583.15,"",5129,"","",6712.15,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Crèche Attendant","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Sweeper","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Stone Breaker","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Water Carrier","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Work Man","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
-"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Ditcher","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,0
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Stone Carriage Driver","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blaster","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mechanic","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Driver (Heavy Vehicle)","1/9/120",26,"102.15","","197.27","","","299.42",2656,"",5129,"","",7785,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Washerman","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Electrician","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Lineman","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fitter","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Machine man","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Blacksmith","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Fireman","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Carpenter","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Skilled","Mistry","1/9/120",26,"91.65","","197.27","","","288.92",2383,"",5129,"","",7512,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Assistant","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Surveyor","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Semi Skilled","Clerk","1/9/120",26,"86.73","","197.27","","","284.00",2255,"",5129,"","",7384,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Jamadar","1/9/120",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Watchman","1/9/120",26,"83.38","","197.27","","","280.65",2167.9,"",5129,"","",7296.9,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Chainman","1/9/120",26,"60.89","","197.27","","","258.16",1583.15,"",5129,"","",6712.15,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Helper","1/9/120",26,"60.89","","197.27","","","258.16",1583.15,"",5129,"","",6712.15,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Crèche Attendant","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Sweeper","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Stone Breaker","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Water Carrier","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Work Man","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Construction"
+"Rajasthan","","","Stone Breaking and Crushing","Unskilled","Ditcher","1/9/120",26,"81.00","","197.27","","","278.27",2106,"",5129,"","",7235,"Construction"
 "Rajasthan","","","","Highly Skilled","Nurse","1/4/119",26,"","","","","",299,"","","","","",7774,0
 "Rajasthan","","","","Highly Skilled","Cook","1/4/119",26,"","","","","",299,"","","","","",7774,0
 "Rajasthan","","","","Highly Skilled","Senior Technical Assistant","1/4/119",26,"","","","","",299,"","","","","",7774,0
