@@ -1,64 +1,344 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
-"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/3/122",26,283,"",76,"","",359,"7358.00","","1976.00","","","9334.00",0
-"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/3/122",26,703,"",187,"","",890,"18278.00","","4862.00","","","23140.00",0
-"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/3/122",26,531,"",141,"","",672,"13806.00","","3666.00","","","17472.00",0
-"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/3/122",26,351,"",96,"","",447,"9126.00","","2496.00","","","11622.00",0
-"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/122",26,579,"",155,"","",734,"15054.00","","4030.00","","","19084.00","Guards"
-"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/122",26,637,"",169,"","",806,"16562.00","","4394.00","","","20956.00","Guards"
-"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/122",26,693,"",183,"","",876,"18018.00","","4758.00","","","22776.00","Guards"
-"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/122",26,494,"",131,"","",625,"12844.00","","3406.00","","","16250.00","Guards"
-"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/122",26,579,"",155,"","",734,"15054.00","","4030.00","","","19084.00","Guards"
-"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/122",26,637,"",169,"","",806,"16562.00","","4394.00","","","20956.00","Guards"
-"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/3/122",26,350,"",93,"","",443,"9100.00","","2418.00","","","11518.00","Scavengers"
-"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/3/122",26,437,"",116,"","",553,"11362.00","","3016.00","","","14378.00","Scavengers"
-"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/3/122",26,523,"",140,"","",663,"13598.00","","3640.00","","","17238.00","Scavengers"
-"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/122",26,350,"",93,"","",443,"9100.00","","2418.00","","","11518.00",0
-"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/122",26,437,"",116,"","",553,"11362.00","","3016.00","","","14378.00",0
-"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/122",26,523,"",140,"","",663,"13598.00","","3640.00","","","17238.00",0
-"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,579,"",155,"","",734,"15054.00","","4030.00","","","19084.00",0
-"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,637,"",169,"","",806,"16562.00","","4394.00","","","20956.00",0
-"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,693,"",183,"","",876,"18018.00","","4758.00","","","22776.00",0
-"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,494,"",131,"","",625,"12844.00","","3406.00","","","16250.00",0
-"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,579,"",155,"","",734,"15054.00","","4030.00","","","19084.00",0
-"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,637,"",169,"","",806,"16562.00","","4394.00","","","20956.00",0
-"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,494,"",131,"","",625,"12844.00","","3406.00","","","16250.00",0
-"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,579,"",155,"","",734,"15054.00","","4030.00","","","19084.00",0
-"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,637,"",169,"","",806,"16562.00","","4394.00","","","20956.00",0
-"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,410,"",109,"","",519,"10660.00","","2834.00","","","13494.00",0
-"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,494,"",131,"","",625,"12844.00","","3406.00","","","16250.00",0
-"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,579,"",155,"","",734,"15054.00","","4030.00","","","19084.00",0
-"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,350,"",93,"","",443,"9100.00","","2418.00","","","11518.00",0
-"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,437,"",116,"","",553,"11362.00","","3016.00","","","14378.00",0
-"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,523,"",140,"","",663,"13598.00","","3640.00","","","17238.00",0
-"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/3/122",26,683,"",179,"","",862,"17758.00","","4654.00","","","22412.00",0
-"Central Sphere","","","Mines","Clerical","Below Ground","1/3/122",26,610,"",162,"","",772,"15860.00","","4212.00","","","20072.00",0
-"Central Sphere","","","Mines","Skilled","Below Ground","1/3/122",26,610,"",162,"","",772,"15860.00","","4212.00","","","20072.00",0
-"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/3/122",26,523,"",140,"","",663,"13598.00","","3640.00","","","17238.00",0
-"Central Sphere","","","Mines","Unskilled","Below Ground","1/3/122",26,437,"",116,"","",553,"11362.00","","3016.00","","","14378.00",0
-"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/3/122",26,610,"",162,"","",772,"15860.00","","4212.00","","","20072.00",0
-"Central Sphere","","","Mines","Clerical","Above Ground","1/3/122",26,523,"",140,"","",663,"13598.00","","3640.00","","","17238.00",0
-"Central Sphere","","","Mines","Skilled","Above Ground","1/3/122",26,523,"",140,"","",663,"13598.00","","3640.00","","","17238.00",0
-"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/3/122",26,437,"",116,"","",553,"11362.00","","3016.00","","","14378.00",0
-"Central Sphere","","","Mines","Unskilled","Above Ground","1/3/122",26,350,"",93,"","",443,"9100.00","","2418.00","","","11518.00",0
-"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/3/122",26,364,"",97,"","",461,"9464.00","","2522.00","","","11986.00","Farming Horticulture Dairy"
-"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/3/122",26,407,"",109,"","",516,"10582.00","","2834.00","","","13416.00","Farming Horticulture Dairy"
-"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/3/122",26,438,"",116,"","",554,"11388.00","","3016.00","","","14404.00","Farming Horticulture Dairy"
-"Central Sphere","Zone III","","Agriculture","Clerical","","1/3/122",26,334,"",90,"","",424,"8684.00","","2340.00","","","11024.00","Farming Horticulture Dairy"
-"Central Sphere","Zone II","","Agriculture","Clerical","","1/3/122",26,364,"",97,"","",461,"9464.00","","2522.00","","","11986.00","Farming Horticulture Dairy"
-"Central Sphere","Zone I","","Agriculture","Clerical","","1/3/122",26,395,"",107,"","",502,"10270.00","","2782.00","","","13052.00","Farming Horticulture Dairy"
-"Central Sphere","Zone III","","Agriculture","Skilled","","1/3/122",26,334,"",90,"","",424,"8684.00","","2340.00","","","11024.00","Farming Horticulture Dairy"
-"Central Sphere","Zone II","","Agriculture","Skilled","","1/3/122",26,364,"",97,"","",461,"9464.00","","2522.00","","","11986.00","Farming Horticulture Dairy"
-"Central Sphere","Zone I","","Agriculture","Skilled","","1/3/122",26,395,"",107,"","",502,"10270.00","","2782.00","","","13052.00","Farming Horticulture Dairy"
-"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/3/122",26,307,"",82,"","",389,"7982.00","","2132.00","","","10114.00","Farming Horticulture Dairy"
-"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/3/122",26,335,"",90,"","",425,"8710.00","","2340.00","","","11050.00","Farming Horticulture Dairy"
-"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/3/122",26,364,"",97,"","",461,"9464.00","","2522.00","","","11986.00","Farming Horticulture Dairy"
-"Central Sphere","Zone III","","Agriculture","Unskilled","","1/3/122",26,300,"",82,"","",382,"7800.00","","2132.00","","","9932.00","Farming Horticulture Dairy"
-"Central Sphere","Zone II","","Agriculture","Unskilled","","1/3/122",26,303,"",82,"","",385,"7878.00","","2132.00","","","10010.00","Farming Horticulture Dairy"
-"Central Sphere","Zone I","","Agriculture","Unskilled","","1/3/122",26,333,"",90,"","",423,"8658.00","","2340.00","","","10998.00","Farming Horticulture Dairy"
-"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/9/121",26,283,"",71,"","",354,"7358.00","","1846.00","","","9204.00",0
-"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/9/121",26,703,"",175,"","",878,"18278.00","","4550.00","","","22828.00",0
-"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/9/121",26,531,"",132,"","",663,"13806.00","","3432.00","","","17238.00",0
-"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/9/121",26,351,"",90,"","",441,"9126.00","","2340.00","","","11466.00",0
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/9/124",26,283,"",143,"","",426,"7358.00","","3718.00","","","11076.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/9/124",26,703,"",350,"","",1053,"18278.00","","9100.00","","","27378.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/9/124",26,531,"",264,"","",795,"13806.00","","6864.00","","","20670.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/9/124",26,351,"",179,"","",530,"9126.00","","4654.00","","","13780.00","Construction"
+"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/124",26,579,"",289,"","",868,"15054.00","","7514.00","","","22568.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/124",26,637,"",317,"","",954,"16562.00","","8242.00","","","24804.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/124",26,693,"",342,"","",1035,"18018.00","","8892.00","","","26910.00","Guards"
+"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/124",26,494,"",245,"","",739,"12844.00","","6370.00","","","19214.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/124",26,579,"",289,"","",868,"15054.00","","7514.00","","","22568.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/124",26,637,"",317,"","",954,"16562.00","","8242.00","","","24804.00","Guards"
+"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/9/124",26,350,"",176,"","",526,"9100.00","","4576.00","","","13676.00","Scavengers"
+"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/9/124",26,437,"",218,"","",655,"11362.00","","5668.00","","","17030.00","Scavengers"
+"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/9/124",26,523,"",260,"","",783,"13598.00","","6760.00","","","20358.00","Scavengers"
+"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/124",26,350,"",176,"","",526,"9100.00","","4576.00","","","13676.00",0
+"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/124",26,437,"",218,"","",655,"11362.00","","5668.00","","","17030.00",0
+"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/124",26,523,"",260,"","",783,"13598.00","","6760.00","","","20358.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/124",26,579,"",289,"","",868,"15054.00","","7514.00","","","22568.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/124",26,637,"",317,"","",954,"16562.00","","8242.00","","","24804.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/124",26,693,"",342,"","",1035,"18018.00","","8892.00","","","26910.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/124",26,494,"",245,"","",739,"12844.00","","6370.00","","","19214.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/124",26,579,"",289,"","",868,"15054.00","","7514.00","","","22568.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/124",26,637,"",317,"","",954,"16562.00","","8242.00","","","24804.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/124",26,494,"",245,"","",739,"12844.00","","6370.00","","","19214.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/124",26,579,"",289,"","",868,"15054.00","","7514.00","","","22568.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/124",26,637,"",317,"","",954,"16562.00","","8242.00","","","24804.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/124",26,410,"",204,"","",614,"10660.00","","5304.00","","","15964.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/124",26,494,"",245,"","",739,"12844.00","","6370.00","","","19214.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/124",26,579,"",289,"","",868,"15054.00","","7514.00","","","22568.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/124",26,350,"",176,"","",526,"9100.00","","4576.00","","","13676.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/124",26,437,"",218,"","",655,"11362.00","","5668.00","","","17030.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/124",26,523,"",260,"","",783,"13598.00","","6760.00","","","20358.00",0
+"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/9/124",26,683,"",337,"","",1020,"17758.00","","8762.00","","","26520.00",0
+"Central Sphere","","","Mines","Clerical","Below Ground","1/9/124",26,610,"",302,"","",912,"15860.00","","7852.00","","","23712.00",0
+"Central Sphere","","","Mines","Skilled","Below Ground","1/9/124",26,610,"",302,"","",912,"15860.00","","7852.00","","","23712.00",0
+"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/9/124",26,523,"",260,"","",783,"13598.00","","6760.00","","","20358.00",0
+"Central Sphere","","","Mines","Unskilled","Below Ground","1/9/124",26,437,"",218,"","",655,"11362.00","","5668.00","","","17030.00",0
+"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/9/124",26,610,"",302,"","",912,"15860.00","","7852.00","","","23712.00",0
+"Central Sphere","","","Mines","Clerical","Above Ground","1/9/124",26,523,"",260,"","",783,"13598.00","","6760.00","","","20358.00",0
+"Central Sphere","","","Mines","Skilled","Above Ground","1/9/124",26,523,"",260,"","",783,"13598.00","","6760.00","","","20358.00",0
+"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/9/124",26,437,"",218,"","",655,"11362.00","","5668.00","","","17030.00",0
+"Central Sphere","","","Mines","Unskilled","Above Ground","1/9/124",26,350,"",176,"","",526,"9100.00","","4576.00","","","13676.00",0
+"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/9/124",26,364,"",182,"","",546,"9464.00","","4732.00","","","14196.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/9/124",26,407,"",204,"","",611,"10582.00","","5304.00","","","15886.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/9/124",26,438,"",218,"","",656,"11388.00","","5668.00","","","17056.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Clerical","","1/9/124",26,334,"",167,"","",501,"8684.00","","4342.00","","","13026.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Clerical","","1/9/124",26,364,"",182,"","",546,"9464.00","","4732.00","","","14196.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Clerical","","1/9/124",26,395,"",198,"","",593,"10270.00","","5148.00","","","15418.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Skilled","","1/9/124",26,334,"",167,"","",501,"8684.00","","4342.00","","","13026.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Skilled","","1/9/124",26,364,"",182,"","",546,"9464.00","","4732.00","","","14196.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Skilled","","1/9/124",26,395,"",198,"","",593,"10270.00","","5148.00","","","15418.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/9/124",26,307,"",155,"","",462,"7982.00","","4030.00","","","12012.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/9/124",26,335,"",167,"","",502,"8710.00","","4342.00","","","13052.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/9/124",26,364,"",182,"","",546,"9464.00","","4732.00","","","14196.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Unskilled","","1/9/124",26,300,"",152,"","",452,"7800.00","","3952.00","","","11752.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Unskilled","","1/9/124",26,303,"",154,"","",457,"7878.00","","4004.00","","","11882.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Unskilled","","1/9/124",26,333,"",167,"","",500,"8658.00","","4342.00","","","13000.00","Farming Horticulture Dairy"
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/3/124",26,283,"",140,"","",423,"7358.00","","3640.00","","","10998.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/3/124",26,703,"",343,"","",1046,"18278.00","","8918.00","","","27196.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/3/124",26,531,"",259,"","",790,"13806.00","","6734.00","","","20540.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/3/124",26,351,"",175,"","",526,"9126.00","","4550.00","","","13676.00","Construction"
+"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/124",26,579,"",283,"","",862,"15054.00","","7358.00","","","22412.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/124",26,637,"",311,"","",948,"16562.00","","8086.00","","","24648.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/124",26,693,"",335,"","",1028,"18018.00","","8710.00","","","26728.00","Guards"
+"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/124",26,494,"",240,"","",734,"12844.00","","6240.00","","","19084.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/124",26,579,"",283,"","",862,"15054.00","","7358.00","","","22412.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/124",26,637,"",311,"","",948,"16562.00","","8086.00","","","24648.00","Guards"
+"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/3/124",26,350,"",172,"","",522,"9100.00","","4472.00","","","13572.00","Scavengers"
+"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/3/124",26,437,"",214,"","",651,"11362.00","","5564.00","","","16926.00","Scavengers"
+"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/3/124",26,523,"",255,"","",778,"13598.00","","6630.00","","","20228.00","Scavengers"
+"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/124",26,350,"",172,"","",522,"9100.00","","4472.00","","","13572.00",0
+"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/124",26,437,"",214,"","",651,"11362.00","","5564.00","","","16926.00",0
+"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/124",26,523,"",255,"","",778,"13598.00","","6630.00","","","20228.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/124",26,579,"",283,"","",862,"15054.00","","7358.00","","","22412.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/124",26,637,"",311,"","",948,"16562.00","","8086.00","","","24648.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/124",26,693,"",335,"","",1028,"18018.00","","8710.00","","","26728.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/124",26,494,"",240,"","",734,"12844.00","","6240.00","","","19084.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/124",26,579,"",283,"","",862,"15054.00","","7358.00","","","22412.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/124",26,637,"",311,"","",948,"16562.00","","8086.00","","","24648.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/124",26,494,"",240,"","",734,"12844.00","","6240.00","","","19084.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/124",26,579,"",283,"","",862,"15054.00","","7358.00","","","22412.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/124",26,637,"",311,"","",948,"16562.00","","8086.00","","","24648.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/124",26,410,"",200,"","",610,"10660.00","","5200.00","","","15860.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/124",26,494,"",240,"","",734,"12844.00","","6240.00","","","19084.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/124",26,579,"",283,"","",862,"15054.00","","7358.00","","","22412.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/124",26,350,"",172,"","",522,"9100.00","","4472.00","","","13572.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/124",26,437,"",214,"","",651,"11362.00","","5564.00","","","16926.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/124",26,523,"",255,"","",778,"13598.00","","6630.00","","","20228.00",0
+"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/3/124",26,683,"",330,"","",1013,"17758.00","","8580.00","","","26338.00",0
+"Central Sphere","","","Mines","Clerical","Below Ground","1/3/124",26,610,"",296,"","",906,"15860.00","","7696.00","","","23556.00",0
+"Central Sphere","","","Mines","Skilled","Below Ground","1/3/124",26,610,"",296,"","",906,"15860.00","","7696.00","","","23556.00",0
+"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/3/124",26,523,"",255,"","",778,"13598.00","","6630.00","","","20228.00",0
+"Central Sphere","","","Mines","Unskilled","Below Ground","1/3/124",26,437,"",214,"","",651,"11362.00","","5564.00","","","16926.00",0
+"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/3/124",26,610,"",296,"","",906,"15860.00","","7696.00","","","23556.00",0
+"Central Sphere","","","Mines","Clerical","Above Ground","1/3/124",26,523,"",255,"","",778,"13598.00","","6630.00","","","20228.00",0
+"Central Sphere","","","Mines","Skilled","Above Ground","1/3/124",26,523,"",255,"","",778,"13598.00","","6630.00","","","20228.00",0
+"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/3/124",26,437,"",214,"","",651,"11362.00","","5564.00","","","16926.00",0
+"Central Sphere","","","Mines","Unskilled","Above Ground","1/3/124",26,350,"",172,"","",522,"9100.00","","4472.00","","","13572.00",0
+"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/3/124",26,364,"",178,"","",542,"9464.00","","4628.00","","","14092.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/3/124",26,407,"",200,"","",607,"10582.00","","5200.00","","","15782.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/3/124",26,438,"",214,"","",652,"11388.00","","5564.00","","","16952.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Clerical","","1/3/124",26,334,"",164,"","",498,"8684.00","","4264.00","","","12948.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Clerical","","1/3/124",26,364,"",178,"","",542,"9464.00","","4628.00","","","14092.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Clerical","","1/3/124",26,395,"",194,"","",589,"10270.00","","5044.00","","","15314.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Skilled","","1/3/124",26,334,"",164,"","",498,"8684.00","","4264.00","","","12948.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Skilled","","1/3/124",26,364,"",178,"","",542,"9464.00","","4628.00","","","14092.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Skilled","","1/3/124",26,395,"",194,"","",589,"10270.00","","5044.00","","","15314.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/3/124",26,307,"",152,"","",459,"7982.00","","3952.00","","","11934.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/3/124",26,335,"",164,"","",499,"8710.00","","4264.00","","","12974.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/3/124",26,364,"",178,"","",542,"9464.00","","4628.00","","","14092.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Unskilled","","1/3/124",26,300,"",149,"","",449,"7800.00","","3874.00","","","11674.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Unskilled","","1/3/124",26,303,"",151,"","",454,"7878.00","","3926.00","","","11804.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Unskilled","","1/3/124",26,333,"",164,"","",497,"8658.00","","4264.00","","","12922.00","Farming Horticulture Dairy"
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/9/123",26,283,"",125,"","",408,"7358.00","","3250.00","","","10608.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/9/123",26,703,"",307,"","",1010,"18278.00","","7982.00","","","26260.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/9/123",26,531,"",232,"","",763,"13806.00","","6032.00","","","19838.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/9/123",26,351,"",157,"","",508,"9126.00","","4082.00","","","13208.00","Construction"
+"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/123",26,579,"",253,"","",832,"15054.00","","6578.00","","","21632.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/123",26,637,"",278,"","",915,"16562.00","","7228.00","","","23790.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/123",26,693,"",299,"","",992,"18018.00","","7774.00","","","25792.00","Guards"
+"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/123",26,494,"",215,"","",709,"12844.00","","5590.00","","","18434.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/123",26,579,"",253,"","",832,"15054.00","","6578.00","","","21632.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/123",26,637,"",278,"","",915,"16562.00","","7228.00","","","23790.00","Guards"
+"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/9/123",26,350,"",154,"","",504,"9100.00","","4004.00","","","13104.00","Scavengers"
+"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/9/123",26,437,"",191,"","",628,"11362.00","","4966.00","","","16328.00","Scavengers"
+"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/9/123",26,523,"",228,"","",751,"13598.00","","5928.00","","","19526.00","Scavengers"
+"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/123",26,350,"",154,"","",504,"9100.00","","4004.00","","","13104.00",0
+"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/123",26,437,"",191,"","",628,"11362.00","","4966.00","","","16328.00",0
+"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/123",26,523,"",228,"","",751,"13598.00","","5928.00","","","19526.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/123",26,579,"",253,"","",832,"15054.00","","6578.00","","","21632.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/123",26,637,"",278,"","",915,"16562.00","","7228.00","","","23790.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/123",26,693,"",299,"","",992,"18018.00","","7774.00","","","25792.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/123",26,494,"",215,"","",709,"12844.00","","5590.00","","","18434.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/123",26,579,"",253,"","",832,"15054.00","","6578.00","","","21632.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/123",26,637,"",278,"","",915,"16562.00","","7228.00","","","23790.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/123",26,494,"",215,"","",709,"12844.00","","5590.00","","","18434.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/123",26,579,"",253,"","",832,"15054.00","","6578.00","","","21632.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/123",26,637,"",278,"","",915,"16562.00","","7228.00","","","23790.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/123",26,410,"",179,"","",589,"10660.00","","4654.00","","","15314.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/123",26,494,"",215,"","",709,"12844.00","","5590.00","","","18434.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/123",26,579,"",253,"","",832,"15054.00","","6578.00","","","21632.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/123",26,350,"",154,"","",504,"9100.00","","4004.00","","","13104.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/123",26,437,"",191,"","",628,"11362.00","","4966.00","","","16328.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/123",26,523,"",228,"","",751,"13598.00","","5928.00","","","19526.00",0
+"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/9/123",26,683,"",295,"","",978,"17758.00","","7670.00","","","25428.00",0
+"Central Sphere","","","Mines","Clerical","Below Ground","1/9/123",26,610,"",265,"","",875,"15860.00","","6890.00","","","22750.00",0
+"Central Sphere","","","Mines","Skilled","Below Ground","1/9/123",26,610,"",265,"","",875,"15860.00","","6890.00","","","22750.00",0
+"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/9/123",26,523,"",228,"","",751,"13598.00","","5928.00","","","19526.00",0
+"Central Sphere","","","Mines","Unskilled","Below Ground","1/9/123",26,437,"",191,"","",628,"11362.00","","4966.00","","","16328.00",0
+"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/9/123",26,610,"",265,"","",875,"15860.00","","6890.00","","","22750.00",0
+"Central Sphere","","","Mines","Clerical","Above Ground","1/9/123",26,523,"",228,"","",751,"13598.00","","5928.00","","","19526.00",0
+"Central Sphere","","","Mines","Skilled","Above Ground","1/9/123",26,523,"",228,"","",751,"13598.00","","5928.00","","","19526.00",0
+"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/9/123",26,437,"",191,"","",628,"11362.00","","4966.00","","","16328.00",0
+"Central Sphere","","","Mines","Unskilled","Above Ground","1/9/123",26,350,"",154,"","",504,"9100.00","","4004.00","","","13104.00",0
+"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/9/123",26,364,"",159,"","",523,"9464.00","","4134.00","","","13598.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/9/123",26,407,"",179,"","",586,"10582.00","","4654.00","","","15236.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/9/123",26,438,"",191,"","",629,"11388.00","","4966.00","","","16354.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Clerical","","1/9/123",26,334,"",147,"","",481,"8684.00","","3822.00","","","12506.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Clerical","","1/9/123",26,364,"",159,"","",523,"9464.00","","4134.00","","","13598.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Clerical","","1/9/123",26,395,"",174,"","",569,"10270.00","","4524.00","","","14794.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Skilled","","1/9/123",26,334,"",147,"","",481,"8684.00","","3822.00","","","12506.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Skilled","","1/9/123",26,364,"",159,"","",523,"9464.00","","4134.00","","","13598.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Skilled","","1/9/123",26,395,"",174,"","",569,"10270.00","","4524.00","","","14794.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/9/123",26,307,"",136,"","",443,"7982.00","","3536.00","","","11518.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/9/123",26,335,"",147,"","",482,"8710.00","","3822.00","","","12532.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/9/123",26,364,"",159,"","",523,"9464.00","","4134.00","","","13598.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Unskilled","","1/9/123",26,300,"",133,"","",433,"7800.00","","3458.00","","","11258.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Unskilled","","1/9/123",26,303,"",135,"","",438,"7878.00","","3510.00","","","11388.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Unskilled","","1/9/123",26,333,"",147,"","",480,"8658.00","","3822.00","","","12480.00","Farming Horticulture Dairy"
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/3/123",26,283,"",117,"","",400,"7358.00","","3042.00","","","10400.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/3/123",26,703,"",287,"","",990,"18278.00","","7462.00","","","25740.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/3/123",26,531,"",217,"","",748,"13806.00","","5642.00","","","19448.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/3/123",26,351,"",147,"","",498,"9126.00","","3822.00","","","12948.00","Construction"
+"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/123",26,579,"",237,"","",816,"15054.00","","6162.00","","","21216.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/123",26,637,"",260,"","",897,"16562.00","","6760.00","","","23322.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/123",26,693,"",280,"","",973,"18018.00","","7280.00","","","25298.00","Guards"
+"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/123",26,494,"",201,"","",695,"12844.00","","5226.00","","","18070.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/123",26,579,"",237,"","",816,"15054.00","","6162.00","","","21216.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/123",26,637,"",260,"","",897,"16562.00","","6760.00","","","23322.00","Guards"
+"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/3/123",26,350,"",144,"","",494,"9100.00","","3744.00","","","12844.00","Scavengers"
+"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/3/123",26,437,"",179,"","",616,"11362.00","","4654.00","","","16016.00","Scavengers"
+"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/3/123",26,523,"",213,"","",736,"13598.00","","5538.00","","","19136.00","Scavengers"
+"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/123",26,350,"",144,"","",494,"9100.00","","3744.00","","","12844.00",0
+"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/123",26,437,"",179,"","",616,"11362.00","","4654.00","","","16016.00",0
+"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/123",26,523,"",213,"","",736,"13598.00","","5538.00","","","19136.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/123",26,579,"",237,"","",816,"15054.00","","6162.00","","","21216.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/123",26,637,"",260,"","",897,"16562.00","","6760.00","","","23322.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/123",26,693,"",280,"","",973,"18018.00","","7280.00","","","25298.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/123",26,494,"",201,"","",695,"12844.00","","5226.00","","","18070.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/123",26,579,"",237,"","",816,"15054.00","","6162.00","","","21216.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/123",26,637,"",260,"","",897,"16562.00","","6760.00","","","23322.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/123",26,494,"",201,"","",695,"12844.00","","5226.00","","","18070.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/123",26,579,"",237,"","",816,"15054.00","","6162.00","","","21216.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/123",26,637,"",260,"","",897,"16562.00","","6760.00","","","23322.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/123",26,410,"",167,"","",577,"10660.00","","4342.00","","","15002.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/123",26,494,"",201,"","",695,"12844.00","","5226.00","","","18070.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/123",26,579,"",237,"","",816,"15054.00","","6162.00","","","21216.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/123",26,350,"",144,"","",494,"9100.00","","3744.00","","","12844.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/123",26,437,"",179,"","",616,"11362.00","","4654.00","","","16016.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/123",26,523,"",213,"","",736,"13598.00","","5538.00","","","19136.00",0
+"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/3/123",26,683,"",276,"","",959,"17758.00","","7176.00","","","24934.00",0
+"Central Sphere","","","Mines","Clerical","Below Ground","1/3/123",26,610,"",248,"","",858,"15860.00","","6448.00","","","22308.00",0
+"Central Sphere","","","Mines","Skilled","Below Ground","1/3/123",26,610,"",248,"","",858,"15860.00","","6448.00","","","22308.00",0
+"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/3/123",26,523,"",213,"","",736,"13598.00","","5538.00","","","19136.00",0
+"Central Sphere","","","Mines","Unskilled","Below Ground","1/3/123",26,437,"",179,"","",616,"11362.00","","4654.00","","","16016.00",0
+"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/3/123",26,610,"",248,"","",858,"15860.00","","6448.00","","","22308.00",0
+"Central Sphere","","","Mines","Clerical","Above Ground","1/3/123",26,523,"",213,"","",736,"13598.00","","5538.00","","","19136.00",0
+"Central Sphere","","","Mines","Skilled","Above Ground","1/3/123",26,523,"",213,"","",736,"13598.00","","5538.00","","","19136.00",0
+"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/3/123",26,437,"",179,"","",616,"11362.00","","4654.00","","","16016.00",0
+"Central Sphere","","","Mines","Unskilled","Above Ground","1/3/123",26,350,"",144,"","",494,"9100.00","","3744.00","","","12844.00",0
+"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/3/123",26,364,"",149,"","",513,"9464.00","","3874.00","","","13338.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/3/123",26,407,"",167,"","",574,"10582.00","","4342.00","","","14924.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/3/123",26,438,"",179,"","",617,"11388.00","","4654.00","","","16042.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Clerical","","1/3/123",26,334,"",137,"","",471,"8684.00","","3562.00","","","12246.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Clerical","","1/3/123",26,364,"",149,"","",513,"9464.00","","3874.00","","","13338.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Clerical","","1/3/123",26,395,"",163,"","",558,"10270.00","","4238.00","","","14508.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Skilled","","1/3/123",26,334,"",137,"","",471,"8684.00","","3562.00","","","12246.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Skilled","","1/3/123",26,364,"",149,"","",513,"9464.00","","3874.00","","","13338.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Skilled","","1/3/123",26,395,"",163,"","",558,"10270.00","","4238.00","","","14508.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/3/123",26,307,"",127,"","",434,"7982.00","","3302.00","","","11284.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/3/123",26,335,"",137,"","",472,"8710.00","","3562.00","","","12272.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/3/123",26,364,"",149,"","",513,"9464.00","","3874.00","","","13338.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Unskilled","","1/3/123",26,300,"",124,"","",424,"7800.00","","3224.00","","","11024.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Unskilled","","1/3/123",26,303,"",126,"","",429,"7878.00","","3276.00","","","11154.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Unskilled","","1/3/123",26,333,"",137,"","",470,"8658.00","","3562.00","","","12220.00","Farming Horticulture Dairy"
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/9/122",26,283,"",103,"","",386,"7358.00","","2678.00","","","10036.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/9/122",26,703,"",253,"","",956,"18278.00","","6578.00","","","24856.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/9/122",26,531,"",191,"","",722,"13806.00","","4966.00","","","18772.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/9/122",26,351,"",130,"","",481,"9126.00","","3380.00","","","12506.00","Construction"
+"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/122",26,579,"",209,"","",788,"15054.00","","5434.00","","","20488.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/122",26,637,"",229,"","",866,"16562.00","","5954.00","","","22516.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/122",26,693,"",247,"","",940,"18018.00","","6422.00","","","24440.00","Guards"
+"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/122",26,494,"",177,"","",671,"12844.00","","4602.00","","","17446.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/122",26,579,"",209,"","",788,"15054.00","","5434.00","","","20488.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/9/122",26,637,"",229,"","",866,"16562.00","","5954.00","","","22516.00","Guards"
+"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/9/122",26,350,"",127,"","",477,"9100.00","","3302.00","","","12402.00","Scavengers"
+"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/9/122",26,437,"",158,"","",595,"11362.00","","4108.00","","","15470.00","Scavengers"
+"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/9/122",26,523,"",188,"","",711,"13598.00","","4888.00","","","18486.00","Scavengers"
+"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/122",26,350,"",127,"","",477,"9100.00","","3302.00","","","12402.00",0
+"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/122",26,437,"",158,"","",595,"11362.00","","4108.00","","","15470.00",0
+"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/9/122",26,523,"",188,"","",711,"13598.00","","4888.00","","","18486.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/122",26,579,"",209,"","",788,"15054.00","","5434.00","","","20488.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/122",26,637,"",229,"","",866,"16562.00","","5954.00","","","22516.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/122",26,693,"",247,"","",940,"18018.00","","6422.00","","","24440.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/122",26,494,"",177,"","",671,"12844.00","","4602.00","","","17446.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/122",26,579,"",209,"","",788,"15054.00","","5434.00","","","20488.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/9/122",26,637,"",229,"","",866,"16562.00","","5954.00","","","22516.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/122",26,494,"",177,"","",671,"12844.00","","4602.00","","","17446.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/122",26,579,"",209,"","",788,"15054.00","","5434.00","","","20488.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/122",26,637,"",229,"","",866,"16562.00","","5954.00","","","22516.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/122",26,410,"",147,"","",557,"10660.00","","3822.00","","","14482.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/122",26,494,"",177,"","",671,"12844.00","","4602.00","","","17446.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/122",26,579,"",209,"","",788,"15054.00","","5434.00","","","20488.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/122",26,350,"",127,"","",477,"9100.00","","3302.00","","","12402.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/122",26,437,"",158,"","",595,"11362.00","","4108.00","","","15470.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/122",26,523,"",188,"","",711,"13598.00","","4888.00","","","18486.00",0
+"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/9/122",26,683,"",243,"","",926,"17758.00","","6318.00","","","24076.00",0
+"Central Sphere","","","Mines","Clerical","Below Ground","1/9/122",26,610,"",219,"","",829,"15860.00","","5694.00","","","21554.00",0
+"Central Sphere","","","Mines","Skilled","Below Ground","1/9/122",26,610,"",219,"","",829,"15860.00","","5694.00","","","21554.00",0
+"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/9/122",26,523,"",188,"","",711,"13598.00","","4888.00","","","18486.00",0
+"Central Sphere","","","Mines","Unskilled","Below Ground","1/9/122",26,437,"",158,"","",595,"11362.00","","4108.00","","","15470.00",0
+"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/9/122",26,610,"",219,"","",829,"15860.00","","5694.00","","","21554.00",0
+"Central Sphere","","","Mines","Clerical","Above Ground","1/9/122",26,523,"",188,"","",711,"13598.00","","4888.00","","","18486.00",0
+"Central Sphere","","","Mines","Skilled","Above Ground","1/9/122",26,523,"",188,"","",711,"13598.00","","4888.00","","","18486.00",0
+"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/9/122",26,437,"",158,"","",595,"11362.00","","4108.00","","","15470.00",0
+"Central Sphere","","","Mines","Unskilled","Above Ground","1/9/122",26,350,"",127,"","",477,"9100.00","","3302.00","","","12402.00",0
+"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/9/122",26,364,"",131,"","",495,"9464.00","","3406.00","","","12870.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/9/122",26,407,"",147,"","",554,"10582.00","","3822.00","","","14404.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/9/122",26,438,"",158,"","",596,"11388.00","","4108.00","","","15496.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Clerical","","1/9/122",26,334,"",121,"","",455,"8684.00","","3146.00","","","11830.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Clerical","","1/9/122",26,364,"",131,"","",495,"9464.00","","3406.00","","","12870.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Clerical","","1/9/122",26,395,"",144,"","",539,"10270.00","","3744.00","","","14014.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Skilled","","1/9/122",26,334,"",121,"","",455,"8684.00","","3146.00","","","11830.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Skilled","","1/9/122",26,364,"",131,"","",495,"9464.00","","3406.00","","","12870.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Skilled","","1/9/122",26,395,"",144,"","",539,"10270.00","","3744.00","","","14014.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/9/122",26,307,"",112,"","",419,"7982.00","","2912.00","","","10894.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/9/122",26,335,"",121,"","",456,"8710.00","","3146.00","","","11856.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/9/122",26,364,"",131,"","",495,"9464.00","","3406.00","","","12870.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Unskilled","","1/9/122",26,300,"",109,"","",409,"7800.00","","2834.00","","","10634.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Unskilled","","1/9/122",26,303,"",111,"","",414,"7878.00","","2886.00","","","10764.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Unskilled","","1/9/122",26,333,"",121,"","",454,"8658.00","","3146.00","","","11804.00","Farming Horticulture Dairy"
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/3/122",26,283,"",94,"","",377,"7358.00","","2444.00","","","9802.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/3/122",26,703,"",231,"","",934,"18278.00","","6006.00","","","24284.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/3/122",26,531,"",175,"","",706,"13806.00","","4550.00","","","18356.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/3/122",26,351,"",119,"","",470,"9126.00","","3094.00","","","12220.00","Construction"
+"Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/122",26,579,"",191,"","",770,"15054.00","","4966.00","","","20020.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/122",26,637,"",209,"","",846,"16562.00","","5434.00","","","21996.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/3/122",26,693,"",226,"","",919,"18018.00","","5876.00","","","23894.00","Guards"
+"Central Sphere","Zone III","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/122",26,494,"",162,"","",656,"12844.00","","4212.00","","","17056.00","Guards"
+"Central Sphere","Zone II","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/122",26,579,"",191,"","",770,"15054.00","","4966.00","","","20020.00","Guards"
+"Central Sphere","Zone I","","Watch and Ward (without arms) – Security","Unskilled","Watchman","1/3/122",26,637,"",209,"","",846,"16562.00","","5434.00","","","21996.00","Guards"
+"Central Sphere","Zone III","","Sweeping and Cleaning","","","1/3/122",26,350,"",116,"","",466,"9100.00","","3016.00","","","12116.00","Scavengers"
+"Central Sphere","Zone II","","Sweeping and Cleaning","","","1/3/122",26,437,"",144,"","",581,"11362.00","","3744.00","","","15106.00","Scavengers"
+"Central Sphere","Zone I","","Sweeping and Cleaning","","","1/3/122",26,523,"",172,"","",695,"13598.00","","4472.00","","","18070.00","Scavengers"
+"Central Sphere","Zone III","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/122",26,350,"",116,"","",466,"9100.00","","3016.00","","","12116.00",0
+"Central Sphere","Zone II","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/122",26,437,"",144,"","",581,"11362.00","","3744.00","","","15106.00",0
+"Central Sphere","Zone I","","Loading-Unloading in Warehouse, Godowns, Goods Sheds and Parcel offices of Railways, Goods and Cargo Carried Out at Airports","","Loading/Unloading","1/3/122",26,523,"",172,"","",695,"13598.00","","4472.00","","","18070.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,579,"",191,"","",770,"15054.00","","4966.00","","","20020.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,637,"",209,"","",846,"16562.00","","5434.00","","","21996.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",26,693,"",226,"","",919,"18018.00","","5876.00","","","23894.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,494,"",164,"","",658,"12844.00","","4264.00","","","17108.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,579,"",191,"","",770,"15054.00","","4966.00","","","20020.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Clerical","","1/3/122",26,637,"",209,"","",846,"16562.00","","5434.00","","","21996.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,494,"",164,"","",658,"12844.00","","4264.00","","","17108.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,579,"",191,"","",770,"15054.00","","4966.00","","","20020.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",26,637,"",209,"","",846,"16562.00","","5434.00","","","21996.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,410,"",134,"","",544,"10660.00","","3484.00","","","14144.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,494,"",162,"","",656,"12844.00","","4212.00","","","17056.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",26,579,"",191,"","",770,"15054.00","","4966.00","","","20020.00",0
+"Central Sphere","Zone III","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,350,"",116,"","",466,"9100.00","","3016.00","","","12116.00",0
+"Central Sphere","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,437,"",148,"","",585,"11362.00","","3848.00","","","15210.00",0
+"Central Sphere","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",26,523,"",172,"","",695,"13598.00","","4472.00","","","18070.00",0
+"Central Sphere","","","Mines","Highly Skilled","Below Ground","1/3/122",26,683,"",222,"","",905,"17758.00","","5772.00","","","23530.00",0
+"Central Sphere","","","Mines","Clerical","Below Ground","1/3/122",26,610,"",200,"","",810,"15860.00","","5200.00","","","21060.00",0
+"Central Sphere","","","Mines","Skilled","Below Ground","1/3/122",26,610,"",200,"","",810,"15860.00","","5200.00","","","21060.00",0
+"Central Sphere","","","Mines","Semi Skilled","Below Ground","1/3/122",26,523,"",172,"","",695,"13598.00","","4472.00","","","18070.00",0
+"Central Sphere","","","Mines","Unskilled","Below Ground","1/3/122",26,437,"",144,"","",581,"11362.00","","3744.00","","","15106.00",0
+"Central Sphere","","","Mines","Highly Skilled","Above Ground","1/3/122",26,610,"",201,"","",811,"15860.00","","5226.00","","","21086.00",0
+"Central Sphere","","","Mines","Clerical","Above Ground","1/3/122",26,523,"",172,"","",695,"13598.00","","4472.00","","","18070.00",0
+"Central Sphere","","","Mines","Skilled","Above Ground","1/3/122",26,523,"",172,"","",695,"13598.00","","4472.00","","","18070.00",0
+"Central Sphere","","","Mines","Semi Skilled","Above Ground","1/3/122",26,437,"",144,"","",581,"11362.00","","3744.00","","","15106.00",0
+"Central Sphere","","","Mines","Unskilled","Above Ground","1/3/122",26,350,"",116,"","",466,"9100.00","","3016.00","","","12116.00",0
+"Central Sphere","Zone III","","Agriculture","Highly Skilled","","1/3/122",26,364,"",120,"","",484,"9464.00","","3120.00","","","12584.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Highly Skilled","","1/3/122",26,407,"",134,"","",541,"10582.00","","3484.00","","","14066.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Highly Skilled","","1/3/122",26,438,"",144,"","",582,"11388.00","","3744.00","","","15132.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Clerical","","1/3/122",26,334,"",111,"","",445,"8684.00","","2886.00","","","11570.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Clerical","","1/3/122",26,364,"",120,"","",484,"9464.00","","3120.00","","","12584.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Clerical","","1/3/122",26,395,"",132,"","",527,"10270.00","","3432.00","","","13702.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Skilled","","1/3/122",26,334,"",111,"","",445,"8684.00","","2886.00","","","11570.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Skilled","","1/3/122",26,364,"",120,"","",484,"9464.00","","3120.00","","","12584.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Skilled","","1/3/122",26,395,"",132,"","",527,"10270.00","","3432.00","","","13702.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Semi Skilled","","1/3/122",26,307,"",102,"","",409,"7982.00","","2652.00","","","10634.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Semi Skilled","","1/3/122",26,335,"",111,"","",446,"8710.00","","2886.00","","","11596.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Semi Skilled","","1/3/122",26,364,"",120,"","",484,"9464.00","","3120.00","","","12584.00","Farming Horticulture Dairy"
+"Central Sphere","Zone III","","Agriculture","Unskilled","","1/3/122",26,300,"",100,"","",400,"7800.00","","2600.00","","","10400.00","Farming Horticulture Dairy"
+"Central Sphere","Zone II","","Agriculture","Unskilled","","1/3/122",26,303,"",101,"","",404,"7878.00","","2626.00","","","10504.00","Farming Horticulture Dairy"
+"Central Sphere","Zone I","","Agriculture","Unskilled","","1/3/122",26,333,"",111,"","",444,"8658.00","","2886.00","","","11544.00","Farming Horticulture Dairy"
+"Central Sphere","","","Stone Mines","Removal and Rejected Stones with 50 meters, Lead/1.5 Meter Lift","Workers","1/9/121",26,283,"",71,"","",354,"7358.00","","1846.00","","","9204.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Rock","1/9/121",26,703,"",175,"","",878,"18278.00","","4550.00","","","22828.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil with Rock","1/9/121",26,531,"",132,"","",663,"13806.00","","3432.00","","","17238.00","Construction"
+"Central Sphere","","","Stone Mines","Excavation & Removal of over burden with 50 meters, Lead/1.5 Meter Lift","Workers for Soft Soil","1/9/121",26,351,"",90,"","",441,"9126.00","","2340.00","","","11466.00","Construction"
 "Central Sphere","Zone III","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/121",26,579,"",145,"","",724,"15054.00","","3770.00","","","18824.00","Guards"
 "Central Sphere","Zone II","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/121",26,637,"",158,"","",795,"16562.00","","4108.00","","","20670.00","Guards"
 "Central Sphere","Zone I","","Watch and Ward (with arms) – Security","Unskilled","Watchman","1/9/121",26,693,"",171,"","",864,"18018.00","","4446.00","","","22464.00","Guards"

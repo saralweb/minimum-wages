@@ -119,12 +119,12 @@
 "Arunachal Pradesh","Zone I","","Public Motor Transport","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
 "Arunachal Pradesh","Zone II","","Public Motor Transport","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
 "Arunachal Pradesh","Zone I","","Public Motor Transport","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
-"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
-"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
-"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
-"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
-"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
-"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
+"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Construction"
+"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Construction"
+"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Construction"
+"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Construction"
+"Arunachal Pradesh","Zone II","","Stone Breaking and Crushing","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Construction"
+"Arunachal Pradesh","Zone I","","Stone Breaking and Crushing","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Construction"
 "Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,0
 "Arunachal Pradesh","Zone I","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
 "Arunachal Pradesh","Zone II","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,0
@@ -143,9 +143,9 @@
 "Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,0
 "Arunachal Pradesh","Zone II","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,0
 "Arunachal Pradesh","Zone I","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,0
-"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Clothes"
-"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Clothes"
-"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Clothes"
-"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Clothes"
-"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Clothes"
-"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Clothes"
+"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Skilled","","1/3/116",30,"","","","","",240,"","","","","",7200,"Clothes, Textile"
+"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Skilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Clothes, Textile"
+"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/116",30,"","","","","",230,"","","","","",6900,"Clothes, Textile"
+"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Semi Skilled","","1/3/116",30,"","","","","",210,"","","","","",6300,"Clothes, Textile"
+"Arunachal Pradesh","Zone II","","Wool Shawl and Carpet Maker","Unskilled","","1/3/116",30,"","","","","",220,"","","","","",6600,"Clothes, Textile"
+"Arunachal Pradesh","Zone I","","Wool Shawl and Carpet Maker","Unskilled","","1/3/116",30,"","","","","",200,"","","","","",6000,"Clothes, Textile"

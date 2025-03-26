@@ -1,4 +1,988 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Puducherry","","","Blacksmithy Workes","","Sweeper","2/8/124",26,"710.96","","","","","710.96",18485,"","","","",18485,"Lohar"
+"Puducherry","","","Blacksmithy Workes","","Scavenger","2/8/124",26,"710.96","","","","","710.96",18485,"","","","",18485,"Lohar"
+"Puducherry","","","Blacksmithy Workes","","Watchman","2/8/124",26,"742.08","","","","","742.08",19294,"","","","",19294,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Office Assistant","2/8/124",26,"742.08","","","","","742.08",19294,"","","","",19294,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Store Keeper","2/8/124",26,"804.08","","","","","804.08",20906,"","","","",20906,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Typist","2/8/124",26,"804.08","","","","","804.08",20906,"","","","",20906,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Clerk","2/8/124",26,"804.08","","","","","804.08",20906,"","","","",20906,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Cashier","2/8/124",26,"804.08","","","","","804.08",20906,"","","","",20906,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Accountant","2/8/124",26,"804.08","","","","","804.08",20906,"","","","",20906,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Administration","Manager","2/8/124",26,"845.46","","","","","845.46",21982,"","","","",21982,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Unskilled","","2/8/124",30,697,"","","","","697.00",20910,"","","","",20910,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Semi Skilled","Painter","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Semi Skilled","Bending","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Semi Skilled","Cutter","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Cattle Shoe Maker","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Agricultural Implements Maker","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Mild Steel Vessels Maker","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Welder","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Lock makers","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Blacksmith","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Blacksmithy Workes","Skilled","Supervisor","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Lohar"
+"Puducherry","","","Carpentry Workes","Unskilled","","2/8/124",30,697,"","","","","697.00",20910,"","","","",20910,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Unskilled","Helper","2/8/124",30,697,"","","","","697.00",20910,"","","","",20910,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Unskilled","Learner","2/8/124",30,697,"","","","","697.00",20910,"","","","",20910,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Semi Skilled","Veenering pressing","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Semi Skilled","Polisher","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Semi Skilled","Packer","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Semi Skilled","Assistant Carpenter","2/8/124",30,738,"","","","","738.00",22140,"","","","",22140,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Skilled","Grinding Worker","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Skilled","Wood Turner","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Skilled","Carpenter","2/8/124",30,762,"","","","","762.00",22860,"","","","",22860,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Highly Skilled","Wood Carver","2/8/124",30,791,"","","","","791.00",23730,"","","","",23730,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Highly Skilled","Upholstry Maker","2/8/124",30,791,"","","","","791.00",23730,"","","","",23730,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Highly Skilled","Interior Decorator","2/8/124",30,791,"","","","","791.00",23730,"","","","",23730,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Highly Skilled","Pattern Maker","2/8/124",30,791,"","","","","791.00",23730,"","","","",23730,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Carpentry Workes","Highly Skilled","Supervisor","2/8/124",30,791,"","","","","791.00",23730,"","","","",23730,"Plywood Industry Furntiture Mistry Informal Sector"
+"Puducherry","","","Taxis and Auto Rickshaws","","Taxi Driver","2/8/124",26,727,"","","","","725.81",18871,"","","","",18871,"Transport"
+"Puducherry","","","Taxis and Auto Rickshaws","","Auto Driver","2/8/124",26,678,"","","","","677.92",17626,"","","","",17626,"Transport"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mould Operators","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mosaic Tiles Mixer","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mosaic Tiles Man","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mosaic Tiles Helper","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cement Tiles Pressers","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cement Special Tiles Mixer","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cement Special Tiles Maker","2/8/124",30,447,"","","","",447,"13410.00","","","","","13410.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cutter","2/8/124",30,955,"","","","",955,"28650.00","","","","","28650.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Fireman","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Loading/Unloading","2/8/124",30,265,"","","","",265,"7950.00","","","","","7950.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Table Mould Bricks 1000","2/8/124",30,952,"","","","",952,"28560.00","","","","","28560.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Transporting Bricks in Kiln 1000","2/8/124",30,495,"","","","",495,"14850.00","","","","","14850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Country Bricks 1000","2/8/124",30,646,"","","","",646,"19380.00","","","","","19380.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Chamber Bricks 1000","2/8/124",30,799,"","","","",799,"23970.00","","","","","23970.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Head Mistry","2/8/124",30,"413.80","","","","","413.80",12414,"","","","",12414,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mistry","2/8/124",30,"408.37","","","","","408.37",12251,"","","","",12251,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Office Boy","2/8/124",30,"390.07","","","","","390.07",11702,"","","","",11702,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Store Keeper","2/8/124",30,"411.47","","","","","411.47",12344,"","","","",12344,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Accountant","2/8/124",30,"423.97","","","","","423.97",12719,"","","","",12719,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Clerk","2/8/124",30,"408.37","","","","","408.37",12251,"","","","",12251,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Supervisor","2/8/124",30,"411.47","","","","","411.47",12344,"","","","",12344,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Technical Supervisor","2/8/124",30,"423.97","","","","","423.97",12719,"","","","",12719,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Foreman","2/8/124",30,"436.03","","","","","436.03",13081,"","","","",13081,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Chips Sorenmers (Mosaic)","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Colour Mixers (Mosaic)","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Box Removers (Mosaic).","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Tile Plasters (Mosaic).","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Sand Suppliers (Mosaic).","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Head Load Workers (Mosaic).","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Sand and Cement Mixers (Mosaic).","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Water Carrier","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Pallet Collectors.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Pallet Suppliers.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Raw Brick Carrier","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Raw tiles removers from frame.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Sweeper","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Slab Placers.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","General Coolies.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Clay Feeders.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Slab Cutters and Slab Carriers.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Loading/Unloading","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Clay Transporters and Carriers.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Fuel Carriers.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Tile Carriers.","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Helper","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Material Carriers","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Material Handling workers","2/8/124",30,404,"","","","",404,"12120.00","","","","","12120.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Watchman","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Security guard","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Kiln Burners.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Artificial drying fire attenders.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Trimming Work","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Wheel tunners.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Burnt goods sorters and packers.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Loading/Unloading","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Clay Mixers.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Clay Slicers and Transplers.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Die Pullers.","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Tile Makers","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Bricks Maker","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Pressing Man","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Mould Helper","2/8/124",30,414,"","","","",414,"12420.00","","","","","12420.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Dye Maker","2/8/124",30,"405.20","","","","","405.20",12156,"","","","",12156,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Welder","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Engine Driver","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Operator","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Mason","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Mechanic","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Electrician","2/8/124",30,"405.20","","","","","405.20",12156,"","","","",12156,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Fitter","2/8/124",30,"405.20","","","","","405.20",12156,"","","","",12156,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Carpenter","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Blacksmith","2/8/124",30,"402.20","","","","","402.20",12066,"","","","",12066,"Constructions"
+"Puducherry","","","Tailoring Industry","Administration","Sweeper","2/8/124",26,"370.77","","","","","370.77",9640,"","","","",9640,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Watchman","2/8/124",26,"382.31","","","","","382.31",9940,"","","","",9940,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Security guard","2/8/124",26,"382.31","","","","","382.31",9940,"","","","",9940,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Time Keeper","2/8/124",26,"449.23","","","","","449.23",11680,"","","","",11680,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Driver","2/8/124",26,"463.08","","","","","463.08",12040,"","","","",12040,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Store Keeper","2/8/124",26,"465.77","","","","","465.77",12110,"","","","",12110,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Typist","2/8/124",26,"449.23","","","","","449.23",11680,"","","","",11680,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Clerk","2/8/124",26,"465.77","","","","","465.77",12110,"","","","",12110,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Cashier","2/8/124",26,"465.77","","","","","465.77",12110,"","","","",12110,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Accountant","2/8/124",26,"449.23","","","","","449.23",11680,"","","","",11680,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Sales Manager","2/8/124",26,"539.23","","","","","539.23",14020,"","","","",14020,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Purchase Manager","2/8/124",26,"539.23","","","","","539.23",14020,"","","","",14020,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Shipping Manager","2/8/124",26,"539.23","","","","","539.23",14020,"","","","",14020,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Administration","Accounts Manager","2/8/124",26,"539.23","","","","","539.23",14020,"","","","",14020,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Trainee-Apprentice","2/8/124",26,"382.31","","","","","382.31",9940,"","","","",9940,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Helper","2/8/124",26,"382.31","","","","","382.31",9940,"","","","",9940,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Layer Helpers","2/8/124",26,"404.23","","","","","404.23",10510,"","","","",10510,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Packer","2/8/124",26,"404.23","","","","","404.23",10510,"","","","",10510,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 2","Pressing Man","2/8/124",26,"426.54","","","","","426.54",11090,"","","","",11090,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 2","Ironing Man","2/8/124",26,"426.54","","","","","426.54",11090,"","","","",11090,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 1","Pressing Man","2/8/124",26,"434.23","","","","","434.23",11290,"","","","",11290,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 1","Ironing Man","2/8/124",26,"434.23","","","","","434.23",11290,"","","","",11290,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Washing Helper","2/8/124",26,"382.31","","","","","382.31",9940,"","","","",9940,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 2","Checking","2/8/124",26,"404.23","","","","","404.23",10510,"","","","",10510,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 1","Checking","2/8/124",26,"426.54","","","","","426.54",11090,"","","","",11090,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Button and Khaja Operator","2/8/124",26,"456.54","","","","","456.54",11870,"","","","",11870,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Trimmers","2/8/124",26,"404.23","","","","","404.23",10510,"","","","",10510,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 2","Tailor","2/8/124",26,"404.23","","","","","404.23",10510,"","","","",10510,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 2","Machine Operator","2/8/124",26,"404.23","","","","","404.23",10510,"","","","",10510,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 2","Cutter-cum-Pattern Maker","2/8/124",26,"481.54","","","","","481.54",12520,"","","","",12520,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 1","Cutter-cum-Marker","2/8/124",26,"507.31","","","","","507.31",13190,"","","","",13190,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Supervisor","2/8/124",26,"507.31","","","","","507.31",13190,"","","","",13190,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Production Manager","2/8/124",26,"539.23","","","","","539.23",14020,"","","","",14020,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Ironing Master","2/8/124",26,"434.23","","","","","434.23",11290,"","","","",11290,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Khaja Master","2/8/124",26,"456.54","","","","","456.54",11870,"","","","",11870,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 1","Tailor","2/8/124",26,"456.54","","","","","456.54",11870,"","","","",11870,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","Class 1","Machine Operator","2/8/124",26,"456.54","","","","","456.54",11870,"","","","",11870,"Stitch Textile"
+"Puducherry","","","Tailoring Industry","","Cutter","2/8/124",26,"507.31","","","","","507.31",13190,"","","","",13190,"Stitch Textile"
+"Puducherry","","","Biscuit Manufacturer","Unskilled","","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Unskilled","Cleaner","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Unskilled","Assistant","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Unskilled","Helper","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Unskilled","Assistant Baker","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","Bread Moulder","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","Bun Rounder","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","Dough Maker","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","Table Man","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","Oven Keeper","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Semi Skilled","Baker","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Skilled","","2/8/124",30,462,"","","","",462,"13860.00","","","","","13860.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Skilled","Head Baker","2/8/124",30,462,"","","","",462,"13860.00","","","","","13860.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Skilled","Supervisor","2/8/124",30,462,"","","","",462,"13860.00","","","","","13860.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Highly Skilled","","2/8/124",30,479,"","","","",479,"14370.00","","","","","14370.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","Highly Skilled","Bakery Maistry","2/8/124",30,479,"","","","",479,"14370.00","","","","","14370.00","Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Peon","2/8/124",26,"496.77","","","","","496.77",12916,"","","","",12916,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Watchman","2/8/124",26,"496.77","","","","","496.77",12916,"","","","",12916,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Driver","2/8/124",26,"510.23","","","","","510.23",13266,"","","","",13266,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Store Assistant","2/8/124",26,"510.23","","","","","510.23",13266,"","","","",13266,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Salesman","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Typist","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Clerk","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Cashier","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Asst Manager","2/8/124",26,"535.62","","","","","535.62",13926,"","","","",13926,"Food Bakeries"
+"Puducherry","","","Biscuit Manufacturer","General Category","Manager","2/8/124",26,"551.58","","","","","551.58",14341,"","","","",14341,"Food Bakeries"
+"Puducherry","","","Bakeries","Unskilled","","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Unskilled","Cleaner","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Unskilled","Assistant","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Unskilled","Helper","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Unskilled","Assistant Baker","2/8/124",30,432,"","","","",432,"12960.00","","","","","12960.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","Bread Moulder","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","Bun Rounder","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","Dough Maker","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","Table Man","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","Oven Keeper","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Semi Skilled","Baker","2/8/124",30,448,"","","","",448,"13440.00","","","","","13440.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Skilled","","2/8/124",30,462,"","","","",462,"13860.00","","","","","13860.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Skilled","Head Baker","2/8/124",30,462,"","","","",462,"13860.00","","","","","13860.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Skilled","Supervisor","2/8/124",30,462,"","","","",462,"13860.00","","","","","13860.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Highly Skilled","","2/8/124",30,479,"","","","",479,"14370.00","","","","","14370.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","Highly Skilled","Bakery Maistry","2/8/124",30,479,"","","","",479,"14370.00","","","","","14370.00","Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Peon","2/8/124",26,"496.77","","","","","496.77",12916,"","","","",12916,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Watchman","2/8/124",26,"496.77","","","","","496.77",12916,"","","","",12916,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Driver","2/8/124",26,"510.23","","","","","510.23",13266,"","","","",13266,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Store Assistant","2/8/124",26,"510.23","","","","","510.23",13266,"","","","",13266,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Salesman","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Typist","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Clerk","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Cashier","2/8/124",26,"515.42","","","","","515.42",13401,"","","","",13401,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Asst Manager","2/8/124",26,"535.62","","","","","535.62",13926,"","","","",13926,"Food Industry Biscuit"
+"Puducherry","","","Bakeries","General Category","Manager","2/8/124",26,"551.58","","","","","551.58",14341,"","","","",14341,"Food Industry Biscuit"
+"Puducherry","","","Shops & Commercial Establishments","Special Category","General workers","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Workers engaged in drying, storing, washing, measuring loading and unloading in pandagasalai, warehouse, godown, store room and hill produce merchant shops","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Loading/Unloading","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Measurer","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Washing Worker","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Stone man","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Dryer","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Tyre grinder in tyre resoling, retreading and tube vulcanizing shops","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Firewood Cutter in Fire-Wood Shop","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Engraver in steel and aluminium vessels shops","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Fruit Juice and Lassi makers in shops","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Air-condition Plant Operator","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Skilled labour in Lift Installing Establishments","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Photo Frame Worker and Cutter","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Operator in Petrol Bunks","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Suitcase/All kinds of Bags and Purse makers (other than leather)","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Polisher in Auto-Mobile Dealers shop","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Umbrella Fitting, Stitching and Cutting in Umbrella shop","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Technician in Musical Instruments Shop","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Rattan Worker","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Polisher","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Carpenter","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Electrician","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Painter","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Plumber","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Mason","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Canvassar","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Room Boy","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Legal Assistant","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Junior Development Officer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Personal Assistant","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Auditor","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Secretary","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Office Superintendent","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Chief Accountant","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Laboratory Technician/Analyst","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","X-Ray Photographer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Radiographer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Mike Operator","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Assistant Wireman","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Wireman","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Electrician/Wireman/ Electrical Repairer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Painter/Artist","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Assistant Engraver","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Block maker","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Engraver","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Refractionary Man","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Purchaser","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Grinding Worker","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Optical Mechanic/Grinder/Purchaser","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Bicycle Fitter","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Audio and Video Mechanic/Repairer","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Radio Mechanic/Repairer","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Watch Mechanic","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Assistant Photographer","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Assistant Photo Artist","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Photo Artist","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Photographer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Beautician","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Hair Cutter","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Hair Dresser","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Compounder","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Chemist","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Shops & Commercial Establishments","Special Category","Pharmacist","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Scavenger","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Gardener","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Sweeper","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Water boy","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Shop boy","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Lift Operator","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Messenger","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Delivery boy","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Attender","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Packer","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Helper","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Shop Assistant","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Watchman","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Peon","2/8/124",26,"428.12","","","","","428.12",11131,"","","","",11131,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Driver","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Security guard","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Weighman","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Tally Clerk","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Lineman","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Receptionist","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Accounts Assistant","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Godown in-charge","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Asst Salesman","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Godown Keeper","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Bill clerk","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Booking Clerk","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Bill Collector","2/8/124",26,"430.46","","","","","430.46",11192,"","","","",11192,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Bill writer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Tradesman","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Auction Bidder","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Sales Representative","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Salesman","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Stenographer","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Typist","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Typist-cum-clerk","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Clerk","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Cashier","2/8/124",26,"432.38","","","","","432.38",11242,"","","","",11242,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Agent","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Sales Promotion Employees","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Store Keeper","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Purchaser","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Sales Executive","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Supervisor","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Accountant","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Asst Manager","2/8/124",26,"433.96","","","","","433.96",11283,"","","","",11283,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Development Officer","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Field Officer","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Sales Manager","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Officer in Charge","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Shops & Commercial Establishments","General Category","Manager","2/8/124",26,"449.81","","","","","449.81",11695,"","","","",11695,0
+"Puducherry","","","Automobile Workshops","Unskilled","Petrol Pump Operator","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Unskilled","Water Carrier","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Unskilled","Helper","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Unskilled","Cleaner","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Unskilled","Sweeper","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Unskilled","Scavenger","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Fitter Helper","2/8/124",26,"556.96","","","","","556.96",14481,"","","","",14481,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Lubrication Assistant","2/8/124",26,"556.96","","","","","556.96",14481,"","","","",14481,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Hammerman","2/8/124",26,"556.96","","","","","556.96",14481,"","","","",14481,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Assistant Painter","2/8/124",26,"562.27","","","","","562.27",14619,"","","","",14619,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Assistant Electrician","2/8/124",26,"569.08","","","","","569.08",14796,"","","","",14796,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Assistant Tinker","2/8/124",26,"569.08","","","","","569.08",14796,"","","","",14796,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Assistant Blacksmith","2/8/124",26,"569.08","","","","","569.08",14796,"","","","",14796,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Semi Skilled","Assistant Fitter","2/8/124",26,"569.08","","","","","569.08",14796,"","","","",14796,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Greaser","2/8/124",26,"554.12","","","","","554.12",14407,"","","","",14407,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Workshop Driver","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Assistant Welder","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Assistant Machinist","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Vulcaniser","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Battery Man","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Tyremen","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Winder","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Painter","2/8/124",26,"566.81","","","","","566.81",14737,"","","","",14737,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Moulder","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Tailor","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Machinist","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Welder","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Assistant Foreman","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Spray Painter","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Liner","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Turner","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Tinker","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Carpenter","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Blacksmith","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Electrician","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Fitter","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Assistant Mechanic","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Bench Fitter","2/8/124",26,"582.46","","","","","582.46",15144,"","","","",15144,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Skilled","Mechanic","2/8/124",26,"588.31","","","","","588.31",15296,"","","","",15296,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Supervisory","Workshop Tool Keeper","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Supervisory","Charge Men","2/8/124",26,"588.31","","","","","588.31",15296,"","","","",15296,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Supervisory","Supervisor","2/8/124",26,"588.31","","","","","588.31",15296,"","","","",15296,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Supervisory","Foreman","2/8/124",26,"599.15","","","","","599.15",15578,"","","","",15578,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Peon","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Watchman","2/8/124",26,"550.62","","","","","550.62",14316,"","","","",14316,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Attender","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Time Keeper","2/8/124",26,"565.42","","","","","565.42",14701,"","","","",14701,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Clerk","2/8/124",26,"575.77","","","","","575.77",14970,"","","","",14970,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Typist","2/8/124",26,"582.46","","","","","582.46",15144,"","","","",15144,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Store Keeper","2/8/124",26,"582.46","","","","","582.46",15144,"","","","",15144,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Cashier","2/8/124",26,"582.46","","","","","582.46",15144,"","","","",15144,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Accountant","2/8/124",26,"588.31","","","","","588.31",15296,"","","","",15296,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Asst Manager","2/8/124",26,"588.31","","","","","588.31",15296,"","","","",15296,"Vehicle car bike autopart"
+"Puducherry","","","Automobile Workshops","Administration","Manager","2/8/124",26,"599.15","","","","","599.15",15578,"","","","",15578,"Vehicle car bike autopart"
+"Puducherry","","","Security Services","","Security Guard (Male/ Female) - Employment In Security Services","2/8/124",26,"559.62","","","","","559.62",14550,"","","","",14550,"Watchman Guard"
+"Puducherry","","","Security Services","","Chief Watchman","2/8/124",26,"641.88","","","","","641.88",16689,"","","","",16689,"Watchman Guard"
+"Puducherry","","","Security Services","","Assistant Security Officer","2/8/124",26,"696.73","","","","","696.73",18115,"","","","",18115,"Watchman Guard"
+"Puducherry","","","Security Services","","Seargent","2/8/124",26,"696.73","","","","","696.73",18115,"","","","",18115,"Watchman Guard"
+"Puducherry","","","Security Services","","Corporal","2/8/124",26,"696.73","","","","","696.73",18115,"","","","",18115,"Watchman Guard"
+"Puducherry","","","Security Services","","Senior Security Officer","2/8/124",26,"751.58","","","","","751.58",19541,"","","","",19541,"Watchman Guard"
+"Puducherry","","","Security Services","","Senior Security Inspector","2/8/124",26,"751.58","","","","","751.58",19541,"","","","",19541,"Watchman Guard"
+"Puducherry","","","Security Services","","Helper","2/8/124",26,"587.04","","","","","587.04",15263,"","","","",15263,"Watchman Guard"
+"Puducherry","","","Security Services","","Supervisor","2/8/124",26,"655.54","","","","","655.54",17044,"","","","",17044,"Watchman Guard"
+"Puducherry","","","Security Services","","Asst Manager","2/8/124",26,"751.58","","","","","751.58",19541,"","","","",19541,"Watchman Guard"
+"Puducherry","","","Security Services","","Manager","2/8/124",26,"792.65","","","","","792.65",20609,"","","","",20609,"Watchman Guard"
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Attender","2/8/124",26,"550.88","","","","","550.88",14323,"","","","",14323,0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Clerk","2/8/124",26,"561.23","","","","","561.23",14592,"","","","",14592,0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Varukadalai Workers","2/8/124",30,503,"","","","",503,"15090.00","","","","","15090.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Carpenter","2/8/124",30,499,"","","","",499,"14970.00","","","","","14970.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Peon","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Loading/Unloading","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Grinding Worker","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Rice Measures","2/8/124",30,494,"","","","",494,"14820.00","","","","","14820.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Dhal Manufacturers","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Polisher","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Watchman","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Water Carrier","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Paddy Soakers","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Winnower","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Shellerman","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Sweeper","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Paddy Millers","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Paddy Driver","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Paddy Boiler","2/8/124",30,499,"","","","",499,"14970.00","","","","","14970.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Oiler","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Mechanic","2/8/124",30,503,"","","","",503,"15090.00","","","","","15090.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Maistries (Master Workman)","2/8/124",30,503,"","","","",503,"15090.00","","","","","15090.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Hullerman","2/8/124",30,494,"","","","",494,"14820.00","","","","","14820.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Fitter","2/8/124",30,499,"","","","",499,"14970.00","","","","","14970.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Fireman","2/8/124",30,494,"","","","",494,"14820.00","","","","","14820.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Electrician","2/8/124",30,511,"","","","",511,"15330.00","","","","","15330.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Engine Driver","2/8/124",30,511,"","","","",511,"15330.00","","","","","15330.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Carriers Rice","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Carriers Husk","2/8/124",30,493,"","","","",493,"14790.00","","","","","14790.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Bag Stitchers","2/8/124",30,499,"","","","",499,"14970.00","","","","","14970.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Mazdoor","2/8/124",30,499,"","","","",499,"14970.00","","","","","14970.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Weighman","2/8/124",30,499,"","","","",499,"14970.00","","","","","14970.00",0
+"Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Bag Carrier","2/8/124",30,503,"","","","",503,"15090.00","","","","","15090.00",0
+"Puducherry","","","Plastic Industry","General Category","Peon","2/8/124",26,"530.12","","","","","530.12",13783,"","","","",13783,0
+"Puducherry","","","Plastic Industry","General Category","Office Boy","2/8/124",26,"530.12","","","","","530.12",13783,"","","","",13783,0
+"Puducherry","","","Plastic Industry","General Category","Salesman","2/8/124",26,"539.35","","","","","539.35",14023,"","","","",14023,0
+"Puducherry","","","Plastic Industry","General Category","Attender","2/8/124",26,"539.35","","","","","539.35",14023,"","","","",14023,0
+"Puducherry","","","Plastic Industry","General Category","Stenographer","2/8/124",26,"586.15","","","","","586.15",15240,"","","","",15240,0
+"Puducherry","","","Plastic Industry","General Category","Typist","2/8/124",26,"581.50","","","","","581.50",15119,"","","","",15119,0
+"Puducherry","","","Plastic Industry","General Category","Receptionist","2/8/124",26,"576.81","","","","","576.81",14997,"","","","",14997,0
+"Puducherry","","","Plastic Industry","General Category","Office Assistant","2/8/124",26,"576.81","","","","","576.81",14997,"","","","",14997,0
+"Puducherry","","","Plastic Industry","General Category","Clerk","2/8/124",26,"576.81","","","","","576.81",14997,"","","","",14997,0
+"Puducherry","","","Plastic Industry","General Category","Accounts Assistant","2/8/124",26,"576.81","","","","","576.81",14997,"","","","",14997,0
+"Puducherry","","","Plastic Industry","General Category","Senior Assistant","2/8/124",26,"586.15","","","","","586.15",15240,"","","","",15240,0
+"Puducherry","","","Plastic Industry","General Category","Godown Keeper","2/8/124",26,"586.15","","","","","586.15",15240,"","","","",15240,0
+"Puducherry","","","Plastic Industry","General Category","Store Worker","2/8/124",26,"586.15","","","","","586.15",15240,"","","","",15240,0
+"Puducherry","","","Plastic Industry","General Category","Computer programmer","2/8/124",26,"586.15","","","","","586.15",15240,"","","","",15240,0
+"Puducherry","","","Plastic Industry","General Category","Accountant","2/8/124",26,"595.50","","","","","595.50",15483,"","","","",15483,0
+"Puducherry","","","Plastic Industry","General Category","Asst Manager","2/8/124",26,"646.12","","","","","646.12",16799,"","","","",16799,0
+"Puducherry","","","Plastic Industry","General Category","Manager","2/8/124",26,"698.42","","","","","698.42",18159,"","","","",18159,0
+"Puducherry","","","Plastic Industry","Highly Skilled","Supervisor","2/8/124",26,"614.19","","","","","614.19",15969,"","","","",15969,0
+"Puducherry","","","Plastic Industry","Highly Skilled","Foreman","2/8/124",26,"614.19","","","","","614.19",15969,"","","","",15969,0
+"Puducherry","","","Plastic Industry","Skilled","Dye Maker","2/8/124",26,"567.46","","","","","567.46",14754,"","","","",14754,0
+"Puducherry","","","Plastic Industry","Skilled","Electrician","2/8/124",26,"567.46","","","","","567.46",14754,"","","","",14754,0
+"Puducherry","","","Plastic Industry","Skilled","Moulder","2/8/124",26,"567.46","","","","","567.46",14754,"","","","",14754,0
+"Puducherry","","","Plastic Industry","Skilled","Setters","2/8/124",26,"567.46","","","","","567.46",14754,"","","","",14754,0
+"Puducherry","","","Plastic Industry","Skilled","Operator","2/8/124",26,"567.46","","","","","567.46",14754,"","","","",14754,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Laboratory Assistant","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Tailor","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Mechanic","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Cutter","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Assembler","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Welder","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Lathe Operator","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Turner","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Machine Assistant","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Printing","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Semi Skilled","Operator","2/8/124",26,"548.77","","","","","548.77",14268,"","","","",14268,0
+"Puducherry","","","Plastic Industry","Unskilled","Despatch Assistant","2/8/124",26,"458.27","","","","","458.27",11915,"","","","",11915,0
+"Puducherry","","","Plastic Industry","Unskilled","Packer","2/8/124",26,"458.27","","","","","458.27",11915,"","","","",11915,0
+"Puducherry","","","Plastic Industry","Unskilled","Finisher","2/8/124",26,"458.27","","","","","458.27",11915,"","","","",11915,0
+"Puducherry","","","Plastic Industry","Unskilled","Helper","2/8/124",26,"458.27","","","","","458.27",11915,"","","","",11915,0
+"Puducherry","","","Plastic Industry","Unskilled","Operator Helper","2/8/124",26,"539.35","","","","","539.35",14023,"","","","",14023,0
+"Puducherry","","","Handmade Paper Industry","General Category","Watchman","2/8/124",26,"414.35","","","","","414.35",10773,"","","","",10773,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","General Category","Office Boy","2/8/124",26,"414.35","","","","","414.35",10773,"","","","",10773,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","General Category","Driver","2/8/124",26,"416.27","","","","","416.27",10823,"","","","",10823,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Skilled","Accountant","2/8/124",26,"424.12","","","","","424.12",11027,"","","","",11027,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Skilled","Supervisor","2/8/124",26,"424.12","","","","","424.12",11027,"","","","",11027,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Skilled","Manager","2/8/124",26,"431.96","","","","","431.96",11231,"","","","",11231,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Semi Skilled","Welder","2/8/124",26,"416.27","","","","","416.27",10823,"","","","",10823,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Semi Skilled","Fitter","2/8/124",26,"416.27","","","","","416.27",10823,"","","","",10823,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Semi Skilled","Electrician","2/8/124",26,"416.27","","","","","416.27",10823,"","","","",10823,"Handicraft"
+"Puducherry","","","Handmade Paper Industry","Unskilled","","2/8/124",26,"408.42","","","","","408.42",10619,"","","","",10619,"Handicraft"
+"Puducherry","","","Machine Made Paper Industries","","Head Watchman","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","","Driver","2/8/124",26,"430.69","","","","","430.69",11198,"","","","",11198,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","","Clerk","2/8/124",26,"430.69","","","","","430.69",11198,"","","","",11198,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","","Typist","2/8/124",26,"430.69","","","","","430.69",11198,"","","","",11198,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","","Accountant","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Supervisory","","2/8/124",26,"463.92","","","","","463.92",12062,"","","","",12062,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Highly Skilled","","2/8/124",26,"463.92","","","","","463.92",12062,"","","","",12062,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Turner","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Finisher","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Smith","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Carpenter","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Fitter","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Welder","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Electrician","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Equivalent Operators","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Cutting Machine Operator","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Pulp Making Operator","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Paper Machine Operator","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Calender Operator","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Water Treatment Plant Operator","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Skilled","Boiler Operator","2/8/124",26,"450.23","","","","","450.23",11706,"","","","",11706,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Pulper","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Fitter Helper","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Helper","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Packer","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Stitcher","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Wire Boy","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Refiner","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Machine man","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Semi Skilled","Color man","2/8/124",26,"434.62","","","","","434.62",11300,"","","","",11300,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Unskilled","Mazdoor","2/8/124",26,"426.77","","","","","426.77",11096,"","","","",11096,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Unskilled","Press Boy","2/8/124",26,"426.77","","","","","426.77",11096,"","","","",11096,"Stationery"
+"Puducherry","","","Machine Made Paper Industries","Unskilled","Driver","2/8/124",26,"428.69","","","","","428.69",11146,"","","","",11146,"Stationery"
+"Puducherry","","","Oil Mills","Unskilled","Boiler Attender","2/8/124",30,425,"","","","",425,"12750.00","","","","","12750.00",0
+"Puducherry","","","Oil Mills","Unskilled","Oil Packer","2/8/124",30,425,"","","","",425,"12750.00","","","","","12750.00",0
+"Puducherry","","","Oil Mills","Unskilled","Expeller Attender","2/8/124",30,425,"","","","",425,"12750.00","","","","","12750.00",0
+"Puducherry","","","Oil Mills","Unskilled","Winnower","2/8/124",30,423,"","","","",423,"12690.00","","","","","12690.00",0
+"Puducherry","","","Oil Mills","Unskilled","Decorticator","2/8/124",30,423,"","","","",423,"12690.00","","","","","12690.00",0
+"Puducherry","","","Oil Mills","Unskilled","Mazdoor","2/8/124",30,417,"","","","",417,"12510.00","","","","","12510.00",0
+"Puducherry","","","Oil Mills","Unskilled","Cake Carrier","2/8/124",30,417,"","","","",417,"12510.00","","","","","12510.00",0
+"Puducherry","","","Oil Mills","Unskilled","Sweeper","2/8/124",30,417,"","","","",417,"12510.00","","","","","12510.00",0
+"Puducherry","","","Oil Mills","Skilled","Solvent Extraction Plant Operator","2/8/124",26,"469.46","","","","","469.46",12206,"","","","",12206,0
+"Puducherry","","","Oil Mills","Skilled","Refinery Operator","2/8/124",26,"469.46","","","","","469.46",12206,"","","","",12206,0
+"Puducherry","","","Oil Mills","Skilled","Pint Man","2/8/124",30,431,"","","","",431,"12930.00","","","","","12930.00",0
+"Puducherry","","","Oil Mills","Skilled","Rotary Man","2/8/124",30,431,"","","","",431,"12930.00","","","","","12930.00",0
+"Puducherry","","","Oil Mills","Skilled","Boiler Man","2/8/124",30,433,"","","","",433,"12990.00","","","","","12990.00",0
+"Puducherry","","","Oil Mills","Skilled","Mechanic","2/8/124",30,431,"","","","",431,"12930.00","","","","","12930.00",0
+"Puducherry","","","Oil Mills","Skilled","Fitter","2/8/124",30,431,"","","","",431,"12930.00","","","","","12930.00",0
+"Puducherry","","","Oil Mills","Skilled","Blacksmith","2/8/124",30,433,"","","","",433,"12990.00","","","","","12990.00",0
+"Puducherry","","","Oil Mills","Skilled","Carpenter","2/8/124",30,433,"","","","",433,"12990.00","","","","","12990.00",0
+"Puducherry","","","Oil Mills","Skilled","Supervisor","2/8/124",30,435,"","","","",435,"13050.00","","","","","13050.00",0
+"Puducherry","","","Oil Mills","Skilled","Maistries (Master Workman)","2/8/124",30,435,"","","","",435,"13050.00","","","","","13050.00",0
+"Puducherry","","","Oil Mills","Skilled","Expeller Attender","2/8/124",30,435,"","","","",435,"13050.00","","","","","13050.00",0
+"Puducherry","","","Oil Mills","Skilled","Engine Operator","2/8/124",30,435,"","","","",435,"13050.00","","","","","13050.00",0
+"Puducherry","","","Oil Mills","Skilled","Engine Driver","2/8/124",30,435,"","","","",435,"13050.00","","","","","13050.00",0
+"Puducherry","","","Oil Mills","Skilled","Electrician","2/8/124",30,435,"","","","",435,"13050.00","","","","","13050.00",0
+"Puducherry","","","Oil Mills","Administration","Watchman","2/8/124",26,"431.69","","","","","431.69",11224,"","","","",11224,0
+"Puducherry","","","Oil Mills","Administration","Office Boy","2/8/124",26,"421.38","","","","","421.38",10956,"","","","",10956,0
+"Puducherry","","","Oil Mills","Administration","Peon","2/8/124",26,"428.62","","","","","428.62",11144,"","","","",11144,0
+"Puducherry","","","Oil Mills","Administration","Typist","2/8/124",26,"434.88","","","","","434.88",11307,"","","","",11307,0
+"Puducherry","","","Oil Mills","Administration","Cashier","2/8/124",26,"434.88","","","","","434.88",11307,"","","","",11307,0
+"Puducherry","","","Oil Mills","Administration","Time Keeper","2/8/124",26,"434.88","","","","","434.88",11307,"","","","",11307,0
+"Puducherry","","","Oil Mills","Administration","Clerk","2/8/124",26,"434.88","","","","","434.88",11307,"","","","",11307,0
+"Puducherry","","","Leather Goods Manufacturer","Skilled","","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Semi Skilled","","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,0
+"Puducherry","","","Leather Goods Manufacturer","Unskilled","","2/8/124",26,"426.65","","","","","426.65",11093,"","","","",11093,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Gardener","2/8/124",26,"426.65","","","","","426.65",11093,"","","","",11093,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Attender","2/8/124",26,"426.65","","","","","426.65",11093,"","","","",11093,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Cleaner","2/8/124",26,"426.65","","","","","426.65",11093,"","","","",11093,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Electrician","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Mechanic","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Driver","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Cashier","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Computer Operator","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Time Keeper","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Typist","2/8/124",26,"459.12","","","","","459.12",11937,"","","","",11937,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Store Keeper","2/8/124",26,"475.12","","","","","475.12",12353,"","","","",12353,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Superintendent","2/8/124",26,"475.12","","","","","475.12",12353,"","","","",12353,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Accountant","2/8/124",26,"491.62","","","","","491.62",12782,"","","","",12782,0
+"Puducherry","","","Leather Goods Manufacturer","Administration","Manager","2/8/124",26,"515.92","","","","","515.92",13414,"","","","",13414,0
+"Puducherry","","","Hotels and Restaurants","Class 5","Lift Operator","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Page Boy","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Office Boy","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Water Carrier","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Chambermaid","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Gardener","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Masalchi","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Lasker","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Luggage Carriers","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Room Attendant","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 5","Cleaner","2/8/124",26,"491.81","","","","","491.81",12787,"","","","",12787,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Stall Server","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Kitchen Assistant","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Mikkals","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Pantryman","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Coffee Frayer and Grinder","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Vegetable Cutter","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Store Assistant","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Bearer","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Waiter","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Room Server","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 4","Supplier","2/8/124",26,"493.65","","","","","493.65",12835,"","","","",12835,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Security guard","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Watchman","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Tailor","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Carpenter","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Plumber","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Air-Condition Mechanic","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Electrician","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Driver","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Grinding Worker","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Head Waiter","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Paratha & Roti Maker","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Tea Maker","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Ice Cream Wala","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Idly Maker","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Dosai Maker","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 3","Assistant Cook (Chinna Aduppu)","2/8/124",26,"495.81","","","","","495.81",12891,"","","","",12891,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 2","Pantry-in-charge","2/8/124",26,"498.35","","","","","498.35",12957,"","","","",12957,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 2","Head House Keeper","2/8/124",26,"498.35","","","","","498.35",12957,"","","","",12957,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 2","Barman","2/8/124",26,"498.35","","","","","498.35",12957,"","","","",12957,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 2","Steward","2/8/124",26,"498.35","","","","","498.35",12957,"","","","",12957,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 2","Baker","2/8/124",26,"498.35","","","","","498.35",12957,"","","","",12957,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 2","Assistant Cook","2/8/124",26,"498.35","","","","","498.35",12957,"","","","",12957,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Purchase Officer","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Accountant","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Asst Manager","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Cashier","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Telephone Operator","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Typist","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Stenographer","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Bill writer","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Clerk","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Supervisor","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Receptionist","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Biriyani Master","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Sweet and Savoury Maker","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Head Baker","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","Hotels and Restaurants","Class 1","Head Cook","2/8/124",26,"500.54","","","","","500.54",13014,"","","","",13014,"Eating House Cantin Accommodation"
+"Puducherry","","","General Engineering and Fabrication","Unskilled","","2/8/124",30,495,"","","","",495,"14850.00","","","","","14850.00","Metal"
+"Puducherry","","","General Engineering and Fabrication","Semi Skilled B","","2/8/124",30,502,"","","","",502,"15060.00","","","","","15060.00","Metal"
+"Puducherry","","","General Engineering and Fabrication","Semi Skilled A","","2/8/124",30,507,"","","","",507,"15210.00","","","","","15210.00","Metal"
+"Puducherry","","","General Engineering and Fabrication","Skilled","","2/8/124",30,515,"","","","",515,"15450.00","","","","","15450.00","Metal"
+"Puducherry","","","General Engineering and Fabrication","Supervisory","Workshop Tool Keeper","2/8/124",26,"515.69","","","","","515.69",13408,"","","","",13408,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Supervisory","Charge Men","2/8/124",26,"530.81","","","","","530.81",13801,"","","","",13801,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Supervisory","Supervisor","2/8/124",26,"530.81","","","","","530.81",13801,"","","","",13801,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Supervisory","Foreman","2/8/124",26,"537.27","","","","","537.27",13969,"","","","",13969,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Peon","2/8/124",26,"503.54","","","","","503.54",13092,"","","","",13092,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Watchman","2/8/124",26,"503.54","","","","","503.54",13092,"","","","",13092,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Security guard","2/8/124",26,"515.69","","","","","515.69",13408,"","","","",13408,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Attender","2/8/124",26,"515.69","","","","","515.69",13408,"","","","",13408,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Time Keeper","2/8/124",26,"515.69","","","","","515.69",13408,"","","","",13408,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Clerk","2/8/124",26,"522.46","","","","","522.46",13584,"","","","",13584,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Typist","2/8/124",26,"526.31","","","","","526.31",13684,"","","","",13684,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Store Keeper","2/8/124",26,"526.31","","","","","526.31",13684,"","","","",13684,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Cashier","2/8/124",26,"526.31","","","","","526.31",13684,"","","","",13684,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Accountant","2/8/124",26,"530.81","","","","","530.81",13801,"","","","",13801,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Asst Manager","2/8/124",26,"530.81","","","","","530.81",13801,"","","","",13801,"Metal"
+"Puducherry","","","General Engineering and Fabrication","Administration","Manager","2/8/124",26,"537.27","","","","","537.27",13969,"","","","",13969,"Metal"
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","","Cleaner","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00",0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","","Packer","2/8/124",26,432,"","","","",432,"11232.00","","","","","11232.00",0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","","Production Assistant-Automatic Units","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","","Purchaser","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food – Sweets and Snacks Manufacturers","","Sweet Master","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,"Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","","Packer","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Milk Products"
+"Puducherry","","","Food – Milk Gova Manufacturers","","Gova Maker","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00","Milk Products"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,"Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","","Packer","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","","Master","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Dessert Industry"
+"Puducherry","","","Food – Groundnut Cake Manufacturers","","Cutter","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Dessert Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,"Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","","General workers","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","","Cracker","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00","Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","","Peeler","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00","Fruit Industry"
+"Puducherry","","","Food – Coconut Products Manufacturer","","Machine Operator","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00","Fruit Industry"
+"Puducherry","","","Food – Vermicelli","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,"Pasta"
+"Puducherry","","","Food – Vermicelli","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,"Pasta"
+"Puducherry","","","Food – Vermicelli","","General workers","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Pasta"
+"Puducherry","","","Food – Vermicelli","","Packer","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Pasta"
+"Puducherry","","","Food – Vermicelli","","Foreman","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00","Pasta"
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,0
+"Puducherry","","","Food – Ice-cream Manufacturer","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Helper","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Cleaner","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Cold Room Boy","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Tinker","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Carpenter","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Electrician","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Mechanic","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Freezer Operator","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food – Ice-cream Manufacturer","","Mix Room Operator","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,"Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Loading/Unloading","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Helper","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Sorter","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Cleaner","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Cutter","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Mixer","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Scamer Operator","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Boiler Operator","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Generator Operator","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Snacks"
+"Puducherry","","","Food – Fruit Jam and Pulp Manufacturer","","Mechanic","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00","Snacks"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,"Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","","Packer","2/8/124",26,427,"","","","",427,"11102.00","","","","","11102.00","Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","","Cleaner","2/8/124",26,427,"","","","",427,"11102.00","","","","","11102.00","Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","","Helper","2/8/124",26,427,"","","","",427,"11102.00","","","","","11102.00","Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","","Powdering and Mixing","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","","Mixer","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Spices"
+"Puducherry","","","Food – Pickles and Masala Powder Manufacturer","","Cutter","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00","Spices"
+"Puducherry","","","Food Processing Industry","","Packer Sweets and Snacks","2/8/124",26,432,"","","","",432,"11232.00","","","","","11232.00",0
+"Puducherry","","","Food Processing Industry","","Production Assistant-Automatic Units","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Purchaser","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Sweet Master","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food Processing Industry","","Gova Maker","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food Processing Industry","","Master","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Cracker","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Peeler","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Machine Operator","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food Processing Industry","","General Workers in Vermicelli Manufacture","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00",0
+"Puducherry","","","Food Processing Industry","","Packer Vermicelli","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00",0
+"Puducherry","","","Food Processing Industry","","Foreman","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Cleaner in Ice Cream Manufacturing","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Cold Room Boy","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Tinker","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Carpenter","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Electrician","2/8/124",26,441,"","","","",441,"11466.00","","","","","11466.00",0
+"Puducherry","","","Food Processing Industry","","Freezer Operator","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food Processing Industry","","Mix Room Operator","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food Processing Industry","","Loading/Unloading","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00",0
+"Puducherry","","","Food Processing Industry","","Sorter","2/8/124",26,426,"","","","",426,"11076.00","","","","","11076.00",0
+"Puducherry","","","Food Processing Industry","","Scamer Operator","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Boiler Operator","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Generator Operator","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Mechanic","2/8/124",26,459,"","","","",459,"11934.00","","","","","11934.00",0
+"Puducherry","","","Food Processing Industry","","Packer","2/8/124",26,427,"","","","",427,"11102.00","","","","","11102.00",0
+"Puducherry","","","Food Processing Industry","","Cleaner","2/8/124",26,427,"","","","",427,"11102.00","","","","","11102.00",0
+"Puducherry","","","Food Processing Industry","","Helper","2/8/124",26,427,"","","","",427,"11102.00","","","","","11102.00",0
+"Puducherry","","","Food Processing Industry","","Powdering and Mixing","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Mixer","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","","Cutter","2/8/124",26,433,"","","","",433,"11258.00","","","","","11258.00",0
+"Puducherry","","","Food Processing Industry","General Category","Scavenger","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food Processing Industry","General Category","Sweeper","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food Processing Industry","General Category","Watchman","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food Processing Industry","General Category","Security guard","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food Processing Industry","General Category","Delivery boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food Processing Industry","General Category","Office Boy","2/8/124",26,"426.27","","","","","426.27",11083,"","","","",11083,0
+"Puducherry","","","Food Processing Industry","General Category","Driver","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food Processing Industry","General Category","Bill clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food Processing Industry","General Category","Asst Salesman","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food Processing Industry","General Category","Delivery Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food Processing Industry","General Category","Booking Clerk","2/8/124",26,"433.85","","","","","433.85",11280,"","","","",11280,0
+"Puducherry","","","Food Processing Industry","General Category","Store Keeper","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food Processing Industry","General Category","Sales Incharge","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food Processing Industry","General Category","Typist","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food Processing Industry","General Category","Collection Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food Processing Industry","General Category","Clerk","2/8/124",26,"436.12","","","","","436.12",11339,"","","","",11339,0
+"Puducherry","","","Food Processing Industry","General Category","Cashier","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food Processing Industry","General Category","Accountant","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food Processing Industry","General Category","Supervisor","2/8/124",26,"439.77","","","","","439.77",11434,"","","","",11434,0
+"Puducherry","","","Food Processing Industry","General Category","Chemist","2/8/124",26,"442.88","","","","","442.88",11515,"","","","",11515,0
+"Puducherry","","","Food Processing Industry","General Category","Manager","2/8/124",26,"476.58","","","","","476.58",12391,"","","","",12391,0
+"Puducherry","","","Electronic Industry","Unskilled","","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Unskilled","Packer","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Unskilled","Mazdoor","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Unskilled","Cleaner","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Unskilled","Helper","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Polisher","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Painter","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Drilling","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Punch Operator","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Printing Operator","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Press Operator","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Assembler","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Planting Co-ordinator","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Testing","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Mounting","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Soldering","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Wiring","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Semi Skilled","Winder","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Maintenance Assistant","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Aligner","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Clerk Cum Computer Operator","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Radio and Television Mechanic","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Electrician","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Turner","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Fitter","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Welder","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Moulder","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Dye Casting Operator","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Miller","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Machine Operator","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Machinist","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Cameraman","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Draughtsman","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Dye Maker","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Mechanic","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Technical Assistant","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Technician","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Skilled","Quality Inspector","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Highly Skilled","","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Highly Skilled","Laboratory Technician/Analyst","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Highly Skilled","Assembling Supervisor","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","Highly Skilled","Workshop Supervisor","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Telephone Operator","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Receptionist","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Scavenger","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Sweeper","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Water boy","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Gardener","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Office Boy","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Attender","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Peon","2/8/124",26,"517.00","","","","","517.00",13442,"","","","",13442,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Security guard","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Watchman","2/8/124",26,"527.38","","","","","527.38",13712,"","","","",13712,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Driver","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Time Keeper","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Store Keeper","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Store Assistant","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Cashier","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Office Assistant","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Clerk","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Typist","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Stenographer","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Accountant","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Assistant - Production Planning Control","2/8/124",26,"579.08","","","","","579.08",15056,"","","","",15056,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Purchase Assistant","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Electronic Industry","General Category","Asst Salesman","2/8/124",26,"548.04","","","","","548.04",14249,"","","","",14249,"Hardware Semiconductor"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Helper","2/8/124","","NaN","","","","","NaN",11660,"","","","",11660,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Delivery boy","2/8/124","","NaN","","","","","NaN",11730,"","","","",11730,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Godown Keeper","2/8/124","","NaN","","","","","NaN",11730,"","","","",11730,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Driver (Light Vehicle)","2/8/124","","NaN","","","","","NaN",11730,"","","","",11730,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Clerk","2/8/124","","NaN","","","","","NaN",11790,"","","","",11790,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Salesman","2/8/124","","NaN","","","","","NaN",11790,"","","","",11790,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Cashier","2/8/124","","NaN","","","","","NaN",11790,"","","","",11790,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Mechanic","2/8/124","","NaN","","","","","NaN",11790,"","","","",11790,"House LPG"
+"Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","","Manager","2/8/124","","NaN","","","","","NaN",12180,"","","","",12180,"House LPG"
+"Puducherry","","","Chemical Industry","","House Keeper","2/8/124","","NaN","","","","","NaN",14500,"","","","",14500,0
+"Puducherry","","","Chemical Industry","","Chemical Operator","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Rigger","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Fitter","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Welder","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","IBR Welder","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Boiler Operator","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Forklift Operator","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","PDC Operator","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","De-Mineralized water plant operator","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Instrumentation Technician","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Technician Electrical","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","","Technician Mechanical","2/8/124","","NaN","","","","","NaN",15100,"","","","",15100,0
+"Puducherry","","","Chemical Industry","Administration","Driver","2/8/124","","NaN","","","","","NaN",15650,"","","","",15650,0
+"Puducherry","","","Chemical Industry","Administration","Helper","2/8/124","","NaN","","","","","NaN",15300,"","","","",15300,0
+"Puducherry","","","Chemical Industry","Administration","Office Assistant","2/8/124","","NaN","","","","","NaN",15300,"","","","",15300,0
+"Puducherry","","","Chemical Industry","Administration","Administrative Assistant","2/8/124","","NaN","","","","","NaN",15650,"","","","",15650,0
+"Puducherry","","","Chemical Industry","Administration","Administrative Manager","2/8/124","","NaN","","","","","NaN",16450,"","","","",16450,0
+"Puducherry","","","Chemical Industry","","Safety Officer","2/8/124","","NaN","","","","","NaN",16850,"","","","",16850,0
+"Puducherry","","","Chemical Industry","Technical","Supervisor","2/8/124","","NaN","","","","","NaN",16850,"","","","",16850,0
+"Puducherry","","","Chemical Industry","Technical","Engineer","2/8/124","","NaN","","","","","NaN",17250,"","","","",17250,0
+"Puducherry","","","Chemical Industry","Technical","Manager","2/8/124",26,"682.69","","","","","682.69",17750,"","","","",17750,0
 "Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Attender","1/0/120",26,"282.69","",10,"","","294.23",7350,"",300,"","",7650,0
 "Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Clerk","1/0/120",26,"289.42","",10,"","","300.96",7525,"",300,"","",7825,0
 "Puducherry","","","Rice Mills, Flour Mills or Dal Mills","","Varukadalai Workers","1/0/120",30,289,"",10,"","",299,"8670.00","","300.00","","","8970.00",0
@@ -1195,77 +2179,77 @@
 "Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","Group B","Clerk Cum Computer Operator","1/0/120",26,"279.35","","70.88","","","350.23",7263,"",1843,"","",9106,"House LPG"
 "Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","Group B","Accountant","1/0/120",26,"279.35","","70.88","","","350.23",7263,"",1843,"","",9106,"House LPG"
 "Puducherry","","","Distribution of Liquid Petroleum Gas Cylinders","Group A","Manager","1/0/120",26,"290.12","","70.88","","","361.00",7543,"",1843,"","",9386,"House LPG"
-"Puducherry","","","Bricks or Roof Tiles","","Mould Operators","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Mosaic Tiles Mixer","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Mosaic Tiles Man","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Mosaic Tiles Helper","1/0/120",30,176,"",21,"","",197,"5280.00","","630.00","","","5910.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Cement Tiles Pressers","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Cement Special Tiles Mixer","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Cement Special Tiles Maker","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Cutter","1/0/120",30,284,"",21,"","",305,"8520.00","","630.00","","","9150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Fireman","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Table Mould Bricks 1000","1/0/120",30,289,"",21,"","",310,"8670.00","","630.00","","","9300.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Transporting Bricks in Kiln 1000","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Country Bricks 1000","1/0/120",30,224,"",21,"","",245,"6720.00","","630.00","","","7350.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","","Chamber Bricks 1000","1/0/120",30,274,"",21,"","",295,"8220.00","","630.00","","","8850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Head Mistry","1/0/120",30,217,"",21,"","",238,"6510.00","","630.00","","","7140.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Mistry","1/0/120",30,206,"",21,"","",227,"6180.00","","630.00","","","6810.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Office Boy","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Store Keeper","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Accountant","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Clerk","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Supervisor","1/0/120",30,222,"",21,"","",243,"6660.00","","630.00","","","7290.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Technical Supervisor","1/0/120",30,224,"",21,"","",245,"6720.00","","630.00","","","7350.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Group D","Foreman","1/0/120",30,229,"",21,"","",250,"6870.00","","630.00","","","7500.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Chips Sorenmers (Mosaic)","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Colour Mixers (Mosaic)","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Box Removers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Tile Plasters (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Sand Suppliers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Head Load Workers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Sand and Cement Mixers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Water Carrier","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Pallet Collectors.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Pallet Suppliers.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Raw Brick Carrier","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Raw tiles removers from frame.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Sweeper","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Slab Placers.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","General Coolies.","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Clay Feeders.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Slab Cutters and Slab Carriers.","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Loading/Unloading","1/0/120",30,176,"",21,"","",197,"5280.00","","630.00","","","5910.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Clay Transporters and Carriers.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Fuel Carriers.","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Tile Carriers.","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Helper","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Material Carriers","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 2","Material Handling workers","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Watchman","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Security guard","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Kiln Burners.","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Artificial drying fire attenders.","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Trimming Work","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Wheel tunners.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Burnt goods sorters and packers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Loading/Unloading","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Clay Mixers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Clay Slicers and Transplers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Die Pullers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Tile Makers","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Bricks Maker","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Pressing Man","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Class 1","Mould Helper","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Dye Maker","1/0/120",30,217,"",21,"","",238,"6510.00","","630.00","","","7140.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Welder","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Engine Driver","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Operator","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Mason","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Mechanic","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Electrician","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Fitter","1/0/120",30,217,"",21,"","",238,"6510.00","","630.00","","","7140.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Carpenter","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
-"Puducherry","","","Bricks or Roof Tiles","Skilled","Blacksmith","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mould Operators","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mosaic Tiles Mixer","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mosaic Tiles Man","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Mosaic Tiles Helper","1/0/120",30,176,"",21,"","",197,"5280.00","","630.00","","","5910.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cement Tiles Pressers","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cement Special Tiles Mixer","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cement Special Tiles Maker","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Cutter","1/0/120",30,284,"",21,"","",305,"8520.00","","630.00","","","9150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Fireman","1/0/120",30,189,"",21,"","",210,"5670.00","","630.00","","","6300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Table Mould Bricks 1000","1/0/120",30,289,"",21,"","",310,"8670.00","","630.00","","","9300.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Transporting Bricks in Kiln 1000","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Country Bricks 1000","1/0/120",30,224,"",21,"","",245,"6720.00","","630.00","","","7350.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","","Chamber Bricks 1000","1/0/120",30,274,"",21,"","",295,"8220.00","","630.00","","","8850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Head Mistry","1/0/120",30,217,"",21,"","",238,"6510.00","","630.00","","","7140.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Mistry","1/0/120",30,206,"",21,"","",227,"6180.00","","630.00","","","6810.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Office Boy","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Store Keeper","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Accountant","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Clerk","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Supervisor","1/0/120",30,222,"",21,"","",243,"6660.00","","630.00","","","7290.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Technical Supervisor","1/0/120",30,224,"",21,"","",245,"6720.00","","630.00","","","7350.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Group D","Foreman","1/0/120",30,229,"",21,"","",250,"6870.00","","630.00","","","7500.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Chips Sorenmers (Mosaic)","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Colour Mixers (Mosaic)","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Box Removers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Tile Plasters (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Sand Suppliers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Head Load Workers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Sand and Cement Mixers (Mosaic).","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Water Carrier","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Pallet Collectors.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Pallet Suppliers.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Raw Brick Carrier","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Raw tiles removers from frame.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Sweeper","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Slab Placers.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","General Coolies.","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Clay Feeders.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Slab Cutters and Slab Carriers.","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Loading/Unloading","1/0/120",30,176,"",21,"","",197,"5280.00","","630.00","","","5910.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Clay Transporters and Carriers.","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Fuel Carriers.","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Tile Carriers.","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Helper","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Material Carriers","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 2","Material Handling workers","1/0/120",30,179,"",21,"","",200,"5370.00","","630.00","","","6000.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Watchman","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Security guard","1/0/120",30,174,"",21,"","",195,"5220.00","","630.00","","","5850.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Kiln Burners.","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Artificial drying fire attenders.","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Trimming Work","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Wheel tunners.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Burnt goods sorters and packers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Loading/Unloading","1/0/120",30,182,"",21,"","",203,"5460.00","","630.00","","","6090.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Clay Mixers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Clay Slicers and Transplers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Die Pullers.","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Tile Makers","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Bricks Maker","1/0/120",30,187,"",21,"","",208,"5610.00","","630.00","","","6240.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Pressing Man","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Class 1","Mould Helper","1/0/120",30,184,"",21,"","",205,"5520.00","","630.00","","","6150.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Dye Maker","1/0/120",30,217,"",21,"","",238,"6510.00","","630.00","","","7140.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Welder","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Engine Driver","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Operator","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Mason","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Mechanic","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Electrician","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Fitter","1/0/120",30,217,"",21,"","",238,"6510.00","","630.00","","","7140.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Carpenter","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
+"Puducherry","","","Bricks and Tiles Manufacturer","Skilled","Blacksmith","1/0/120",30,209,"",21,"","",230,"6270.00","","630.00","","","6900.00","Constructions"
 "Puducherry","","","Sweeping and Cleaning","Unskilled","Sweeper","1/0/120",30,166,"",124,"","",290,"4980.00","","3720.00","","","8700.00","Scavengers"
 "Puducherry","","","Sweeping and Cleaning","Unskilled","Cleaner","1/0/120",30,166,"",124,"","",290,"4980.00","","3720.00","","","8700.00","Scavengers"
 "Puducherry","","","Shops & Commercial Establishments","Special Category","General workers","1/0/120",26,"258.35","","8.96","","","267.31",6717,"",233,"","",6950,0

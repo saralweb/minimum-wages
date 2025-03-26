@@ -1,4 +1,406 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Highly Skilled","","1/3/124",30,483,"","",-36,"",447,14490,"","",-1080,"",13410,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Skilled","","1/3/124",30,464,"","",-37,"",427,13920,"","",-1110,"",12810,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Semi Skilled","","1/3/124",30,423,"","",-10,"",413,12690,"","",-300,"",12390,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Unskilled","","1/3/124",30,400,"","",-29,"",371,12000,"","",-870,"",11130,0
+"Himachal Pradesh","","","Sweeping and Cleaning","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Semi Skilled","","1/3/124",30,"","","","","",413,"","","","","",12390,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Scavengers"
+"Himachal Pradesh","","","Forest and Forestry","","Katha Processor","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Feller and Chipper in Katha Extraction","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Cutter","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Helper","1/3/124",30,"","","","","",415,"","","","","",12450,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Planner Mistry","1/3/124",30,"","","","","",415,"","","","","",12450,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Assistant Mistry in Sawmill","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Boiler Driver","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Head Mistry","1/3/124",30,"","","","","",467,"","","","","",14010,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Supervisor","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Band Saw Mistry","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Highly Skilled","Head Foreman","1/3/124",30,"","","","","",553,"","","","","",16590,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Highly Skilled","Boiler Attendant Overseer","1/3/124",30,"","","","","",553,"","","","","",16590,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Munshi / Typist clerk","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Accountant","1/3/124",30,"","","","","",449,"","","","","",13470,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Manager","1/3/124",30,"","","","","",583,"","","","","",17490,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Compressor Driver","1/3/124",30,"","","","","",443,"","","","","",13290,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Driver (Heavy Vehicle)","1/3/124",30,"","","","","",443,"","","","","",13290,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Ski-line Operator","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Surveyor","1/3/124",30,"","","","","",506,"","","","","",15180,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Jamadar","1/3/124",30,"","","","","",440,"","","","","",13200,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Ghalu","1/3/124",30,"","","","","",440,"","","","","",13200,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Darya-man","1/3/124",30,"","","","","",517,"","","","","",15510,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Assistant Mistri","1/3/124",30,"","","","","",483,"","","","","",14490,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Taru","1/3/124",30,"","","","","",517,"","","","","",15510,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Mohri Mistry","1/3/124",30,"","","","","",539,"","","","","",16170,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Span Mistry","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Span Mistry-cum-Supervisor","1/3/124",30,"","","","","",503,"","","","","",15090,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Loading/Unloading","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Carriage labour","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Blacksmith","1/3/124",30,"","","","","",473,"","","","","",14190,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Sawyer (Charani)","1/3/124",30,"","","","","",503,"","","","","",15090,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Dresser (Panchani)","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Feller (Garani)","1/3/124",30,"","","","","",409,"","","","","",12270,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Lopper (Changi)","1/3/124",30,"","","","","",423,"","","","","",12690,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Unskilled","Workers","1/3/124",30,"","","","","",400,"","","","","",12000,"Jungle"
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Semi Skilled","","1/3/124",30,"","","","","",413,"","","","","",12930,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,0
+"Himachal Pradesh","","","Stone Breaking and Crushing","Clerical and non Technical Supervisory Staff","","1/3/124",30,"","","","","",464,"","","","","","13920.00","Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","","16590.00","Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Skilled","","1/3/124",30,"","","","","",464,"","","","","","13920.00","Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","1/3/124",30,"","","","","",425,"","","","","","12750.00","Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Unskilled","","1/3/124",30,"","","","","",400,"","","","","","12000.00","Construction"
+"Himachal Pradesh","","","Security Services","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Clerical and non Technical Supervisory Staff","","1/3/124",30,"","","","","",464,"","","","","",13920,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Semi Skilled","","1/3/124",30,"","","","","",413,"","","","","",12390,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Watchman Guard"
+"Himachal Pradesh","","","Domestic Workers","Skilled","","1/3/124",30,464,"","",-91,"",373,13920,"","",-2730,"",11190,"Informal Sector"
+"Himachal Pradesh","","","Domestic Workers","Semi Skilled","","1/3/124",30,423,"","",-72,"",351,12690,"","",-2160,"",10530,"Informal Sector"
+"Himachal Pradesh","","","Domestic Workers","Unskilled","","1/3/124",30,400,"","",-62,"",338,12000,"","",-1860,"",10140,"Informal Sector"
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/124",30,483,"","",-36,"",447,14490,"","",-1080,"",13410,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/124",30,464,"","",-37,"",427,13920,"","",-1110,"",12810,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/124",30,423,"","",-36,"",387,12690,"","",-1080,"",11610,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/124",30,400,"","",-29,"",371,12000,"","",-870,"",11130,0
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/124",30,"","","","","",413,"","","","","",12390,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Medicine Shop medical"
+"Himachal Pradesh","","","Hydro Power Projects","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Semi Skilled","","1/3/124",30,"","","","","",425,"","","","","",12750,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Electricity"
+"Himachal Pradesh","","","Private Educational Institutes","Highly Skilled","","1/3/124",30,"","","","","",483,"","","","","",14490,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Semi Skilled","","1/3/124",30,"","","","","",423,"","","","","",12690,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Teaching School Collage"
+"Himachal Pradesh","","","Hotels and Restaurants","Highly Skilled","","1/3/124",30,483,"","",-36,"",447,14490,"","",-1080,"",13410,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Skilled","","1/3/124",30,464,"","",-37,"",427,13920,"","",-1110,"",12810,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Semi Skilled","","1/3/124",30,423,"","",-35,"",388,12690,"","",-1050,"",11640,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Unskilled","","1/3/124",30,400,"","",-29,"",371,12000,"","",-870,"",11130,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Clerical","","1/3/124",30,"","","","","",464,"","","","","",13920,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Semi Skilled","","1/3/124",30,"","","","","",412,"","","","","",12360,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,0
+"Himachal Pradesh","","","Tea Plantation","Class 2","Electrician-cum- Mechanic","1/3/124",30,"","","","","",506,"","","","","",15180,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Class 1","Electrician-cum- Mechanic","1/3/124",30,"","","","","",571,"","","","","",17130,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Assistant Mechanic","1/3/124",30,"","","","","",506,"","","","","",15180,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Mechanic","1/3/124",30,"","","","","",571,"","","","","",17130,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Driver","1/3/124",30,"","","","","",508,"","","","","",15240,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Compounder","1/3/124",30,"","","","","",567,"","","","","",17010,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Watchman","1/3/124",30,"","","","","",407,"","","","","",12210,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Peon","1/3/124",30,"","","","","",407,"","","","","",12210,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Scribe","1/3/124",30,"","","","","",487,"","","","","",14610,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Clerk","1/3/124",30,"","","","","",464,"","","","","",13920,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Accountant","1/3/124",30,"","","","","",611,"","","","","",18330,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Semi Skilled","","1/3/124",30,"","","","","",407,"","","","","",12210,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Farming Agriculture"
+"Himachal Pradesh","","","Engineering Industry","Clerical","","1/3/124",30,"","","","","",429,"","","","","",12870,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Semi Skilled","","1/3/124",30,"","","","","",413,"","","","","",12390,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Startup Company"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Highly Skilled","","1/3/124",30,"","","","","",553,"","","","","",16590,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Semi Skilled","","1/3/124",30,"","","","","",413,"","","","","",12390,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,"Drugs Fertilizers"
+"Himachal Pradesh","","","Shops & Commercial Establishments","Highly Skilled","","1/3/124",30,483,"","",-36,"",447,14490,"","",-1080,"",13410,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Skilled","","1/3/124",30,464,"","",-37,"",427,13920,"","",-1110,"",12810,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Semi Skilled","","1/3/124",30,423,"","",-10,"",413,12690,"","",-300,"",12390,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Unskilled","","1/3/124",30,400,"","",-29,"",371,12000,"","",-870,"",11130,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Part-Time Booking Clerk","1/3/124",30,"","","","","",278,"","","","","",8340,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Cleaner-cum-Conductor","1/3/124",30,"","","","","",434,"","","","","",13020,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Conductor","1/3/124",30,"","","","","",464,"","","","","",13920,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Driver","1/3/124",30,"","","","","",508,"","","","","",15240,0
+"Himachal Pradesh","","","Public Motor Transport","Group C","CLERICAL","1/3/124",30,"","","","","",562,"","","","","",16860,0
+"Himachal Pradesh","","","Public Motor Transport","Group B","CLERICAL","1/3/124",30,"","","","","",477,"","","","","",14310,0
+"Himachal Pradesh","","","Public Motor Transport","Group A","CLERICAL","1/3/124",30,"","","","","",453,"","","","","",13590,0
+"Himachal Pradesh","","","Public Motor Transport","Highly Skilled","","1/3/124",30,"","","","","",503,"","","","","",15090,0
+"Himachal Pradesh","","","Public Motor Transport","Skilled","","1/3/124",30,"","","","","",453,"","","","","",13590,0
+"Himachal Pradesh","","","Public Motor Transport","Semi Skilled","","1/3/124",30,"","","","","",415,"","","","","",12450,0
+"Himachal Pradesh","","","Public Motor Transport","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Clerical and non Technical Supervisory Staff","","1/3/124",30,"","","","","",553,"","","","","",16590,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/124",30,"","","","","",464,"","","","","",13920,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/124",30,"","","","","",425,"","","","","",12750,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",12000,0
+"Himachal Pradesh","","","Agriculture","Unskilled","","1/3/124",30,"","","","","",400,"","","","","",1200,"Farming Horticulture Dairy"
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Highly Skilled","","1/3/123",30,419,"","",34,"",453,12580,"","",1012,"",13592,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Skilled","","1/3/123",30,400,"","",35,"",435,12006,"","",1056,"",13062,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Semi Skilled","","1/3/123",30,363,"","",33,"",396,10900,"","",991,"",11891,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Unskilled","","1/3/123",30,348,"","",27,"",375,10429,"","",821,"",11250,0
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Food Salad Industry"
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Food Salad Industry"
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,"Food Salad Industry"
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Food Salad Industry"
+"Himachal Pradesh","","","Sweeping and Cleaning","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Scavengers"
+"Himachal Pradesh","","","Forest and Forestry","","Katha Processor","1/3/123",30,"","","","","",383,"","","","","",11481,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Feller and Chipper in Katha Extraction","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Cutter","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Helper","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Planner Mistry","1/3/123",30,"","","","","",389,"","","","","",11670,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Assistant Mistry in Sawmill","1/3/123",30,"","","","","",389,"","","","","",11670,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Boiler Driver","1/3/123",30,"","","","","",443,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Head Mistry","1/3/123",30,"","","","","",443,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Supervisor","1/3/123",30,"","","","","",438,"","","","","",13149,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Band Saw Mistry","1/3/123",30,"","","","","",443,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Highly Skilled","Head Foreman","1/3/123",30,"","","","","",518,"","","","","",15525,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Highly Skilled","Boiler Attendant Overseer","1/3/123",30,"","","","","",518,"","","","","",15525,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Munshi / Typist clerk","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Accountant","1/3/123",30,"","","","","",421,"","","","","",12644,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Manager","1/3/123",30,"","","","","",546,"","","","","",16374,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Compressor Driver","1/3/123",30,"","","","","",415,"","","","","",12453,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Driver (Heavy Vehicle)","1/3/123",30,"","","","","",415,"","","","","",12453,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Ski-line Operator","1/3/123",30,"","","","","",443,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Surveyor","1/3/123",30,"","","","","",474,"","","","","",14224,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Jamadar","1/3/123",30,"","","","","",412,"","","","","",12366,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Ghalu","1/3/123",30,"","","","","",412,"","","","","",12366,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Darya-man","1/3/123",30,"","","","","",485,"","","","","",14539,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Assistant Mistri","1/3/123",30,"","","","","",453,"","","","","",13592,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Taru","1/3/123",30,"","","","","",485,"","","","","",14539,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Mohri Mistry","1/3/123",30,"","","","","",505,"","","","","",15148,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Span Mistry","1/3/123",30,"","","","","",443,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Span Mistry-cum-Supervisor","1/3/123",30,"","","","","",471,"","","","","",14139,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Loading/Unloading","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Carriage labour","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Blacksmith","1/3/123",30,"","","","","",443,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Sawyer (Charani)","1/3/123",30,"","","","","",471,"","","","","",14139,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Dresser (Panchani)","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Feller (Garani)","1/3/123",30,"","","","","",383,"","","","","",11505,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Lopper (Changi)","1/3/123",30,"","","","","",396,"","","","","",11891,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Unskilled","Workers","1/3/123",30,"","","","","",375,"","","","","",11250,"Jungle"
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,0
+"Himachal Pradesh","","","Stone Breaking and Crushing","Clerical and non Technical Supervisory Staff","","1/3/123",30,"","","","","",435,"","","","","",13062,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","1/3/123",30,"","","","","",398,"","","","","",11950,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Construction"
+"Himachal Pradesh","","","Security Services","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Watchman Guard"
+"Himachal Pradesh","","","Domestic Workers","Skilled","","1/3/123",30,350,"","85.13",85,"",435,10508,"",2554,"2550.00","",13062,"Informal Sector"
+"Himachal Pradesh","","","Domestic Workers","Semi Skilled","","1/3/123",30,329,"","67.57",67,"",396,9864,"",2027,"2010.00","",11891,"Informal Sector"
+"Himachal Pradesh","","","Domestic Workers","Unskilled","","1/3/123",30,317,"","57.87",58,"",375,9514,"",1736,"1740.00","",11250,"Informal Sector"
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/123",30,419,"","33.73",34,"",453,12580,"",1012,"1020.00","",13592,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/123",30,400,"","35.20",35,"",435,12006,"",1056,"1050.00","",13062,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/123",30,363,"","33.03",33,"",396,10900,"",991,"990.00","",11891,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/123",30,348,"","27.37",27,"",375,10429,"",821,"810.00","",11250,0
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Medicine Shop medical"
+"Himachal Pradesh","","","Hydro Power Projects","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Semi Skilled","","1/3/123",30,"","","","","",398,"","","","","",11950,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Electricity"
+"Himachal Pradesh","","","Private Educational Institutes","Highly Skilled","","1/3/123",30,"","","","","",453,"","","","","",13592,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Semi Skilled","","1/3/123",30,"","","","","",396,"","","","","",11891,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Teaching School Collage"
+"Himachal Pradesh","","","Hotels and Restaurants","Highly Skilled","","1/3/123",30,419,"","33.73",34,"",453,12580,"",1012,"1020.00","",13592,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Skilled","","1/3/123",30,400,"","35.20",35,"",435,12006,"",1056,"1050.00","",13062,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Semi Skilled","","1/3/123",30,364,"","31.93",32,"",396,10932,"",958,"960.00","",11890,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Unskilled","","1/3/123",30,348,"","27.37",27,"",375,10429,"",821,"810.00","",11250,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Clerical","","1/3/123",30,"","","","","",435,"","","","","",13062,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Semi Skilled","","1/3/123",30,"","","","","",386,"","","","","",11601,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,0
+"Himachal Pradesh","","","Tea Plantation","Class 2","Electrician-cum- Mechanic","1/3/123",30,"","","","","",474,"","","","","",14224,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Class 1","Electrician-cum- Mechanic","1/3/123",30,"","","","","",535,"","","","","",16059,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Assistant Mechanic","1/3/123",30,"","","","","",474,"","","","","",14224,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Mechanic","1/3/123",30,"","","","","",535,"","","","","",16059,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Driver","1/3/123",30,"","","","","",476,"","","","","",14288,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Compounder","1/3/123",30,"","","","","",531,"","","","","",15930,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Watchman","1/3/123",30,"","","","","",381,"","","","","",11441,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Peon","1/3/123",30,"","","","","",381,"","","","","",11441,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Scribe","1/3/123",30,"","","","","",456,"","","","","",13690,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Clerk","1/3/123",30,"","","","","",435,"","","","","",13062,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Accountant","1/3/123",30,"","","","","",573,"","","","","",17197,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Semi Skilled","","1/3/123",30,"","","","","",381,"","","","","",11441,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Farming Agriculture"
+"Himachal Pradesh","","","Engineering Industry","Clerical","","1/3/123",30,"","","","","",402,"","","","","",12074,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Startup Company"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Semi Skilled","","1/3/123",30,"","","","","",387,"","","","","",11601,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Drugs Fertilizers"
+"Himachal Pradesh","","","Shops & Commercial Establishments","Highly Skilled","","1/3/123",30,419,"","",34,"",453,12580,"","",1012,"",13592,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Skilled","","1/3/123",30,400,"","",35,"",435,12006,"","",1056,"",13062,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Semi Skilled","","1/3/123",30,363,"","",33,"",396,10900,"","",991,"",11891,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Unskilled","","1/3/123",30,348,"","",27,"",375,10429,"","",821,"",11250,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Part-Time Booking Clerk","1/3/123",30,"","","","","",261,"","","","","",7834,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Cleaner-cum-Conductor","1/3/123",30,"","","","","",407,"","","","","",12200,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Conductor","1/3/123",30,"","","","","",435,"","","","","",13038,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Driver","1/3/123",30,"","","","","",476,"","","","","",14288,0
+"Himachal Pradesh","","","Public Motor Transport","Group C","CLERICAL","1/3/123",30,"","","","","",527,"","","","","",15807,0
+"Himachal Pradesh","","","Public Motor Transport","Group B","CLERICAL","1/3/123",30,"","","","","",447,"","","","","",13403,0
+"Himachal Pradesh","","","Public Motor Transport","Group A","CLERICAL","1/3/123",30,"","","","","",425,"","","","","",12749,0
+"Himachal Pradesh","","","Public Motor Transport","Highly Skilled","","1/3/123",30,"","","","","",471,"","","","","",14139,0
+"Himachal Pradesh","","","Public Motor Transport","Skilled","","1/3/123",30,"","","","","",425,"","","","","",12749,0
+"Himachal Pradesh","","","Public Motor Transport","Semi Skilled","","1/3/123",30,"","","","","",389,"","","","","",11670,0
+"Himachal Pradesh","","","Public Motor Transport","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Clerical and non Technical Supervisory Staff","","1/3/123",30,"","","","","",435,"","","","","",13062,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/123",30,"","","","","",518,"","","","","",15530,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/123",30,"","","","","",435,"","","","","",13062,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/123",30,"","","","","",398,"","","","","",11950,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,0
+"Himachal Pradesh","","","Agriculture","Unskilled","","1/3/123",30,"","","","","",375,"","","","","",11250,"Farming Horticulture Dairy"
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Highly Skilled","","1/3/122",30,391.38,"","",31.47,"",422.85,11741,"","",945,"",12686,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Skilled","","1/3/122",30,373.51,"","",32.85,"",406.36,11205,"","",986,"",12191,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Semi Skilled","","1/3/122",30,339.12,"","",30.81,"",369.93,10174,"","",924,"",11098,0
+"Himachal Pradesh","","","Temples and Religious Places/Dharamshalas","Unskilled","","1/3/122",30,324.47,"","",25.53,"",350,9734,"","",766,"",10500,0
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Food Salad Industry"
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Food Salad Industry"
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,"Food Salad Industry"
+"Himachal Pradesh","","","Cleaning and Sorting of Onions","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Food Salad Industry"
+"Himachal Pradesh","","","Sweeping and Cleaning","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,"Scavengers"
+"Himachal Pradesh","","","Sweeping and Cleaning","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Scavengers"
+"Himachal Pradesh","","","Forest and Forestry","","Katha Processor","1/3/122",30,"","","","","",357.2,"","","","","",10716,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Feller and Chipper in Katha Extraction","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Cutter","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Helper","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Planner Mistry","1/3/122",30,"","","","","",363.08,"","","","","",10892,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Assistant Mistry in Sawmill","1/3/122",30,"","","","","",363.08,"","","","","",10892,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Boiler Driver","1/3/122",30,"","","","","",413.02,"","","","","",12391,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Head Mistry","1/3/122",30,"","","","","",413.02,"","","","","",12391,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Supervisor","1/3/122",30,"","","","","",409.07,"","","","","",12272,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Band Saw Mistry","1/3/122",30,"","","","","",413.02,"","","","","",12391,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Highly Skilled","Head Foreman","1/3/122",30,"","","","","",483,"","","","","",14490,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Highly Skilled","Boiler Attendant Overseer","1/3/122",30,"","","","","",483,"","","","","",14490,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Munshi / Typist clerk","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Accountant","1/3/122",30,"","","","","",393.38,"","","","","",11801,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Manager","1/3/122",30,"","","","","",509.43,"","","","","",15283,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Compressor Driver","1/3/122",30,"","","","","",387.43,"","","","","",11623,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Driver (Heavy Vehicle)","1/3/122",30,"","","","","",387.43,"","","","","",11623,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Ski-line Operator","1/3/122",30,"","","","","",413.02,"","","","","",12391,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Surveyor","1/3/122",30,"","","","","",442.53,"","","","","",13276,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Jamadar","1/3/122",30,"","","","","",384.72,"","","","","",11542,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Ghalu","1/3/122",30,"","","","","",384.72,"","","","","",11542,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Darya-man","1/3/122",30,"","","","","",452.33,"","","","","",13570,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Assistant Mistri","1/3/122",30,"","","","","",422.85,"","","","","",12686,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Taru","1/3/122",30,"","","","","",452.33,"","","","","",13570,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Mohri Mistry","1/3/122",30,"","","","","",471.27,"","","","","",14138,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Span Mistry","1/3/122",30,"","","","","",413.02,"","","","","",12391,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Span Mistry-cum-Supervisor","1/3/122",30,"","","","","",439.89,"","","","","",13197,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Loading/Unloading","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Carriage labour","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Blacksmith","1/3/122",30,"","","","","",413.02,"","","","","",12391,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Sawyer (Charani)","1/3/122",30,"","","","","",439.89,"","","","","",13197,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Dresser (Panchani)","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Feller (Garani)","1/3/122",30,"","","","","",357.92,"","","","","",10738,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","","Lopper (Changi)","1/3/122",30,"","","","","",369.93,"","","","","",11098,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Unskilled","Workers","1/3/122",30,"","","","","",350,"","","","","",10500,"Jungle"
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,0
+"Himachal Pradesh","","","Toll Tax Barriers Workers","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,0
+"Himachal Pradesh","","","Stone Breaking and Crushing","Clerical and non Technical Supervisory Staff","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",30,"","","","","",371.77,"","","","","",11153,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Construction"
+"Himachal Pradesh","","","Security Services","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,"Watchman Guard"
+"Himachal Pradesh","","","Security Services","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Watchman Guard"
+"Himachal Pradesh","","","Domestic Workers","Skilled","","1/3/122",30,326.92,"","",79.44,"",406.36,9808,"","",2383,"",12191,"Informal Sector"
+"Himachal Pradesh","","","Domestic Workers","Semi Skilled","","1/3/122",30,306.88,"","",63.05,"",369.93,9206,"","",1892,"",11098,"Informal Sector"
+"Himachal Pradesh","","","Domestic Workers","Unskilled","","1/3/122",30,296,"","",54,"",350,8880,"","",1620,"",10500,"Informal Sector"
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","1/3/122",30,391.38,"","",31.47,"",422.85,11741,"","",945,"",12686,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","1/3/122",30,373.51,"","",32.85,"",406.36,11205,"","",986,"",12191,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Semi Skilled","","1/3/122",30,339.12,"","",30.81,"",369.93,10174,"","",924,"",11098,0
+"Himachal Pradesh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","1/3/122",30,324.47,"","",25.53,"",350,9734,"","",766,"",10500,0
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,"Medicine Shop medical"
+"Himachal Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Medicine Shop medical"
+"Himachal Pradesh","","","Hydro Power Projects","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Semi Skilled","","1/3/122",30,"","","","","",371.77,"","","","","",11153,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Electricity"
+"Himachal Pradesh","","","Private Educational Institutes","Highly Skilled","","1/3/122",30,"","","","","",422.85,"","","","","",12686,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Semi Skilled","","1/3/122",30,"","","","","",369.93,"","","","","",11098,"Teaching School Collage"
+"Himachal Pradesh","","","Private Educational Institutes","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Teaching School Collage"
+"Himachal Pradesh","","","Hotels and Restaurants","Highly Skilled","","1/3/122",30,391.38,"","",31.47,"",422.85,11741,"","",945,"",12686,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Skilled","","1/3/122",30,373.51,"","",32.85,"",406.36,11205,"","",986,"",12191,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Semi Skilled","","1/3/122",30,340.11,"","",29.82,"",369.93,10203,"","",895,"",11098,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Hotels and Restaurants","Unskilled","","1/3/122",30,324.47,"","",25.53,"",350,9734,"","",766,"",10500,"Eating House Cantin Accommodation"
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Clerical","","1/3/122",30,"","","","","",406.36,"","","","","",12191,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,0
+"Himachal Pradesh","","","Manufacturing Process as Defined in Clause (K) of Section 2 of Factories Act, 1948","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,0
+"Himachal Pradesh","","","Tea Plantation","Class 2","Electrician-cum- Mechanic","1/3/122",30,"","","","","",442.53,"","","","","",13276,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Class 1","Electrician-cum- Mechanic","1/3/122",30,"","","","","",499.6,"","","","","",14988,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Assistant Mechanic","1/3/122",30,"","","","","",442.53,"","","","","",13276,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Mechanic","1/3/122",30,"","","","","",499.6,"","","","","",14988,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Driver","1/3/122",30,"","","","","",444.5,"","","","","",13335,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Compounder","1/3/122",30,"","","","","",495.61,"","","","","",14868,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Watchman","1/3/122",30,"","","","","",355.95,"","","","","",10679,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Peon","1/3/122",30,"","","","","",355.95,"","","","","",10679,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Scribe","1/3/122",30,"","","","","",425.92,"","","","","",12778,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Clerk","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Clerical and non Technical Supervisory Staff","Accountant","1/3/122",30,"","","","","",535.02,"","","","","",16051,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Semi Skilled","","1/3/122",30,"","","","","",355.95,"","","","","",10679,"Farming Agriculture"
+"Himachal Pradesh","","","Tea Plantation","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Farming Agriculture"
+"Himachal Pradesh","","","Engineering Industry","Clerical","","1/3/122",30,"","","","","",375.62,"","","","","",11269,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,"Startup Company"
+"Himachal Pradesh","","","Engineering Industry","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Startup Company"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Semi Skilled","","1/3/122",30,"","","","","",360.92,"","","","","",10828,"Drugs Fertilizers"
+"Himachal Pradesh","","","Chemical and Chemical Products Industries","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Drugs Fertilizers"
+"Himachal Pradesh","","","Shops & Commercial Establishments","Highly Skilled","","1/3/122",30,391.38,"","",31.47,"",422.85,11741,"","",945,"",12686,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Skilled","","1/3/122",30,373.51,"","",32.85,"",406.36,11205,"","",986,"",12191,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Semi Skilled","","1/3/122",30,339.12,"","",30.81,"",369.93,10174,"","",924,"",11098,0
+"Himachal Pradesh","","","Shops & Commercial Establishments","Unskilled","","1/3/122",30,324.47,"","",25.53,"",350,9734,"","",766,"",10500,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Part-Time Booking Clerk","1/3/122",30,"","","","","",243.72,"","","","","",7312,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Cleaner-cum-Conductor","1/3/122",30,"","","","","",379.57,"","","","","",11387,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Conductor","1/3/122",30,"","","","","",405.64,"","","","","",12169,0
+"Himachal Pradesh","","","Public Motor Transport","Running Staff","Driver","1/3/122",30,"","","","","",444.5,"","","","","",13335,0
+"Himachal Pradesh","","","Public Motor Transport","Group C","","1/3/122",30,"","","","","",491.77,"","","","","",14753,0
+"Himachal Pradesh","","","Public Motor Transport","Group B","","1/3/122",30,"","","","","",416.97,"","","","","",12509,0
+"Himachal Pradesh","","","Public Motor Transport","Group A","","1/3/122",30,"","","","","",396.63,"","","","","",11899,0
+"Himachal Pradesh","","","Public Motor Transport","Highly Skilled","","1/3/122",30,"","","","","",439.89,"","","","","",13197,0
+"Himachal Pradesh","","","Public Motor Transport","Skilled","","1/3/122",30,"","","","","",396.63,"","","","","",11899,0
+"Himachal Pradesh","","","Public Motor Transport","Semi Skilled","","1/3/122",30,"","","","","",363.08,"","","","","",10892,0
+"Himachal Pradesh","","","Public Motor Transport","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Clerical and non Technical Supervisory Staff","","1/3/122",30,"","","","","",406.36,"","","","","",12191,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/122",30,"","","","","",483.17,"","","","","",14495,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/122",30,"","","","","",406.36,"","","","","",12191,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/122",30,"","","","","",371.77,"","","","","",11153,0
+"Himachal Pradesh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,0
+"Himachal Pradesh","","","Agriculture","Unskilled","","1/3/122",30,"","","","","",350,"","","","","",10500,"Farming Horticulture Dairy"
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","","Instructor","1/3/122",30,"","","","","",685,"","","","","","20550.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","Clerical","Computer Operator","1/3/122",30,"","","","","",642.5,"","","","","","19275.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","","Driver","1/3/122",30,"","","","","",513.75,"","","","","","15412.50",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","Skilled","","1/3/122",30,"","","","","",495,"","","","","","14850.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","Unskilled","","1/3/122",30,"","","","","",437.5,"","","","","","13125.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Pharmacist","1/3/122",30,"","","","","",581,"","","","","","17430.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Instructor","1/3/122",30,"","","","","",548,"","","","","","16440.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","Clerical","Computer Operator","1/3/122",30,"","","","","",514,"","","","","","15420.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Junior Draftsman","1/3/122",30,"","","","","",483,"","","","","","14490.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Driver","1/3/122",30,"","","","","",411,"","","","","","12330.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","Skilled","","1/3/122",30,"","","","","",396,"","","","","","11880.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","Unskilled","","1/3/122",30,"","","","","",350,"","","","","","10500.00",0
 "Himachal Pradesh","","","Cleaning and Sorting of Onions","Highly Skilled","","1/3/121",30,"","","","","",414.03,"","","","","",12421,"Food Salad Industry"
 "Himachal Pradesh","","","Cleaning and Sorting of Onions","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Food Salad Industry"
 "Himachal Pradesh","","","Cleaning and Sorting of Onions","Semi Skilled","","1/3/121",30,"","","","","",309.27,"","","","","",9278,"Food Salad Industry"
@@ -17,9 +419,7 @@
 "Himachal Pradesh","","","Forest and Forestry","","Head Mistry","1/3/121",30,"","","","","",353.92,"","","","","",10618,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","","Supervisor","1/3/121",30,"","","","","",350.53,"","","","","",10516,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","","Band Saw Mistry","1/3/121",30,"","","","","",353.92,"","","","","",10618,"Jungle"
-"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Scribe","1/3/121",30,"","","","","",306.7,"","","","","",9201,"Jungle"
-"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Clerk","1/3/121",30,"","","","","",306.7,"","","","","",9201,"Jungle"
-"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Typist","1/3/121",30,"","","","","",306.7,"","","","","",9201,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Munshi / Typist clerk","1/3/121",30,"","","","","",306.7,"","","","","",9201,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Accountant","1/3/121",30,"","","","","",337.09,"","","","","",10113,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Clerical & General Staff","Manager","1/3/121",30,"","","","","",436.53,"","","","","",13096,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","","Compressor Driver","1/3/121",30,"","","","","",331.99,"","","","","",9960,"Jungle"
@@ -46,11 +446,11 @@
 "Himachal Pradesh","","","Toll Tax Barriers Workers","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,0
 "Himachal Pradesh","","","Toll Tax Barriers Workers","Semi Skilled","","1/3/121",30,"","","","","",309.27,"","","","","",9278,0
 "Himachal Pradesh","","","Toll Tax Barriers Workers","Unskilled","","1/3/121",30,"","","","","",300,"","","","","",9000,0
-"Himachal Pradesh","","","Stone Breaking and Crushing","Clerical and non Technical Supervisory Staff","","1/3/121",30,"","","","","",348.21,"","","","","",10446,0
-"Himachal Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","1/3/121",30,"","","","","",414.03,"","","","","",12421,0
-"Himachal Pradesh","","","Stone Breaking and Crushing","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,0
-"Himachal Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","1/3/121",30,"","","","","",318.57,"","","","","",9557,0
-"Himachal Pradesh","","","Stone Breaking and Crushing","Unskilled","","1/3/121",30,"","","","","",300,"","","","","",9000,0
+"Himachal Pradesh","","","Stone Breaking and Crushing","Clerical and non Technical Supervisory Staff","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Highly Skilled","","1/3/121",30,"","","","","",414.03,"","","","","",12421,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Semi Skilled","","1/3/121",30,"","","","","",318.57,"","","","","",9557,"Construction"
+"Himachal Pradesh","","","Stone Breaking and Crushing","Unskilled","","1/3/121",30,"","","","","",300,"","","","","",9000,"Construction"
 "Himachal Pradesh","","","Security Services","Highly Skilled","","1/3/121",30,"","","","","",414.03,"","","","","",12421,"Watchman Guard"
 "Himachal Pradesh","","","Security Services","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Watchman Guard"
 "Himachal Pradesh","","","Security Services","Semi Skilled","","1/3/121",30,"","","","","",309.27,"","","","","",9278,"Watchman Guard"
@@ -66,10 +466,10 @@
 "Himachal Pradesh","","","Pharmaceutical Manufacturers","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Medicine Shop medical"
 "Himachal Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/121",30,"","","","","",309.27,"","","","","",9278,"Medicine Shop medical"
 "Himachal Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","1/3/121",30,"","","","","",300,"","","","","",9000,"Medicine Shop medical"
-"Himachal Pradesh","","","Hydro Power Projets","Highly Skilled","","1/3/121",30,"","","","","",414.03,"","","","","",12421,"Electricity"
-"Himachal Pradesh","","","Hydro Power Projets","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Electricity"
-"Himachal Pradesh","","","Hydro Power Projets","Semi Skilled","","1/3/121",30,"","","","","",318.57,"","","","","",9557,"Electricity"
-"Himachal Pradesh","","","Hydro Power Projets","Unskilled","","1/3/121",30,"","","","","",300,"","","","","",9000,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Highly Skilled","","1/3/121",30,"","","","","",414.03,"","","","","",12421,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Semi Skilled","","1/3/121",30,"","","","","",318.57,"","","","","",9557,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Unskilled","","1/3/121",30,"","","","","",300,"","","","","",9000,"Electricity"
 "Himachal Pradesh","","","Private Educational Institutes","Highly Skilled","","1/3/121",30,"","","","","",362.34,"","","","","",10870,"Teaching School Collage"
 "Himachal Pradesh","","","Private Educational Institutes","Skilled","","1/3/121",30,"","","","","",348.21,"","","","","",10446,"Teaching School Collage"
 "Himachal Pradesh","","","Private Educational Institutes","Semi Skilled","","1/3/121",30,"","","","","",316.99,"","","","","",9510,"Teaching School Collage"
@@ -188,17 +588,17 @@
 "Himachal Pradesh","","","Public Motor Transport","Clerical Group-A","Typist","1/3/120",30,"","","","","",311.52,"","","","","",9346,0
 "Himachal Pradesh","","","Public Motor Transport","Clerical Group-A","Out Agency Clerk","1/3/120",30,"","","","","",311.52,"","","","","",9346,0
 "Himachal Pradesh","","","Public Motor Transport","Clerical Group-A","Out Agent","1/3/120",30,"","","","","",311.52,"","","","","",9346,0
-"Himachal Pradesh","Tribal Area","","Employment - Outsourcing Services","","Instructor","1/3/121",30,"","","","","",622.5,"","","","","","18675.00",0
-"Himachal Pradesh","Tribal Area","","Employment - Outsourcing Services","Clerical","Clerk Cum Computer Operator","1/3/121",30,"","","","","",580,"","","","","","17400.00",0
-"Himachal Pradesh","Tribal Area","","Employment - Outsourcing Services","","Driver","1/3/121",30,"","","","","",451.25,"","","","","","13537.50",0
-"Himachal Pradesh","Tribal Area","","Employment - Outsourcing Services","Skilled","","1/3/121",30,"","","","","",432.5,"","","","","","12975.00",0
-"Himachal Pradesh","Tribal Area","","Employment - Outsourcing Services","Unskilled","","1/3/121",30,"","","","","",375,"","","","","","11250.00",0
-"Himachal Pradesh","Non - Tribal Area","","Employment - Outsourcing Services","","Pharmacist","1/3/121",30,"","","","","",531,"","","","","","15930.00",0
-"Himachal Pradesh","Non - Tribal Area","","Employment - Outsourcing Services","","Instructor","1/3/121",30,"","","","","",498,"","","","","","14940.00",0
-"Himachal Pradesh","Non - Tribal Area","","Employment - Outsourcing Services","Clerical","Clerk Cum Computer Operator","1/3/121",30,"","","","","",464,"","","","","","13920.00",0
-"Himachal Pradesh","Non - Tribal Area","","Employment - Outsourcing Services","","Driver","1/3/121",30,"","","","","",361,"","","","","","10830.00",0
-"Himachal Pradesh","Non - Tribal Area","","Employment - Outsourcing Services","Skilled","","1/3/121",30,"","","","","",346,"","","","","","10380.00",0
-"Himachal Pradesh","Non - Tribal Area","","Employment - Outsourcing Services","Unskilled","","1/3/121",30,"","","","","",300,"","","","","","9000.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","","Instructor","1/3/121",30,"","","","","",622.5,"","","","","","18675.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","Clerical","Clerk Cum Computer Operator","1/3/121",30,"","","","","",580,"","","","","","17400.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","","Driver","1/3/121",30,"","","","","",451.25,"","","","","","13537.50",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","Skilled","","1/3/121",30,"","","","","",432.5,"","","","","","12975.00",0
+"Himachal Pradesh","Tribal Area","","Employment Outsourcing Services","Unskilled","","1/3/121",30,"","","","","",375,"","","","","","11250.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Pharmacist","1/3/121",30,"","","","","",531,"","","","","","15930.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Instructor","1/3/121",30,"","","","","",498,"","","","","","14940.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","Clerical","Clerk Cum Computer Operator","1/3/121",30,"","","","","",464,"","","","","","13920.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","","Driver","1/3/121",30,"","","","","",361,"","","","","","10830.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","Skilled","","1/3/121",30,"","","","","",346,"","","","","","10380.00",0
+"Himachal Pradesh","Non Tribal Area","","Employment Outsourcing Services","Unskilled","","1/3/121",30,"","","","","",300,"","","","","","9000.00",0
 "Himachal Pradesh","","","Security Services","Highly Skilled","","1/3/120",30,"","","","","",379.5,"","","","","",11385,"Watchman Guard"
 "Himachal Pradesh","","","Security Services","Skilled","","1/3/120",30,"","","","","",319.17,"","","","","",9575,"Watchman Guard"
 "Himachal Pradesh","","","Security Services","Semi Skilled","","1/3/120",30,"","","","","",283.47,"","","","","",8504,"Watchman Guard"
@@ -215,10 +615,10 @@
 "Himachal Pradesh","","","Pharmaceutical Manufacturers","Skilled","","1/3/120",30,"","","","","",319.17,"","","","","",9575,"Medicine Shop medical"
 "Himachal Pradesh","","","Pharmaceutical Manufacturers","Semi Skilled","","1/3/120",30,"","","","","",283.47,"","","","","",8504,"Medicine Shop medical"
 "Himachal Pradesh","","","Pharmaceutical Manufacturers","Unskilled","","1/3/120",30,"","","","","",275,"","","","","",8250,"Medicine Shop medical"
-"Himachal Pradesh","","","Hydro Power Projets","Highly Skilled","","1/3/120",30,"","","","","",379.5,"","","","","",11385,"Electricity"
-"Himachal Pradesh","","","Hydro Power Projets","Skilled","","1/3/120",30,"","","","","",319.17,"","","","","",9575,"Electricity"
-"Himachal Pradesh","","","Hydro Power Projets","Semi Skilled","","1/3/120",30,"","","","","",292,"","","","","",8760,"Electricity"
-"Himachal Pradesh","","","Hydro Power Projets","Unskilled","","1/3/120",30,"","","","","",275,"","","","","",8250,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Highly Skilled","","1/3/120",30,"","","","","",379.5,"","","","","",11385,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Skilled","","1/3/120",30,"","","","","",319.17,"","","","","",9575,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Semi Skilled","","1/3/120",30,"","","","","",292,"","","","","",8760,"Electricity"
+"Himachal Pradesh","","","Hydro Power Projects","Unskilled","","1/3/120",30,"","","","","",275,"","","","","",8250,"Electricity"
 "Himachal Pradesh","","","Hotels and Restaurants","Highly Skilled","","1/3/120",30,"","","","","",332.12,"","","","","",9964,"Eating House Cantin Accommodation"
 "Himachal Pradesh","","","Hotels and Restaurants","Skilled","","1/3/120",30,"","","","","",319.17,"","","","","",9575,"Eating House Cantin Accommodation"
 "Himachal Pradesh","","","Hotels and Restaurants","Semi Skilled","","1/3/120",30,"","","","","",290.55,"","","","","",8717,"Eating House Cantin Accommodation"
@@ -243,9 +643,7 @@
 "Himachal Pradesh","","","Forest and Forestry","Skilled","Supervisor","1/3/120",30,"","","","","",321.29,"","","","","",9639,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Skilled","Band Saw Mistry","1/3/120",30,"","","","","",324.4,"","","","","",9732,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Semi Skilled","Saw Operator Helper","1/3/120",30,"","","","","",281.12,"","","","","",8434,"Jungle"
-"Himachal Pradesh","","","Forest and Forestry","Clerical","Clerk","1/3/120",30,"","","","","",281.12,"","","","","",8434,"Jungle"
-"Himachal Pradesh","","","Forest and Forestry","Clerical","Typist","1/3/120",30,"","","","","",281.12,"","","","","",8434,"Jungle"
-"Himachal Pradesh","","","Forest and Forestry","Clerical","Scribe","1/3/120",30,"","","","","",281.12,"","","","","",8434,"Jungle"
+"Himachal Pradesh","","","Forest and Forestry","Clerical","Munshi / Typist clerk","1/3/120",30,"","","","","",281.12,"","","","","",8434,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Clerical","Accountant","1/3/120",30,"","","","","",308.97,"","","","","",9269,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Clerical","Manager","1/3/120",30,"","","","","",400.12,"","","","","",12004,"Jungle"
 "Himachal Pradesh","","","Forest and Forestry","Skilled","Compressor Driver","1/3/120",30,"","","","","",304.3,"","","","","",9129,"Jungle"

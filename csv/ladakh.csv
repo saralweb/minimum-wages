@@ -1,4 +1,254 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Ladakh","","","Agricultural Operations and Allied Sector","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Farming Horticulture Dairy"
+"Ladakh","","","Agricultural Operations and Allied Sector","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Farming Horticulture Dairy"
+"Ladakh","","","Agricultural Operations and Allied Sector","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Farming Horticulture Dairy"
+"Ladakh","","","Agricultural Operations and Allied Sector","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Farming Horticulture Dairy"
+"Ladakh","","","Agricultural Operations and Allied Sector","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Farming Horticulture Dairy"
+"Ladakh","","","Cinema Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Film Industry Multiplex Hall"
+"Ladakh","","","Cinema Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Film Industry Multiplex Hall"
+"Ladakh","","","Cinema Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Film Industry Multiplex Hall"
+"Ladakh","","","Cinema Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Film Industry Multiplex Hall"
+"Ladakh","","","Cinema Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Film Industry Multiplex Hall"
+"Ladakh","","","Hotels and Restaurants","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Eating House Cantin Accommodation"
+"Ladakh","","","Hotels and Restaurants","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Eating House Cantin Accommodation"
+"Ladakh","","","Hotels and Restaurants","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Eating House Cantin Accommodation"
+"Ladakh","","","Hotels and Restaurants","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Eating House Cantin Accommodation"
+"Ladakh","","","Hotels and Restaurants","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Eating House Cantin Accommodation"
+"Ladakh","","","Plastic Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Plastic Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Plastic Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Plastic Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Plastic Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Cement and Cement Based Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Constructions"
+"Ladakh","","","Cement and Cement Based Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Constructions"
+"Ladakh","","","Cement and Cement Based Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Constructions"
+"Ladakh","","","Cement and Cement Based Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Constructions"
+"Ladakh","","","Cement and Cement Based Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Constructions"
+"Ladakh","","","Bricks Kiln","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Constructions"
+"Ladakh","","","Bricks Kiln","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Constructions"
+"Ladakh","","","Bricks Kiln","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Constructions"
+"Ladakh","","","Bricks Kiln","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Constructions"
+"Ladakh","","","Bricks Kiln","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Constructions"
+"Ladakh","","","Sweeping and Cleaning","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Scavengers"
+"Ladakh","","","Sweeping and Cleaning","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Scavengers"
+"Ladakh","","","Sweeping and Cleaning","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Scavengers"
+"Ladakh","","","Sweeping and Cleaning","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Scavengers"
+"Ladakh","","","Sweeping and Cleaning","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Scavengers"
+"Ladakh","","","Private Educational Institutes","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Teaching School Collage"
+"Ladakh","","","Private Educational Institutes","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Teaching School Collage"
+"Ladakh","","","Private Educational Institutes","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Teaching School Collage"
+"Ladakh","","","Private Educational Institutes","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Teaching School Collage"
+"Ladakh","","","Private Educational Institutes","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Teaching School Collage"
+"Ladakh","","","Walnut Processing Units","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Walnut Processing Units","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Walnut Processing Units","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Walnut Processing Units","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Walnut Processing Units","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Medicine Manufacturing Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Drugs"
+"Ladakh","","","Medicine Manufacturing Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Drugs"
+"Ladakh","","","Medicine Manufacturing Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Drugs"
+"Ladakh","","","Medicine Manufacturing Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Drugs"
+"Ladakh","","","Medicine Manufacturing Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Drugs"
+"Ladakh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Hospitals, Nursing Homes, Clinics And Dispensaries","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Hair Cutting Saloons","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Beauty Parlour"
+"Ladakh","","","Hair Cutting Saloons","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Beauty Parlour"
+"Ladakh","","","Hair Cutting Saloons","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Beauty Parlour"
+"Ladakh","","","Hair Cutting Saloons","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Beauty Parlour"
+"Ladakh","","","Hair Cutting Saloons","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Beauty Parlour"
+"Ladakh","","","Cold Storage Employments","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Cold Storage Employments","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Cold Storage Employments","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Cold Storage Employments","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Cold Storage Employments","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Beverage Manufacturing and Vending Establishments","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Food Cold Drinks"
+"Ladakh","","","Beverage Manufacturing and Vending Establishments","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Food Cold Drinks"
+"Ladakh","","","Beverage Manufacturing and Vending Establishments","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Food Cold Drinks"
+"Ladakh","","","Beverage Manufacturing and Vending Establishments","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Food Cold Drinks"
+"Ladakh","","","Beverage Manufacturing and Vending Establishments","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Food Cold Drinks"
+"Ladakh","","","Garment Manufacturers Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Clothes Textile"
+"Ladakh","","","Garment Manufacturers Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Clothes Textile"
+"Ladakh","","","Garment Manufacturers Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Clothes Textile"
+"Ladakh","","","Garment Manufacturers Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Clothes Textile"
+"Ladakh","","","Garment Manufacturers Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Clothes Textile"
+"Ladakh","","","Tailoring Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Stitch Textile"
+"Ladakh","","","Tailoring Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Stitch Textile"
+"Ladakh","","","Tailoring Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Stitch Textile"
+"Ladakh","","","Tailoring Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Stitch Textile"
+"Ladakh","","","Tailoring Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Stitch Textile"
+"Ladakh","","","Security Services","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Watchman Guard"
+"Ladakh","","","Security Services","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Watchman Guard"
+"Ladakh","","","Security Services","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Watchman Guard"
+"Ladakh","","","Security Services","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Watchman Guard"
+"Ladakh","","","Security Services","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Watchman Guard"
+"Ladakh","","","Electricals and Electric Goods","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Electricals and Electric Goods","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Electricals and Electric Goods","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Electricals and Electric Goods","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Electricals and Electric Goods","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Saw Mills","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Wood Furniture carpentry"
+"Ladakh","","","Saw Mills","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Wood Furniture carpentry"
+"Ladakh","","","Saw Mills","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Wood Furniture carpentry"
+"Ladakh","","","Saw Mills","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Wood Furniture carpentry"
+"Ladakh","","","Saw Mills","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Wood Furniture carpentry"
+"Ladakh","","","Sports Goods Manufacturer","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Sports Goods Manufacturer","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Sports Goods Manufacturer","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Sports Goods Manufacturer","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Sports Goods Manufacturer","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Detergent and Soap Manufacturer","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Washing Cleaning"
+"Ladakh","","","Detergent and Soap Manufacturer","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Washing Cleaning"
+"Ladakh","","","Detergent and Soap Manufacturer","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Washing Cleaning"
+"Ladakh","","","Detergent and Soap Manufacturer","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Washing Cleaning"
+"Ladakh","","","Detergent and Soap Manufacturer","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Washing Cleaning"
+"Ladakh","","","Employment in Rosin and Turpentine Product","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Employment in Rosin and Turpentine Product","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Employment in Rosin and Turpentine Product","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Employment in Rosin and Turpentine Product","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Employment in Rosin and Turpentine Product","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Utensils","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Ladakh","","","Utensils","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Ladakh","","","Utensils","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Ladakh","","","Utensils","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Ladakh","","","Utensils","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","KitchenProduct KitchenGadgets CookingTools Metal"
+"Ladakh","","","Food Products Manufacturer","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Food Products Manufacturer","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Food Products Manufacturer","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Food Products Manufacturer","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Food Products Manufacturer","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Paper and Paper Board Manufactury","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Stationery"
+"Ladakh","","","Paper and Paper Board Manufactury","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Stationery"
+"Ladakh","","","Paper and Paper Board Manufactury","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Stationery"
+"Ladakh","","","Paper and Paper Board Manufactury","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Stationery"
+"Ladakh","","","Paper and Paper Board Manufactury","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Stationery"
+"Ladakh","","","Wood Working Establishments Including Wooden Furniture Excluding Timbering Operations","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Carpentry"
+"Ladakh","","","Wood Working Establishments Including Wooden Furniture Excluding Timbering Operations","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Carpentry"
+"Ladakh","","","Wood Working Establishments Including Wooden Furniture Excluding Timbering Operations","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Carpentry"
+"Ladakh","","","Wood Working Establishments Including Wooden Furniture Excluding Timbering Operations","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Carpentry"
+"Ladakh","","","Wood Working Establishments Including Wooden Furniture Excluding Timbering Operations","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Carpentry"
+"Ladakh","","","Auto body Fabrication","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Workshop"
+"Ladakh","","","Auto body Fabrication","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Workshop"
+"Ladakh","","","Auto body Fabrication","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Workshop"
+"Ladakh","","","Auto body Fabrication","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Workshop"
+"Ladakh","","","Auto body Fabrication","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Workshop"
+"Ladakh","","","Silicate and Chemical Works","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Silicate and Chemical Works","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Silicate and Chemical Works","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Silicate and Chemical Works","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Silicate and Chemical Works","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Steel and Metal Rolling Mills","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Alloy"
+"Ladakh","","","Steel and Metal Rolling Mills","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Alloy"
+"Ladakh","","","Steel and Metal Rolling Mills","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Alloy"
+"Ladakh","","","Steel and Metal Rolling Mills","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Alloy"
+"Ladakh","","","Steel and Metal Rolling Mills","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Alloy"
+"Ladakh","","","Light Engineering Works","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Light Engineering Works","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Light Engineering Works","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Light Engineering Works","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Light Engineering Works","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Forest and Forestry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Jungle"
+"Ladakh","","","Forest and Forestry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Jungle"
+"Ladakh","","","Forest and Forestry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Jungle"
+"Ladakh","","","Forest and Forestry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Jungle"
+"Ladakh","","","Forest and Forestry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Jungle"
+"Ladakh","","","Private Motor Transport","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Private Motor Transport","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Private Motor Transport","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Private Motor Transport","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Private Motor Transport","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Shops & Commercial Establishments","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Shops & Commercial Establishments","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Shops & Commercial Establishments","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Shops & Commercial Establishments","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Shops & Commercial Establishments","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Bricks and Tiles Manufacturer","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Constructions"
+"Ladakh","","","Bricks and Tiles Manufacturer","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Constructions"
+"Ladakh","","","Bricks and Tiles Manufacturer","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Constructions"
+"Ladakh","","","Bricks and Tiles Manufacturer","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Constructions"
+"Ladakh","","","Bricks and Tiles Manufacturer","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Constructions"
+"Ladakh","","","Automobile Workshops","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Vehicle car bike autopart"
+"Ladakh","","","Automobile Workshops","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Vehicle car bike autopart"
+"Ladakh","","","Automobile Workshops","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Vehicle car bike autopart"
+"Ladakh","","","Automobile Workshops","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Vehicle car bike autopart"
+"Ladakh","","","Automobile Workshops","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Vehicle car bike autopart"
+"Ladakh","","","Wood Carving Work","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Furniture carpentry"
+"Ladakh","","","Wood Carving Work","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Furniture carpentry"
+"Ladakh","","","Wood Carving Work","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Furniture carpentry"
+"Ladakh","","","Wood Carving Work","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Furniture carpentry"
+"Ladakh","","","Wood Carving Work","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Furniture carpentry"
+"Ladakh","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Tailoring"
+"Ladakh","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Tailoring"
+"Ladakh","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Tailoring"
+"Ladakh","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Tailoring"
+"Ladakh","","","Employment in Embroidery, Chain Stitch, Gubba Embroidery and Namdah Making","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Tailoring"
+"Ladakh","","","Tanneries and Leather Manufactory","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Textile"
+"Ladakh","","","Tanneries and Leather Manufactory","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Textile"
+"Ladakh","","","Tanneries and Leather Manufactory","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Textile"
+"Ladakh","","","Tanneries and Leather Manufactory","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Textile"
+"Ladakh","","","Tanneries and Leather Manufactory","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Textile"
+"Ladakh","","","Public Motor Transport","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Public Motor Transport","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Public Motor Transport","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Public Motor Transport","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Public Motor Transport","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Mica Works","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Furniture carpentry Wood"
+"Ladakh","","","Mica Works","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Furniture carpentry Wood"
+"Ladakh","","","Mica Works","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Furniture carpentry Wood"
+"Ladakh","","","Mica Works","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Furniture carpentry Wood"
+"Ladakh","","","Mica Works","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Furniture carpentry Wood"
+"Ladakh","","","Lac Manufacturers Industry","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Lac Manufacturers Industry","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Lac Manufacturers Industry","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Lac Manufacturers Industry","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Lac Manufacturers Industry","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Stone Breaking and Crushing","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Construction"
+"Ladakh","","","Stone Breaking and Crushing","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Construction"
+"Ladakh","","","Stone Breaking and Crushing","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Construction"
+"Ladakh","","","Stone Breaking and Crushing","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Construction"
+"Ladakh","","","Stone Breaking and Crushing","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Construction"
+"Ladakh","","","Construction/Maintenance of Roads or in Building Operations*","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Construction/Maintenance of Roads or in Building Operations*","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Local Authority Industry (Other than Village Panchayat)","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Rural Government Employees"
+"Ladakh","","","Local Authority Industry (Other than Village Panchayat)","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Rural Government Employees"
+"Ladakh","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Rural Government Employees"
+"Ladakh","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Rural Government Employees"
+"Ladakh","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Rural Government Employees"
+"Ladakh","","","Oil Mills","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Oil Mills","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Oil Mills","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Oil Mills","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Oil Mills","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Plantation activities","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Gardening"
+"Ladakh","","","Plantation activities","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Gardening"
+"Ladakh","","","Plantation activities","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Gardening"
+"Ladakh","","","Plantation activities","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Gardening"
+"Ladakh","","","Plantation activities","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Gardening"
+"Ladakh","","","Tobacco Manufacturing","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Tobacco Manufacturing","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Tobacco Manufacturing","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Tobacco Manufacturing","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Tobacco Manufacturing","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Tobacco Bidi making","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Tobacco Bidi making","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Tobacco Bidi making","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Tobacco Bidi making","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Tobacco Bidi making","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Rice Mills, Flour Mills or Dal Mills","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Rice Mills, Flour Mills or Dal Mills","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00",0
+"Ladakh","","","Rice Mills, Flour Mills or Dal Mills","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00",0
+"Ladakh","","","Rice Mills, Flour Mills or Dal Mills","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00",0
+"Ladakh","","","Rice Mills, Flour Mills or Dal Mills","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00",0
+"Ladakh","","","Woolen Carpet Making & Shawl Weaving Establishments","Account staff","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Textile"
+"Ladakh","","","Woolen Carpet Making & Shawl Weaving Establishments","Administration","","4/10/122",26,"","","","","",535,"","","","","","13910.00","Textile"
+"Ladakh","","","Woolen Carpet Making & Shawl Weaving Establishments","Highly Skilled","","4/10/122",26,"","","","","",835,"","","","","","21710.00","Textile"
+"Ladakh","","","Woolen Carpet Making & Shawl Weaving Establishments","Skilled","","4/10/122",26,"","","","","",575,"","","","","","14950.00","Textile"
+"Ladakh","","","Woolen Carpet Making & Shawl Weaving Establishments","Unskilled","","4/10/122",26,"","","","","",450,"","","","","","11700.00","Textile"
 "Ladakh","","","","Administration","","1/10/117",26,"","","","","",325,"","","","","","8450.00",0
 "Ladakh","","","","Highly Skilled","","1/10/117",26,"","","","","",400,"","","","","","10400.00",0
 "Ladakh","","","","Skilled","","1/10/117",26,"","","","","",350,"","","","","","9100.00",0

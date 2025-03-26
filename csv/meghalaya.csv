@@ -1,4 +1,340 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Meghalaya","","","Security Services","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Watchman Guard"
+"Meghalaya","","","Security Services","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Watchman Guard"
+"Meghalaya","","","Security Services","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Watchman Guard"
+"Meghalaya","","","Security Services","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Watchman Guard"
+"Meghalaya","","","Hotels and Restaurants","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Tailoring Industry","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Stitch Textile"
+"Meghalaya","","","Steel Furnitures","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Alloy Metal"
+"Meghalaya","","","Printing Press","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Printing Press","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Printing Press","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Printing Press","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Bakeries","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Food Industry Biscuit"
+"Meghalaya","","","Wooden Furniture","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Carpentry"
+"Meghalaya","","","Automobile Workshops","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Vehicle car bike autopart"
+"Meghalaya","","","Plywood Industry","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Carpentry Furniture Wood"
+"Meghalaya","","","Saw Mills","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Wood Furniture carpentry"
+"Meghalaya","","","Public Motor Transport","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Public Motor Transport","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Public Motor Transport","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Public Motor Transport","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Forest and Forestry","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Jungle"
+"Meghalaya","","","Sericulture and Weaving","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Silk Farming Silkworm"
+"Meghalaya","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Construction"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Rural Government Employees"
+"Meghalaya","","","Veterinary &Animal Husbandry","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Soil Conservation","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Fruit Preservation","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Food"
+"Meghalaya","","","Fruit Preservation","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Food"
+"Meghalaya","","","Fruit Preservation","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Food"
+"Meghalaya","","","Fruit Preservation","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Food"
+"Meghalaya","","","Mines and Minerals","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Mines and Minerals","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Mines and Minerals","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Mines and Minerals","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Wax and Candle Industry","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Wax and Candle Industry","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Wax and Candle Industry","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Wax and Candle Industry","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Bricks or Roof Tiles","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Constructions"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Alloy Metal Construction"
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Domestic Workers","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Informal Sector"
+"Meghalaya","","","Agriculture","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00","Farming Horticulture Dairy"
+"Meghalaya","","","Sales distribution and handling of petroleum products","Highly Skilled","","1/3/124",26,420,"",163,"","",583,"10920.00","","4238.00","","","15158.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Skilled","","1/3/124",26,380,"",147,"","",527,"9880.00","","3822.00","","","13702.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Semi Skilled","","1/3/124",26,340,"",132,"","",472,"8840.00","","3432.00","","","12272.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Unskilled","","1/3/124",26,300,"",117,"","",417,"7800.00","","3042.00","","","10842.00",0
+"Meghalaya","","","Security Services","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Watchman Guard"
+"Meghalaya","","","Security Services","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Watchman Guard"
+"Meghalaya","","","Security Services","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Watchman Guard"
+"Meghalaya","","","Security Services","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Watchman Guard"
+"Meghalaya","","","Hotels and Restaurants","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Tailoring Industry","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Stitch Textile"
+"Meghalaya","","","Steel Furnitures","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Alloy Metal"
+"Meghalaya","","","Printing Press","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Printing Press","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Printing Press","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Printing Press","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Bakeries","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Food Industry Biscuit"
+"Meghalaya","","","Wooden Furniture","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Carpentry"
+"Meghalaya","","","Automobile Workshops","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Vehicle car bike autopart"
+"Meghalaya","","","Plywood Industry","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Carpentry Furniture Wood"
+"Meghalaya","","","Saw Mills","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Wood Furniture carpentry"
+"Meghalaya","","","Public Motor Transport","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Public Motor Transport","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Public Motor Transport","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Public Motor Transport","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Forest and Forestry","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Jungle"
+"Meghalaya","","","Sericulture and Weaving","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Silk Farming Silkworm"
+"Meghalaya","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Construction"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Rural Government Employees"
+"Meghalaya","","","Veterinary &Animal Husbandry","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Soil Conservation","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Fruit Preservation","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Food"
+"Meghalaya","","","Fruit Preservation","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Food"
+"Meghalaya","","","Fruit Preservation","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Food"
+"Meghalaya","","","Fruit Preservation","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Food"
+"Meghalaya","","","Mines and Minerals","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Mines and Minerals","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Mines and Minerals","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Mines and Minerals","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Wax and Candle Industry","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Wax and Candle Industry","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Wax and Candle Industry","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Wax and Candle Industry","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Bricks or Roof Tiles","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Constructions"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Alloy Metal Construction"
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Domestic Workers","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Informal Sector"
+"Meghalaya","","","Agriculture","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00","Farming Horticulture Dairy"
+"Meghalaya","","","Sales distribution and handling of petroleum products","Highly Skilled","","1/3/123",26,420,"",133,"","",553,"10920.00","","3458.00","","","14378.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Skilled","","1/3/123",26,380,"",120,"","",500,"9880.00","","3120.00","","","13000.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Semi Skilled","","1/3/123",26,340,"",107,"","",447,"8840.00","","2782.00","","","11622.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Unskilled","","1/3/123",26,300,"",95,"","",395,"7800.00","","2470.00","","","10270.00",0
+"Meghalaya","","","Security Services","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Watchman Guard"
+"Meghalaya","","","Security Services","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Watchman Guard"
+"Meghalaya","","","Security Services","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Watchman Guard"
+"Meghalaya","","","Security Services","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Watchman Guard"
+"Meghalaya","","","Hotels and Restaurants","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Hotels and Restaurants","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Eating House Cantin Accommodation"
+"Meghalaya","","","Tailoring Industry","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Stitch Textile"
+"Meghalaya","","","Tailoring Industry","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Stitch Textile"
+"Meghalaya","","","Steel Furnitures","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Alloy Metal"
+"Meghalaya","","","Steel Furnitures","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Alloy Metal"
+"Meghalaya","","","Printing Press","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Printing Press","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Printing Press","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Printing Press","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Shops & Commercial Establishments","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Bakeries","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Food Industry Biscuit"
+"Meghalaya","","","Bakeries","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Food Industry Biscuit"
+"Meghalaya","","","Wooden Furniture","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Carpentry"
+"Meghalaya","","","Wooden Furniture","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Carpentry"
+"Meghalaya","","","Automobile Workshops","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Vehicle car bike autopart"
+"Meghalaya","","","Automobile Workshops","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Vehicle car bike autopart"
+"Meghalaya","","","Plywood Industry","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Carpentry Furniture Wood"
+"Meghalaya","","","Plywood Industry","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Carpentry Furniture Wood"
+"Meghalaya","","","Saw Mills","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Wood Furniture carpentry"
+"Meghalaya","","","Saw Mills","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Wood Furniture carpentry"
+"Meghalaya","","","Public Motor Transport","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Public Motor Transport","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Public Motor Transport","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Public Motor Transport","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Forest and Forestry","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Jungle"
+"Meghalaya","","","Forest and Forestry","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Jungle"
+"Meghalaya","","","Sericulture and Weaving","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Silk Farming Silkworm"
+"Meghalaya","","","Sericulture and Weaving","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Silk Farming Silkworm"
+"Meghalaya","","","Employment in Electricity Generator and Supply","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Construction"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Rural Government Employees"
+"Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Rural Government Employees"
+"Meghalaya","","","Veterinary &Animal Husbandry","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Veterinary &Animal Husbandry","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Soil Conservation","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Soil Conservation","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Agriculture-Farming Techniques"
+"Meghalaya","","","Fruit Preservation","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Food"
+"Meghalaya","","","Fruit Preservation","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Food"
+"Meghalaya","","","Fruit Preservation","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Food"
+"Meghalaya","","","Fruit Preservation","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Food"
+"Meghalaya","","","Mines and Minerals","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Mines and Minerals","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Mines and Minerals","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Mines and Minerals","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Wax and Candle Industry","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Wax and Candle Industry","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Wax and Candle Industry","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Wax and Candle Industry","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Bricks or Roof Tiles","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Constructions"
+"Meghalaya","","","Bricks or Roof Tiles","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Constructions"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Alloy Metal Construction"
+"Meghalaya","","","Steel Fabrication and Concrete Product Making","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Alloy Metal Construction"
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Construction/Maintenance of Roads or in Building Operations*","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
+"Meghalaya","","","Domestic Workers","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Informal Sector"
+"Meghalaya","","","Domestic Workers","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Informal Sector"
+"Meghalaya","","","Agriculture","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00","Farming Horticulture Dairy"
+"Meghalaya","","","Agriculture","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00","Farming Horticulture Dairy"
+"Meghalaya","","","Sales distribution and handling of petroleum products","Highly Skilled","","1/9/122",26,420,"",114,"","",534,"10920.00","","2964.00","","","13884.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Skilled","","1/9/122",26,380,"",103,"","",483,"9880.00","","2678.00","","","12558.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Semi Skilled","","1/9/122",26,340,"",92,"","",432,"8840.00","","2392.00","","","11232.00",0
+"Meghalaya","","","Sales distribution and handling of petroleum products","Unskilled","","1/9/122",26,300,"",81,"","",381,"7800.00","","2106.00","","","9906.00",0
 "Meghalaya","","","Security Services","Highly Skilled","","1/3/122",26,420,"",102,"","",522,"10920.00","","2652.00","","","13572.00","Watchman Guard"
 "Meghalaya","","","Security Services","Skilled","","1/3/122",26,380,"",93,"","",473,"9880.00","","2418.00","","","12298.00","Watchman Guard"
 "Meghalaya","","","Security Services","Semi Skilled","","1/3/122",26,340,"",83,"","",423,"8840.00","","2158.00","","","10998.00","Watchman Guard"
@@ -59,10 +395,10 @@
 "Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/3/122",26,380,"",93,"","",473,"9880.00","","2418.00","","","12298.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/3/122",26,340,"",83,"","",423,"8840.00","","2158.00","","","10998.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/3/122",26,300,"",73,"","",373,"7800.00","","1898.00","","","9698.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/3/122",26,420,"",102,"","",522,"10920.00","","2652.00","","","13572.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/3/122",26,380,"",93,"","",473,"9880.00","","2418.00","","","12298.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",26,340,"",83,"","",423,"8840.00","","2158.00","","","10998.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/3/122",26,300,"",73,"","",373,"7800.00","","1898.00","","","9698.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/3/122",26,420,"",102,"","",522,"10920.00","","2652.00","","","13572.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/3/122",26,380,"",93,"","",473,"9880.00","","2418.00","","","12298.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/3/122",26,340,"",83,"","",423,"8840.00","","2158.00","","","10998.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/3/122",26,300,"",73,"","",373,"7800.00","","1898.00","","","9698.00","Construction"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/3/122",26,420,"",102,"","",522,"10920.00","","2652.00","","","13572.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/122",26,380,"",93,"","",473,"9880.00","","2418.00","","","12298.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/122",26,340,"",83,"","",423,"8840.00","","2158.00","","","10998.00","Rural Government Employees"
@@ -171,10 +507,10 @@
 "Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/9/121",26,380,"",77,"","",457,"9880.00","","2002.00","","","11882.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/9/121",26,340,"",69,"","",409,"8840.00","","1794.00","","","10634.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/9/121",26,300,"",61,"","",361,"7800.00","","1586.00","","","9386.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/9/121",26,420,"",85,"","",505,"10920.00","","2210.00","","","13130.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/9/121",26,380,"",77,"","",457,"9880.00","","2002.00","","","11882.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/9/121",26,340,"",69,"","",409,"8840.00","","1794.00","","","10634.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/9/121",26,300,"",61,"","",361,"7800.00","","1586.00","","","9386.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/9/121",26,420,"",85,"","",505,"10920.00","","2210.00","","","13130.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/9/121",26,380,"",77,"","",457,"9880.00","","2002.00","","","11882.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/9/121",26,340,"",69,"","",409,"8840.00","","1794.00","","","10634.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/9/121",26,300,"",61,"","",361,"7800.00","","1586.00","","","9386.00","Construction"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/9/121",26,420,"",85,"","",505,"10920.00","","2210.00","","","13130.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/9/121",26,380,"",77,"","",457,"9880.00","","2002.00","","","11882.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/9/121",26,340,"",69,"","",409,"8840.00","","1794.00","","","10634.00","Rural Government Employees"
@@ -283,10 +619,10 @@
 "Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/3/121",26,380,"",72,"","",452,"9880.00","","1872.00","","","11752.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/3/121",26,340,"",64,"","",404,"8840.00","","1664.00","","","10504.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/3/121",26,300,"",57,"","",357,"7800.00","","1482.00","","","9282.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/3/121",26,420,"",79,"","",499,"10920.00","","2054.00","","","12974.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/3/121",26,380,"",72,"","",452,"9880.00","","1872.00","","","11752.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/3/121",26,340,"",64,"","",404,"8840.00","","1664.00","","","10504.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/3/121",26,300,"",57,"","",357,"7800.00","","1482.00","","","9282.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/3/121",26,420,"",79,"","",499,"10920.00","","2054.00","","","12974.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/3/121",26,380,"",72,"","",452,"9880.00","","1872.00","","","11752.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/3/121",26,340,"",64,"","",404,"8840.00","","1664.00","","","10504.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/3/121",26,300,"",57,"","",357,"7800.00","","1482.00","","","9282.00","Construction"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/3/121",26,420,"",79,"","",499,"10920.00","","2054.00","","","12974.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/3/121",26,380,"",72,"","",452,"9880.00","","1872.00","","","11752.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/3/121",26,340,"",64,"","",404,"8840.00","","1664.00","","","10504.00","Rural Government Employees"
@@ -395,10 +731,10 @@
 "Meghalaya","","","Employment in Electricity Generator and Supply","Skilled","","1/9/120",26,380,"",55,"","",435,"9880.00","","1430.00","","","11310.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Semi Skilled","","1/9/120",26,340,"",49,"","",389,"8840.00","","1274.00","","","10114.00",0
 "Meghalaya","","","Employment in Electricity Generator and Supply","Unskilled","","1/9/120",26,300,"",43,"","",343,"7800.00","","1118.00","","","8918.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/9/120",26,420,"",60,"","",480,"10920.00","","1560.00","","","12480.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/9/120",26,380,"",55,"","",435,"9880.00","","1430.00","","","11310.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/9/120",26,340,"",49,"","",389,"8840.00","","1274.00","","","10114.00",0
-"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/9/120",26,300,"",43,"","",343,"7800.00","","1118.00","","","8918.00",0
+"Meghalaya","","","Stone Breaking and Crushing","Highly Skilled","","1/9/120",26,420,"",60,"","",480,"10920.00","","1560.00","","","12480.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Skilled","","1/9/120",26,380,"",55,"","",435,"9880.00","","1430.00","","","11310.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Semi Skilled","","1/9/120",26,340,"",49,"","",389,"8840.00","","1274.00","","","10114.00","Construction"
+"Meghalaya","","","Stone Breaking and Crushing","Unskilled","","1/9/120",26,300,"",43,"","",343,"7800.00","","1118.00","","","8918.00","Construction"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Highly Skilled","","1/9/120",26,420,"",60,"","",480,"10920.00","","1560.00","","","12480.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Skilled","","1/9/120",26,380,"",55,"","",435,"9880.00","","1430.00","","","11310.00","Rural Government Employees"
 "Meghalaya","","","Local Authority Industry (Other than Village Panchayat)","Semi Skilled","","1/9/120",26,340,"",49,"","",389,"8840.00","","1274.00","","","10114.00","Rural Government Employees"

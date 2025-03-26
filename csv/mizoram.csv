@@ -1,4 +1,20 @@
 "State","Zone","District","Class of Employment","Category/Grade","Designation/Skill_Set","Effective_from","conversion","Basic/day","HRA/day","VDA/day","Tea-food-&-lodging_allowance/day","Special_Allowance/Day","Daily_Rate","Basic/month","HRA/month","VDA/month","Tea-food-&-lodging_allowance/month","Special_Allowance/month","Monthly_Rate","COE Keywords"
+"Mizoram","","","Public Motor Transport","Skilled A","","1/3/123",26,"","","","","",510,"","","","","","13260.00",0
+"Mizoram","","","Public Motor Transport","Skilled B","","1/3/123",26,"","","","","",460,"","","","","","11960.00",0
+"Mizoram","","","Public Motor Transport","Semi Skilled","","1/3/123",26,"","","","","",420,"","","","","","10920.00",0
+"Mizoram","","","Public Motor Transport","Unskilled","","1/3/123",26,"","","","","",380,"","","","","","9880.00",0
+"Mizoram","","","Employment In Registered Factories Not Elsewhere Classified","Skilled A","","1/3/123",26,"","","","","",730,"","","","","","18980.00",0
+"Mizoram","","","Employment In Registered Factories Not Elsewhere Classified","Skilled B","","1/3/123",26,"","","","","",570,"","","","","","14820.00",0
+"Mizoram","","","Employment In Registered Factories Not Elsewhere Classified","Semi Skilled","","1/3/123",26,"","","","","",460,"","","","","","11960.00",0
+"Mizoram","","","Employment In Registered Factories Not Elsewhere Classified","Unskilled","","1/3/123",26,"","","","","",420,"","","","","","10920.00",0
+"Mizoram","","","Construction of Roads and Buildings","Skilled A","","1/3/123",26,"","","","","",730,"","","","","","18980.00",0
+"Mizoram","","","Construction of Roads and Buildings","Skilled B","","1/3/123",26,"","","","","",570,"","","","","","14820.00",0
+"Mizoram","","","Construction of Roads and Buildings","Semi Skilled","","1/3/123",26,"","","","","",460,"","","","","","11960.00",0
+"Mizoram","","","Construction of Roads and Buildings","Unskilled","","1/3/123",26,"","","","","",420,"","","","","","10920.00",0
+"Mizoram","","","Casual/ Muster Rolls Employees","Skilled A","","1/3/123",26,"","","","","",730,"","","","","","18980.00",0
+"Mizoram","","","Casual/ Muster Rolls Employees","Skilled B","","1/3/123",26,"","","","","",570,"","","","","","14820.00",0
+"Mizoram","","","Casual/ Muster Rolls Employees","Semi Skilled","","1/3/123",26,"","","","","",460,"","","","","","11960.00",0
+"Mizoram","","","Casual/ Muster Rolls Employees","Unskilled","","1/3/123",26,"","","","","",420,"","","","","","10920.00",0
 "Mizoram","","","Casual/ Muster Rolls Employees","Skilled A","Senior Skilled Employees","1/9/118",26,"","","","","",640,"","","","","","16640.00",0
 "Mizoram","","","Casual/ Muster Rolls Employees","Skilled B","Security Guard With Weapon","1/9/118",26,"","","","","",520,"","","","","","13520.00",0
 "Mizoram","","","Casual/ Muster Rolls Employees","Skilled B","Clerk Cum Computer Operator","1/9/118",26,"","","","","",520,"","","","","","13520.00",0
